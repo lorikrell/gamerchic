@@ -2,13 +2,13 @@
 module.exports = {
   title: 'Gaming Resources',
   tagline: 'Art, maps, templates, content, and much more!',
-  url: 'https://gamerchic.github.io',
+  url: 'https://sonceri.art',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'gamerchic', // Usually your GitHub org/user name.
-  projectName: 'gamerchic.github.io', // Usually your repo name.
+  projectName: 'gamerchic', // Usually your repo name.
   trailingSlash: false,
   themeConfig: {
     hideableSidebar: true,
@@ -17,7 +17,7 @@ module.exports = {
       disableSwitch: false,
     },
     navbar: {
-      title: 'Gamerchic',
+      title: 'Sonceri | Gamerchic',
       logo: {
         alt: 'My Site Logo',
         src: 'img/favicon.png',
@@ -28,7 +28,7 @@ module.exports = {
           //type: 'doc',
           //docId: 'intro',
           position: 'left',
-          label: 'Games',
+          label: 'Games and Resources',
           items: [
             {
               to: 'docs/intro',
@@ -74,16 +74,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Lorilio/Sonceri',
+          title: 'Sonceri',
           items: [
             {
               label: 'Twitter',
@@ -100,21 +91,39 @@ module.exports = {
           ],
         },
         {
-          title: 'Warcraft Conquest',
+          title: 'Projects',
           items: [
             {
-              label: 'Discord',
+              label: 'Warcraft Conquest Discord',
               href: 'https://tinyurl.com/warcraftconquestdiscord',
             },
             {
               label: 'Conquest Campaigns',
-              href: 'https://tinyurl.com/warcraftconquest-site',
+              href: 'https://soncert.art/warcraft-conquest/warcraft-conquest.html',
+            },
+            {
+              label: 'Coalition of the Horde',
+              href: 'https://discord.gg/hkXmPPb6BB',
+            },
+          ],
+        },
+        {
+          title: 'Inspiration',
+          items: [
+            {
+              label: 'Sonc Pinterest',
+              to: 'https://www.pinterest.com/leareth/_saved/',
+            },
+            {
+              label: 'Sonc Hombrewery',
+              to: 'https://homebrewery.naturalcrit.com/user/sonceri',
             },
           ],
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Gamerchic | Built with Docusaurus`,
     },
+    
   },
   presets: [
     [

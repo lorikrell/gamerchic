@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/landing/logo-gamerchic.png',
     description: (
       <>
-        Sonceri brings you templates, graphics, guides, and more to help you get creative with your events.
+        Sonceri brings you templates, graphics, event guides, and more to help you get creative with your events.
       </>
     ),
     link: (
@@ -45,7 +45,7 @@ const features = [
     ),
     link: (
       <>
-      <a href="http://google.com" class="land-link">Delve into the night...</a>
+      <a href="http://google.com" class="land-link">Become heroes of the ages!</a>
       </>
     ),
   },
@@ -54,7 +54,7 @@ const features = [
     imageUrl: 'img/landing/logo-wod.png',
     description: (
       <>
-        Resources and content for all WoD games as we wander them, including Exalted, Kindred of the East, Vampire: The Masquerade, and more. 
+        Resources and content for all WoD games as we wander them, including Kindred of the East, Vampire: The Masquerade, and more. 
       </>
     ),
     link: (
@@ -68,7 +68,7 @@ const features = [
     imageUrl: 'img/landing/logo-dnd.png',
     description: (
       <>
-        Find custom world and battle maps, tokens, NPCs, coins, wax seals, and settings. Many ideas for game masters and players.
+        Find custom world and resources including battle maps, tokens, NPCs, and campaign settings. Many ideas for game masters and players.
       </>
     ),
     link: (

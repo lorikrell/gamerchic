@@ -124,7 +124,7 @@ function DocPageContent({currentDocRoute, versionMetadata, children}) {
             )}
           </aside>
         )}
-        <main
+        <main id="wrap"
           className={clsx(styles.docMainContainer, {
             [styles.docMainContainerEnhanced]:
               hiddenSidebarContainer || !sidebar,

@@ -31,6 +31,10 @@
   --doc-sidebar-width: 290px !important;
 }
 
+.footer__link-item {
+  --ifm-footer-link-color: #5284a1 !important;
+}
+
 html[data-theme="dark"] {
   --collapse-button-bg-color-dark: transparent !important;
 }
@@ -42,6 +46,13 @@ h1 {
 .menu__link {
   font-size: 87%;
 }
+
+html[data-theme="light"] {
+  a.menu__link {
+    --ifm-menu-color: black;
+  }
+}
+
 
 #hilit {
   strong {
@@ -324,6 +335,13 @@ blockquote {
     border-top: 1px solid rgb(156, 156, 156);
     border-left: 0px;
   }
+  /*.docs-wrapper {
+    background-image: 
+      url("../../static/img/tops/top-wow-tablet.png") !important;
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: top right;
+  }*/
 
 }
 
@@ -688,6 +706,22 @@ html[data-theme='dark'] .admonition-sonceri {
 
 // Responsive
 @media screen and (max-width: 996px) { 
+
+  /*.docs-wrapper {
+    background-image: 
+      url("../../static/img/tops/top-wow-tablet.png") !important;
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: top right;
+  }*/
+  .navbar__toggle {
+    display: inherit
+  }
+
+  .navbar__item {
+      display: none;
+  }
+
   .navbar-github-link, .navbar-github-link:before {
     content: "GitHub";
   }
@@ -747,7 +781,15 @@ html[data-theme='dark'] .admonition-sonceri {
 
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 500px) {
+
+  /*.docs-wrapper {
+    background-image: 
+      url("../../static/img/tops/top-wow-phone.png") !important;
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: top right;
+  } */
   .footer {
     background-image: url("../../static/img/landing/footer-mobile.png");
   }
@@ -1279,16 +1321,6 @@ html[data-theme='dark'] .DocSearch {
 }
 
 // TOP NAV RESPONSIVE
-
-@media (max-width: 1011px) {
-  .navbar__toggle {
-    display: inherit
-  }
-
-.navbar__item {
-    display: none;
-  }
-}
 
 .menu__link {
   padding: 5px !important;

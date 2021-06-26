@@ -11,6 +11,13 @@
 
 :global(.docs-wrapper) {
   display: flex;
+  background-image: 
+    linear-gradient(rgba(0,0,0,0.3),
+    rgba(0,0,0,0.65)),
+    url("../../static/img/tops/top-wow.png") !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top right;
 }
 
 .docPage,
