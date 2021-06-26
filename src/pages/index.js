@@ -164,7 +164,7 @@ function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="This site provides Unity Multiplayer documentation, references, and sample code tutorials.">
+      description="This site provides gaming resources for Warcraft Conquest, RPG tabletop adventures, and so much more! Graphics, guides, advice.">
       <header className="hero hero--primary hero-banner">
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
