@@ -2,13 +2,13 @@
 module.exports = {
   title: 'Gaming Resources',
   tagline: 'Art, maps, templates, content, and much more!',
-  url: 'https://gamerchic.org',
-  baseUrl: '/',
+  url: 'https://lorikrell.github.io',
+  baseUrl: '/gamerchic',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'lorikrell', // Usually your GitHub org/user name.
-  projectName: 'Gamerchic', // Usually your repo name.
+  projectName: 'gamerchic', // Usually your repo name.
   themeConfig: {
     hideableSidebar: true,
     colorMode: {
