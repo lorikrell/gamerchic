@@ -1175,6 +1175,9 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
         color: white;
         }
   }
+  html[data-theme="dark"] tr:nth-child(2n) {
+    background-color: transparent !important;
+  }
 }
 
 .info-plain {
@@ -1190,7 +1193,10 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
       border-color: transparent !important;
     }
     tr:nth-child(even) {
-        background-color: transparent !important;
+      background-color: transparent !important;
+    }
+    html[data-theme="dark"] tr:nth-child(2n) {
+      background-color: transparent !important;
     }
   }
 }

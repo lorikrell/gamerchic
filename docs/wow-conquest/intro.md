@@ -13,10 +13,7 @@ Interested? Find us on [Discord](https://tinyurl.com/warcraftconquestdiscord)! A
 
 | WoW Creations | Extra Creations | WC Campaign Sites |
 |--|--|--|
-| [Create Vehicle Tokens](vehicle-tokens.md) | [Investigation Events](../investigation.md) | [All Campaigns](https://gamerchic.org/warcraft-conquest/warcraft-conquest.html) |
-| [Event Cards](event-cards.md) | [Fonts & Brushes](../photoshop/psd-resources.md) | [Conquest D20 System Simplified 1.1](https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/edit?usp=sharing) |
-| [Creator Resources ](https://drive.google.com/drive/u/0/folders/1zerrT40geTDstjGdsfDnFHh-_whOEugf) | [Custom Coins](../photoshop/coins.md) | [Conquest War Machine System 2.1](https://docs.google.com/document/d/1WNRYwGUhvwE6BuqN_VFThXmmhnMQ6zCTbEwGaZWek3Q/edit) |
-|  | [Wax Seals](../photoshop/wax-seals.md) |  |
+| [Create Vehicle Tokens](vehicle-tokens.md)<br/>[Event Cards](event-cards.md)<br/>[Creator Resources ](https://drive.google.com/drive/u/0/folders/1zerrT40geTDstjGdsfDnFHh-_whOEugf) | [Investigation Events](../investigation.md)<br/>[Fonts & Brushes](../photoshop/psd-resources.md)<br/>[Custom Coins](../photoshop/coins.md)<br/>[Wax Seals](../photoshop/wax-seals.md) | [All Campaigns](https://gamerchic.org/warcraft-conquest/warcraft-conquest.html)<br/>[Conquest D20 System Simplified 1.1](https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/edit?usp=sharing)<br/>[Conquest War Machine System 2.1](https://docs.google.com/document/d/1WNRYwGUhvwE6BuqN_VFThXmmhnMQ6zCTbEwGaZWek3Q/edit) |
 
 :::sonceri More to come!
 These sections are growing, with tons more to come including moved and updated event pages, more events, etc.
