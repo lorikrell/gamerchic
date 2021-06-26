@@ -3,7 +3,7 @@ title: Exalted Resources
 id: resources
 ---
 
-Exalted brings high fantasy and forgotten mythic ages with epic battles and plots for unique tales. The world of Creation nears the close or a change in eons in the Second Age of this world. In the First Age, grand powers and the blessed of the gods warred across the lands to push back invaders ana destructive forces, driven by an initial need of Yu'shan (heaven) and left to their own devices. 
+Exalted brings high fantasy and forgotten mythic ages with epic battles and plots for unique tales. The world of Creation nears the close or a change in eons in the Second Age of this world. In the First Age, grand powers and the blessed of the gods warred across the lands to push back invaders and destructive forces, driven by an initial need of Yu'shan (heaven) and left to their own devices. 
 
 Yu'shan raised the blessed as **Solars** (chosen children of the Unconquered Sun), **Lunars** (survivor children of Luna the moon), and **Dragon-Blooded** (risen children in elemental dragon bloodlines). Many other blessed and cursed exist (Abyssals, Infernals, Alchemical, etc), for the purposes of these resources and games, focusing on these exalts.
 
