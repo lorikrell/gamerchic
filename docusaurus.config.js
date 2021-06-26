@@ -56,9 +56,9 @@ module.exports = {
           ]
         },
         {to: '/blog', label: 'Blog', position: 'left'},
-        {
+        /*{
           href: 'https://github.com/facebook/docusaurus',
-          className: 'navbar-d20-link',
+          className: 'navbar-grid-menu',
           position: 'right',
           items: [
             {
@@ -66,7 +66,7 @@ module.exports = {
               label: 'Pinterest',
             }
           ]
-        },
+        },*/
       ],
     },
     footer: {

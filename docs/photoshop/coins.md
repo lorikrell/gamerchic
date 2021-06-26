@@ -8,7 +8,7 @@ Create custom coins for your world, characters, guilds, and more with this Photo
 You can create these for D&D, World of Darkness, World of Warcraft, thief guilds, noble families, and many other games and settings. You can add as many icons and decorations as you want.
 
 :::sonceri Fonts and Brushes
-You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](/files/wow-fonts.zip).
+You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
 :::
 
 ## Download and Build

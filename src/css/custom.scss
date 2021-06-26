@@ -650,22 +650,6 @@ html[data-theme='dark'] .admonition-sonceri {
   opacity: 0.5;
 }
 
-.navbar-d20-link:after {
-  transition: opacity 0.2s;
-  content: "";
-  width: 24px;
-  height: 24px;
-  display: flex;
-  //padding-left: 15px;
-  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg id='Layer_1' enable-background='new 0 0 507.52 507.52' viewBox='0 0 507.52 507.52' xmlns='http://www.w3.org/2000/svg'%3E %3Cg%3E %3Cg%3E %3Cg%3E %3Cpath d='m386.603 185.92 101.824 161.216v-208.192z'/%3E %3Cpath d='m218.283 18.645-187.456 107.136 101.056 42.112z'/%3E %3Cpath d='m135.787 202.325-108.523 171.819 208 9.045z'/%3E %3Cpath d='m352.597 170.667-98.816-170.667h-.042l-98.816 170.667z'/%3E %3Cpath d='m471.915 123.051-182.678-104.406 86.208 148.928z'/%3E %3Cpath d='m19.093 144v203.136l101.568-160.811z'/%3E %3Cpath d='m243.093 507.52v-102.677l-194.432-8.427z'/%3E %3Cpath d='m272.235 383.232 208.021-9.088-108.523-171.819z'/%3E %3Cpath d='m264.427 507.52 194.41-111.104-194.41 8.469z'/%3E %3Cpath d='m154.475 192 99.285 180.523 99.285-180.523z'/%3E %3C/g%3E %3C/g%3E %3C/g%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3Cg/%3E %3C/svg%3E");
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-.navbar-d20-link:hover:after {
-  opacity: 0.5;
-}
-
 .navbar-discord-link:after {
   transition: opacity 0.2s;
   content: "";
