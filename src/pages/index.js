@@ -31,7 +31,7 @@ const features = [
     ),
     link: (
       <>
-      <a href="http://google.com" class="land-link">Learn more about Conquest!</a>
+      <a href="docs/wow-conquest/intro" class="land-link">Learn more about Conquest!</a>
       </>
     ),
   },
@@ -45,7 +45,7 @@ const features = [
     ),
     link: (
       <>
-      <a href="http://google.com" class="land-link">Become heroes of the ages!</a>
+      <a href="docs/exalted/resources" class="land-link">Become heroes of the ages!</a>
       </>
     ),
   },
