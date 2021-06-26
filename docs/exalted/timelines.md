@@ -23,7 +23,8 @@ Do not attempt to use natural laws for weather and seasons in Exalted. All seaso
 The calendar years begins in the closest thing Creation has to autumn in the months of Air, then plummets into deepest winter. The weather climbs out of winter into a long growing season consisting of Earth, Wood and the early part of Fire, then it becomes the hottest summer heat followed by plummeting drastically into the month of Air again.
 
 This means that Creation has two wet times, both of them bracketing winter – once when the temperature plummets from midsummer heat through the early months of autumn towards the midwinter freeze, and once more when climbing out of that freeze.
-Months and Birthdates
+
+### Months and Birthdates
 
 You will notice the names are literally the Ascending, Resplendent, and Descending seasons or elements.
 
