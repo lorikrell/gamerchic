@@ -8,30 +8,44 @@ import styles from './index.module.css';
 
 const features = [
   {
-    title: 'Warcraft Resources',
-    imageUrl: 'img/landing/logo-wc.png',
+    title: 'Sonceri Tips & Tricks ',
+    imageUrl: 'img/landing/logo-gamerchic.png',
     description: (
       <>
-        Find resources and guides for your World of Warcraft adventures, including specials for Warcraft Conquest.
+        Sonceri brings you templates, graphics, guides, and more to help you get creative with your events.
       </>
     ),
     link: (
       <>
-      <a href="http://google.com" class="land-link">Learn more about MLAPI</a>
+      <a href="docs/intro" class="land-link">Find cool adventure stuff!</a>
       </>
     ),
   },
   {
-    title: 'Dungeons for Your Dragons',
-    imageUrl: 'img/landing/logo-dnd.png',
+    title: 'Warcraft Conquest',
+    imageUrl: 'img/landing/logo-wc.png',
     description: (
       <>
-        Find custom world and battle maps, tokens, NPCs, coins, wax seals, and settings. Many ideas for game masters and players.
+        Find resources and guides for your Warcraft Conquest adventures and vehicle battles. See Sonceri's tips and tricks for more goodies.
       </>
     ),
     link: (
       <>
-      <a href="http://google.com" class="land-link">Learn more about MLAPI</a>
+      <a href="http://google.com" class="land-link">Learn more about Conquest!</a>
+      </>
+    ),
+  },
+  {
+    title: 'Lives Exalted',
+    imageUrl: 'img/landing/logo-exalt.png',
+    description: (
+      <>
+        Risen by gods, find campaign information and game resources for Exalted games. Includes fan creations and campaigns. 
+      </>
+    ),
+    link: (
+      <>
+      <a href="http://google.com" class="land-link">Delve into the night...</a>
       </>
     ),
   },
@@ -45,7 +59,35 @@ const features = [
     ),
     link: (
       <>
-      <a href="http://google.com" class="land-link">Learn more about MLAPI</a>
+     Coming soon...
+      </>
+    ),
+  },
+  {
+    title: 'Dungeons for Your Dragons',
+    imageUrl: 'img/landing/logo-dnd.png',
+    description: (
+      <>
+        Find custom world and battle maps, tokens, NPCs, coins, wax seals, and settings. Many ideas for game masters and players.
+      </>
+    ),
+    link: (
+      <>
+      Coming soon...
+      </>
+    ),
+  },
+  {
+    title: 'Running in Shadows',
+    imageUrl: 'img/landing/logo-shadowrun.png',
+    description: (
+      <>
+        Resources for your fast-paced games set in the Shadowrun universe. Great for DMs, Johnsons, and chummers.
+      </>
+    ),
+    link: (
+      <>
+      Coming soon...
       </>
     ),
   },
@@ -152,7 +194,7 @@ function Home() {
           </section>
         )}
       </main>
-      <div className="hero blog--primary hero-banner">
+      {/*<div className="hero blog--primary hero-banner">
       <div className="container">
       <div className="row">
         
@@ -174,7 +216,7 @@ function Home() {
       </div>
       </div>
 
-      <main>
+       <main>
         {highlights && highlights.length > 0 && (
           <section className="spacer">
             <div className="container">
@@ -186,7 +228,7 @@ function Home() {
             </div>
           </section>
         )}
-      </main>
+        </main>*/}
 
       
     </Layout>

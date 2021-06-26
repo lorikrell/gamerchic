@@ -1,5 +1,5 @@
 ---
-title: Vehicle Tokens
+title: Getting Started with Tokens
 id: token
 ---
 
@@ -14,10 +14,11 @@ You can install tools locally and use online websites to collect models for vehi
 * [WoWTools](https://wow.tools) select the Model tab, expand the hamburger icon to search, and enter terms. You can enter partial or full terms, turn on and off m2 and wmo files. The most recent files are on the last pages, indicating date released and expansion.
 * Search for NPCs and models in [WoWHead](https://www.wowhead.com/) and click View in 3D. Set animation, pause, and double click to see a full screen size. Screen capture and go!
 * [WoW Model Viewer](https://wowmodelviewer.net/new/) is an application you can install on your computer. It accesses WoW files with the game closed. This lets you build character looks and more. You can import characters. Be advised, .wmo files tend to crash the application rarely ever opening.
-* [Dressing Room](https://www.wowhead.com/dressing-room#slzk0zJ89csMVMc9m8Ewm87VfRS87kWq58zLJ8WYK8zLJ8Qpp8zlA8XG2808l4T8tz87mg) on WoWHead. Double click to see a full screen for a screenshot. You can import characters with a server and in-game name.
-* [Outfits](https://www.wowhead.com/outfits) 
+* [Dressing Room](https://www.wowhead.com/dressing-room) on WoWHead. Double click to see a full screen for a screenshot. You can import characters with a server and in-game name.
+* WoWHead [Outfits](https://www.wowhead.com/outfits) great for creating squads of character models. Search by look to find great transmog and view in Dressing Room to take screenshots.
 * [Conquest Google Drive](https://drive.google.com/drive/u/0/folders/1i6ZMOfk5-e1dkkgNTMaM-VBEN-BinOJf) of large and small vehicle files
 * [Conquest War Machine D20 System](https://docs.google.com/document/d/1WNRYwGUhvwE6BuqN_VFThXmmhnMQ6zCTbEwGaZWek3Q/edit?usp=sharing) by Warcraft Conquest
+* [InBoard App](https://inboardapp.com/) for creating mood boards with screen captures and concept art
 
 ## Inspiration for Tokens
 
@@ -57,8 +58,9 @@ When planning your token, start putting together lists or files:
 * WoWHead links to bosses, NPCs, armor sets, outfits from the Transmog gallery
 * Screen captures from game of ships or tanks, NPCs or locations
 * Saved file names to search and use or screen captures from WoW Model Viewer or WoWTools
-* Download files from the Conquest drive
-* Check out models from Warcraft 3 Remastered, some of these are fantastic
+* Downloaded files from the [Conquest drive](https://drive.google.com/drive/u/0/folders/1i6ZMOfk5-e1dkkgNTMaM-VBEN-BinOJf)
+* Models from Warcraft 3 Remastered, some of these are fantastic
+* Mood boards of ideas and captured screenshots you can create
 
 :::note
 If you have the ability to use 3D programs, you can download and use the models and textures. These guides focus on image software like Photoshop and Gimp.

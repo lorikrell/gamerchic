@@ -19,20 +19,59 @@ module.exports = {
     'intro',
     {
       type: 'category',
-      label: 'Dungeons and Dragons',
-      items: ['d-n-d/intro'],
+      label: 'DM & Storyeller Resources',
+      items: [
+        'investigations',
+        'photoshop/fonts-brushes',
+        'photoshop/coins',
+        'photoshop/wax-seals',
+      ]
     },
     {
       type: 'category',
-      label: 'Warcraft',
+      label: 'Warcraft Conquest',
       items: [
-        'wow-conquest/intro',
+        'wow-conquest/intro', 'wow-conquest/token', 'wow-conquest/simple-token', 'wow-conquest/create-ship'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Exalted',
+      items: [
+        'exalted/resources',
         {
           type: 'category',
-          label: 'Vehicle Tokens',
-          items: ['wow-conquest/token', 'wow-conquest/create-ship'],
+          label: 'Campaigns',
+          items: [
+            'exalted/sands-south',
+            'exalted/ascending-souls',
+          ]
         },
+        {
+          type: 'category',
+          label: 'South',
+          items: [
+            'exalted/chiaroscuro',
+            'exalted/trade-routes',
+            'exalted/society',
+            'exalted/markets',
+            'exalted/groups',
+            'exalted/delzahn',
+          ]
+        },
+        'exalted/timelines'
       ],
+    },
+    /*
+    {
+      type: 'category',
+      label: 'DMs and Storytellers',
+      items: ['d-n-d/intro', 'photoshop/coins',],
+    },
+    {
+      type: 'category',
+      label: 'Dungeons and Dragons',
+      items: ['d-n-d/intro', 'photoshop/coins',],
     },
     {
       type: 'category',
@@ -43,9 +82,6 @@ module.exports = {
       type: 'category',
       label: 'Shadowrun',
       items: ['shadowrun/intro'],
-    },
+    },*/
   ],
-  tutorials: [
-    'tutorials/intro'
-  ]
 };

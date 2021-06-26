@@ -1,6 +1,6 @@
 ---
-title: Worlds of Warcraft
+title: Worlds of Darkness
 id: intro
 ---
 
-content
+Vampire, Werewolf, Changing Breeds, Changeling, Wraith, and so much more are part of the World of Darkness.
