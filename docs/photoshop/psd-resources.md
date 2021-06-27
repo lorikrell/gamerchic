@@ -15,7 +15,7 @@ Download and install fonts used in many of these PSD files. You can download and
 
 You may want to edit fonts, grunge up your images, add dirt to your vehicles, and more. Download and install these packs to crete amazing art. To install, you can double click on the *.abr* file to run. Or in Photoshop, open the Brushes window and import the *.abr* files.
 
-* [Conquest Brush Pack - .abr file](https://drive.google.com/file/d/1fyJT9hxPUsgWCoe76udYz1Zpy2q54Aea/view?usp=sharing) - Large file!
+* [Conquest Brush Pack - .abr file](https://drive.google.com/file/d/1eyDBgoevqxoOm0sbriUoTvVK6XRCuici/view?usp=sharing) - Large file!
 
     ![Brushes](/img/resources/brushes.jpg)
 

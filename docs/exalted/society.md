@@ -40,7 +40,7 @@ This house is steeped in intrigue, politics, lurxury trade, and wealth. All of t
 
 * Sasuki, ♀️, Devout lady that spends all time in prayer to numerous gods and powers
 * Keinichi, ♀️, Spice maven and appraiser of luxury items, a blessed palette
-* Takahirop, ♂️, Sexy silver fox of the house that plans and runs all parties, deeply connected to all houses, city allies, and the throne
+* Takahiro, ♂️, Sexy silver fox of the house that plans and runs all parties, deeply connected to all houses, city allies, and the throne
 * Daike, ♂️, Young Historian of the family, tracks and records all dealings and histories
 * Aiko, ♀️, Maiden of the house preparing for marriage to Fan'teh to secure alliances
 
