@@ -29,7 +29,9 @@ You may need fonts used by these PSD files. Download and install fonts used in m
 
 | | | | |
 |--|--|--|--|
-|![Coin](/img/resources/seals/design1.png) |![Coin](/img/resources/seals/night-fae.png) |![Coin](/img/resources/seals/ninja.png) |![Coin](/img/resources/seals/sanlayn.png) |
-|![Coin](/img/resources/seals/skull.png) |![Coin](/img/resources/seals/star-moon.png) |![Coin](/img/resources/seals/flair.png) |![Coin](/img/resources/seals/belf.png) |
+|![Seal](/img/resources/seals/design1.png) |![Seal](/img/resources/seals/night-fae.png) |![Seal](/img/resources/seals/ninja.png) |![Seal](/img/resources/seals/sanlayn.png) |
+|![Seal](/img/resources/seals/skull.png) |![Seal](/img/resources/seals/star-moon.png) |![Seal](/img/resources/seals/flair.png) |![Seal](/img/resources/seals/belf.png) |
+|![Seal](/img/resources/seals/seal-flower2.png) |![Seal](/img/resources/seals/seal-oval.png) |![Seal](/img/resources/seals/seal-flower.png) |![Seal](/img/resources/seals/seal-diamond.png) |
+|![Seal](/img/resources/seals/seal-diamond2.png) |![Seal](/img/resources/seals/seal-initial.png) |![Seal](/img/resources/seals/seal-scarlets.png) |![Seal](/img/resources/seals/seal-argent.png) |
 
 </div>

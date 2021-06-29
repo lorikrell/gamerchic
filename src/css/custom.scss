@@ -1163,7 +1163,7 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
 
 .info-table {
   table {
-    
+    table-layout: fixed;
     thead {
         display: none;
     }
@@ -1185,6 +1185,7 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
     max-width: 100px;
   }
   table { 
+    table-layout: fixed;
     thead {
         display: none !important;
         border: 0px;
@@ -1206,6 +1207,7 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
     max-width: 100px;
   }
   table { 
+    table-layout: fixed;
     thead {
         display: none !important;
         border: 0px;
@@ -1353,6 +1355,10 @@ html[data-theme='dark'] .DocSearch {
     width: 100%;
     height: 100%;
 }
+
+//video header
+
+
 
 // DETAILS SUMMARY for long code
 
