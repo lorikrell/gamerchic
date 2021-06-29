@@ -1176,7 +1176,7 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
         }
   }
   html[data-theme="dark"] tr:nth-child(2n) {
-    background-color: transparent !important;
+    background-color: rgba(210,235,255,.0) !important;
   }
 }
 
@@ -1197,7 +1197,7 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
       background-color: transparent !important;
     }
     html[data-theme="dark"] tr:nth-child(2n) {
-      background-color: transparent !important;
+      background-color: rgba(210,235,255,.0) !important;
     }
   }
 }
@@ -1217,6 +1217,9 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
     }
     tr:nth-child(even) {
         background-color: transparent !important;
+    }
+    html[data-theme="dark"] tr:nth-child(2n) {
+      background-color: rgba(210,235,255,.0) !important;
     }
   }
 }
