@@ -1161,6 +1161,10 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
 
 // table info, no header
 
+tr:nth-child(2n) {
+  background-color: transparent !important;
+}
+
 .info-table {
   table {
     table-layout: fixed;
