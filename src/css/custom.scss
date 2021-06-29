@@ -1161,7 +1161,11 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
 
 // table info, no header
 
-tr:nth-child(2n) {
+html[data-theme="dark"] tr:nth-child(2n) {
+  background-color: transparent !important;
+}
+
+html[data-theme="light"] tr:nth-child(2n) {
   background-color: transparent !important;
 }
 
