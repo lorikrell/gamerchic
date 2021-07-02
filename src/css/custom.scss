@@ -1161,7 +1161,7 @@ html[data-theme='light'] tr:nth-child(even) {background-color: rgba(210, 235, 25
 
 // table info, no header
 
-html[data-theme="dark"] tr:nth-child(2n) {
+/*html[data-theme="dark"] tr:nth-child(2n) {
   background-color: transparent !important;
 }
 
@@ -1169,23 +1169,32 @@ html[data-theme="light"] tr:nth-child(2n) {
   background-color: transparent !important;
 }
 
+html[data-theme="dark"] td:nth-child(1) {
+        background-color: #001c2c;
+        color: white;
+        }
+
+html[data-theme="light"] td:nth-child(1) {
+        background-color: #001c2c;
+        color: white;
+        }
+*/
+
 .info-table {
   table {
-    table-layout: fixed;
+    table-layout: auto;
     thead {
         display: none;
-    }
-    tr:nth-child(2n) {
-        background-color: transparent !important;
     }
     td:nth-child(1) {
         background-color: #001c2c;
         color: white;
         }
+    tr:nth-child(2n) {
+          background-color: transparent !important;
+    }
   }
-  html[data-theme="dark"] tr:nth-child(2n) {
-    background-color: rgba(210,235,255,.0) !important;
-  }
+  
 }
 
 .info-plain {
@@ -1201,11 +1210,8 @@ html[data-theme="light"] tr:nth-child(2n) {
     td {
       border-color: transparent !important;
     }
-    tr:nth-child(even) {
+    tr:nth-child(2n) {
       background-color: transparent !important;
-    }
-    html[data-theme="dark"] tr:nth-child(2n) {
-      background-color: rgba(210,235,255,.0) !important;
     }
   }
 }
@@ -1215,7 +1221,7 @@ html[data-theme="light"] tr:nth-child(2n) {
     max-width: 100px;
   }
   table { 
-    table-layout: fixed;
+    table-layout: auto;
     thead {
         display: none !important;
         border: 0px;
@@ -1223,11 +1229,8 @@ html[data-theme="light"] tr:nth-child(2n) {
     td {
       border-color: #7a7a7a #20002c00 !important;
     }
-    tr:nth-child(even) {
-        background-color: transparent !important;
-    }
-    html[data-theme="dark"] tr:nth-child(2n) {
-      background-color: rgba(210,235,255,.0) !important;
+    tr:nth-child(2n) {
+      background-color: transparent !important;
     }
   }
 }

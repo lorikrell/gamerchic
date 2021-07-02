@@ -42,6 +42,10 @@ module.exports = {
               to: 'docs/exalted/resources',
               label: 'Exalted',
             },
+            {
+              to:'docs/w-o-d/intro',
+              label: 'World of Darkness',
+            },
             /*{
               to: 'docs/w-o-d/intro',
               label: 'World of Darkness',

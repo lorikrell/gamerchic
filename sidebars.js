@@ -63,6 +63,19 @@ module.exports = {
         'exalted/timelines'
       ],
     },
+    {
+      type: 'category',
+      label: 'World of Darkness',
+      items: ['w-o-d/intro', 
+      {
+        type: 'category',
+        label: 'Vampire Domains',
+        items: ['w-o-d/domains', 'w-o-d/create-domain', 'w-o-d/merits-flaws', 'w-o-d/domain-rules', 'w-o-d/example-domain'],
+      }
+    ]
+    },
+
+
     /*
     {
       type: 'category',
@@ -73,11 +86,6 @@ module.exports = {
       type: 'category',
       label: 'Dungeons and Dragons',
       items: ['d-n-d/intro', 'photoshop/coins',],
-    },
-    {
-      type: 'category',
-      label: 'World of Darkness',
-      items: ['w-o-d/intro'],
     },
     {
       type: 'category',

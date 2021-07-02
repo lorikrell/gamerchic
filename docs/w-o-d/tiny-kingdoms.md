@@ -1,0 +1,41 @@
+---
+title: Domains - Tiny Kingdoms 
+id: domains
+---
+
+The ultimate achievement of vampiric unlife is control and ownership of a domain. It is the seat of your power, where you lay to rest during the day, and keep your ultimate collections of art, fine suits, or comic books. Be it your first home in a bad part of the city, or a posh neighborhood after waking from a long torpor, domains become an extension of your influence where ghouls and your posse live to watch over your interests, business, and more.
+
+>*He who dies with the most toys, wins. Short-sighted, lacking vision, I’d say. In the Long Night, she who crafts, wins.* ~ Miranda, Keeper of Keys at Vauldeville
+
+Flavors of domain differ across all clans, genera-tions, and regions. A burrow of city blocks with brownstones filled with families with a park and small businesses. Fine apartments in a highrise part of a slick banking and law firm with a four-star res-taurant, art gallery, and escorts worthy of Parisan diplomats. The dark side of a hood with gangs roam-ing the streets, homeowners too afraid to meet your eyes, and a bodega with a thriving cocaine drug deal-er in the basement. 
+
+Some vampires continue from their living days to build upon a tiny empire. 
+Perhaps a Ventrue embraced a ghoul with a taste in fine wines, gorgeous women, and a significant stock portfolio in hi tech. In this new nightlife, she may have extended her reach and attained a seat on a few key boards while building a new headquarters to create the next Silicon Valley. Her millions would become billions, promising an opportunity to out-strip her sire and gain influence beyond her scattered years. This domain may have every modern device, digital security, and a panic room for a personal ha-ven for her daytime sleeping.
+
+Or a made-man formally joined the ranks of the Giovanni clan, taking his love of smashing the hopes, dreams, and bodies of rival families and interests to new heights. His success may earn him the luxuries he has dreamed of, but his home remains the streets around his favorite Italian restaurant. This domain may hold neighbors that love and dote on him, go-ing out of their way to give him a hand or watch out for trouble, knowing he would take care of any prob-lems.
+
+Use the following options to create the domain of your dreams or nightmares! With this system, you can start small and build up, have a fixer upper, or even have stolen a domain. Why start from scratch when Jim Bob a few streets over already built what you want?
+
+![Divide](/img/divide/divide-lasombra.png)
+
+## Build Your Domain
+
+[Build your domain](building-rules.md) by spending background points in domain with security, size, herd, and secrecy.  
+
+To further enhance your home, add [merits and flaws](merits-flaws.md) to add advantages and disadvantages to all aspects of life and unlife. Storytellers may set maximums/minimums for their purchases. Flaws give additional points, but be careful! Too many and you give significant access to rivals and enemies.
+
+## PDF Sheet
+
+Use the [Tiny Kingdoms PDF](/files/tiny-kingdoms-sheet.pdf) to plot and plan your location. A grid gives you a place to draw out some boundaries. You can also work with your Storyteller to create a Google Map if your location is in an existing real world city.
+
+## Final Touches
+
+Consider writing up some [domain rules](domain-rules.md) setting the terms for visitors, guests, friends, enemies, and more. These can add roleplay flavor and change over time and interactions. 
+
+Need an example domain? See the [Blue Moon Theater](blue-moon.md) run by the Selfies Sabbat pack!
+
+:::gamerchic Storyteller Vault
+This information is play-test content for a Storyteller Book in-progress by Lori Krell (Sonceri).
+:::
+
+import styles from './vamp.module.scss';
