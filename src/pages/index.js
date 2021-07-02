@@ -59,7 +59,7 @@ const features = [
     ),
     link: (
       <>
-     Coming soon...
+     <a href="docs/w-o-d/intro" class="land-link">Battle the night!</a>
       </>
     ),
   },
