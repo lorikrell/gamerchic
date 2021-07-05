@@ -80,19 +80,59 @@ You can select along the edges of models using a couple different Lasso Tools: L
 If you see glow effects, parts of the model selected, or funky edges, you can further edit the selection before clearing. For example, the steed has a glow effect causing issues just using Color Range. 
 
 1. Select the Polygon Lasso Tool.
-1. Hold Shift or select the ![add](/img/vehicle/select-add.jpg) Add option to add selections to a current selection, or to keep adding selections.
+1. Hold Shift or select the ![add](/img/vehicle/select-add.jpg) Add option to add selections to a current selection, or to keep adding selections. You want to follow the edge of the model.
 
     ![Clean](/img/vehicle/clean2.jpg)
 
-1. Hold Alt or select the ![subtract](/img/vehicle/select-sub.jpg) Subtract option to remove selections. If your hand is shakey, try holding Shift and use the Magic Wand tools. You want the edge to follow the model.
-1. If some of your model is selected that you want to keep that content, use the Lasso Tools to unselect or removal selected content. This is extremely helpful when using **Color Range...** with WoWHead captures due to the background being shades of gray with black logos.
+1. Hold Alt or select the ![subtract](/img/vehicle/select-sub.jpg) Subtract option to remove selections. If some of your model is selected that you want to keep that content, this is a great way to unselect content. 
+
+    :::note
+    This is extremely helpful when using **Color Range...** with WoWHead captures due to the background being shades of gray with black logos.
+    :::
+
+
+### Select with Channels
+
+:::sonceri Advanced but amazing!
+This is a bit advanced but incredibly powerful when selecting and cutting around tiny details like spaces between ropes in a net. Don't directly edit the channels as this will affect your image. You will create and work with copied channels!
+
+If you have models you want to select with a ton of magic effects or from a screenshot, this method is incredible.
+:::
+
+**Channels** are extremely effective selecting tiny areas. It is a tab next to **Layers**. It has an RGB (all colors in your image), Red, Green, and Blue. The trick with these selections is to show/hide these colors till you find one with the best contrast. 
+
+1. Select the **Channels** tab and turn off all channels. Show/hide till you find a channel with the greatest contrast between the background and model.
+1. Create a copy of that channel by right clicking and select **Duplicate Channel...** or dragging it to the Create Channel button.
+
+    ![channel](/img/vehicle/dupe-channel.jpg)
+
+1. With ONLY the copied channel showing and selected, select **Image** > **Adjustments** > **Levels**.
+1. Drag the sliders back and forth until the foreground or model is more defined than the background. This example gives you a better idea of how helpful this is (bridge photo):
+
+    ![channel](/img/vehicle/channel-example.jpg)
+
+1. Make selections in this copied channel. Hide that channel, select the RGB to get back to your image. Now you can delete or add masks to carve away the model from the background.
+
 
 ### Select with Wands
 
-Another tool you can use is the Magic Wand and Quick Selection tools. 
+Photoshop has a ton of wand select tools that can do extraordinary things, like detects objects in your selection area. If your hand is shakey for lasso tools, try using the Magic Wand and Quick Selection tools. 
 
-* The Magic Wand works somewhat like the Color Selection, using thresholds to capture and select based on colors you click on.
 * The [Quick Selection Tool](https://helpx.adobe.com/photoshop/using/making-quick-selections.html) automates the logic for finding and selecting an object based on the around you lasso around.
+* The Magic Wand works somewhat like the Color Selection, using thresholds to capture and select based on colors you click on. It's great for quick selections, but not as refined.
+
+**Quick Selection** is great for images with a defined edge between model and background by *paiting* a selection. This tool is under the magic wand list: 
+
+![add](/img/vehicle/quick-select.jpg) 
+
+For this you will use a brush, recommend any soft round brush with a hardness of 100%, spacing 25%. Size and pen pressure all depends on your selection area and use of mouse vs tablet. Select the layer you are selecting in, click and drag across, painting your selection. If the selection includes content from your model, hold alt or the remove button, select in the model, and paint up to the areas to keep. It's that easy!
+
+**Magic Wand** selects content based on the first color/lumious values/etc you select, or the sample. To select and keep adding per click, hold Shift or select the ![add](/img/vehicle/select-add.jpg) Add option. You have some options to set for making the most of this tool:
+
+* **Sample Size**: Point Sampplle selects the exact point you select and any that match it. It's the default and best.
+* **Tolerance**: Expands the threshold or shades up and down for the color/lumious values/etc you selected. 32 is the default, play with this up to select more or down to restrict. If you select, and parts of your image are captured, reduce this to 10 and try again. You can also hold Alt or select the ![subtract](/img/vehicle/select-sub.jpg) Subtract option to remove selections
+* **Anti-alias**: Keeps the edges clean, not jagged, touch of feathering. Recommend keeping this on.
+* **Contiguous**: Checks and selects all color next to it that matches. Keep this enabled to only select adjacent content, not all colors across the entire image.
 
 ### Cut a Section of Models
 
