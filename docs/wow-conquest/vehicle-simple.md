@@ -52,7 +52,7 @@ For this example, I liked the look of the purple bomber but want it blue. Let's 
 1. Searching for icons, I look for a couple awesome images to use. I recommend [Game-icons.net](https://game-icons.net). Find an icon or two and download. I picked out a [skull on fire](https://game-icons.net/1x1/skoll/burning-skull.html) with a type of none to make it easy to download and use.
 1. Copy and paste the icon into your image. 
 1. Use one of your favorite tools to add the image to the bomber. I start with **Edit** > **Free Transform** to scale down and rotate. Next, I use **Edit** > **Transform** > **Warp**. I paint it the same way I did the wings.
-1. The pilot definitely needs a callsign! I add text of Maverick and use Edit > Free Transform to rotate, move, and stretch it. And I'll add a couple other goodies.
+1. The pilot definitely needs a callsign! I add text of Maverick and use **Edit** > **Free Transform** to rotate, move, and stretch it. And I'll add a couple other goodies.
 
 ![Bomber Goodies](/img/vehicle/bomber-goodies.jpg)
 
@@ -73,8 +73,8 @@ While you can grab your model in a bunch of ways, this is easiest using WoWHead 
 1. Change the transmog, sheath or remove weapons, and finish tweaks. Shift around with your mouse to match the bomber.
 1. For Animation, select a look that works for you. You'll just use from the waist up. Some good animations are M > Mount options, R > ReadyJoust, W > WAGuard options, and L > LoadJoust.
 1. Take a screenshot and paste into your bomber image. 
-1. Use Edit > Transform tools to resize and tweak.
-1. To remove the background greys, you have some options: Select > Color Range... and select colors using the eye dropper, use Polygonal tools to select, or Erase Background Color. You may need to use a mix of these. I like Color Range and removing/adding to the selecting using the Polygonal tools.
+1. Use **Edit** > **Transform** tools to resize and tweak.
+1. To remove the background greys, you have some options: **Select** > **Color Range...** and select colors using the eye dropper, use Polygonal tools to select, or Erase Background Color. You may need to use a mix of these. I like Color Range and removing/adding to the selecting using the Polygonal tools.
 
     ![Bomber Pilot Addition](/img/vehicle/bomber-pilot.jpg)
 

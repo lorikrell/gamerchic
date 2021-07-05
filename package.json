@@ -28,6 +28,7 @@
     "plugin-image-zoom": "github:ataft/plugin-image-zoom",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-iframe": "^1.8.0",
     "react-player": "^2.9.0",
     "sass": "^1.30.0",
     "sass-loader": "^10.1.1",

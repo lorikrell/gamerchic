@@ -38,4 +38,16 @@ Need an example domain? See the [Blue Moon Theater](blue-moon.md) run by the Sel
 This information is play-test content for a Storyteller Book in-progress by Lori Krell (Sonceri).
 :::
 
+<Iframe url="https://www.youtube.com/embed/fJwNrKkXdhA"
+        width="854px"
+        height="480px"
+        id="myId"
+        className="video-container"
+        display="initial"
+        position="relative"
+        allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        />
+
+import Iframe from 'react-iframe';
 import styles from './vamp.module.scss';

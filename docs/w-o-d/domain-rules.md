@@ -18,4 +18,6 @@ The following are examples to help you build rules to keep people in line or use
 * Do not bring blood dolls when visiting. You may have far better feasting options. Gifts of blood may be welcomed.
 * Dress code enforced at all times. You may have a fine bar or restaurant requiring suit and tie and fancy dress. 
 
+You may also consider your faction's/baron's/prince's/and so on traditions, rules, and laws when defining your rules. It never hurts to be aware if you allow something normally considered a breach by the powers that be. For example, the Camarilla tend to outlaw the killing of another of your kind, safeguarding the right of destruction to the Prince/elders.
+
 import styles from './vamp.module.scss';
