@@ -17,11 +17,11 @@ Using methods for capturing content, start with the base or largest structure. F
 
 Search and capture assets from existing vehicles to get started, from one of the tools or sites or the WC Google Drive. For this example, I found a small boat with a similar hull from BFA assets. I added pieces to add "wings" off the side and levels like a large ship. 
 
-### Change Color
+## Change Color
 
 To change the shade of materials such as wood or metal, use Hue & Saturation, Color Replacement, 
 
-#### Hue & Saturation
+### Hue & Saturation
 
 1. Select content.
 1. Select **Image** > **Adjustments** > **Hue/Saturation**.
@@ -31,7 +31,7 @@ To change the shade of materials such as wood or metal, use Hue & Saturation, Co
 
 <iframe src="https://drive.google.com/file/d/15kB-JDzor2EpRQz5fg1uAo7_zJ8Q4LYi/preview" width="640" height="480" allow="autoplay"></iframe>
 
-#### Color Layer
+### Color Layer
 
 1. Create a new layer. 
 1. To restrict the color to an area, select a section before brushing on color. I recommend clicking the **Add Mask** button ![mask](/img/vehicle/mask.jpg) just for this layer. You can paint and paint, without editing the color of other layers.
@@ -41,7 +41,7 @@ To change the shade of materials such as wood or metal, use Hue & Saturation, Co
 
 <iframe src="https://drive.google.com/file/d/1Jbr_WO6PNu-7TZi3Y5GqFdKAHbUlBlYU/preview" width="100%" height="600" allow="autoplay"></iframe>
 
-#### Color Replacement
+### Color Replacement
 
 1. Select **Image** > **Adjustments** > **Replace Colors...**
 1. Optional, if you are selecting similar colors (contiguuous), select **Localized Color Clusters**. 
