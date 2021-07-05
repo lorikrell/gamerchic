@@ -17,6 +17,68 @@ Using methods for capturing content, start with the base or largest structure. F
 
 Search and capture assets from existing vehicles to get started, from one of the tools or sites or the WC Google Drive. For this example, I found a small boat with a similar hull from BFA assets. I added pieces to add "wings" off the side and levels like a large ship. 
 
+### Custom Base
+
+If you have a vehicle you want to create, but don't have a base vehicle, time to get creative. One great option is to find a screenshot of an existing ship, be it a ship from another game, tank from existing armies, a Warhammer model and use this as the base to build on. 
+
+1. Capture textures and pieces from raids, locations, other ships, even armor. I recommend using wmo files of raids, dungeons, buildings, and cities.
+1. Start a PSD file with the screenshot as layer 1 or background. 
+1. Take cut textures and buildings, laying them over the image to build us the structure and base.
+1. Continue adding effects and shift colors until you have a great new begining.
+1. Save these files in a group or two. You can create duplicates as new bases for variations and more.
+
+Here are a list of files to consider grabbing textures from for .wmo files:
+
+* 12989 - Crypt, above and undergound
+* 12999 - Building, no interior
+* 12993 - Building, inn-like
+* 13251 - Chapel or townhall
+* 13257 - Townhall
+* 12994 - Wall, generic
+* 12995 - Wall, gate
+* 12996 - Wall-post
+* 12997, 13053 - Wall-Tower
+* 13009, 13010, 13038 - Generic half-chunk of wall
+* 13147 - hole in the wall
+* 13739 - Chain
+* 13044 - Floating upper arch/walkway/bridge
+* 13045 - Small arch
+* 13162 - Arch-bridge
+* 13046 - Right-angle straight arch
+* 13135 - Right angle straight arch, large
+* 13023 - Small gate
+* 13030, 13033, 13144  - Square tower
+* 13031, 13145, 13742 - Big hex tower 
+* 13034, 13035 - stairs
+* 13136 - Big tower +  top
+* 13131 - Big bridge
+* 13146 - Elevator
+* 13149, 13659 - Broken big tower
+* 13171, 13167, 13172 - broken tree
+* 13264 - Gazebo
+* 13255, 13495 - Big ass Maldraxxus Fort
+* 13339, 13272, 13275 - Torgast interior, undead?
+* 13285 - Torgast Props
+* 13415, 13733 - Ziggaraut
+* 13096 - Oribus
+* 8du_13489.wmo - Mechagon dungeon tons of metal and buildings
+* 8du_mechagon_platforms01_2829591.wmo - Mechagon outdoor great textures
+* door - .m2 files, beautiful options from the Wardens, Suramar
+* 13738 - Sylvannas ship of evil
+* 13008 - Spooky towers
+* 13047 - Castley chunk, exterior
+* 13018 - Big castle gate, portculus, towers
+* 13027, 13744 - More big Nathria castle chunks
+* 13549 - Crypts
+* 13568 - Castle/Chapel interior
+* 13575 - Nathria arches
+* 13613 - Main hall for big city faction
+* 13653 - Player Faction Area
+* 13725 - Alliance ship
+* garrison - Buildings from Horde and Alliance garrisons
+* suramar - .m2 and wmo files have a ton of incredible options
+* vampire / venthyr, fae / ardenweald, aspirant / bastion, necro / maldraxxus - Covenants have files under different names
+
 ## Change Color
 
 To change the shade of materials such as wood or metal, use Hue & Saturation, Color Replacement, 
@@ -78,9 +140,40 @@ For this wing, it needed to be pointed away from the hull without affecting the 
 
 <iframe src="https://drive.google.com/file/d/1JsLjpIlTaYsZmmcYRzSmiZGhjpnJaA8b/preview" width="100%" height="532" allow="autoplay"></iframe>
 
+## Expand the Content
 
-## MORE TO COME!
+Beyond a base, begin adding features and options to bring the vehicle to life. Find assets, add them as layers, play with the layout, and more.
 
-Additional info will be added, effects, dodge, stained glass windows, etc. Here's where we are so far just using these tools.
+* Crates and chests
+* Weapon racks
+* Built-in weapons like artillery, cannons, etc
+* Details of doors, windows, towers, stairs, walls, etc
+* Magic additions such as runes, circles, crystals, etc
+* Staff on hand, soldiers, casters, healers
+* Small ships that come along with the larger
+* Flags, crests, logos, faction marks
+
+## Hilights and Shadows
+
+After adding a ton of assets, layers, and textures, bring it to life with effects, weathering, shadows, and dodge colors.
+
+
+The [effects gallery](https://drive.google.com/drive/u/0/folders/19agWg3BSb-u4ilvRzTMZW5DhOgTa-XwP) and [Effects PSD](https://drive.google.com/file/d/1q6u-MXOOr9rshs3p0Kquc5oLu58qo2pq/view?usp=sharing) give you a ton of options for adding sparks, fire, magic glows, blood splatters, and more. 
+
+Shadows give dimension to the model and layers. Add a layer, paint with black, set to Multiply, and reduce the opacity. 
+
+Color Dodge can brighten windows, add glows on metal and wood from fires or crystals, spark lanterns, and more. Add a new layer, set to Color Dodge. Pick similar colors to the effects you want to brighten, and paint with a soft brush. Reduce the opacity of the brush to slowly brighten. Add different colors, erase away as needed, add layers of dodge for different areas.
+
+![dodge](/img/vehicle/dodge.jpg)
+
+## Example Ships
+
+Here are a series of vehicles created using this method!
 
 ![Destroyer](/img/vehicle/sindorei-destroyer.png)
+
+![Star Explorer](/img/vehicle/star-explorer.png)
+
+![Ship Golem](/img/vehicle/ship-golem.png)
+
+![Tree 5](/img/vehicle/tree5.png)
