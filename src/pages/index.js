@@ -163,7 +163,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title="Sonceri / Gamerchic"
       description="This site provides gaming resources for Warcraft Conquest, RPG tabletop adventures, and so much more! Graphics, guides, advice.">
       <header className="hero hero--primary hero-banner">
         <div className="container">

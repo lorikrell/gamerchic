@@ -1,6 +1,7 @@
 ---
 title: Worlds of Darkness
 id: intro
+description: Find resources for all gnres of World of Darkness games. These include fan creations and Storyteller Vault content.
 ---
 
 ![Top](/img/wod/wod-top.png)

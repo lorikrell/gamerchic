@@ -9,6 +9,8 @@ For the points spent or invested, each point is one for one. Storytellers may al
 
 For additional points, add [flaws](merits-flaws.md). Be aware, too many flaws, and you may incur domain damage, invasions, and maybe lose the property!  You can also purchase [merits](merits-flaws.md) to enhance your domain/haven.
 
+>*Floors one through ten are for the normals, skip those. Dorn hosts business meetings fifteen through twenty, the rest is off limits. We also have access to all facilities in the resort, enjoy on your off time. * <br/>~ Mr. Oliver, Aventrine Security
+
 ## Security
 No matter if your domain is a single building or a neighborhood, you need security to protect against home invasion, people with guns, Sabbat incursions, solicitors, and the like. 
 

@@ -75,7 +75,7 @@ You are beholden as the greatest neighborhood, the household to emulate, and wel
 
 **Advantage**: Total trust in your neighborhood
 
-![Boss](/img/wod/boss.jpg)
+![Boss](/img/wod/domain-boss.png)
 
 ## Domain Flaws
 
