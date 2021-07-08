@@ -162,7 +162,14 @@ The [effects gallery](https://drive.google.com/drive/u/0/folders/19agWg3BSb-u4il
 
 Shadows give dimension to the model and layers. Add a layer, paint with black, set to Multiply, and reduce the opacity. 
 
-Color Dodge can brighten windows, add glows on metal and wood from fires or crystals, spark lanterns, and more. Add a new layer, set to Color Dodge. Pick similar colors to the effects you want to brighten, and paint with a soft brush. Reduce the opacity of the brush to slowly brighten. Add different colors, erase away as needed, add layers of dodge for different areas.
+Color Dodge can brighten windows, add glows on metal and wood from fires or crystals, spark lanterns, and more. 
+
+1. Add a new layer, set to **Color Dodge**. 
+1. Pick similar colors to the effects you want to brighten, and paint with a soft brush. 
+1. Reduce the opacity of the brush to slowly brighten as you paint multiple passes. 
+1. Add different colors, erase away as needed, add layers of dodge for different areas.
+
+The following example shows a dodge layer with one pass to start brightning lamps and showing light glowing from windows. I liked the glows, but duplicated the glow layer to maker them stronger.
 
 ![dodge](/img/vehicle/dodge.jpg)
 
