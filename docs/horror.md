@@ -19,7 +19,7 @@ This guide can be used for World of Warcraft (WoW) in-game events, tabletop game
 :::
 
 :::caution Too Scary?
-If a bit of information or example scene may be too dark, it will be hidden in an option to click and example.
+If a bit of information or example scene may be too dark, it will be hidden in an option to click and expand.
 
 <details closed>
 <summary>Deeper Horror
