@@ -164,7 +164,7 @@ When developing your events and campaigns, I recommend writing content for scene
 
 ### Writing Exercise
 
-A great exercise to find your dark voice is to search for a piece of art that disturbs you (painting, scene, movie trailer, but of dialogue) and write about it. Now write about this piece using ever sense. Need a little help? Reach for a [thesaurus](https://www.thesaurus.com/! Writer resources can also help, like [240 Dark Words](https://grammar.yourdictionary.com/word-lists/240-dark-words-for-more-descriptive-writing.html).
+A great exercise to find your dark voice is to search for a piece of art that disturbs you (painting, scene, movie trailer, but of dialogue) and write about it. Now write about this piece using ever sense. Need a little help? Reach for a [thesaurus](https://www.thesaurus.com/)! Writer resources can also help, like [240 Dark Words](https://grammar.yourdictionary.com/word-lists/240-dark-words-for-more-descriptive-writing.html).
 
 ## MORE COMING SOON!
 
