@@ -4,14 +4,16 @@ id: investigations
 description: Learn how to plan and run investigation events for roleplay and rolling games.
 ---
 
-A guard stumbles across a criminal situation and needs to find the culprit. A spy uses a cover as a courier to receive and deliver vital messages for an employer or organization, intending to learn who is trading info, what secrets are trafficked. A farmer loses their flock of sheep seeing the muddy torn ground of wolves in chase of prey. A lady finds a party guest dead with a nasty lump on their head and a dagger protruding from their back in the mansion’s library.
+![Investigations](/img/guides/investigation.png)
+
+*A guard stumbles across a criminal situation and needs to find the culprit. A spy uses a cover as a courier to receive and deliver vital messages for an employer or organization, intending to learn who is trading info, what secrets are trafficked. A farmer loses their flock of sheep seeing the muddy torn ground of wolves in chase of prey. A lady finds a party guest dead with a nasty lump on their head and a dagger protruding from their back in the mansion’s library.*
 
 The opportunities of investigations are vast and can make up a single scene for an event or build upon as the cornerstone of an entire event or campaign. They may spring up just from the interest of your attendees/players wanting to learn more about a situation, requiring you to come up with details on the fly. Or they may be the entry into a war situation or entering enemy territory for battles to rage in the next hour.
 
 This guide provides information on how to build an investigation, key questions to answer before an event, and how to determine DC and results to quickly keep your event moving with dramatic and gritty detail.
 
-:::sonceri 
-This guide can be used for World of Warcraft (WoW) in-game events, tabletop games, and more! Some of the terminology may be geared to WoW, but anyone can use it for any genre.
+:::sonceri Game Genres
+This guide can be used for World of Warcraft (WoW) in-game events, tabletop games, LARPs, and more! Some of the terminology may be geared to WoW or a d20 system, but anyone can use it for any genre. The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
 :::
 
 ## What makes a good investigation?
@@ -34,7 +36,18 @@ The following are just a few building blocks of story and mechanics to consider 
 
 **It’s all about the details.** Every piece of evidence can have a backstory like any character. Think about what the evidence looks like, how the scene is laid out, signs of movement around the area (could indicate multiple people there), signs of struggle, signs of a cleaned up space, something out of order, something missing (dust rings), something added. Details give you so many pieces of information you can provide based on areas players search, multiple rolls from failures to critical successes. Write up tons of details. You can copy and paste these for all to see, in whispers to players, as hints of places or things to investigate.
 
-> *Example:* The party finds a body with a blade stabbed in the back. How do we add details? It may have a crest from a rival house, have the sheen of poison upon the blade (they could try to learn what poison), whisper with magical warning if a magi attempts to grasp it or urge someone to grab it (like a curse), is stabbed yet no blood has gushed indicating it was stabbed after death, has a broken blade and could not have killed the person, belongs to someone in the event party (discuss earlier with them), and so on. For the area, maybe there are toppled furniture indicating a struggle. Perhaps drawers to a desk are ripped open, papers everywhere, contents tossed indicating a search or theft in progress…but who searched? That could lead to intrigue and something to search for later.
+:::gamerchic Example Details
+The party finds a body with a blade stabbed in the back. How do we add details? 
+
+* Crest from a rival house in hilt
+* Sheen of poison upon the blade (they could try to learn what poison)
+* Gleam of magical power if a magi attempts to grasp it or urge someone to grab it (like a curse)
+* Clean blade despite being stabbed deeply indicating it was placed after death
+* Broken blade unable to kill the victim
+* Belongs to someone in the event party (discuss earlier with them)
+ 
+For the area, maybe there are toppled furniture indicating a struggle. Perhaps drawers to a desk are ripped open, papers everywhere, contents tossed indicating a search or theft in progress…but who searched? That could lead to intrigue and additional searches.
+:::
 
 **Provide multiple clues and paths to solve the mystery.** Players may not find all of your clues or determine what to do with them. Placing clues in their path, reinforcing the direct, can help if they miss steps. Allow them to go back and check the scene if they realize they missed something or need to verify anything.
 
@@ -49,25 +62,38 @@ Also having multiple outcomes gives you the power of continuity! What if they on
 :::gamerchic Investigation Inspirations
 You can find a ton of incredible sources for inspiration. Here are just a few:
 
-* TV: Crime for normal world and sci fi fantasy, some favorites Murder She Wrote, NCIS, Law and Order, CSI, Bosch, The Dresden Files, The Lost Room, Sherlock, Morse, Columbo, [sci fi fantasy list](https://scifanworld.com/tv-series/tag/genre/crime)
-* Movies: The Usual Suspects, Knives Out, Noth by Northwest, Bad Times at the El Royale, Clue, The Name of the Rose, all Agatha Christie, Primal Fear, Harry Potter, Detective Dee, Indiana Jones, [Asian mysteries](https://asianmoviepulse.com/2021/04/20-great-contemporary-japanese-crime-movies/), [Korean myserties](https://www.lifestyleasia.com/sg/culture/if-you-loved-parasite-here-are-other-best-korean-thriller-movies-and-series-to-binge-watch-this-year/)
-* Other ideas: Escape rooms, [Hunt a Killer](https://www.huntakiller.com/) box
+* TV: Crime for normal world and sci fi fantasy, some favorites Murder She Wrote, NCIS, Law and Order, CSI, Bosch, The Dresden Files, The Lost Room, Sherlock, Morse, any BBC detective series, Columbo, Peter WHimsey, ID network shows, [sci fi fantasy list](https://scifanworld.com/tv-series/tag/genre/crime)
+* Movies: The Usual Suspects, Knives Out, North by Northwest, Bad Times at the El Royale, Clue, The Name of the Rose, all Agatha Christie, Primal Fear, Harry Potter, Detective Dee, Indiana Jones, Chinatown, Robert Langdon movies, National Treasure, [Asian mysteries](https://asianmoviepulse.com/2021/04/20-great-contemporary-japanese-crime-movies/), [Korean myserties](https://www.lifestyleasia.com/sg/culture/if-you-loved-parasite-here-are-other-best-korean-thriller-movies-and-series-to-binge-watch-this-year/)
+* Books: Agatha Christie, Sherlock Holmes, Nancy Drew, PD James, Dorothy L Sayers, Parker Bilal, John Grisham, James Patterson,[too many to count](https://www.nerdmuch.com/best-mystery-books/)
+* Other ideas: Escape rooms, [Hunt a Killer](https://www.huntakiller.com/) box, true crime documentaries
 :::
 
 ## Building an Investigation
 The following exercise will guide you through creating investigations for your events and campaigns. As we go, we will create two types of investigations as examples: dead body in a library (yay Clue references) and scouting party in the woods. 
 
-Some best practices as we start!
+<div id="hilit">
+
+**Some best practices as we start:**
 
 * Create a Google Doc to plan, even if it is simple planning. While battles can easily be tossed together in game, investigations do need thought, prep, tracking specifics.
 * Create lists for quick ideas. Come up with some minor to major NPCs, items, locations, side ideas, quotes, top three things that matter, list of names to pick and choose from. This saves time and keeps you from accidentally giving incorrect info.
-* Give your event and investigation a theme. This can help you form ideas, find locations, pull from existing sources, and  hone in player expectations.
+* Give your event and investigation a theme. This can help you form ideas, find locations, pull from existing sources, and hone in player expectations. For example: theft at the magic school, murder at the party, spy vs spy, thieves guild challenge, town invasion, rival groups arriving at the same ruins, the cursed blade, theft at the wedding, kidnapping of the mayor's son, the lost squad, and so on.
+* Have multiple methods for players to find the clues and focus of the investigation. If you tie everything to one or two places and items, they may not catch on and investigate those.
+* Provide NPCs that will have details to help, some may not know what they have or found, some may demand payment for the information. This can also be an interesting hook for a fight, adventure, deal making, etc. 
 
-For MMO-RPGs like World of Warcraft:
+**For MMO-RPGs like World of Warcraft:**
 
-* Go in game, take screenshots, and plan your route. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit?usp=sharing).
-* Don’t depend on addons. They are great, but if you have a diverse group coming to an event, they will get left behind. 
-* Some addons are your friend, like [Mega Macro](https://www.curseforge.com/wow/addons/mega-macro). Manage multiple macros, easily, globally recommended, with long descriptions (1023 characters). You can save time and sanity prepping some long macros.
+* Go in game, take screenshots, and plan your route. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit?usp=sharing).
+* Don’t depend on addons. They are great, but if you have a diverse group coming to an event, players will get left behind. 
+* Some addons are your friend:
+
+  * [Mega Macro](https://www.curseforge.com/wow/addons/mega-macro). Manage multiple macros, easily, globally recommended, with long descriptions (1023 characters). 
+  * [TotalRP3](https://www.curseforge.com/wow/addons/total-rp-3) gives you a method of creating NPC profiles you can wear interchangably for players to interact with. [TRP3 Extended](https://www.curseforge.com/wow/addons/total-rp-3-extended) allows you to create custom items, but requires others to have it. 
+  * [Listener](https://www.curseforge.com/wow/addons/listener) pings when mentioned, great for long text. 
+  * [Sessions](https://www.curseforge.com/wow/addons/sessions-messenger) helps with text, long messages, message history, and more.
+  * [Elephant](https://www.curseforge.com/wow/addons/elephant) saves chat logs, great for keeping track of long investigation events and campaigns.
+
+* Collect and use grey items to hand out as evidence they find. You can search WoWHead for some incredible options.
 * Use raid icons in your notes and in game.
 
   * In game and in macros/copy paste content, use these codes: 
@@ -77,6 +103,17 @@ For MMO-RPGs like World of Warcraft:
   * Here are some images to save and use for your Google Docs and Drawings: 
 
     ![skull](/img/icons/skull.png) ![cross](/img/icons/cross.png) ![square](/img/icons/square.png) ![star](/img/icons/star.png) ![circle](/img/icons/circle.png) ![triangle](/img/icons/triangle.png) ![moon](/img/icons/moon.png) ![diamond](/img/icons/diamond.png)
+
+
+**For tabletop adventures: **
+
+* Find a good battlemap or print out blueprints to houses and buildings. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit?usp=sharing).
+* If you don't have battlemaps, consider digging into board games or online images of those game boards for neat ideas to give an immersive scene and evidence.
+* Use household objects to hand over as evidence, provide packets of notes with images describing what they find, giving players the choice of sharing or keeping the knowledge.
+* Find incredible playlists for a creepy mood on Spotify or Youtube. Find incredible music and effects with [Syrinscape](https://syrinscape.com/), [Tabletop Audio](https://tabletopaudio.com/), and [BattleBards](https://battlebards.com/#/home).
+* For mood lighting, add LED candles and lanterns to the table, turn off lights, add halloween or holiday lights (check it out [Sebastian's set up](https://www.youtube.com/watch?v=QJGtD0NtHkI)). 
+
+</div>
 
 ### Set the Investigation
 Determine what the investigation is. This could be a couple sentences, which gives you something fantastic to give players when starting the event. Optional details could be title, NPCs, etc. Just don’t overwhelm yourself with details yet.

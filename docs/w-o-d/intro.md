@@ -4,6 +4,8 @@ id: intro
 description: Find resources for all gnres of World of Darkness games. These include fan creations and Storyteller Vault content.
 ---
 
+<div id="vamp">
+
 ![Top](/img/wod/wod-top.png)
 
 Created by [White Wolf/Onyx Path](http://theonyxpath.com/), World of Darkness is a world of supernatural horror and intrigue hidden in plain sight. The setting has a few different ages (Dark Ages, Victorian, and Modern) giving players and storytellers a rich setting to be the original terrors of the world: vampires, werewolves, fae, ghosts, mummies, demons, hunters, and many other creatures living among the normal folk. They feature settings across the globe and mythos, with various cultures and ideas presented. All stories and backgrounds are told from the victors and fallen, leaving you the diviner of truth.
@@ -74,5 +76,6 @@ For quick resources and options to get you started with World of Darkness games,
         allowfullscreen
         />
 
+</div>
+
 import Iframe from 'react-iframe';
-import styles from './vamp.module.scss';

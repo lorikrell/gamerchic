@@ -3,6 +3,7 @@ title: Domain - Blue Moon
 id: example-domain
 description: Example domain created using domain rules for Vampire. This is a fan creation!
 ---
+<div id="vamp">
 
 ![Blue Moon](/img/wod/blue-moon-logo.png)
 
@@ -34,4 +35,4 @@ The pack has spent a great deal of funds and work into restoring the drive-in th
 
 ![Sheet](/img/wod/blue-moon-sheet.jpg)
 
-import styles from './vamp.module.scss';
+ </div>

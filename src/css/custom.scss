@@ -1387,3 +1387,41 @@ summary {
   color:rgb(38, 127, 153);
   cursor: pointer;
 }
+
+// VAMPIRE
+
+#vamp {
+
+  blockquote {
+    color: #af0300;
+    border-left: 3px solid #af0300;
+}
+
+.info-table {
+    table {
+      table-layout: auto;
+      thead {
+          display: none;
+      }
+      td:nth-child(1) {
+          background-color: #5f0a0a !important;
+          color: white;
+          }
+      tr:nth-child(2n) {
+            background-color: transparent !important;
+      }
+    }
+    
+  }
+
+  .vamp {
+    color: transparent;  
+    text-shadow: 0 0 0 red;
+  }
+}
+
+#vhilit {
+  strong {
+    color: #af0300;
+  }
+}

@@ -22,6 +22,7 @@ module.exports = {
       label: 'DM & Storyeller Resources',
       items: [
         'investigations',
+        'horror',
         'photoshop/fonts-brushes',
         'photoshop/coins',
         'photoshop/wax-seals',

@@ -4,6 +4,8 @@ id: domain-rules
 description: Develop domain rules for visitors to follow. This s a fan creation!
 ---
 
+<div id="vamp">
+
 Determine what your rules and regulations are for visiting, entering, and hunting in your domain. Most cities include the usual rules depending on Camarilla, Sabbat, Anarchs, and Independents. Sometimes it’s best to consider what you do and do not allow from random Kindred in the city. 
 
 ![Selfies](/img/wod/rules-blade.png)
@@ -25,4 +27,4 @@ The following are examples to help you build rules to keep people in line or use
 You may also consider your faction's/baron's/prince's/and so on traditions, rules, and laws when defining your rules. It never hurts to be aware if you allow something normally considered a breach by the powers that be. For example, the Camarilla tend to outlaw the killing of another of your kind, safeguarding the right of destruction to the Prince/elders.
 :::
 
-import styles from './vamp.module.scss';
+ </div>

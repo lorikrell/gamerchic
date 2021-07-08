@@ -4,6 +4,8 @@ id: domains
 description: A guide to domains for Vampire games, written by Lori Krell. This is a fan creation!
 ---
 
+<div id="vamp">
+
 ![Divide](/img/wod/tiny-top.png)
 
 >*There's no place like home has never been so apt, young lick. You don't just want to wall yourself up or just toss yerself in a closet during the day. I'd just die without my playstation. This is your forever home...usually...* <br/>~ Skittles, Blue Moon Drive-In
@@ -52,5 +54,7 @@ This information is play-test content for a Storyteller Book in-progress by Lori
         allowfullscreen
         />
 
+</div>
+
 import Iframe from 'react-iframe';
-import styles from './vamp.module.scss';
+ 

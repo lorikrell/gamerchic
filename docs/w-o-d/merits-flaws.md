@@ -3,6 +3,8 @@ title: Domain Merits and Flaws
 id: merits-flaws
 ---
 
+<div id="vamp">
+
 To enhance your domain, you can spend points on merits or gain points through flaws. These can add flavor, advantages, and disadvantages to your domain mechanically and in story. These simple options may shape storylines through politics and battle, or give storytellers opportunities to define NPC locations for the intrepid Camarilla coterie or aggressive invading Sabbat pack, and so on.
 
 [Merits](#domain-merits) enhance the property, people, and haven under your control. Typically, you buy these merits at domain creation. [Flaws](#domain-flaws) detract from your domain or haven, injecting issues while mechanically providing points for spending on your domain. 
@@ -162,5 +164,5 @@ You claimed this domain from another vampire. This leaves you in a bad situation
 
 **Disadvantage**: Infamy by local kindred that know who owned the domain. Incursions and battles will happen physically, magically, or via influence.
 
-
-import styles from './vamp.module.scss';
+</div>
+ 

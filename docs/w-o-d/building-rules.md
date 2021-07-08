@@ -3,6 +3,8 @@ title: Create a Domain
 id: create-domain
 ---
 
+<div id="vamp">
+
 Domain is a Background you can purchase at character creation or through your Chronicle based on Storyteller decisions. As with Vampire the Masquerade 20th Anniversary edition, you can invest up to 10 points into your domain. This point system allow you to expand on your domain with security, size, herd, and secrecy.  
 
 For the points spent or invested, each point is one for one. Storytellers may allow players to spend starting or experience points, pooled points between multiple players, or award points and features with roleplay and questing.
@@ -19,11 +21,11 @@ No matter if your domain is a single building or a neighborhood, you need securi
 | | |
 |--|--|
 | None | People can walk in anytime! |
-| ⚪  | You have some locks, a hurricane fence, maybe a cute dog protecting your haven. It doesn’t take much to break in. You may not realize a burglary occurred for some time. Your buildings almost say “come in!” |
-| ⚪⚪ | You have a good deal of locks, dead bolts, and a friend keeping an eye on the place. You eventually get a call and update with enough time to act. Your buildings have some security to slow down intruders. |
-| ⚪⚪⚪ | You usually get tipped off when something is going on in your domain, be it via camer-as, gangs, nosy neighbors. Your buildings have significant security, alerting you when something is wrong most of the time. |
-| ⚪⚪⚪⚪ | Whether it is a mansion behind walls or a cave surrounded by sewers and limitless mazes, it’s nearly impossible for anyone to invade unannounced. Your domain has significant protections such as: constant surveillance, rotating passwords, the latest in tech protection, formidable security force, killer dogs, electrified fences, underground mazes.  |
-| ⚪⚪⚪⚪⚪ | Nothing can enter your domain without being detected be it magical, digital, or physical. |
+| <div class="vamp">⚪</div>  | You have some locks, a hurricane fence, maybe a cute dog protecting your haven. It doesn’t take much to break in. You may not realize a burglary occurred for some time. Your buildings almost say “come in!” |
+| <div class="vamp">⚪⚪</div> | You have a good deal of locks, dead bolts, and a friend keeping an eye on the place. You eventually get a call and update with enough time to act. Your buildings have some security to slow down intruders. |
+| <div class="vamp">⚪⚪⚪</div> | You usually get tipped off when something is going on in your domain, be it via camer-as, gangs, nosy neighbors. Your buildings have significant security, alerting you when something is wrong most of the time. |
+| <div class="vamp">⚪⚪⚪⚪</div> | Whether it is a mansion behind walls or a cave surrounded by sewers and limitless mazes, it’s nearly impossible for anyone to invade unannounced. Your domain has significant protections such as: constant surveillance, rotating passwords, the latest in tech protection, formidable security force, killer dogs, electrified fences, underground mazes.  |
+| <div class="vamp">⚪⚪⚪⚪⚪</div> | Nothing can enter your domain without being detected be it magical, digital, or physical. |
 
 </div>
 
@@ -38,11 +40,11 @@ Your haven is that special chamber or building strictly for your daytime rest an
 | | |
 |--|--|
 | None | A room somewhere, perhaps in an existing domain ruled by another or just tucked away somewhere. You don't control the building or area. |
-| ⚪  | A small building, such as a single-family home or a social establishment – enough for a basic haven. |
-| ⚪⚪ | A church, factory, warehouse, mid-rise, or other large structure — a location with ready but easily controllable access to the outside world. |
-| ⚪⚪⚪ | A high-rise, city block, or an important intersection — a location or area that offers areas for concealment as well as controlled access. |
-| ⚪⚪⚪⚪ | A sewer subsection, a network of service tunnels, the enclave of homes on a hill overlooking the city — a place with inherently protective features, such as an isolated mountain road, bridge-only access, or vigilant private security force.  |
-| ⚪⚪⚪⚪⚪ | An entire neighborhood, an ethnic subdivision like “Chinatown” or “Little Italy,” or a whole suburb. |
+| <div class="vamp">⚪</div>  | A small building, such as a single-family home or a social establishment – enough for a basic haven. |
+| <div class="vamp">⚪⚪</div> | A church, factory, warehouse, mid-rise, or other large structure — a location with ready but easily controllable access to the outside world. |
+| <div class="vamp">⚪⚪⚪</div> | A high-rise, city block, or an important intersection — a location or area that offers areas for concealment as well as controlled access. |
+| <div class="vamp">⚪⚪⚪⚪</div> | A sewer subsection, a network of service tunnels, the enclave of homes on a hill overlooking the city — a place with inherently protective features, such as an isolated mountain road, bridge-only access, or vigilant private security force.  |
+| <div class="vamp">⚪⚪⚪⚪⚪</div> | An entire neighborhood, an ethnic subdivision like “Chinatown” or “Little Italy,” or a whole suburb. |
 
 </div>
 
@@ -64,11 +66,11 @@ On the flip-side, a domain with a small domain herd could be a brownstone with 4
 | | |
 |--|--|
 | None | You don’t have any available bloodpool in your domain. Any feeding can immediately make people nervous.  |
-| ⚪  | You have a small amount of herd in your domain. This provides 2 blood points per night without incurring a breach. |
-| ⚪⚪ | You have a small amount of herd in your domain. This provides 4 blood points per night without incurring a breach. |
-| ⚪⚪⚪ | You have a small amount of herd in your domain. This provides 6 blood points per night without incurring a breach. |
-| ⚪⚪⚪⚪ | You have a small amount of herd in your domain. This provides 8 blood points per night without incurring a breach.  |
-| ⚪⚪⚪⚪⚪ | You have a small amount of herd in your domain. This provides 10 blood points per night without incurring a breach. |
+| <div class="vamp">⚪</div>  | You have a small amount of herd in your domain. This provides 2 blood points per night without incurring a breach. |
+| <div class="vamp">⚪⚪</div> | You have a small amount of herd in your domain. This provides 4 blood points per night without incurring a breach. |
+| <div class="vamp">⚪⚪⚪</div> | You have a small amount of herd in your domain. This provides 6 blood points per night without incurring a breach. |
+| <div class="vamp">⚪⚪⚪⚪</div> | You have a small amount of herd in your domain. This provides 8 blood points per night without incurring a breach.  |
+| <div class="vamp">⚪⚪⚪⚪⚪</div> | You have a small amount of herd in your domain. This provides 10 blood points per night without incurring a breach. |
 
 </div>
 
@@ -85,12 +87,12 @@ How you keep your domain secret is entirely up to you and your Storyteller. Perh
 | | |
 |--|--|
 | None | Everyone knows about your domain. There may even be a few rumors of strange owners.  |
-| ⚪  | Just about anyone can find out about your domain, just takes a call or a chat. |
-| ⚪⚪ | Friends and neighboring vampires know of your domain. |
-| ⚪⚪⚪ | Specific vampires have been informed of your domain. |
-| ⚪⚪⚪⚪ | The local Camarilla or Sabbat work to keep you off the books. |
-| ⚪⚪⚪⚪⚪ | The Black Hand can’t find your domain to deliver Christmas Cards. |
+| <div class="vamp">⚪</div>  | Just about anyone can find out about your domain, just takes a call or a chat. |
+| <div class="vamp">⚪⚪</div> | Friends and neighboring vampires know of your domain. |
+| <div class="vamp">⚪⚪⚪</div> | Specific vampires have been informed of your domain. |
+| <div class="vamp">⚪⚪⚪⚪</div> | The local Camarilla or Sabbat work to keep you off the books. |
+| <div class="vamp">⚪⚪⚪⚪⚪</div> | The Black Hand can’t find your domain to deliver Christmas Cards. |
 
 </div>
 
-import styles from './vamp.module.scss';
+ </div>
