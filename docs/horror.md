@@ -152,6 +152,8 @@ The classic body horror... The Thing
 
 When developing your events and campaigns, I recommend writing content for scenes for easy copying and pasting. These can be descriptive phrases, lists of words, full paragraphs, and insights. But how do you write for horror?
 
+<div id="vhilit">
+
 **Be descriptive considering all of the senses.** Details bring horror to life just like other events. Beyond simple sight, what does something feel like, scents on the air, sounds in the area or outside, a taste on the air or if something is sipped or licked. 
 
 **Create lists of words that evoke emotion.** Saying something is terrifying, horrific, spooky, creepy, and dangerous all sound like saying food is great. What does great food taste like? Give serious thought to potential colors, flavors, expressive and simple words mixed together, and so on. You don't need to write like Lovecraft, just expand your thoughts.
@@ -161,6 +163,8 @@ When developing your events and campaigns, I recommend writing content for scene
 **Perhaps also consider another sense...emotion.** You should never dictate how a player feels about a scene. but you can give them a sense of emotion you want to covery or evoke in them through the environment, beasts, and NPCs. You have full control of these actors on your stage.
 
 **Embrace music.** Soundtracks give you a perfect score to layer your words against. Pick some songs and listen as you write. If they aid in chilling, save links and songs, create a playlist. Weave these into music available through Discord or Watch2gether to play during events.
+
+</div>
 
 ### Writing Exercise
 
