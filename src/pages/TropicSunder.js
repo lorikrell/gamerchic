@@ -105,7 +105,8 @@ function TropicSunder() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
-    <Layout title="Tropic Sunder" >
+    <Layout title="Tropic Sunder" 
+    description="Warcraft Conquest presented Tropic Sunder, a campaign set in Stranglethorn Vale in Spring 2021. Learn more about this campaign and others!">
       <header className='conquest-header'>
       <div className='conquest-hero' id='tropic'>
       <ReactPlayer 
