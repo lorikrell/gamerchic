@@ -9,6 +9,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -280,6 +281,10 @@ blockquote {
 
 .buttons-pages {
   justify-content: left !important;
+}
+
+.buttons-right {
+  text-align: end !important;
 }
 
 .spacer {

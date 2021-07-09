@@ -60,6 +60,16 @@ module.exports = {
             },*/
           ]
         },
+        {
+          position: 'left',
+          label: 'Conquest Campaigns',
+          items: [
+            {
+              to: 'TropicSunder',
+              label: 'Tropic Sunder',
+            },
+          ]
+        },
         {to: '/blog', label: 'Blog', position: 'left'},
         /*{
           href: 'https://github.com/facebook/docusaurus',
