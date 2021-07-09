@@ -68,9 +68,17 @@ module.exports = {
               to: 'TropicSunder',
               label: 'Tropic Sunder',
             },
+            {
+              href: 'https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/edit?usp=sharing',
+              label: 'Conquest d20 Rules',
+            },
+            {
+              href: 'https://docs.google.com/document/d/1WNRYwGUhvwE6BuqN_VFThXmmhnMQ6zCTbEwGaZWek3Q',
+              label: 'Warmachine Rules',
+            },
           ]
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'right'},
         /*{
           href: 'https://github.com/facebook/docusaurus',
           className: 'navbar-grid-menu',
