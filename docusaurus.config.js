@@ -65,6 +65,10 @@ module.exports = {
           label: 'Conquest Campaigns',
           items: [
             {
+              to: 'Conquest',
+              label: 'Warcraft Conquest',
+            },
+            {
               to: 'TropicSunder',
               label: 'Tropic Sunder',
             },

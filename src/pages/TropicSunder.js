@@ -168,7 +168,7 @@ function TropicSunder() {
                 ))}
             </div>
         )}
-        <div className="col-md-6 col-lg-6 hidden-xs hidden-sm"><img src="img/landing/tropic-overview.png" /></div>
+        <div className="col-md-6 col-lg-6 hidden-xs hidden-sm center"><img src="img/landing/tropic-overview.png" className="imgwide"/></div>
         {features2 && features2.length > 0 && (
             <div className="col col-md-3">
                 {features2.map((props, idx) => (
@@ -181,7 +181,7 @@ function TropicSunder() {
           
         </section>
 
-        <div className="hero tropic--primary hero-banner" id="tropic">
+        <div className="hero conquest--primary hero-banner" id="tropic">
       <div className="container">
       <div className="row">
         

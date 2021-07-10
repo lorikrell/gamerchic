@@ -7,7 +7,7 @@ export default function TimelineConquest() {
   return (
     <div className="timeline">
       <div style={{ width: "100%", height: "85vh" }}>
-        <Chrono items={data} mode="VERTICAL_ALTERNATING" theme={{primary: "var(--ifm-color-primary-darker)", secondary: "var(--ifm-color-primary-lightest)", cardBgColor: "#121212" }}>
+        <Chrono items={data} mode="VERTICAL" theme={{primary: "var(--ifm-color-primary-darker)", secondary: "var(--ifm-color-primary-lightest)", cardBgColor: "#121212" }}>
         {/* Antorus */}
         <div><p>To defend Azeroth, the forces of the Grand Alliance rallied and prepared to enter the shards of a broken world. Joined with the Army of the Light, they set upon the denizens of the Burning Legion to aid in the final battles pressing back and ending the threat. But at what cost remains to be judged. See the <a href="https://moon-guard.fandom.com/wiki/Grand_Alliance_Siege_of_Antorus">Grand Alliance records</a>. </p></div>
         {/* Nazjatar */}
@@ -28,7 +28,7 @@ export default function TimelineConquest() {
         <div><p>The eternal veil screams, torn asunder above the frozen wastes of Icecrown. Even as the shattered sky presents terrifying new threats, an old enemy has been released from the shackles that bound them. Guided by a sinister hand from beyond, undead swarm across Azeroth to take advantage of a world weakened by strife.  The Alliance and Horde must sail north with all haste to aid the Argent Crusade in confronting the Scourge's most dangerous leaders. If they fail, Azeroth will forever be condemned to torment... In Death's Shadow. See the <a href="https://discord.gg/nMM2zc2PPT">Discord</a> records.</p></div>
 
         {/* tropic sunder */}
-        <div><p>Stranglethorn, the everblooming jewel of the southern Eastern Kingdoms, is lush and rife with flora, fauna, and people of all cultures. As the Horde and Alliance have settled their war and the shadow of Death looms over the world, threats have risen deep within the tropical wilderness. Skirmishes with the remnants of Colonel Kurzen's rebellion have brought the attention of the humans of Stormwind. The Zandalari's new allegiance to the Horde has sparked dissent among the Gurubashi Trolls; slights and years of war against them are not so easily forgiven. Dark forces are afoot, stirring these tensions and preparing for a dark ritual. The jungle holds many dangers, but those who know where to look will find riches beyond imagining. See the <a href="https://discord.gg/nMM2zc2PPT">Discord</a> records.</p></div>
+        <div><p>Stranglethorn, the everblooming jewel of the southern Eastern Kingdoms, is lush and rife with flora, fauna, and people of all cultures. As the Horde and Alliance have settled their war and the shadow of Death looms over the world, threats have risen deep within the tropical wilderness. Skirmishes with the remnants of Colonel Kurzen's rebellion have brought the attention of the humans of Stormwind. The Zandalari's new allegiance to the Horde has sparked dissent among the Gurubashi Trolls; slights and years of war against them are not so easily forgiven. Dark forces are afoot, stirring these tensions and preparing for a dark ritual. The jungle holds many dangers, but those who know where to look will find riches beyond imagining. See the <a href="TropicSunder">Tropic Sunder</a> page.</p></div>
 
         </Chrono>
       </div>

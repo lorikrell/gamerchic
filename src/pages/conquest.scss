@@ -34,6 +34,7 @@
     position: relative;
     padding-left: 55px;
     margin: 65px 0 0 0;
+    font-size: .85rem;
 }
 
 .alt-features-icon {
@@ -73,7 +74,25 @@
     text-align: center;
 }
 
-// Tropic Sunder Specific
+.middle {
+    vertical-align: middle;
+}
+
+.imgwide {
+    max-width: 100%;
+    height: auto;
+    }
+
+.thin {
+    padding: 0px;
+}
+
+@media screen and (max-width: 1080px) {
+
+    .imgwide {
+        max-width: 75%;
+    }
+}
 
 // Tropic Sunder Specific
 #tropic {
@@ -82,6 +101,10 @@
         word-wrap: break-word;
         word-break: break-word;
         font-family: 'Graduate', sans-serif; 
+      }
+    
+    h3 {
+          font-size: 1.2rem;
       }
 
 }
@@ -92,6 +115,17 @@
       linear-gradient(rgba(0,0,0,0.1),
       rgba(0,0,0,0.65)),
       url("../../static/img/landing/tropic-bottom.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+  }
+
+.conquest--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/conquest-bottom.jpg") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;

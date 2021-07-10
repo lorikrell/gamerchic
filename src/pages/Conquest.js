@@ -66,7 +66,7 @@ const features2 = [
     imageUrl: 'img/icons/ship.png',
     description: (
       <>
-        We use the <a href="https://docs.google.com/document/d/1WNRYwGUhvwE6BuqN_VFThXmmhnMQ6zCTbEwGaZWek3Q" target="_blank">Conquest Warmachine</a> system for vehicle battles in Discord, including naval, land, and air.
+        We use the <a href="https://docs.google.com/document/d/1WNRYwGUhvwE6BuqN_VFThXmmhnMQ6zCTbEwGaZWek3Q" target="_blank">Conquest Warmachine</a> system for vehicle battles in Discord, including naval, land, and air. See these <a href="docs/wow-conquest/intro">resources</a>!
       </>
     ),
   },
@@ -161,18 +161,18 @@ function TropicSunder() {
        
        <section >
        <div className="container">
-          <div className="row ">
+          <div className="row">
 
        {features && features.length > 0 && (
-            <div className="col col-md-3">
+            <div className="col col-md-3 thin">
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
                 ))}
             </div>
         )}
-        <div className="col-md-6 col-lg-6 hidden-xs hidden-sm"><img src="img/landing/tropic-overview.png" /></div>
+        <div className="col-md-6 col-lg-6 hidden-xs hidden-sm thin"><img src="img/landing/conquest-overview.png" /></div>
         {features2 && features2.length > 0 && (
-            <div className="col col-md-3">
+            <div className="col col-md-3 thin">
                 {features2.map((props, idx) => (
                   <Feature2 key={idx} {...props} />
                 ))}
@@ -183,13 +183,13 @@ function TropicSunder() {
           
         </section>
 
-        <div className="hero tropic--primary hero-banner" id="tropic">
+        <div className="hero conquest--primary hero-banner" id="tropic">
       <div className="container">
       <div className="row">
         
         <div className="col col--6">
-          <h1 className="blog-title">Learn what happened</h1>
-          <p className="blog-subtitle">Every night DMs posted narration information and reports on events and the campaign, crafting the story based on player achievements.</p>
+          <h1 className="blog-title">Join Our Discord</h1>
+          <p className="blog-subtitle">Discord is the backbone of our operation. All planning, announcements, and signups are run through the Discord. Join, select roles, and be welcome!</p>
           <div className="buttons-pages">
             <Link
               className={clsx(
@@ -197,22 +197,22 @@ function TropicSunder() {
                 styles.getStarted,
               )}
               to='https://discord.gg/gKg8qfj8hP'>
-              See the Narration Log
+              See You in Discord
             </Link>
           </div>
         </div>
 
         <div className="col col--6">
-          <h1 className="blog-title right">Captured Moments</h1>
-          <p className="blog-subtitle right">Everyone shared captured screenshots, journals, and more throughout the campaign. See what you missed, or remember all the great adventures!</p>
+          <h1 className="blog-title right">Follow in Twitter</h1>
+          <p className="blog-subtitle right">Our Twitter is another route for sharing information, following your adventures, and organizing with more roleplayers.</p>
           <div className="buttons-right">
             <Link
               className={clsx(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to='https://discord.gg/9HvZc6ntzE'>
-              See the Screenshots
+              to='https://twitter.com/Warcraft_Conq'>
+              Follow Us Today
             </Link>
           </div>
         </div>
@@ -220,9 +220,10 @@ function TropicSunder() {
       </div>
       </div>
         <section className='spacer'>
-
+        <h1 className='center'>Campaign Timeline</h1>
         <div className='container'>
         <div className='row center'>
+        
           <TimelineConquest />
                     
         </div>
