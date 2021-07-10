@@ -228,6 +228,9 @@ function TropicSunder() {
 
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLZhuG8NsW15HTN0zt7lTucb7PCNSjBSbrVK2Q12dywvSItaQBuiYyQyEnTQ1WqX09wgDZRfYfztMd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="577" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         
+        <h1>Zul'Gurub Event</h1>
+        <p><img src="img/landing/tropic-zg.png" /></p>
+
         <p>See <a href="https://docs.google.com/presentation/d/1_-rGWZkL5a0zFJX1d9o6TkTamqT0KAFnzII5m87Iz14">this link</a> to create a copy of the journal slidedeck.</p>
 
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTK2Hhui7-_FqMepYwnVd80T2Fp6CQ5WcYIOd3G7kPVW19EHquhI3fUHA8utsAkur9XkbP_6FMmGvOy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

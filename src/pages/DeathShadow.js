@@ -158,7 +158,8 @@ function DeathShadow() {
         <div >
         <img src="img/landing/death-shadow.png" /></div>
        </div>
-       <p><strong>Warcraft Conquest</strong> presents <strong>In Death's Shadow</strong>, a narrative and D20 campaign that will take place between September 20th - September 30th in Northrend. This will be our final campaign in Battle for Azeroth, telling the story that leads into the Shadowlands expansion. Players from Moon Guard and Wyrmrest Accord are welcome!</p></div></section>
+       <p><strong>Warcraft Conquest</strong> presents <strong>In Death's Shadow</strong>, a narrative and D20 campaign that will take place between September 20th - September 30th in Northrend. This will be our final campaign in Battle for Azeroth, telling the story that leads into the Shadowlands expansion. Players from Moon Guard and Wyrmrest Accord are welcome!</p>
+       <p><img src='img/icons/helm.png' height='30px' width='30px' /> See the <a href="https://www.icy-veins.com/forums/topic/52709-awesome-icecrown-role-play-event-one-of-the-largest-ever/">Icy Veins article</a>, <a href="https://www.reddit.com/r/wow/comments/j32dc1/moon_guard_just_wrapped_up_a_gigantic_d20_server/">Reddit post</a>, and <a href="https://imgur.com/a/p3bvzMF">incredible gallery</a>! Thank you!</p></div></section>
        
        <section >
        <div className="container">
@@ -233,6 +234,11 @@ function DeathShadow() {
 
         <h1>Campaign Events Preview</h1>
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqnwKMj2PwtMDWqNaQWbu1hnvTuvxScOc-tq2ahPvv0gOZm5qRJu1vjfPPR4kBk5f36lx5iLzrPEAo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="829" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+        <h1>Finale Event</h1>
+        <p><img src="img/landing/death-ic.png" /></p>
+
+
         </div>
         </div>
         </div>
