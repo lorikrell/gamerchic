@@ -1,8 +1,8 @@
 const items = [
   
     {
-      title: "38 L.C. Argus",
-      cardTitle: "Siege of Antoras",
+      title: "38 L.C. / January 2018 Argus",
+      cardTitle: "Siege of Antorus",
       cardSubtitle:
         "That which you have stolen will be your undoing...",
       cardDetailedText: `Replaced`,
@@ -96,7 +96,7 @@ const items = [
     {
       title: "39 L.C. / Sept 2020 Northrend",
       cardTitle: "In Death's Shadow",
-      cardSubtitle: `Red Army soldiers hoist the Soviet flag over a recaptured Stalingrad factory following the German surrender`,
+      cardSubtitle: `Forces of the Alliance and Horde descended upon the Forgotten Shore with the hopes they could put the fallen spirits to rest held in their hearts. But the rage and torment caused by the tearing of the sky made such a mission impossible to complete. `,
       cardDetailedText: `Replaced`,
         media: {
           name: "death shadow",
@@ -109,7 +109,7 @@ const items = [
     {
       title: "40 L.C. / April 2021 Stranglethorn Vale",
       cardTitle: "Tropic Sunder",
-      cardSubtitle: `British commandos of the First Special Service Brigade land on Sword Beach`,
+      cardSubtitle: `Of course. I bring de word from Zul’Gurub. We tink it be time for new leadahs here in de Vale.`,
       cardDetailedText: `Replaced`,
         media: {
           name: "tropic sunder",
