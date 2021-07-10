@@ -1,9 +1,11 @@
+// VIDEO 
 .react-player {
     object-fit: cover;
     position: absolute;
     z-index: -1;
 }
 
+//HERO for video
 .conquest-hero {
     height: calc((100vw*9) /16);
     width: 100%;
@@ -20,6 +22,14 @@
     display: block;
 }
 
+.credits {
+    position: absolute;
+    bottom: 0;
+    align-items: center;
+    opacity: 0.2;
+}
+
+// Features
 .alt-features-item {
     position: relative;
     padding-left: 55px;
@@ -42,22 +52,13 @@
     font-size: 28px;
 }
 
+// Positioning CSS
 .conquest-flex-col {
     flex-direction: column;
 }
 
 .conquest-flex-row {
     flex-direction: row;
-}
-
-#tropic {
-
-    h1, h2, h3, h4, h5, h6, .text-break {
-        word-wrap: break-word;
-        word-break: break-word;
-        font-family: 'Graduate', sans-serif; 
-      }
-
 }
 
 .conquest-title {
@@ -70,6 +71,19 @@
 
 .center {
     text-align: center;
+}
+
+// Tropic Sunder Specific
+
+// Tropic Sunder Specific
+#tropic {
+
+    h1, h2, h3, h4, h5, h6, .text-break {
+        word-wrap: break-word;
+        word-break: break-word;
+        font-family: 'Graduate', sans-serif; 
+      }
+
 }
 
 .tropic--primary {

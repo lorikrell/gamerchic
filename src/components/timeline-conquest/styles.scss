@@ -1,0 +1,59 @@
+.timeline {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+  }
+
+  .timeline-item-title {
+    background-color: transparent !important;
+    font-size: 1.3rem !important;
+}
+
+.card-title {
+        color: var(--ifm-color-primary-darker) !important;
+        font-size: 1.25rem !important;
+    }
+
+html[data-theme="dark"] {
+
+    .card-sub-title {
+        color: #fff;
+    }
+    
+    .card-description {
+        p {
+            color: #fff !important;
+        }
+    }
+    
+    
+    
+}
+
+html[data-theme="light"] {
+
+    .timeline-card-content {
+        background-color: #e1e1e1 !important;
+    }
+    
+    .card-sub-title {
+        color: #121212;
+    }
+    
+    .card-description {
+        p {
+            color: #121212 !important;
+        }
+    }
+    
+    }
+
+.card-media-wrapper {
+    min-height: 300px !important;
+}
+
+/*
+
+.card.media.wrapper {
+    min-height: initial;
+}
+*/

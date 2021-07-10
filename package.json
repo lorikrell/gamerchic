@@ -27,6 +27,7 @@
     "file-loader": "^6.2.0",
     "plugin-image-zoom": "github:ataft/plugin-image-zoom",
     "react": "^17.0.1",
+    "react-chrono": "^1.10.0",
     "react-dom": "^17.0.1",
     "react-iframe": "^1.8.0",
     "react-player": "^2.9.0",

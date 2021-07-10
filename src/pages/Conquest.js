@@ -8,14 +8,15 @@ import styles from './index.module.css';
 import ReactPlayer from 'react-player/youtube';
 import './conquest.scss';
 import Iframe from 'react-iframe';
+import TimelineConquest from '../components/timeline-conquest/TimelineConquest';
 
 const features = [
   {
     title: 'Open to All',
-    imageUrl: 'img/icons/knight.png',
+    imageUrl: 'img/icons/witch.png',
     description: (
       <>
-         IC campaign across all US servers and factions: Alliance, Horde, and Neutral. Based on Moon Guard - US. We welcome new DMS and players!
+        We welcome new and veteran DMs to build campaigns and run events with us. We provide DM workshops, Discord channels to plan, event marketing, and signup management.
       </>
     ),
   },
@@ -42,11 +43,11 @@ const features = [
 
 const features2 = [
   {
-    title: 'Stranglethorn Vale',
-    imageUrl: 'img/icons/globe.png',
+    title: 'Storytelling',
+    imageUrl: 'img/icons/storytelling.png',
     description: (
       <>
-        Events take place across the jungles, rivers, camps, Zul'Gurub outside instance, and Booty Bay. Chromie time not recommended.
+        Explore your character story through battles, roleplay, events, and writing prompts. We provide in-game and in-Discord options to explore. Stock up on <a href="https://www.wowhead.com/item=2460/elixir-of-tongues">Elixir of Tongues</a>!
       </>
     ),
   },
@@ -105,13 +106,13 @@ function TropicSunder() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
-    <Layout title="Tropic Sunder" 
-    description="Warcraft Conquest presented Tropic Sunder, a campaign set in Stranglethorn Vale in Spring 2021. Learn more about this campaign and others!">
+    <Layout title="Warcraft Conquest" 
+    description="Warcraft Conquest is a community driven roleplay team of DMs and players based on Moon Guard. We present story arcs and campaigns set throughout Azeroth and beyond with a focus on warfare and diplomacy.">
       <header className='conquest-header'>
       <div className='conquest-hero' id='tropic'>
       <ReactPlayer 
       className='react-player'
-      url='https://www.youtube.com/v/8WwwnQge8KA?version=3&vq=hd1080' 
+      url='https://www.youtube.com/v/S92r_gv-N0c?version=3&vq=hd1080&t=5&playlist=S92r_gv-N0c' 
       loop
       playing
       muted
@@ -124,7 +125,7 @@ function TropicSunder() {
       }}
       
       />
-        <h1 className='conquest-title'>Tropic Sunder</h1>
+        <h1 className='conquest-title'>Warcraft Conquest</h1>
 
         <div className="buttons-pages">
             <Link
@@ -136,6 +137,9 @@ function TropicSunder() {
               Join the Fight
             </Link>
           </div>
+          <div className='credits'>
+          <p>Video by <a href="https://www.youtube.com/channel/UCwmkSpfuE47IL0yaG6QqQNg">IKEdit</a></p>
+          </div>
       </div>
       </header>
 
@@ -145,16 +149,14 @@ function TropicSunder() {
         <div className='row'>
         <div className="col col-md-6">
 
-        <h1>April 4 - 10, 2021 | Stranglethorn Campaign</h1>
+        <h1>Roleplay & Roll Play, Battles for Azeroth</h1>
           
-        <p>Stranglethorn, the everblooming jewel of the southern Eastern Kingdoms, is lush and rife with flora, fauna, and people of all cultures. As the Horde and Alliance have settled their war and the shadow of Death looms over the world, threats have risen deep within the tropical wilderness. Skirmishes with the remnants of Colonel Kurzen's rebellion have brought the attention of the humans of Stormwind. The Zandalari's new allegiance to the Horde has sparked dissent among the Gurubashi Trolls; slights and years of war against them are not so easily forgiven. Dark forces are afoot, stirring these tensions and preparing for a dark ritual. The jungle holds many dangers, but those who know where to look will find riches beyond imagining.</p>
+        <p>The <strong>Warcraft Conquest Discord Server</strong> is a community project that focuses on coordinating fun and dynamic roleplay plot lines set in the Warcraft universe, conducted through dungeon mastered PvE-D20, PvP-D20, RP-PvE, and RP-PvP events. We hope to provide a platform for networking and collaboration for players on the Moon Guard-US and Wyrmrest Accord-US World of Warcraft servers, and others wishing to join! Many immersive graphical and written resources have been created by members of this project that any player may use in their roleplay.</p>
 
-        <p>Warcraft Conquest presents Tropic Sunder, a narrative and D20 campaign that will take place between April 4-10th, 2021, in Stranglethorn Vale. Roleplayers and Dungeon Masters are welcome, with events hosted on Moon Guard-US.</p>
-
-        <p><img src='img/icons/helm.png' height='30px' width='30px' /> <a href="https://docs.google.com/document/d/1YaWnGtB4lB6V5PlR7Eh0sWr3CzHcyncvWl0SnQrG6a4/edit" target="_blank">Alliance roster</a> | <a href="/img/landing/tropic-horde.jpg" target="_blank">Horde roster</a></p>
+        <p>We welcome players of diverse backstories and themes to our events, including all factions Alliance, Horde, Argent, and other neutral and independent forces. Campaigns welcome IC conflict and resolution, respectful of player boundaries and fairness. See our <a href="https://docs.google.com/document/d/1IUQtgYVFPPIYiwoNKvw8yVeVvzPuvR708CCWUITAEJE/preview">Code of Conduct.</a></p>
         </div>
         <div >
-        <img src="img/landing/tropic-logo.png"/></div>
+        <img src="img/landing/wc-logo.png"/></div>
        </div></div></section>
        
        <section >
@@ -220,15 +222,9 @@ function TropicSunder() {
         <section className='spacer'>
 
         <div className='container'>
-        <div className='row'>
-        <div className="col col-md-6 center">
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdT1954PxagEt0kVhvz3ZvQK92IlNjGh4U9O82N0eSDkIzB1mP673WsBjBl-QFnrjJApAaalA605xl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="577" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSP9oZzf6axVjLde32DUCylbWzR9Xiyydg96HcAaxkX_afw7uw6qy0u0wqBs6KJjIBysZBtJQZbinOP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="615" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLZhuG8NsW15HTN0zt7lTucb7PCNSjBSbrVK2Q12dywvSItaQBuiYyQyEnTQ1WqX09wgDZRfYfztMd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="577" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-        </div>
+        <div className='row center'>
+          <TimelineConquest />
+                    
         </div>
         </div>
 
