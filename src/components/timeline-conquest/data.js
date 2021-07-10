@@ -1,7 +1,7 @@
 const items = [
   
     {
-      title: "38 L.C. / January 2018 Argus",
+      title: "38 L.C. / Jan 2018 Argus",
       cardTitle: "Siege of Antorus",
       cardSubtitle:
         "That which you have stolen will be your undoing...",
@@ -15,7 +15,7 @@ const items = [
       }
     },
     {
-      title: "38 L.C. / March 2019 Conquest of Zandalar",
+      title: "38 L.C. / March 2019 Zandalar",
       cardTitle: "Conquest of Zandalar",
       cardSubtitle: `No, I will not surrender. Because no matter what happens here today... Zandalar will stand long after your Alliance has crumbled to dust.`,
       cardDetailedText: `Replaced`,

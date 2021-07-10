@@ -3,7 +3,7 @@
     text-align: center;
   }
 
-  .timeline-item-title {
+.timeline-item-title {
     background-color: transparent !important;
     font-size: 1.3rem !important;
 }
@@ -51,9 +51,16 @@ html[data-theme="light"] {
     min-height: 300px !important;
 }
 
-/*
+@media screen and (max-width: 500px) {
 
-.card.media.wrapper {
-    min-height: initial;
+    .timeline-item-title {
+        background-color: transparent !important;
+        font-size: .9rem !important;
+        text-align: left !important;
+        text-decoration: none !important;
+    }
+
+    .card-media-wrapper {
+        min-height: 150px !important;
+    }
 }
-*/

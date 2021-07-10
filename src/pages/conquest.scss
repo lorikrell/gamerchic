@@ -157,3 +157,37 @@
       }
 
 }
+
+// Google Slides
+
+.responsive-google-slides iframe {
+    border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: 960px;
+    max-height: 700px;
+    height: 100%;
+}
+
+.responsive-google-slides {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  padding-top: 75%;
+}
+
+
+
+@media screen and (max-width: 500px) {
+    .conquest-title {
+        font-size: 2rem !important;
+        color: #fff;
+    }
+    #tropic, #death {
+        .blog-title {
+            font-size: 1.5rem !important;
+          }
+    }
+}
