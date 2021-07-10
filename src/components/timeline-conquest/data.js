@@ -13,19 +13,6 @@ const items = [
         }
     },
     {
-      title: "39 L.C. / May 2020",
-      cardTitle: "Visions of the Vale",
-      cardSubtitle: `“The accused has been found guilty of crimes against the Pandaren people, and treason against brothers and sisters-in-arms in the campaign against N’zoth.” The dreamer’s sleep was interrupted--`,
-      cardDetailedText: `Replaced`,
-        media: {
-          name: "visions vale",
-          source: {
-            url: "img/landing/vision-vale.png"
-          },
-          type: "IMAGE"
-        }
-    },
-    {
       title: "39 L.C. / Sept 2020",
       cardTitle: "In Death's Shadow",
       cardSubtitle: `Forces of the Alliance and Horde descended upon the Forgotten Shore with the hopes they could put the fallen spirits to rest held in their hearts. But the rage and torment caused by the tearing of the sky made such a mission impossible to complete. `,
@@ -34,6 +21,19 @@ const items = [
           name: "death shadow",
           source: {
             url: "img/landing/death-shadow.png"
+          },
+          type: "IMAGE"
+        }
+    },
+    {
+      title: "39 L.C. / May 2020",
+      cardTitle: "Visions of the Vale",
+      cardSubtitle: `“The accused has been found guilty of crimes against the Pandaren people, and treason against brothers and sisters-in-arms in the campaign against N’zoth.” The dreamer’s sleep was interrupted--`,
+      cardDetailedText: `Replaced`,
+        media: {
+          name: "visions vale",
+          source: {
+            url: "img/landing/vision-vale.png"
           },
           type: "IMAGE"
         }
