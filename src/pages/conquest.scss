@@ -191,3 +191,15 @@
           }
     }
 }
+
+@media screen and (max-width: 996px) {
+    .conquest-title {
+        font-size: 3rem !important;
+        color: #fff;
+    }
+    #tropic, #death {
+        .blog-title {
+            font-size: 1.5rem !important;
+          }
+    }
+}
