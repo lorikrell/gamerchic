@@ -42,11 +42,11 @@ const features = [
 
 const features2 = [
   {
-    title: 'Stranglethorn Vale',
+    title: 'Northrend',
     imageUrl: 'img/icons/globe.png',
     description: (
       <>
-        Events take place across the jungles, rivers, camps, Zul'Gurub outside instance, and Booty Bay. Chromie time not recommended.
+        Events take place across the distant northern lands of Northrend. Landing in Dragonblight, forces set up camp and begin the trek to Icecrown Citadel.
       </>
     ),
   },
@@ -101,17 +101,17 @@ function Feature2({imageUrl, title, description}) {
   );
 }
 
-function TropicSunder() {
+function DeathShadow() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
-    <Layout title="Tropic Sunder" 
-    description="Warcraft Conquest presented Tropic Sunder, a campaign set in Stranglethorn Vale in Spring 2021. Learn more about this campaign and others!">
+    <Layout title="In Death's Shadow" 
+    description="Warcraft Conquest presented In Death's Shadow, a campaign set in Northrend in Fall 2020. Learn more about this campaign and others! https://youtu.be/LwngFEIg8Kw?t=12">
       <header className='conquest-header'>
-      <div className='conquest-hero' id='tropic'>
+      <div className='conquest-hero' id='death'>
       <ReactPlayer 
       className='react-player'
-      url='https://www.youtube.com/v/8WwwnQge8KA?version=3&vq=hd1080' 
+      url='https://www.youtube.com/v/LwngFEIg8Kw?version=3&vq=hd1080&t=14' 
       loop
       playing
       muted
@@ -124,7 +124,7 @@ function TropicSunder() {
       }}
       
       />
-        <h1 className='conquest-title'>Tropic Sunder</h1>
+        <h1 className='conquest-title'>In Death's Shadow</h1>
 
         <div className="buttons-pages">
             <Link
@@ -136,26 +136,29 @@ function TropicSunder() {
               Join the Fight
             </Link>
           </div>
+          <div className='credits'>
+          <p>Video by <a href="https://www.youtube.com/channel/UCwmkSpfuE47IL0yaG6QqQNg">IKEdit</a></p>
+          </div>
       </div>
       </header>
 
-      <main id='tropic'>
+      <main id='death'>
       <section className='spacer'>
         <div className='container'>
         <div className='row'>
         <div className="col col-md-6">
 
-        <h1>April 4 - 10, 2021 | Stranglethorn Campaign</h1>
+        <h1>September 20 - 30 2020 | Northrend Campaign</h1>
           
-        <p>Stranglethorn, the everblooming jewel of the southern Eastern Kingdoms, is lush and rife with flora, fauna, and people of all cultures. As the Horde and Alliance have settled their war and the shadow of Death looms over the world, threats have risen deep within the tropical wilderness. Skirmishes with the remnants of Colonel Kurzen's rebellion have brought the attention of the humans of Stormwind. The Zandalari's new allegiance to the Horde has sparked dissent among the Gurubashi Trolls; slights and years of war against them are not so easily forgiven. Dark forces are afoot, stirring these tensions and preparing for a dark ritual. The jungle holds many dangers, but those who know where to look will find riches beyond imagining.</p>
+        <p>The eternal veil screams, torn asunder above the frozen wastes of Icecrown. Even as the shattered sky presents terrifying new threats, an old enemy has been released from the shackles that once bound them. Guided by a sinister hand from beyond, undead swarm across Azeroth to take advantage of a world weakened by strife.</p>
 
-        <p>Warcraft Conquest presents Tropic Sunder, a narrative and D20 campaign that will take place between April 4-10th, 2021, in Stranglethorn Vale. Roleplayers and Dungeon Masters are welcome, with events hosted on Moon Guard-US.</p>
+        <p>The Alliance and Horde must now muster their war-wearied armies and sail north with all haste to aid the Argent Crusade in confronting the renewed Scourge onslaught. They must find some way to achieve victory, or forever be condemned to torment...In Death's Shadow.</p>
 
-        <p><img src='img/icons/helm.png' height='30px' width='30px' /> <a href="https://docs.google.com/document/d/1YaWnGtB4lB6V5PlR7Eh0sWr3CzHcyncvWl0SnQrG6a4/edit" target="_blank">Alliance roster</a> | <a href="/img/landing/tropic-horde.jpg" target="_blank">Horde roster</a></p>
         </div>
         <div >
-        <img src="img/landing/tropic-logo.png"/></div>
-       </div></div></section>
+        <img src="img/landing/death-shadow.png" /></div>
+       </div>
+       <p><strong>Warcraft Conquest</strong> presents <strong>In Death's Shadow</strong>, a narrative and D20 campaign that will take place between September 20th - September 30th in Northrend. This will be our final campaign in Battle for Azeroth, telling the story that leads into the Shadowlands expansion. Players from Moon Guard and Wyrmrest Accord are welcome!</p></div></section>
        
        <section >
        <div className="container">
@@ -168,7 +171,7 @@ function TropicSunder() {
                 ))}
             </div>
         )}
-        <div className="col-md-6 col-lg-6 hidden-xs hidden-sm center"><img src="img/landing/tropic-overview.png" className="imgwide"/></div>
+        <div className="col-md-6 col-lg-6 hidden-xs hidden-sm center"><img src="img/landing/shadow-overview.png" className="imgwide"/></div>
         {features2 && features2.length > 0 && (
             <div className="col col-md-3">
                 {features2.map((props, idx) => (
@@ -181,7 +184,7 @@ function TropicSunder() {
           
         </section>
 
-        <div className="hero tropic--primary hero-banner" id="tropic">
+        <div className="hero death--primary hero-banner" id="death">
       <div className="container">
       <div className="row">
         
@@ -194,7 +197,7 @@ function TropicSunder() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to='https://discord.gg/gKg8qfj8hP'>
+              to='https://discord.gg/vUp9G7BaqR'>
               See the Narration Log
             </Link>
           </div>
@@ -209,7 +212,7 @@ function TropicSunder() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to='https://discord.gg/9HvZc6ntzE'>
+              to='https://discord.gg/zvRfQQzVu2'>
               See the Screenshots
             </Link>
           </div>
@@ -222,16 +225,14 @@ function TropicSunder() {
         <div className='container'>
         <div className='row'>
         <div className="col col-md-6 center">
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdT1954PxagEt0kVhvz3ZvQK92IlNjGh4U9O82N0eSDkIzB1mP673WsBjBl-QFnrjJApAaalA605xl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="577" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+          <h1>Campaign Camps</h1>
+        <p>Camps for the campaign, beginning in Dragonblight and ending in Icecrown.</p>
+        <p><img src="img/landing/camp-wintergarde.jpg" /></p>
+        <p><img src="img/landing/camp-agmar.jpg" /></p>
+        <p><img src="img/landing/camp-icecrown.jpg" /></p>
 
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSP9oZzf6axVjLde32DUCylbWzR9Xiyydg96HcAaxkX_afw7uw6qy0u0wqBs6KJjIBysZBtJQZbinOP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="615" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLZhuG8NsW15HTN0zt7lTucb7PCNSjBSbrVK2Q12dywvSItaQBuiYyQyEnTQ1WqX09wgDZRfYfztMd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="577" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-        
-        <p>See <a href="https://docs.google.com/presentation/d/1_-rGWZkL5a0zFJX1d9o6TkTamqT0KAFnzII5m87Iz14">this link</a> to create a copy of the journal slidedeck.</p>
-
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTK2Hhui7-_FqMepYwnVd80T2Fp6CQ5WcYIOd3G7kPVW19EHquhI3fUHA8utsAkur9XkbP_6FMmGvOy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+        <h1>Campaign Events Preview</h1>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqnwKMj2PwtMDWqNaQWbu1hnvTuvxScOc-tq2ahPvv0gOZm5qRJu1vjfPPR4kBk5f36lx5iLzrPEAo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="829" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </div>
         </div>
         </div>
@@ -244,4 +245,4 @@ function TropicSunder() {
   );
 }
 
-export default TropicSunder;
+export default DeathShadow;

@@ -131,3 +131,29 @@
     background-size: cover;
     background-position: bottom center;
   }
+
+.death--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/death-bottom.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+  }
+
+  // death's shadow Specific
+#death {
+
+    h1, h2, h3, h4, h5, h6, .text-break {
+        word-wrap: break-word;
+        word-break: break-word;
+        font-family: 'Cormorant SC', sans-serif; 
+      }
+    
+    h3 {
+          font-size: 1.2rem;
+      }
+
+}

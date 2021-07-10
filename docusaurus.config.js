@@ -73,6 +73,10 @@ module.exports = {
               label: 'Tropic Sunder',
             },
             {
+              to: 'DeathShadow',
+              label: 'In Death\'s Shadow',
+            },
+            {
               href: 'https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/edit?usp=sharing',
               label: 'Conquest d20 Rules',
             },
