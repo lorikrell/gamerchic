@@ -221,6 +221,7 @@ blockquote {
 
 .hero__title {
   text-transform: capitalize;
+  font-size: 4rem !important;
 }
 
 .hero--primary {
@@ -232,6 +233,11 @@ blockquote {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  
+}
+
+.hero {
+  padding: 16rem 2rem !important;
 }
 
 .faq--primary {
@@ -265,7 +271,7 @@ blockquote {
 }
 
 .hero-banner {
-  text-align: left !important;
+  text-align: center !important;
 }
 
 .blog-title {
@@ -788,6 +794,15 @@ html[data-theme='dark'] .admonition-sonceri {
 }
 
 @media screen and (max-width: 500px) {
+
+  .hero {
+    padding: 4rem 2rem !important;
+  }
+
+  .hero__title {
+    text-transform: capitalize;
+    font-size: 2rem !important;
+  }
 
   /*.docs-wrapper {
     background-image: 
