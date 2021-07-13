@@ -759,6 +759,13 @@ html[data-theme='dark'] .admonition-sonceri {
     color: #fff !important;
   }
 
+  .hero--primary {
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/landing-hero-med.jpg") !important;
+  }
+
   .menu__link--sublist:after {
     background: var(--ifm-menu-link-sublist-icon) 50% / 2rem 2rem;
     content: ' ';
@@ -789,6 +796,22 @@ html[data-theme='dark'] .admonition-sonceri {
 
   .version::before {
     content: unset !important;
+  }
+
+}
+
+@media screen and (max-width: 770px)  {
+
+  .hero--primary {
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/landing-hero-mobilelg.jpg") !important;
+  }
+
+  .hero__title {
+    text-transform: capitalize;
+    font-size: 3rem !important;
   }
 
 }
