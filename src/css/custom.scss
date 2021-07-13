@@ -233,7 +233,17 @@ blockquote {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  
+  background-color: transparent !important;
+  -webkit-mask-image: url("../../static/img/landing/landing-mask.png");
+  mask-image: url("../../static/img/landing/landing-mask.png");
+  //-webkit-mask-image: linear-gradient(to top, transparent 5%, black 25%);
+  //mask-image: linear-gradient(to top, transparent 5%, black 25%);
+  //box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.mask1 {
+  -webkit-mask-image: linear-gradient(to top, transparent 5%, black 75%);
+  mask-image: linear-gradient(to top, transparent 5%, black 75%);
 }
 
 .hero {
@@ -764,6 +774,7 @@ html[data-theme='dark'] .admonition-sonceri {
       linear-gradient(rgba(0,0,0,0.1),
       rgba(0,0,0,0.65)),
       url("../../static/img/landing/landing-hero-med.jpg") !important;
+    height: 713px;
   }
 
   .menu__link--sublist:after {
@@ -842,6 +853,9 @@ html[data-theme='dark'] .admonition-sonceri {
       linear-gradient(rgba(0,0,0,0.1),
       rgba(0,0,0,0.65)),
       url("../../static/img/landing/landing-hero-mobile.jpg") !important;
+      height: 375px;
+      -webkit-mask-image: url("../../static/img/landing/landing-hero-mobilemask.png");
+      mask-image: url("../../static/img/landing/landing-hero-mobilemask.png");
   }
   .feedback-edit {
     text-align: left !important;
