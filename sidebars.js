@@ -21,8 +21,15 @@ module.exports = {
       type: 'category',
       label: 'DM & Storyeller Resources',
       items: [
-        'investigations',
-        'horror',
+        {
+          type: 'category',
+          label: 'Event Guides',
+          items: [
+            'events-campaigns',
+            'investigations',
+            'horror',
+          ]
+        },
         'photoshop/fonts-brushes',
         'photoshop/coins',
         'photoshop/wax-seals',

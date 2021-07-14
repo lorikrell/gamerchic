@@ -55,9 +55,9 @@ The following are a few building blocks of story and mechanics to consider when 
 **Decide on what kind of fear and horror you want to express.** This gives you a theme to work with. Here are some theme examples:
 
 * *Gorefest*: A joyride through death like Mad Max Fury Road or Freddy in Nightmare on Elm Street. War, murder, deviltry all with a high death count can be the crux of horror. What would players to do stop it? What is driving the murder?
-* *Hooked on a Feeling*: Typically considered a psychological horror, pick an emotion and take it too far. How can love become twisted and torn? Perhaps the antagonist kills everyone in their path to gain the object of their desire, lying, killing, and capitalizing on situations. What would the villain need to commit for a perfect sense of peace? They may need to destroy all considered evil or mind control those that refuse to live by the rules.
+* *Psychological Horror*: Consider this type "hooked on a feeling". Pick an emotion and take it too far. How can love become twisted and torn? Perhaps the antagonist kills everyone in their path to gain the object of their desire, lying, killing, and capitalizing on situations. What would the villain need to commit for a perfect sense of peace? They may need to destroy all considered evil or mind control those that refuse to live by the rules.
 * *Ghost Stories*: Look through all of the amazing supernatural ghosts available and craft a tale. Why does it remain, not contiuing to their afterlife? What will players need to resolve? 
-* Aberration Terror: These are creatures from the beyond, cosmic horror, strange and alien concepts that cause madness. How do you dispel or return the evil? Who brought it and what keeps it here? How do you stop something summoned by cults or reawakened by accidental sacrifice in an old ruin, or released from magicial bonds.
+* *Aberration Terror*: These are creatures from the beyond, cosmic horror, strange and alien concepts that cause madness. How do you dispel or return the evil? Who brought it and what keeps it here? How do you stop something summoned by cults or reawakened by accidental sacrifice in an old ruin, or released from magicial bonds.
 * *Cursed Creations*: These are considered classic cult creatures including vampires, werewolves, and mummies. They have intelligence, a past. Are they tragic, long lived and hating it? Do they despise themselves and seek to spread the curse? Are they awakened by rituals and spells or disturbed awake? Other curses could be nature gone wild, magic or science accidents. Lepergnomes... 
 * *Utopic/Dystopic*: Take the extremes of perfection and apocalyptic worlds and turn it into a tale. These sometimes require a setting, but can work as a singular event or campaign.
 * *Body Horror*: This type can truly disturb or freak out your players. The body turning on itself or against the owners mind, twisted creations, shaped flesh can delve far into descriptions that can sicken. But the tales can also be incredible.
@@ -147,6 +147,35 @@ The classic body horror... The Thing
 
 :::
 
+## Building a Horror Event
+
+To build an entire horror campaign starts with smaller ideas, key villains, and arcing plots. Before coming up with a campaign, let's start with an initial event to start. For these steps, we will create two types of horror events: psychological horror and  splatterfest gore horror.
+
+See [How to Run Events & Campaigns](best-practice.md) for information and the following tips for horror:
+
+* Give your event and horror a theme. This can help you form ideas and give your players expectations. For example: ravaged by a curse, haunted mansion, rise of the dead, ritual gone bad, becoming a lich, death knights breaking from service, the fallen rightous, monster attacks, stolen artifact of a major power, murderous designs.
+* If the evil can be ended, have multiple methods for players to learn what is needed, materials/weapons/prayers to end the threat, NPCs to aid in resolving issues, and other ideas for conflict. If you tie everything to one or two places and items, they may not catch on and miss opportunities.
+* Provide NPCs and items that will have details to help, some may not know what they have or found, some may demand payment for the information. This can also be an interesting hook for a fight, learning the past, determining weaknesses, creating a solution, and so on.
+
+### Craft the Villain
+
+Every tale of terror has an antagonist, be it a person, location, supernatural element, and so on. To increase the drama and tale, consider building this villain as you would the entire campaign or a character you would love to play. Give them strengths and flaws, capable of bein truly diabolical or aiding others to become horrific. While I could write a ton of ideas, [WoW DMing](https://discord.gg/RNT6sv9) DM Craft has tackled that for us! 
+
+For a great guide on crafting villains, see [DM Craft's Antagonist](https://docs.google.com/document/d/1WCiAq1DM3SOYQm0cVX3L34HkXBE8bOZbJ_QcG1DMbSI/edit) guide.
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSn_gXuLiuw-psDCKwJfCUxpto4djovHJMVMeDdItv7sy5lrpjV_L0HKxw9BDNqsgVDKvaXQv5u1q19/pub?embedded=true" width="100%" height="500px;"></iframe>
+
+For uncommon antagonists, more guidelines and information will follow. Coming soon!
+
+### Set the Horror Stage
+Determine what the horror event is. This could be a couple sentences, which gives you something fantastic to give players when starting the event.
+
+<div id="vhilit">
+
+* **Lady VanDain's Invitation**: Psychological horror of a haunted mansion where the host has turned trespassers and visitors into statuary in a garden, extending the life of a dying child with their enchantment. The party arrives based on your story needs, such as a summons by a host, investigating lost friends, seeking a missing carriage, or idle curiosity.
+* **Mark of the Golden Hand**: A slaughter horror adventure set in a market fallen to a cult. Those in the city district that fell asleep now waken to chanting outside their windows, a pain in their palms. There a brilliant sigil of some maddening language burns. Cultists have started killing all of those marked, blood for the blood god.
+
+</div>
 
 ## How to Write Horror
 
@@ -168,7 +197,26 @@ When developing your events and campaigns, I recommend writing content for scene
 
 ### Writing Exercise
 
-A great exercise to find your dark voice is to search for a piece of art that disturbs you (painting, scene, movie trailer, but of dialogue) and write about it. Now write about this piece using ever sense. Need a little help? Reach for a [thesaurus](https://www.thesaurus.com/)! Writer resources can also help, like [240 Dark Words](https://grammar.yourdictionary.com/word-lists/240-dark-words-for-more-descriptive-writing.html).
+A great exercise to find your dark voice is to search for a piece of art that disturbs you (painting, scene, movie trailer, character) and write about it. Consider every sense to evoke a felt place and specific sensation. Need a little help? Reach for a [thesaurus](https://www.thesaurus.com/) and writer resources, such as [240 Dark Words](https://grammar.yourdictionary.com/word-lists/240-dark-words-for-more-descriptive-writing.html). 
+
+For this exercise, determine the emotions you want to convery, the kind of horror, consider colors, seasons, imagery, to find little details for players to latch on to. In this example, using this video of ambience and movie still from Crimson Peak.
+
+<Iframe url="https://www.youtube.com/embed/5hBAXcsm4_Y"
+        width="854px"
+        height="480px"
+        id="myId"
+        className="video-container"
+        display="initial"
+        position="relative"
+        allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        />
+
+* **Emotion to convey**: Unsettled, moldering house and slight rot points to the inherent darkness in the location and owner
+* **Colors to focus on**: Tarnished gold, patina of rotted greens, neverending autumn on the verge of winter.
+* **Aspect of horror**: Theft and betrayal, more emotional with bouts of warfare, less blood and gore.
+
+The writing is coming soon!
 
 ## MORE COMING SOON!
 

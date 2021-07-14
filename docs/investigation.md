@@ -71,55 +71,22 @@ You can find a ton of incredible sources for inspiration. Here are just a few:
 ## Building an Investigation
 The following exercise will guide you through creating investigations for your events and campaigns. As we go, we will create two types of investigations as examples: dead body in a library (yay Clue references) and scouting party in the woods. 
 
-<div id="hilit">
+See [How to Run Events & Campaigns](best-practice.md) for information and the following tips for investigations:
 
-**Some best practices as we start:**
-
-* Create a Google Doc to plan, even if it is simple planning. While battles can easily be tossed together in game, investigations do need thought, prep, tracking specifics.
-* Create lists for quick ideas. Come up with some minor to major NPCs, items, locations, side ideas, quotes, top three things that matter, list of names to pick and choose from. This saves time and keeps you from accidentally giving incorrect info.
-* Give your event and investigation a theme. This can help you form ideas, find locations, pull from existing sources, and hone in player expectations. For example: theft at the magic school, murder at the party, spy vs spy, thieves guild challenge, town invasion, rival groups arriving at the same ruins, the cursed blade, theft at the wedding, kidnapping of the mayor's son, the lost squad, and so on.
-* Have multiple methods for players to find the clues and focus of the investigation. If you tie everything to one or two places and items, they may not catch on and investigate those.
-* Provide NPCs that will have details to help, some may not know what they have or found, some may demand payment for the information. This can also be an interesting hook for a fight, adventure, deal making, etc. 
-
-**For MMO-RPGs like World of Warcraft:**
-
-* Go in game, take screenshots, and plan your route. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit?usp=sharing).
-* Don’t depend on addons. They are great, but if you have a diverse group coming to an event, players will get left behind. 
-* Some addons are your friend:
-
-  * [Mega Macro](https://www.curseforge.com/wow/addons/mega-macro). Manage multiple macros, easily, globally recommended, with long descriptions (1023 characters). 
-  * [TotalRP3](https://www.curseforge.com/wow/addons/total-rp-3) gives you a method of creating NPC profiles you can wear interchangably for players to interact with. [TRP3 Extended](https://www.curseforge.com/wow/addons/total-rp-3-extended) allows you to create custom items, but requires others to have it. 
-  * [Listener](https://www.curseforge.com/wow/addons/listener) pings when mentioned, great for long text. 
-  * [Sessions](https://www.curseforge.com/wow/addons/sessions-messenger) helps with text, long messages, message history, and more.
-  * [Elephant](https://www.curseforge.com/wow/addons/elephant) saves chat logs, great for keeping track of long investigation events and campaigns.
-
-* Collect and use grey items to hand out as evidence they find. You can search WoWHead for some incredible options.
-* Use raid icons in your notes and in game.
-
-  * In game and in macros/copy paste content, use these codes: 
-
-    `{skull}`, `{cross}`, `{square}`, `{star}`, `{circle}`, `{triangle}`, `{moon}`, `{diamond}`
-
-  * Here are some images to save and use for your Google Docs and Drawings: 
-
-    ![skull](/img/icons/skull.png) ![cross](/img/icons/cross.png) ![square](/img/icons/square.png) ![star](/img/icons/star.png) ![circle](/img/icons/circle.png) ![triangle](/img/icons/triangle.png) ![moon](/img/icons/moon.png) ![diamond](/img/icons/diamond.png)
-
-
-**For tabletop adventures: **
-
-* Find a good battlemap or print out blueprints to houses and buildings. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit?usp=sharing).
-* If you don't have battlemaps, consider digging into board games or online images of those game boards for neat ideas to give an immersive scene and evidence.
-* Use household objects to hand over as evidence, provide packets of notes with images describing what they find, giving players the choice of sharing or keeping the knowledge.
-* Find incredible playlists for a creepy mood on Spotify or Youtube. Find incredible music and effects with [Syrinscape](https://syrinscape.com/), [Tabletop Audio](https://tabletopaudio.com/), and [BattleBards](https://battlebards.com/#/home).
-* For mood lighting, add LED candles and lanterns to the table, turn off lights, add halloween or holiday lights (check it out [Sebastian's set up](https://www.youtube.com/watch?v=QJGtD0NtHkI)). 
-
-</div>
+* Give your investigation a theme. This can help you form ideas, find locations, pull from existing sources, and hone in player expectations. For example: theft at the magic school, murder at the party, spy vs spy, thieves guild challenge, town invasion, rival groups arriving at the same ruins, the cursed blade, theft at the wedding, kidnapping of the mayor's son, the lost squad, and so on.
+* Create lists of items and clues players can find throughout the investigation. Mark multiple places and NPCs holding the information.
+* Pay attention to player ideas. They may leap to conclusions that are better or interesting. Keep note of their ideas to slip into other aspects of your events. This gives players a sense of being on the right track.
+* If players come to incorrect conclusions, let them go down the wrong track so far. If they need to be lead back to the plot, offer rolls or spark conversion, give whispers or info directly to some players, let them find their path.
 
 ### Set the Investigation
 Determine what the investigation is. This could be a couple sentences, which gives you something fantastic to give players when starting the event. Optional details could be title, NPCs, etc. Just don’t overwhelm yourself with details yet.
 
+<div id="hilit">
+
 * **What happened to Lord Ferris?** Potential investigations his murder or kidnapping. This investigation will occur in one room. For this guide, going with murder in a house.
 * **Tracking around camp.** Potential investigation enemies set up traps and spying or camped near ruins filled with ghosts. This investigation will move from one location to the next. For this guide, going with enemies spying on a camp.
+
+</div>
 
 ### Set Key Factors
 When you have a scene coming up that may incur investigations, give yourself key information to fall back on.
@@ -128,31 +95,32 @@ When you have a scene coming up that may incur investigations, give yourself key
 * What clues lead from this item/situation? Consider minor to major, directly connected to the object of investigation/the culprits or loosely affiliated to the actual scene.
 * Who or what is connected to the item/situation? What are the motivations?
 
-| | Dead Body | Forest Trail |
+| | Dead Lord Ferris | Forest Trail at Camp |
 | -- | -- | -- |
 | What can they investigate? | <ul><li>Dead body & pockets</li><li>Weapon in back</li><li>Empty scroll case on body</li><li>Trashed desk</li><li>Trashed bookcase</li><li>Beautiful rug body is on</li></ul> | <ul><li>The trail and surrounding dirt and grass</li><li>Nearby trees and bushes</li><li>Odd hollows and mounds in the ground</li></ul> |
 |Clues from the area? | <ul><li>The dagger in the back has a house symbol</li><li>The scrollcase is lead lined and empty, whatever in it taken</li><li>His clothing is disheveled, wine spattered, little blood, with a ripped coat where the scrollcase was</li><li>The trashed desk and bookcase marks someone searching for something - finding it in the scrollcase</li><li>The rug is seeped through with wine, very little blood, no goblet or glass is there</li></ul> | <ul><li>The trail is old, little more than a game path through the trees, but the area has a bit more growth than it should</li><li>A bush or two has been moved, holes dug and bushes from nearby moved closer to the camp</li><li>Some branches have been snapped/cut to view different parts of the camp from afar</li><li>Sound of flies, smell rich decay of fresh dead</li><li>Marks of scouts kneeling, casing the camp, footprints away leaving all recent</li></ul> |
 | Connection & motivation? | <ul><li>Dagger is from a rival house of the dead body and that the players are visiting</li><li>The dagger is a red herring, false evidence, the death is from poison (spilled wine)</li><li>The poisoned goblet is missing, easy to pocket (could use to find the killer)</li><li>The lead in the scrollcase blocked location magic for the item (magic scroll, letter)</li></ul> | <ul><li>Scouts may know the trail leads to an old cave</li><li>Footprints are fresh and head down the trail (cave)</li><li>Some footprints may diverge into the woods (ambush)</li><li>Enemies will return, didn’t leave cause of patrol</li><li>Dead body could be scout, prisoner, missing group member, etc</li></ul> |
 
 ### Set a Difficulty Class
-This is the DC, what is required on a roll or roleplay to complete a task or get info. You can set a DC for both quite easily and effectively, just to give context of finding or missing things. Consider awarding not only successes but failures, these could be painful finds, breaking evidence by finding it, or discovering incorrect details to increase tension or misdirect.
+This is the difficult (DC) required on a roll or roleplay to complete a task or get info. You can set a DC for both quite easily and effectively, just to give context of finding or missing things. Consider awarding not only successes but failures, these could be painful finds, breaking evidence by finding it, or discovering incorrect details to increase tension or misdirect.
 
-#### DC for d20 Events
-These games you roll to get a result. Usually 1-20 with 1 being a critical failure and 20 a critical success. If you use game systems, bonuses may be added on rolls to go beyond a 20 or to reroll. Also what they roll differs for these situations.
+#### DC for Rolling Events
+These games you roll to get a result. Usually 1-20 or d20 die with 1 being a critical failure and 20 a critical success. If you use custom game rules for MMOs or tabletop systems, bonuses may be added on rolls to go beyond a 20 or to reroll. Also what they roll differs for these situations.
 
 * [Warcraft Conquest Simplified 1.1](https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/preview): Perception or Expertise rolls, Perceptive +5
 * [Champion’s Compendium](https://burlycloud.wixsite.com/champion/traits): Traits rolls, items can influence results
 * Homebrew: Use special rolls set by group, guild, or your own
+* Tabletop System: As noted previously, this could be any system using dice, convert tables as needed
 
 For all of these systems, you have control to set the DC and what players learn. Here are recommendations with examples from the Death of Lord Ferris:
 
 | Roll | Results | Example |
 | -- | -- | -- |
-| 1 | Critical Failure. Consider finding and destroying evidence, misdirecting unrelated evidence, or a curve ball. | You take care looking over the body, considering the scene. As you step back, you trip over a chair, spin away from the desk, and fall into a wall...that opens to a hidden tunnel! |
-| 2-9 | Failure. They may not find incredible details, but you can give them additional information based on what they check. | The dagger is stabbed through the back, between the shoulder blades. Definitely a killing blow. |
-| 10-14 | Success. Provide additional details that could lead to further investigations. | The dagger has a house symbol you know is a rival of the victim. You know some members of that rival house are visiting the party. If one of them is missing a blade...? |
-| 15-19 | Great Success. Provide detailed information regarding the investigation, strong evidence that could lead to  | The wound should have far more blood than it does. The rug is doused in wine, not blood. You don't see any cups or goblets, but there is a bottle half empty. |
-| 20+ | Critical Success. Provide finer points that are rare and difficult to find. | The wine soaked rug has a slight scent of poison, some of th frayed threads are burned from the acrid contents. It's potent! |
+| 1 | *Critical Failure.* Consider finding and destroying evidence, misdirecting unrelated evidence, or a curve ball. | You take care looking over the body, considering the scene. As you step back, you trip over a chair, spin away from the desk, and fall into a wall...that opens to a hidden tunnel! |
+| 2-9 | *Failure.* They may not find incredible details, but you can give them additional information based on what they check. | The dagger is stabbed through the back, between the shoulder blades. Definitely a killing blow. |
+| 10-14 | *Success.* Provide additional details that could lead to further investigations. | The dagger has a house symbol you know is a rival of the victim. You know some members of that rival house are visiting the party. If one of them is missing a blade...? |
+| 15-19 | *Great Success.* Provide detailed information regarding the investigation, strong evidence that could lead to  | The wound should have far more blood than it does. The rug is doused in wine, not blood. You don't see any cups or goblets, but there is a bottle half empty. |
+| 20+ | *Critical Success.* Provide finer points that are rare and difficult to find. | The wine soaked rug has a slight scent of poison, some of th frayed threads are burned from the acrid contents. It's potent! |
 
 ![Fenris Markers](/img/guides/trail-house-markers.jpg)
 
