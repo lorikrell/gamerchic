@@ -68,7 +68,7 @@ Many artists offer incredible battlemaps, tokens, monsters, and short adventures
 
 Event cards and posters give you fantastic tools to stir up creativity in your table-top game, advertise for new players in VTT online communities, and lure players in MMO-RPGs. You don't need to be a Photoshop wizard to create these posters. Tools like GIMP for graphics and Google apps like Docs, Drawing, and Slides can be enough to get your adventure started.
 
-I also provide a series of templates to use as you like. See [Event Map Cards](photoshop/event-cards.md), [Event Cards](/docs/wow-conquest/event-cards.md), and [Boss and Item Cards](wow-conquest/loot-cards.md) for create templates and examples. All you need is the Photoshop file, an art file, and some text.
+I also provide a series of templates to use as you like. See [Event Map Cards](photoshop/event-cards.md), [Event Cards](wow-conquest/event-cards.md), and [Boss and Item Cards](wow-conquest/loot-cards.md) for create templates and examples. All you need is the Photoshop file, an art file, and some text.
 
 Some quick examples:
 
