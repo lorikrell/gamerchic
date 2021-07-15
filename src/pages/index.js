@@ -129,7 +129,7 @@ const highlights = [
 function Feature({imageUrl, title, description, link}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={clsx('col col--4', styles.feature)}>
+    <div >
       {imgUrl && (
         <div className="text--center land-feature">
           <img className="featureImage" src={imgUrl} alt={title} />
@@ -185,12 +185,11 @@ function Home() {
         {features && features.length > 0 && (
           <section className="spacer">
             <div className="container">
-              <div className="row">
+            <div className="grid">
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
                 ))}
-              </div>
-            </div>
+            </div></div>
           </section>
         )}
       </main>

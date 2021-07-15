@@ -161,23 +161,26 @@ function TropicSunder() {
        
        <section >
        <div className="container">
-          <div className="row">
-
+          <div className="grid">
+       
+       <grid-item>
        {features && features.length > 0 && (
-            <div className="col col-md-3 thin">
+         <div>
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
-                ))}
-            </div>
+                ))}</div>
         )}
-        <div className="col-md-6 col-lg-6 hidden-xs hidden-sm thin"><img src="img/landing/conquest-overview.png" /></div>
+        </grid-item>
+
+        <grid-item><div className="grid-center"><img src="img/landing/conquest-overview.png" className="img-responsive"/></div></grid-item>
+        
+        <grid-item>
         {features2 && features2.length > 0 && (
-            <div className="col col-md-3 thin">
+          <div>
                 {features2.map((props, idx) => (
                   <Feature2 key={idx} {...props} />
-                ))}
-            </div>
-        )}
+                ))}</div>
+        )}</grid-item>
           </div>
           </div>
           
