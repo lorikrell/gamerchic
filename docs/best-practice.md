@@ -72,9 +72,13 @@ I also provide a series of templates to use as you like. See [Event Map Cards](p
 
 Some quick examples:
 
-![Event](/img/resources/event-map/event-map1.png)
+![Investigation](/img/guides/investigation-card2.png)
 
-![Scourge Card](/img/resources/sonceri-scourge-event.jpg)
+![Event](/img/guides/horror-card.png)
+
+![Investigation](/img/guides/investigation-card.png)
+
+*Uses a fantastic Adventurer's Hall map from [CzePeku](https://www.patreon.com/czepeku)*
 
 ## Coming Soon!
 

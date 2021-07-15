@@ -14,6 +14,10 @@ What is horror? A sense of fright, feeling off? A moment that strikes and earns 
 
 Horror events and campaigns delve into not only the macabre (disturbing depictions of death and injury), but into situations and sensations that leave us uncomforatble. The genre highlights a series of situations with growing unease and complexity, even a slasher flick has a complicated backstory and splinter of true fear beyond brutal murder. This guide helps you find your way through creating and running these events. 
 
+:::gamerchic Not a fan of horror?
+Horror does not have to be overwhelming amounts of gore, terror, grandiose speeches, or Hellraiser levels of twisted themes. These events can lightly tough on aspects of horror, evoking a dark angle without giving YOU nightmares. If you have an event you have run before, and want to add a touch of darkness, give this a try following the guide. Slight tweaks to writing alone can shift a battle into chilling terror.
+:::
+
 :::sonceri Game Genres
 This guide can be used for World of Warcraft (WoW) in-game events, tabletop games, LARPs, and more! Some of the terminology may be geared to WoW or a d20 system, but anyone can use it for any genre. The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
 :::
@@ -156,6 +160,7 @@ See [How to Run Events & Campaigns](best-practice.md) for information and the fo
 * Give your event and horror a theme. This can help you form ideas and give your players expectations. For example: ravaged by a curse, haunted mansion, rise of the dead, ritual gone bad, becoming a lich, death knights breaking from service, the fallen rightous, monster attacks, stolen artifact of a major power, murderous designs.
 * If the evil can be ended, have multiple methods for players to learn what is needed, materials/weapons/prayers to end the threat, NPCs to aid in resolving issues, and other ideas for conflict. If you tie everything to one or two places and items, they may not catch on and miss opportunities.
 * Provide NPCs and items that will have details to help, some may not know what they have or found, some may demand payment for the information. This can also be an interesting hook for a fight, learning the past, determining weaknesses, creating a solution, and so on.
+* Consider asking your players for backstory information or some of their fears. You can use these pieces to enhance and personalize the dark aspects touching on their personal story.
 
 ### Craft the Villain
 
@@ -163,9 +168,18 @@ Every tale of terror has an antagonist, be it a person, location, supernatural e
 
 For a great guide on crafting villains, see [DM Craft's Antagonist](https://docs.google.com/document/d/1WCiAq1DM3SOYQm0cVX3L34HkXBE8bOZbJ_QcG1DMbSI/edit) guide.
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSn_gXuLiuw-psDCKwJfCUxpto4djovHJMVMeDdItv7sy5lrpjV_L0HKxw9BDNqsgVDKvaXQv5u1q19/pub?embedded=true" width="100%" height="500px;"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSn_gXuLiuw-psDCKwJfCUxpto4djovHJMVMeDdItv7sy5lrpjV_L0HKxw9BDNqsgVDKvaXQv5u1q19/pub?embedded=true#view=fith" width="100%" height="500px;"></iframe>
 
-For uncommon antagonists, more guidelines and information will follow. Coming soon!
+You may also use an uncommon villain, such as a curse or location:
+
+<div id="vhilit">
+
+* **Determine the level of intelligence.** Is the location alive and aware or merely destroyed, dangerous, and reactive? A landscape of seething from a magical war or natural disaster may actively provide challenges to the players. They may need to cleanse, rebuild, deal with the dead, etc. If it is intelligent, players may feel watched, trees and earth may try to swallow them, animals driven to attack, etc. For curses and contagions, it may be virulent and medical infecting, or parasidic with an agenda and awareness through those it consumes.
+* **Define what is required to end the threat.** Do they need to cleanse the area, destroy an artifact, collect stolen items from a tomb? Can the illness be treated, how does magic affect it? 
+* **Build a history for the dark location/curse.** A terrible battle, death, or spirit may have fallen on the land causing this change. The curse may have been seen before, enscrolled by casters or laid by fiends/celestials. Crafting a backstory gives you details to aid players and enrich key scenes.
+* **Provide multiple methods to learn the secrets, while considering dark prices to pay for it.** If they can't get to a library, perhaps they need to pay an eldering crone for insight, get sick with the illness to provide feedback, sacrifice something important to a higher power, and so on. Don't forget the horror aspect, demand a tithe.
+
+</div>
 
 ### Set the Horror Stage
 Determine what the horror event is. This could be a couple sentences, which gives you something fantastic to give players when starting the event.
@@ -176,6 +190,24 @@ Determine what the horror event is. This could be a couple sentences, which give
 * **Mark of the Golden Hand**: A slaughter horror adventure set in a market fallen to a cult. Those in the city district that fell asleep now waken to chanting outside their windows, a pain in their palms. There a brilliant sigil of some maddening language burns. Cultists have started killing all of those marked, blood for the blood god.
 
 </div>
+
+### Set the Goals
+Any event type can have horror elements woven through it: battles, scouting, investigations, social events, magic, healing, and so on. Goals give players a focus to seek or complete while moving through your story, and give you story arcs to develop dark and light moments to let the event breath. Too much horror without pause can upset or push too far for some players.
+
+* *Battle*: Warring through normal creatures until they reach the terrifying leader or boss. The enemies may increase in madness, twisted body horror, reasons for battle, or tasks the players may need to complete per group until reaching the final boss.
+* *Exploration*: Wandering through a seemingly normal land that shifts with darker corruption as they pass through key locations affected by curses, items, villains, or magic. Perhaps the entire area twists and rips apart, or holds living nightmares, until the players complete a ritual.
+* *Investigation*: These events have endless horror options:
+
+  * Tracking down a death has many aspects of horror to delve through including the reason of death, method of killing, curses and magic, become a ghost, soul stolen, serial slaying, something missing from the body, ritual death, etc. 
+  * Seeking lost items can also lead into horror such as soul bound artifacts, eye of a demon, holy sword of a dark god, tome of ancient secrets (necronomicon), scrolls of forbidden magic, etc. 
+  * Hunting bounties or kidnapped people have opportunities of reasons for the capture such as nobles, pure blood, prophecies, hired, returning cult members, etc.
+
+* *Social*: A grand ball, meeting of allies, diplomacy council, tea time with the ladies, all of these social situations could have goals and darkness added for flavor without falling into battle. A dark figure with a reason to cause a person or group fall to corruption, or set groups into fighting later, could greet and afflict the event with aspects of horror. Perhaps they add something to drinks/food, curse the location with magic, threaten and hold players hostage, use illusions to look like others twisting a situation, etc.
+* *Magic*: Your imagination is the limit for creating magical horror. Consider the senses, soul, and aspects of magic when involving evil: sacrifices, strange language, use of blood/collected materials, mind-afflicting runes, etc. Also consider the source of magic: dark deals, fiends, zealot celestials, pacts with enemy forces, murder, liches, etc.
+
+| | Lady VanDain | Golden Hand |
+| -- | -- | -- |
+| Source of evil | <ul><li>Ritual magic using ancient artifact</li><li>Lady VanDain wields controls artifact</li><li>Child kept alive by sacrificed people</li><li>Petrified guests in garden</li></ul> | <ul><li>Magic circles with a ritual caster in center</li><li>Zealot ancient power siphoning souls</li><li>Golden marks placed on palms of the cursed</li><li>Murderous cultists killing people</li></ul> |
 
 ## How to Write Horror
 
@@ -199,7 +231,19 @@ When developing your events and campaigns, I recommend writing content for scene
 
 A great exercise to find your dark voice is to search for a piece of art that disturbs you (painting, scene, movie trailer, character) and write about it. Consider every sense to evoke a felt place and specific sensation. Need a little help? Reach for a [thesaurus](https://www.thesaurus.com/) and writer resources, such as [240 Dark Words](https://grammar.yourdictionary.com/word-lists/240-dark-words-for-more-descriptive-writing.html). 
 
-For this exercise, determine the emotions you want to convery, the kind of horror, consider colors, seasons, imagery, to find little details for players to latch on to. In this example, using this video of ambience and movie still from Crimson Peak.
+For this exercise, determine the emotions you want to convey, the kind of horror, consider colors, seasons, imagery, to find little details for players to latch on to. 
+
+<div id="vhilit">
+
+* **Emotion to convey**: List ideas of feeling and sensations you want the reader to feel, list words you may want to use
+* **Senses to focus on**: Color, scent, sounds can help a mind fill in details through imagination
+* **Aspect of horror**: What kind of horror elements do you want to highlight
+
+</div>
+
+#### A House in Decline
+
+In this example, using this video of ambience and movie still from Crimson Peak.
 
 <Iframe url="https://www.youtube.com/embed/5hBAXcsm4_Y"
         width="854px"
@@ -212,11 +256,57 @@ For this exercise, determine the emotions you want to convery, the kind of horro
         allowfullscreen
         />
 
-* **Emotion to convey**: Unsettled, moldering house and slight rot points to the inherent darkness in the location and owner
-* **Colors to focus on**: Tarnished gold, patina of rotted greens, neverending autumn on the verge of winter.
-* **Aspect of horror**: Theft and betrayal, more emotional with bouts of warfare, less blood and gore.
+<div id="vhilit">
 
-The writing is coming soon!
+* **Emotion to convey**: Unsettled, moldering house and slight rot points to the inherent darkness in the location and owner
+* **Senses to focus on**: Tarnished gold, patina of rotted greens, neverending autumn on the verge of winter, sickly sweet
+* **Aspect of horror**: Corruption and madness, the sacrifices for saving a child have pushed the lady of the house into dark magics and madness
+
+</div>
+
+The letter arrived in the passing of days to each of the company. Crisp night-inked script itched across fine bone-white parchment with hints of pressed flower, a scent of orchid and sea-- it spoke of refinement, greed, and a woman. When the call to war lead us to the distant shores of Kul'tiras, we aided the Lord of Waycrest Manor to safeguard the populace and deal with constant incursions of a witchly sort. Never once did we meet his beloved wife and child, only hearing of them from his fond memories.
+
+To learn of his death in such a way as this only reminded me of how the ills of home and nation, the constant warfare, had worn to fraying the ties of new friendships. Yet looking over these penned words again, and seeing the darkened windows and loaming walls of Waycrest, I must give pause until the rest of my party arrives. Best to enter together, my courage failing.
+
+*Long have the nights become. I bid you welcome to my estates, dear friends of my late departed lord. You aided him in times most dire, and sought to end threats beleaguring our people. Come and allow me to repay the honors you have imparted.*
+
+Spires seem to lean toward me as curled fingers. Flitting azure shades move against the hand-blown glass, a rattle in them despite the stillness of air. The taste of the ocean in the mist sharpens the senses, biting harder in my jaw already tight from some concern I can't place. The creak of saddle leather and nearing crack of shoed hooves under me tell me even my steed wishes to return to the open road. 
+
+Nearly turning away, the door opens and a familiar face brightens the near night with a child's warmth, little Katya. The tension burst like a soap bubble, perhaps battle senses and too many days of ill omens and war leaving me sensitive. Nothing but memories here, no true ghosts. Though I cannot deny the chill on my arm as I lift the lord's only daughter, tossing her in welcome as soft laughter fills the air.
+
+Past the threshold, she prattles of childish tidings, tea time with dollies, the lessons in pony riding, cook catching a fish big enough to swallow her whole. The home holds far too much warmth, unlike my expectations. A blazing hearth stuffed of old coals and fresh wood leaves a sharp glow through the room, subduing the gentle candleglow at sweeping stairs. Flowers festoon vases, float in a bowl of herbed water for washing hands in the foyer, painted in large canvases of the lord and his family. A few petals fall, edges darkened, cracked, withering as they land.
+
+Here the scent of orchid and cracking hearth push away something sweeter, a scent that causes the echo of battlefields in the northern kingdoms to ring in my ears again. Then she descends the stairs, or perhaps was always there waiting by the ballistrad, hand resting on the railing, the other reaching to take mine in greeting. Light casts her features in a ghoulish glow, motes in wide eyes like the final rays of the sun at sunset driven back by storms. Swathed in heavy layers, she seemed frozen in garb despite the oppressive heat. 
+
+"Thank you for attending my request. If Frederick was only here, he truly would welcome your visit. Come, you must need rest before dinner."
+
+#### Grand Designs
+
+<div id="vhilit">
+
+* **Emotion to convey**: Heart thundering fear, excitement, speed
+* **Senses to focus on**: Glimmering golds of holy light, blood and scarlet reds, chanting, wet sounds
+* **Aspect of horror**: Bloodbath of death, alien presence
+
+</div>
+
+*Athul nak'vach'thurl... Mua'tollvex... Heralds fall upon the mark... Accept our gift...*
+
+Waking with a sharp twist in bedding, interrupted in conversations with friends in the tavern, startled during nightly prayers recounting the moments of your day -- whatever you sought in the deep night ends abruptly. Through windows, harsh glows spark and flash, an infernal firelight licking at the sky yet nothing of smoke or char hangs in the air. Drops speckle the glass, vermillion rain of the dying. 
+
+Calls for aid echo outside the tavern, loud banging of fists on the door...falling silent with a gasp. Weight falls upon the wood, requiring force to shove open. A robed figure pulls free a blade from the newly fallen, blood dripping from the scarlet caked metal.
+
+"Athul nak'vach'thurl! Mua'tollvex!" Spittle flies from shouting lips, wild eyes fall on you all in the common room, rushing in the moment of surprise. The face familiar, having sold simple jewelry in a stall of azure silks mere hours before. Purpose turned to a new currency sends him smashing through the doorway. 
+
+The battle enjoins as the killer leaps at each of you with arcing slashes, the blade hungering and pulling to seek your flesh!
+
+As the battle ensues, flashes blind and burn from golden lightning through the open door and window. They stream across, landing beyond sight, lost behind buildings and market stalls. Each of you tear away at the robed man, blood splattering wet across the scuffed floor, darkening tattered robes and clothing. Breath froths at lips and nose, as the last glow of life burns. 
+
+"Mua'tollvex..." Breath catches in a final gurgle, as pain sharp and heated lances in your palm. Each of you gasp and grip at bare or gloved hands, the gleam of a sigil flared to life that left the freshly killed man to mark you. *Accept our gift.*
+
+Stumbling into the night, many townsfolk and merchant lay in broken heaps. Details of faces caught in rictus of surprise and pain caught in scarlet light edged in golds. Softly shifting hues of dawn, motes of brightness lifting to the heavens, lure your sight to the end of the city block. More flickers of streaming gold leave newly killed to seek that shimmer, joining it in harmony.
+
+And the rythmic song of cultist chanting strengthens.
 
 ## MORE COMING SOON!
 
