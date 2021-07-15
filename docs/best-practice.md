@@ -19,9 +19,9 @@ Dungeon masters, storytellers, moderators...whatever your title, you write, host
 * **Have multiple methods** for players to find the clues and focus for your event type/scenes: investigation, horror, battle, scouting, and so on. If you tie everything to one or two places and items, they may not catch on and investigate those.
 * **Provide NPCs** that will have details to help, some may not know what they have or found, some may demand payment for the information. This can also be an interesting hook for a fight, adventure, deal making, etc. 
 
-### Online Game Prep
+### Warcraft Game Prep
 
-For MMO-RPGs like World of Warcraft:
+To run events in World of Warcraft:
 
 * Go in game, take screenshots, and plan your route. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit?usp=sharing).
 * Don’t depend on addons. They are great, but if you have a diverse group coming to an event, players will get left behind. 
@@ -44,11 +44,32 @@ For MMO-RPGs like World of Warcraft:
 
     ![skull](/img/icons/skull.png) ![cross](/img/icons/cross.png) ![square](/img/icons/square.png) ![star](/img/icons/star.png) ![circle](/img/icons/circle.png) ![triangle](/img/icons/triangle.png) ![moon](/img/icons/moon.png) ![diamond](/img/icons/diamond.png)
 
-* To control the soundtrack, use Discord with music bots, free accounts at [Watch2gether](https://w2g.tv/?lang=en), or put together a playlist and share the link.
+* To add a soundtrack, use Discord with music bots, free accounts at [Watch2gether](https://w2g.tv/?lang=en), or put together a playlist and share the link.
+
+### Final Fantasy 14 Prep
+
+[Hydaelyyn Roleplayers Coalition](https://ffxiv-roleplayers.com/) | [FFXIV Event Calendar](https://ffxiv-rp.org/) | [New Players Lore Guide](https://www.reddit.com/r/ffxiv/comments/l07kdm/roleplay_in_final_fantasy_xiv_a_starting_guide_to/)
+
+To run events in FFXIV:
+
+* When setting off to roleplay, consider using the `/roleplaying` command! 
+* Consider how large your event is to gauge how to handle invites and rolls. Parties can contain a maximum of 8 players. Or you can create a [Cross-world Linkshell](https://ffxiv.consolegameswiki.com/wiki/Linkshell) (CWLS). Players can form CWLS of up to 64 players from different worlds on the same data center. Players in a CWLS will be able to see other members' online status, and invite them to parties via subcommand.
+* To roll for d20 or similar events, use the [/dice command](https://na.finalfantasyxiv.com/lodestone/playguide/db/text_command/74e28154eb2/). For example, `/dice 20` rolls random from 1 to 20, `/dice cwl1 20` rolls random to the Cross-world Linkshell channel 1.
+* Add waymarks to note specific locations for enemies, NPCs, and such. Select **Party** > **Waymarks**. Select and place the waymark. These include numbers and letters. Here are some images to save and use for your Google Docs and Drawings: 
+
+  ![a](/img/icons/a.png) ![b](/img/icons/b.png) ![c](/img/icons/c.png) ![d](/img/icons/d.png) ![1](/img/icons/1.png) ![2](/img/icons/2.png) ![3](/img/icons/3.png)  ![4](/img/icons/4.png)
+
+* Use Signs to mark players and NPCs. Select **Party** > **Signs**.
+
+  ![signs](/img/icons/signs.png)
+
+* Use jobs, glamours, mounts, and minions for different NPCs. They can stand in for something to interact with beyond a floating waymark.
+* Use /yell to highlight text, be advised you are yelling! 
+* Macros and emotes are varied and powerful in FFXIV. If standing near a bench, using sit will seek and settle nicely. You can unlock and receive emotes through quests, leveling, factions. Some even change your position, like pose! See this guide for [RP emote help](https://www.reddit.com/r/ffxiv/comments/1r9bdv/ffxivarr_custom_emote_macro_guide/) and extended [guide on macros](https://latetothepartyfinder.com/ffxiv-beginner-guide-to-macros/) (including music files).
 
 ### In Person & VTT Adventures
 
-For tabletop and virtual tabletop adventures:
+To run tabletop and virtual tabletop adventures:
 
 * Find a good battlemap or print out blueprints to houses and buildings. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit?usp=sharing).
 * If you don't have battlemaps or a printer, consider digging into board games or online images of those game boards for neat ideas to give an immersive scene and evidence.
