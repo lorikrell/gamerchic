@@ -84,6 +84,10 @@ module.exports = {
               href: 'https://docs.google.com/document/d/1WNRYwGUhvwE6BuqN_VFThXmmhnMQ6zCTbEwGaZWek3Q',
               label: 'Warmachine Rules',
             },
+            {
+              to: 'docs/wow-conquest/intro',
+              label: 'WC Resources',
+            }, 
           ]
         },
         {to: '/blog', label: 'Blog', position: 'right'},
