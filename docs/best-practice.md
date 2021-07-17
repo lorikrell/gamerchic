@@ -66,6 +66,9 @@ To run events in FFXIV:
 * Use jobs, glamours, mounts, and minions for different NPCs. They can stand in for something to interact with beyond a floating waymark.
 * Use /yell to highlight text, be advised you are yelling! 
 * Macros and emotes are varied and powerful in FFXIV. If standing near a bench, using sit will seek and settle nicely. You can unlock and receive emotes through quests, leveling, factions. Some even change your position, like pose! See this guide for [RP emote help](https://www.reddit.com/r/ffxiv/comments/1r9bdv/ffxivarr_custom_emote_macro_guide/) and extended [guide on macros](https://latetothepartyfinder.com/ffxiv-beginner-guide-to-macros/) (including music files).
+* When you complete dungeons, you have an option in the Duty Finder called Explorer Mode. This gives you an empty instance to explore and roleplay in!
+
+  ![signs](/img/guides/explore.png)
 
 ### In Person & VTT Adventures
 
