@@ -175,12 +175,14 @@ The following example shows a dodge layer with one pass to start brightning lamp
 
 ## Example Ships
 
-Here are a series of vehicles created using this method!
+Here are a series of vehicles created using this method! Click to zoom in.
 
 ![Destroyer](/img/vehicle/sindorei-destroyer.png)
 
-![Star Explorer](/img/vehicle/star-explorer.png)
+<div class="info-plain img-med">
 
-![Ship Golem](/img/vehicle/ship-golem.png)
-
-![Tree 5](/img/vehicle/tree5.png)
+| | | |
+|--|--|--|
+| ![Star Explorer](/img/vehicle/star-explorer.png) |![Ship Golem](/img/vehicle/ship-golem.png) | ![Tree 5](/img/vehicle/tree5.png) |
+| ![Ghost Carriage](/img/vehicle/horses.png) |![Totem Golem](/img/vehicle/totem-golem.png) | ![Sonc Mechabike](/img/vehicle/sonceri-mechabike.png) |
+</div>

@@ -52,6 +52,8 @@ To add a foil effect, you have a couple options. Here's an easy method:
 
 ## Example Seals
 
+Click to zoom in. Feel free to save and use these images.
+
 <div class="info-plain">
 
 | | | | |

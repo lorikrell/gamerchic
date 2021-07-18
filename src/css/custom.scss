@@ -1276,7 +1276,7 @@ html[data-theme="light"] td:nth-child(1) {
 
 .info-rows {
   img {
-    max-width: 100px;
+    max-width: 100px !important;
   }
   table { 
     table-layout: auto;
@@ -1290,6 +1290,12 @@ html[data-theme="light"] td:nth-child(1) {
     tr:nth-child(2n) {
       background-color: rgba(210,235,255,.0) !important;
     }
+  }
+}
+
+.img-med {
+  img {
+    max-width: 300px !important;
   }
 }
 
