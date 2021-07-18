@@ -27,7 +27,8 @@ To run events in World of Warcraft:
 * Don’t depend on addons. They are great, but if you have a diverse group coming to an event, players will get left behind. 
 * Some addons are your friend:
 
-  * [Mega Macro](https://www.curseforge.com/wow/addons/mega-macro). Manage multiple macros, easily, globally recommended, with long descriptions (1023 characters). 
+  * [DiceMaster](https://www.curseforge.com/wow/addons/dicemaster) has numerous tools and options for crafting immersive rp and stories, DM features, maps, just incredible! 
+  * [Mega Macro](https://www.curseforge.com/wow/addons/mega-macro) expands your macro world! Manage multiple macros, easily, globally recommended, with long descriptions (1023 characters). 
   * [TotalRP3](https://www.curseforge.com/wow/addons/total-rp-3) gives you a method of creating NPC profiles you can wear interchangably for players to interact with. [TRP3 Extended](https://www.curseforge.com/wow/addons/total-rp-3-extended) allows you to create custom items, but requires others to have it. 
   * [Listener](https://www.curseforge.com/wow/addons/listener) pings when mentioned, great for long text. 
   * [Sessions](https://www.curseforge.com/wow/addons/sessions-messenger) helps with text, long messages, message history, and more.
