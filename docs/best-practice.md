@@ -46,6 +46,9 @@ To run events in World of Warcraft:
     ![skull](/img/icons/skull.png) ![cross](/img/icons/cross.png) ![square](/img/icons/square.png) ![star](/img/icons/star.png) ![circle](/img/icons/circle.png) ![triangle](/img/icons/triangle.png) ![moon](/img/icons/moon.png) ![diamond](/img/icons/diamond.png)
 
 * To add a soundtrack, use Discord with music bots, free accounts at [Watch2gether](https://w2g.tv/?lang=en), or put together a playlist and share the link.
+* Take a screenshot of your raid to keep track of who attends. 
+* Save notes for rules, mechanics, your event specifics, names of players hitting important moments/items/npcs, etc in your TRP3 Notes tab on your character. This can keep you in-game without flipping out to a Google Doc.
+* Create TRP3 (or other addon) profiles for key NPCs you want to rp directly for your players. This gives them someone to study and interact with. Bring along some extra gear saved to gear lists in your character screen to quick flip. You can name the saved gear by the NPC name.
 
 ### Final Fantasy 14 Prep
 
