@@ -34,7 +34,7 @@ To run events in World of Warcraft:
   * [Sessions](https://www.curseforge.com/wow/addons/sessions-messenger) helps with text, long messages, message history, and more.
   * [Elephant](https://www.curseforge.com/wow/addons/elephant) saves chat logs, great for keeping track of long investigation events and campaigns.
 
-* Collect and use grey items to hand out as evidence they find. You can search WoWHead for some incredible options.
+* Collect and use grey items to hand out as evidence they find. For incredible interactivity, check out the numerous toys and battle/cosmetic pets. You can search WoWHead for some incredible options.
 * Use raid icons in your notes and in game.
 
   * In game and in macros/copy paste content, use these codes: 
@@ -56,7 +56,7 @@ To run events in World of Warcraft:
 
 To run events in FFXIV:
 
-* When setting off to roleplay, consider using the `/roleplaying` command! 
+* When setting off to roleplay, consider using the `/roleplaying` command! It adds a flag for roleplay.
 * Consider how large your event is to gauge how to handle invites and rolls. Parties can contain a maximum of 8 players. Or you can create a [Cross-world Linkshell](https://ffxiv.consolegameswiki.com/wiki/Linkshell) (CWLS). Players can form CWLS of up to 64 players from different worlds on the same data center. Players in a CWLS will be able to see other members' online status, and invite them to parties via subcommand.
 * To roll for d20 or similar events, use the [/dice command](https://na.finalfantasyxiv.com/lodestone/playguide/db/text_command/74e28154eb2/). For example, `/dice 20` rolls random from 1 to 20, `/dice cwl1 20` rolls random to the Cross-world Linkshell channel 1.
 * Add waymarks to note specific locations for enemies, NPCs, and such. Select **Party** > **Waymarks**. Select and place the waymark. These include numbers and letters. Here are some images to save and use for your Google Docs and Drawings: 
