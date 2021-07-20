@@ -1249,7 +1249,7 @@ html[data-theme="light"] td:nth-child(1) {
         color: white;
         }
     tr:nth-child(2n) {
-          background-color: transparent !important;
+          background-color: rgba(210,235,255,.0) !important;
     }
   }
   
@@ -1269,7 +1269,7 @@ html[data-theme="light"] td:nth-child(1) {
       border-color: transparent !important;
     }
     tr:nth-child(2n) {
-      background-color: transparent !important;
+      background-color: rgba(210,235,255,.0) !important;
     }
   }
 }
