@@ -56,7 +56,7 @@ This journal holds a sight of highborn towers upon fine parchment pressed from m
 
 ## Ren'dorei
 
-The velvet void granted an understanding beyond worlds, life, and death. Theirs is a path few understand, bounding betwixt the rift and the shadow, though not one cast by other light. The ways between and all the power it holds. This twisting power may usher a new life for the elven, if they the enlightenment to witness the Void.
+The velvet void granted an understanding beyond worlds, life, and death. Theirs is a path few understand, bounding betwixt the rift and the shadow, though not one cast by other light. The ways between and all the power it holds. This twisting power may usher a new life for the elven, if they have the enlightenment to witness the Void.
 
 This journal holds a sight of the unending void caught between riftways upon fine parchment pressed from black and purple lotus. A mote pulsing with void hums within the binding. Bookmarks include mithril flowers, runemark consumed by void, and a finery once from Silvermoon imbued with crackling tendrils of void.
 
