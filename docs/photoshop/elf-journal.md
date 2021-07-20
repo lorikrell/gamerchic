@@ -78,7 +78,7 @@ This journal holds a sight of ancient spires risen before a blood moon seething 
 
 ![Vampire Elf](/img/journal/journal-sanlayn.jpg)
 
-## Death Night
+## Death Knight
 
 Felled by blades, risen to serve, now broken free of tethers. They stalk through this new unlife, a warrior of frost, disease, and blood. None shall dictate their way forward, regardless of the past. 
 
