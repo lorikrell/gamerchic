@@ -207,7 +207,12 @@ Any event type can have horror elements woven through it: battles, scouting, inv
 
 | | Lady VanDain | Golden Hand |
 | -- | -- | -- |
-| Source of evil | <ul><li>Ritual magic using ancient artifact</li><li>Lady VanDain wields controls artifact</li><li>Child kept alive by sacrificed people</li><li>Petrified guests in garden</li></ul> | <ul><li>Magic circles with a ritual caster in center</li><li>Zealot ancient power siphoning souls</li><li>Golden marks placed on palms of the cursed</li><li>Murderous cultists killing people</li></ul> |
+| Source of evil? | <ul><li>Ritual magic using ancient artifact</li><li>Lady VanDain controls an artifact</li><li>Petrified guests in garden</li></ul> | <ul><li>Magic circles with a ritual caster in center</li><li>Zealot ancient power siphoning souls</li><li>Golden marks placed on palms of the cursed</li><li>Murderous cultists killing people</li></ul> |
+| Specific villain? | Lady Vandain wields all of the horrible power. NPC servants may support her work due to fear or belief in saving the child. | Kha'voss Dek, That Which Lies Beyond Flesh, speaks through a door opened by a ritual, requiring more souls to be released. Cultists seek those souls. |
+| What does the evil want? | Save her child from illness and death through collected lives | Collect souls through marking and killing to fully open a portal |
+| How does the evil win? | Capure players in the garden, turn them into statues | Mark people and collect 20 souls, they have 1- collected properly when players enter |
+| How do players win? | Break the artifacts, release the petrified people | Break the ritual circle, break marks, release collected souls, end cultists |
+| The hard choice? | Ending the evil may kill the child. Give players a method of the life of the mother being consumed to save the child or other option if you want a happy ending. | If they don't break the marks and just start killing, the portal opens anyway from collected cultists. They then fight a weakened elder fiend entering the world. |
 
 ## How to Write Horror
 

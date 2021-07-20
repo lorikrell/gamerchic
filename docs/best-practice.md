@@ -49,6 +49,7 @@ To run events in World of Warcraft:
 * Take a screenshot of your raid to keep track of who attends. 
 * Save notes for rules, mechanics, your event specifics, names of players hitting important moments/items/npcs, etc in your TRP3 Notes tab on your character. This can keep you in-game without flipping out to a Google Doc.
 * Create TRP3 (or other addon) profiles for key NPCs you want to rp directly for your players. This gives them someone to study and interact with. Bring along some extra gear saved to gear lists in your character screen to quick flip. You can name the saved gear by the NPC name.
+* Contributed by [Vendel'o](https://twitter.com/stupidelfmain): One of my favorite things for WoW in particular is to get used to the terrain. I’ll wander around a zone so I can get a feel and know what points I can utilize.
 
 ### Final Fantasy 14 Prep
 
@@ -74,7 +75,7 @@ To run events in FFXIV:
 
   ![signs](/img/guides/explore.jpg)
 
-### In Person & VTT Adventures
+### In Person & VTT Prep
 
 To run tabletop and virtual tabletop adventures:
 
@@ -85,6 +86,7 @@ To run tabletop and virtual tabletop adventures:
 * Find incredible playlists for a creepy mood on Spotify or Youtube. You can also find incredible music and effects with [Syrinscape](https://syrinscape.com/), [Tabletop Audio](https://tabletopaudio.com/), and [BattleBards](https://battlebards.com/#/home).
 * For mood lighting, add LED candles and lanterns to the table, turn off lights, add halloween or holiday lights (check out [Sebastian's set up](https://www.youtube.com/watch?v=QJGtD0NtHkI)). 
 * Use Discord for voice and video if your VTT integration isn't the best. Discord servers give you a great way to share downtime, post maps and info for what they encounter, and bots for rolls between games. You can also run games in Discord without using an online system, or between games sessions. 
+* If you need help with different voices, try a voice changer like [VoiceMod](https://www.voicemod.net/discord-voice-changer/) or [Clownfish](https://clownfish-voicechanger.com/). Here's a [nice video](https://www.youtube.com/watch?v=3zS25g_NhcY) on this and another option.
 
 :::gamerchic Finding Battlemaps
 Many artists offer incredible battlemaps, tokens, monsters, and short adventures through Patreon. Search and find some amazing artists, including the following favorites: Cze and Peku [Patreon](https://www.patreon.com/czepeku) and [website](https://www.czepeku.com/), [Moonlight Maps](https://www.patreon.com/MoonlightMaps), Dyson Logos [Patreon](https://www.patreon.com/dysonlogos) and [blog](https://dysonlogos.blog/maps/), [Jared Blando](https://www.patreon.com/JaredBlando), [Ori the Cartographer](https://www.patreon.com/orithecartographer), [Party of Two](https://www.patreon.com/partyoftwo), [Eightfold Paper](https://www.patreon.com/EightfoldPaper), [John Stevenson](https://www.patreon.com/sirinkman), [Animated Dungeon Maps](https://www.patreon.com/animatedmaps), [Neutral Party](https://www.patreon.com/neutralparty), [Forgotten Adventures](https://www.patreon.com/forgottenadventures). [Heroic Maps](https://www.patreon.com/heroicmaps), [Maphammer](https://www.patreon.com/maphammer), [Afternoon Maps](https://www.patreon.com/afternoonmaps) and I have just started too at [Sonceri Masterworks](https://www.patreon.com/sonceri). Reddit also has a great [Battle Maps](https://www.reddit.com/r/battlemaps/) forum.

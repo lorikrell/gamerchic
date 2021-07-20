@@ -34,6 +34,7 @@ module.exports = {
         'photoshop/coins',
         'photoshop/wax-seals',
         'photoshop/event-maps',
+        'photoshop/elven-journal',
       ]
     },
     {
