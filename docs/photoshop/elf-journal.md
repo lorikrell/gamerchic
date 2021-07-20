@@ -32,7 +32,7 @@ This journal holds a sight of Elune's prayerful chambers upon fine parchment pre
 
 ## Sin'dorei
 
-Proud savagery of politics, magics, and war, the Sin'dorei bring a cultivated civilization to their roughened world. Children of the Blood, you have weathered numerous wars, obstacles born of fallen leaders, armies of undead, and invasion of demons. Yet ever shall their sunlit souls brave forward and battle back the dark.
+Proud savagery of politics, magics, and war, the Sin'dorei bring a cultivated civilization to their roughened world. Children of the Blood, they have weathered numerous wars, obstacles born of fallen leaders, armies of undead, and invasion of demons. Yet ever shall their sunlit souls brave forward and battle back the dark.
 
 This journal holds a sight of Silvermoon city upon fine parchment pressed from firebloom and mana thistle. The flame of the Sunwell shimmers in the binding. Bookmarks include a lovely phoenix set with pearl, a portrait in emerald on olive velvet ribbon, and a finery of dripping rubies.
 
@@ -48,7 +48,7 @@ This journal holds a sight of the arcan'dor upon fine parchment pressed from ast
 
 ## Quel'dorei
 
-Born of heritages that hold true to their path, descended from many yet singular in faith and vision, the Quel'dorei are the high elven. Against all odds, you survive this age with a promise for the next, remembering what has been to temper what shall be.
+Born of heritages that hold true to their path, descended from many yet singular in faith and vision, the Quel'dorei are the high elven. Against all odds, they survive this age with a promise for the next, remembering what has been to temper what shall be.
 
 This journal holds a sight of highborn towers upon fine parchment pressed from mountain silversage and sungrass. The gleam of light caught between night and morn glimmers in the binding. Bookmarks include a lovely butterfly harpy, runemark inlaid with tigereye and arcane, and a finery of lapis lazuli flowers in gold filigree.
 
@@ -56,7 +56,7 @@ This journal holds a sight of highborn towers upon fine parchment pressed from m
 
 ## Ren'dorei
 
-The velvet void granted an understanding beyond worlds, life, and death. Yours is a path few understand, bounding betwixt the rift and the shadow, though not one cast by other light. The ways between and all the power it holds. This twisting power may usher a new life for the elven, if they the enlightenment to witness the Void.
+The velvet void granted an understanding beyond worlds, life, and death. Theirs is a path few understand, bounding betwixt the rift and the shadow, though not one cast by other light. The ways between and all the power it holds. This twisting power may usher a new life for the elven, if they the enlightenment to witness the Void.
 
 This journal holds a sight of the unending void caught between riftways upon fine parchment pressed from black and purple lotus. A mote pulsing with void hums within the binding. Bookmarks include mithril flowers, runemark consumed by void, and a finery once from Silvermoon imbued with crackling tendrils of void.
 
@@ -72,7 +72,7 @@ This journal holds a sight of grand fel towers beholden of the Cathedral of Nigh
 
 ## San'layn
 
-Blood is the life! It courses down your throat, opening doorways of the mind and lengthening the body. The path of the remade, you harken to the drumbeat of living hearts and the everdark of night.
+Blood is the life! It courses down their throat, opening doorways of the mind and lengthening the body. The path of the remade, they harken to the drumbeat of living hearts and the everdark of night.
 
 This journal holds a sight of ancient spires risen before a blood moon seething in scarlet glow upon fine parchment pressed from nightmare vine and talandra's rose. Chilled blood hazes about a filled sanguine vial in the binding. Bookmarks include death marks of dark iron gleaming with imbued ruby eyes and a star of crystalized blood.
 
@@ -80,9 +80,9 @@ This journal holds a sight of ancient spires risen before a blood moon seething 
 
 ## Death Night
 
-Felled by blades, risen to serve, now broken free of tethers. You stalk through this new unlife, a warrior of frost, disease, and blood. None shall dictate your way forward, regardless of the past. 
+Felled by blades, risen to serve, now broken free of tethers. They stalk through this new unlife, a warrior of frost, disease, and blood. None shall dictate their way forward, regardless of the past. 
 
-This journal holds a sight of crypts deep within the cavernous holds of long dead breathren upon fine parchment pressed from lichbloom and starflower. A soul's fire burns ever-caught in the binding. Bookmarks include death marks of saronite gleaming with imbued sapphire eyes, a dark iron filigree heart holding a blood amethyst, and a momento of your life before.
+This journal holds a sight of crypts deep within the cavernous holds of long dead breathren upon fine parchment pressed from lichbloom and starflower. A soul's fire burns ever-caught in the binding. Bookmarks include death marks of saronite gleaming with imbued sapphire eyes, a dark iron filigree heart holding a blood amethyst, and a momento of a life before.
 
 ![Vampire Elf](/img/journal/journal-dk.jpg)
 
