@@ -557,7 +557,7 @@ This is an example using five tarot cards:
 ### Corruption Body Horror
 
 :::caution Enter at your own risk!
-Some tales of terror delve into alien minds, abhorrent flesh, and twisted perceptions all part of body horror. Few players nmay be interested in these tales. Be prepared to change or simply the descriptions accordingly, and explain what they are in for.
+Some tales of terror delve into alien minds, abhorrent flesh, and twisted perceptions all part of body horror. Few players may be interested in these tales. Be prepared to change or simply the descriptions accordingly, and explain what they are in for.
 :::
 
 For those willing to go into body horror and supreme corruption, you may want to consider a different system of perks and curses. Players may earn an opportunity to accept a gift (perk) but it comes with a cost (curse).
