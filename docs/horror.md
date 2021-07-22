@@ -445,12 +445,11 @@ A stress test is a 1d20 roll with a DC set by the DM. You want to roll higher to
 
 Failing these rolls may incur fear and madness. Select from the following depending on the situation, scene, and strength of failure (simple to critical, modify amounts to fit the failure):
 
-* **Fear Struck**: Consumed by fear and visibly shaken. Simple failure they have a -1 to their next roll. Critical failure they cannot act too afraid.
-* **Shock**: Unable to move or act due to the horror, caught in shock unmoving. Simple failure they have a -1 to their next roll. Critical failure they cannot act or close their eyes.
-* **Aversion**: The scene and situation is too frightening, causing them to flee in terror. They must move away from the source of terror. Simple failure they have a -1 to their next roll. Critical failure they cannot act just run. 
+* **Fear Struck**: Consumed by fear and visibly shaken. Simple failure they have a -1 to their next roll. Critical failure they cannot act too afraid and are in absolute shock.
+* **Aversion**: The scene and situation is too frightening, causing them to flee in terror. They must move away from the source of terror. Simple failure they have a -1 to their next roll. Critical failure they cannot act just run repulsed to the point of sickness, needing to get away. 
 * **Living Nightmares**: At first they seem fine, but after images remain with them as living nightmares. Whispers, ghosts, movement at the corner of their eyes. If they sleep, they suffer nightmares. Simple failure they have a -1 to their next roll. Critical failure they are surrounded by visions of terror.
-* **Obsession**: The moment of terror plagues the mind, causing the afflicted to be obessed by it. They may speak of it constantly, seek it out again, relive it on others. Simple failure they have a -1 to their next roll. Critical failure they are so consumed they focus on the horror entirely.
-* **Rage**: Abject terror leads them to absolute destruction, sending them into a berserker rage. The mind is cast aside for the primal need to break things/people. They receive a +1 or higher (depending on failure) to attacks with the increased chance of attacking friends and objects as much as foes.
+* **Obsession**: The moment of terror plagues the mind, causing the afflicted to be obessed by it. They may speak of it constantly, seek it out again, relive it on others. Simple failure they have a -1 to their next roll. Critical failure they are so consumed they focus on the horror entirely, delighted or terrified.
+* **Rage**: Abject terror leads them to absolute destruction, sending them into a berserker rage. The mind is cast aside for the primal need to break things/people. They receive a +1 or higher (depending on failure) to attacks with the increased chance of attacking friends and objects as much as foes. Critical failure they will not stop fighting, attacking everything, until they are roused from it.
 
 When all sanity is lost or madness is reached, the player takes on an aspect of horror until cleansed. It will last with them through the event until relieved. This madness may be an enhanced version of these above fears with far more twisted results.
 
@@ -473,7 +472,7 @@ Consider the following DC examples for different types of encounters:
 | 14 | Finding a managled human corpse. Awakening trapped in a coffin. Seeing and being attacked by a ghoul. |
 | 15 | Witnessing a friend's violent death. Meeting someone you know to be dead, for example the risen dead of a wife or friend. |
 | 16 | Experiencing extreme pain and torture. Witnessing the raising of the dead as zombies, ghouls, other horrifying creatures. |
-| 20 | Seeing an evil deity. Being the lone survivor of a large-scae massacre. |
+| 20 | Seeing an evil deity. Being the lone survivor of a large-scale massacre. |
 
 Short-term madness may last a few minutes to an hour. It can be cured through aid from others, magic, tonics, prayer, talking, or other options from your story. Select a madness from the list or roll 1d100 for one of the following:
 
