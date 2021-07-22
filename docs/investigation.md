@@ -13,7 +13,7 @@ The opportunities of investigations are vast and can make up a single scene for 
 This guide provides information on how to build an investigation, key questions to answer before an event, and how to determine DC and results to quickly keep your event moving with dramatic and gritty detail.
 
 :::sonceri Game Genres
-This guide can be used for MMO-RPG in-game events (like WoW or FFXIV), tabletop games, LARPs, and more! The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
+This guide can be used for MMO-RPG in-game events, tabletop games, LARPs, and more! The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
 :::
 
 ## What makes a good investigation?
@@ -105,33 +105,13 @@ When you have a scene coming up that may incur investigations, give yourself key
 ### Set a Difficulty Class
 This is the difficult (DC) required on a roll or roleplay to complete a task or get info. You can set a DC for both quite easily and effectively, just to give context of finding or missing things. Consider awarding not only successes but failures, these could be painful finds, breaking evidence by finding it, or discovering incorrect details to increase tension or misdirect.
 
-#### DC for Rolling Events
-These games you roll to get a result. Usually 1-20 or d20 die with 1 being a critical failure and 20 a critical success. If you use custom game rules for MMOs or tabletop systems, bonuses may be added on rolls to go beyond a 20 or to reroll. Also what they roll differs for these situations.
-
-* [Warcraft Conquest Simplified 1.1](https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/preview): Perception or Expertise rolls, Perceptive +5
-* [Champion’s Compendium](https://burlycloud.wixsite.com/champion/traits): Traits rolls, items can influence results
-* Homebrew: Use special rolls set by group, guild, or your own
-* Tabletop System: As noted previously, this could be any system using dice, convert tables as needed
-
-For all of these systems, you have control to set the DC and what players learn. Here are recommendations with examples from the Death of Lord Ferris:
-
-| Roll | Results | Example |
-| -- | -- | -- |
-| 1 | *Critical Failure.* Consider finding and destroying evidence, misdirecting unrelated evidence, or a curve ball. | You take care looking over the body, considering the scene. As you step back, you trip over a chair, spin away from the desk, and fall into a wall...that opens to a hidden tunnel! |
-| 2-9 | *Failure.* They may not find incredible details, but you can give them additional information based on what they check. | The dagger is stabbed through the back, between the shoulder blades. Definitely a killing blow. |
-| 10-14 | *Success.* Provide additional details that could lead to further investigations. | The dagger has a house symbol you know is a rival of the victim. You know some members of that rival house are visiting the party. If one of them is missing a blade...? |
-| 15-19 | *Great Success.* Provide detailed information regarding the investigation, strong evidence that could lead to  | The wound should have far more blood than it does. The rug is doused in wine, not blood. You don't see any cups or goblets, but there is a bottle half empty. |
-| 20+ | *Critical Success.* Provide finer points that are rare and difficult to find. | The wine soaked rug has a slight scent of poison, some of th frayed threads are burned from the acrid contents. It's potent! |
-
-![Fenris Markers](/img/guides/trail-house-markers.jpg)
-
 #### DC for Roleplay Events
 
-For roleplayed difficulties, you do not judge a roll result but keep a keen watch on position, path, described focus, and actions. For investigations, use the set locations to have players divide up and search.
+For roleplayed freeform difficulties, you do not judge a roll result but keep a keen watch on position, path, described focus, and actions. For investigations, use the set locations to have players divide up and search.
 
 Read through their text and provide information based on their attention to detail:
 
-1. Set areas they can search (consider raid icons).
+1. Set areas they can search (icons used as examples).
 1. Watch their roleplay actions and details.
 1. Provide insights only based on their details, giving them more to check or considerations to make. 
 1. Consider their class, backstory, present interests when deciding what they find. Someone distraught may miss details, overzealous players may find a ton of details (some real, some false), a magic user may focus on arcane clues while a warrior checks the killing blow.
@@ -144,13 +124,33 @@ Example for a roleplay investigation of the Forest Trail:
 
 | | |
 | -- | -- |
-| ![cross](/img/icons/cross.png) | Trees and bushes have been dug up and moved from here, leaving open holes in the earth and newly planted seedlings. It aids in moving cover for spying scouts to wait.<br/>Some trees have been pulled over, branches tied, to form a hiding place for spies to lie in wait.<br/>Marks from animals are old, having left this area some time ago. But fresh claw marks mark higher branches, from owls the spies of the elves. |
-| ![star](/img/icons/star.png) | The mounds of earth and undergrowth hold a sense of druidic magic. It seethes with a glow that reaches to branches and vines.<br/>You have faced warfare in these woods before, and the shadows of the trees hold a threat, perfect place for an ambush...<br/>As you near, a trap of entangling roots and vines awaits to unleash! |
-| ![square](/img/icons/square.png) | A sickly sweet scent of death and blossoms rises from the underbrush, definitely from a larger body not some small animals.<br/>Flies buzz, a sign of fresh death, while the scent of decay seems older. Brushing back leaves, you spy two bodies wrapped in entangling roots. Both hold the marks of allies.<br/>The bodies have died from one of many methods. Strangled by vines. Sucked dry by roots. Poisoned by flowers. They are not slashed, stabbed, or pierced by weapons.  |
+| ![cross](/img/icons/icon-arrows.png) | Trees and bushes have been dug up and moved from here, leaving open holes in the earth and newly planted seedlings. It aids in moving cover for spying scouts to wait.<br/>Some trees have been pulled over, branches tied, to form a hiding place for spies to lie in wait.<br/>Marks from animals are old, having left this area some time ago. But fresh claw marks mark higher branches, from owls the spies of the elves. |
+| ![star](/img/icons/icon-star.png) | The mounds of earth and undergrowth hold a sense of druidic magic. It seethes with a glow that reaches to branches and vines.<br/>You have faced warfare in these woods before, and the shadows of the trees hold a threat, perfect place for an ambush...<br/>As you near, a trap of entangling roots and vines awaits to unleash! |
+| ![square](/img/icons/icon-diamond.png) | A sickly sweet scent of death and blossoms rises from the underbrush, definitely from a larger body not some small animals.<br/>Flies buzz, a sign of fresh death, while the scent of decay seems older. Brushing back leaves, you spy two bodies wrapped in entangling roots. Both hold the marks of allies.<br/>The bodies have died from one of many methods. Strangled by vines. Sucked dry by roots. Poisoned by flowers. They are not slashed, stabbed, or pierced by weapons.  |
 
 </div>
 
-![Fenris Markers](/img/guides/trail-camp-markers1.jpg)
+![Ferris Markers](/img/guides/trail-camp-markers1.jpg)
+
+*Map by [Talemaps](https://www.reddit.com/r/battlemaps/comments/kudemh/camp_battlemap_26x19/)!*
+
+#### DC for Rolling Events
+These games you roll to get a result. Usually 1-20 or d20 die with 1 being a critical failure and 20 a critical success. If you use custom game rules for MMOs or tabletop systems, bonuses may be added on rolls to go beyond a 20 or to reroll. Also what they roll differs for these situations.
+
+* Tabletop System: As noted previously, this could be any system using dice. Convert table results as needed, roll DC vs number of successes, etc. This uses a d20 system.
+* Homebrew: Use special rolls set by group, guild, or your own
+* [Champion’s Compendium](https://burlycloud.wixsite.com/champion/traits): Traits rolls, items can influence results
+* [Warcraft Conquest Simplified 1.1](https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/preview): Perception or Expertise rolls, Perceptive +5
+
+For all of these systems, you have control to set the DC and what players learn. Here are recommendations with examples from the Death of Lord Ferris:
+
+| Roll | Results | Example |
+| -- | -- | -- |
+| 1 | *Critical Failure.* Consider finding and destroying evidence, misdirecting unrelated evidence, or a curve ball. | You take care looking over the body, considering the scene. As you step back, you trip over a chair, spin away from the desk, and fall into a wall...that opens to a hidden tunnel! |
+| 2-9 | *Failure.* They may not find incredible details, but you can give them additional information based on what they check. | The dagger is stabbed through the back, between the shoulder blades. Definitely a killing blow. |
+| 10-14 | *Success.* Provide additional details that could lead to further investigations. | The dagger has a house symbol you know is a rival of the victim. You know some members of that rival house are visiting the party. If one of them is missing a blade...? |
+| 15-19 | *Great Success.* Provide detailed information regarding the investigation, strong evidence that could lead to  | The wound should have far more blood than it does. The rug is doused in wine, not blood. You don't see any cups or goblets, but there is a bottle half empty. |
+| 20+ | *Critical Success.* Provide finer points that are rare and difficult to find. | The wine soaked rug has a slight scent of poison, some of th frayed threads are burned from the acrid contents. It's potent! |
 
 ### Set the Scene
 
@@ -163,16 +163,18 @@ I strongly recommend prewriting a few things that may be lengthy. This cuts down
 
 Connect your content with the physical location. Add raid markers per area they can investigate. This helps you track what players are checking, connecting to your DC rolls and descriptions. To make your life easier, take screenshots and create images plotting your raid markers. If you don’t have a chance to set them with another player, use screenshots and Google Drawing. Here is an example:
 
-![Fenris Markers](/img/guides/trail-house-markers.jpg)
+![Ferris Markers](/img/guides/trail-house-markers.jpg)
+
+*Map by [Natwuns](https://www.reddit.com/r/Roll20/comments/k47y0s/battlemap_enchanted_library_37x228498x7565px2/)!*
 
 <div class="info-rows">
 
 | | |
 | -- | -- |
-| ![cross](/img/icons/cross.png)<br/>Bookcases | `{cross}` Books tumble from the shelves, spilled across the floor, tossed back and forth from their places. Loose parchment juts from books, between stacks, yanked free from bindings. Someone hunted madly for a page, something tucked in a book or hidden behind the stacks. |
-| ![square](/img/icons/square.png)<br/>Body | `{square}` Lord Fenris lies dead, one arm outstretched with the other curled underneath. His robes tightly wind around his body, legs caught yet in jagged angles as if running when stabbed or...something else. His eyes stare wide, bulging from the sockets, lips parched, jaw clenched tight. Blood and wine stains his jaw. A dagger portrudes from his back. |
-| ![circle](/img/icons/circle.png)<br/>Rug/Wine | `{circle` A thick rug of hand-woven soft yarn shifts in shades of scarlet, gold, and emerald with lines of onyx depicting a house seal, floating above arches, grand designs. Wine soaks through the artwork, spreading forth as if seeking to cover the house symbol. The body covers most of the designwork. An empty scrollcase has rolled from the body to rest in the wine stain. |
-| ![triangle](/img/icons/triangle.png)<br/>Desk | `{triangle}` A fine desk of rosewood and inlaid ivory is a mess of shuffled papers, spilled inks, ripped open letters and mail. Drawers have been pulled open, contents searched. One remains locked despite the marred marked of someone trying to force it open. |
+| ![cross](/img/icons/icon-club.png)<br/>Bookcases | Books tumble from the shelves, spilling across the floor, tossed back and forth from their places. Loose parchment juts from books, between stacks, yanked free from bindings. Someone hunted madly for a page, something tucked in a book or hidden behind the stacks. |
+| ![square](/img/icons/icon-skull.png)<br/>Body | Lord Ferris lies dead, one arm outstretched with the other curled underneath. His robes tightly wind around his body, legs caught yet in jagged angles as if running when stabbed or...something else. His eyes stare wide, bulging from the sockets, lips parched, jaw clenched tight. Blood and wine stains his jaw. A dagger portrudes from his back. |
+| ![circle](/img/icons/icon-diamond.png)<br/>Rug/Wine | A thick rug of hand-woven soft yarn shifts in shades of scarlet, gold, and emerald with lines of onyx depicting a house seal, floating above arches, grand designs. Wine soaks through the artwork, spreading forth as if seeking to cover the house symbol. The body covers most of the designwork. An empty scrollcase has rolled from the body to rest in the wine stain. |
+| ![triangle](/img/icons/icon-moon.png)<br/>Desk | A fine desk of rosewood and inlaid ivory is a mess of shuffled papers, spilled inks, ripped open letters and mail. Drawers have been pulled open, contents searched. One remains locked despite the marred marked of someone trying to force it open. |
 
 </div>
 

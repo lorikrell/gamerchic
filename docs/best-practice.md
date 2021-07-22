@@ -20,6 +20,35 @@ Dungeon masters, storytellers, moderators...whatever your title, you write, host
 * **Provide NPCs** that will have details to help, some may not know what they have or found, some may demand payment for the information. This can also be an interesting hook for a fight, adventure, deal making, etc.
 * **Communicate with players** about the type of event/campaign you want to run. This is especially important for roll vs roleplay, rules you follow (combat, specialized knowledge, gear, etc) and genre. Not everyone will want to engage in a highly political or horror themed game, likewise heavy war or faction conflict (depending on the game).
 
+### In Person & VTT Prep
+
+To run tabletop and virtual tabletop adventures:
+
+* Find a good battlemap or print out blueprints to houses and buildings. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit?usp=sharing).
+* If you don't have battlemaps or a printer, consider digging into board games or online images of those game boards for neat ideas to give an immersive scene and evidence.
+* Use items to depict characters, be it printed images or minitiatures. For VTT, create tokens matching PCs, NPCs, monsters, and items.
+* Use household objects to hand over as evidence, provide packets of notes with images describing what they find and secret knowledge, giving players the choice of sharing or keeping what they learn.
+* Find incredible playlists for a creepy mood on Spotify or Youtube. You can also find incredible music and effects with [Syrinscape](https://syrinscape.com/), [Tabletop Audio](https://tabletopaudio.com/), and [BattleBards](https://battlebards.com/#/home).
+* For mood lighting, add LED candles and lanterns to the table, turn off lights, add halloween or holiday lights (check out [Sebastian's set up](https://www.youtube.com/watch?v=QJGtD0NtHkI)). 
+* Use Discord for voice and video if your VTT integration isn't the best. Discord servers give you a great way to share downtime, post maps and info for what they encounter, and bots for rolls between games. You can also run games in Discord without using an online system, or between games sessions. 
+* If you need help with different voices, try a voice changer like [VoiceMod](https://www.voicemod.net/discord-voice-changer/) or [Clownfish](https://clownfish-voicechanger.com/). Here's a [nice video](https://www.youtube.com/watch?v=3zS25g_NhcY) on this and another option.
+* Use icons to mark locations, keeping track of key positions like traps, items, etc. Here are some to download and use as needed!
+
+  ![skull](/img/icons/icon-skull.png) ![cross](/img/icons/icon-club.png) ![square](/img/icons/icon-arrows.png) ![star](/img/icons/icon-star.png) ![circle](/img/icons/icon-heart.png) ![triangle](/img/icons/icon-knight.png) ![moon](/img/icons/icon-moon.png) ![diamond](/img/icons/icon-diamond.png)
+
+Want to create custom tokens? 
+
+1. Download this [Photoshop token file](/files/token.psd).
+2. Select Square or Circle and a color. Want to make your own? The custom layer gives you the option for changing the gradients.
+3. Paste art in the noted folder. It will mask it to fit nicely.
+4. Export to .png to look great in your VTT!
+
+![token](/img/guides/token.jpg)
+
+:::gamerchic Finding Battlemaps
+Many artists offer incredible battlemaps, tokens, monsters, and short adventures through Patreon. Search and find some amazing artists, including the following favorites: Cze and Peku [Patreon](https://www.patreon.com/czepeku) and [website](https://www.czepeku.com/), [Moonlight Maps](https://www.patreon.com/MoonlightMaps), Dyson Logos [Patreon](https://www.patreon.com/dysonlogos) and [blog](https://dysonlogos.blog/maps/), [Jared Blando](https://www.patreon.com/JaredBlando), [Ori the Cartographer](https://www.patreon.com/orithecartographer), [Party of Two](https://www.patreon.com/partyoftwo), [Eightfold Paper](https://www.patreon.com/EightfoldPaper), [John Stevenson](https://www.patreon.com/sirinkman), [Animated Dungeon Maps](https://www.patreon.com/animatedmaps), [Neutral Party](https://www.patreon.com/neutralparty), [Forgotten Adventures](https://www.patreon.com/forgottenadventures). [Heroic Maps](https://www.patreon.com/heroicmaps), [Maphammer](https://www.patreon.com/maphammer), [Afternoon Maps](https://www.patreon.com/afternoonmaps) and I have just started too at [Sonceri Masterworks](https://www.patreon.com/sonceri). Reddit also has a great [Battle Maps](https://www.reddit.com/r/battlemaps/) forum.
+:::
+
 ### Final Fantasy 14 Prep
 
 [Hydaelyyn Roleplayers Coalition](https://ffxiv-roleplayers.com/) | [FFXIV Event Calendar](https://ffxiv-rp.org/) | [New Players Lore Guide](https://www.reddit.com/r/ffxiv/comments/l07kdm/roleplay_in_final_fantasy_xiv_a_starting_guide_to/)
@@ -78,32 +107,6 @@ To run events in World of Warcraft:
 * Create TRP3 (or other addon) profiles for key NPCs you want to rp directly for your players. This gives them someone to study and interact with. Bring along some extra gear saved to gear lists in your character screen to quick flip. You can name the saved gear by the NPC name.
 * Contributed by [Vendel'o](https://twitter.com/stupidelfmain): One of my favorite things for WoW in particular is to get used to the terrain. I’ll wander around a zone so I can get a feel and know what points I can utilize.
 
-### In Person & VTT Prep
-
-To run tabletop and virtual tabletop adventures:
-
-* Find a good battlemap or print out blueprints to houses and buildings. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit?usp=sharing).
-* If you don't have battlemaps or a printer, consider digging into board games or online images of those game boards for neat ideas to give an immersive scene and evidence.
-* Use items to depict characters, be it printed images or minitiatures. For VTT, create tokens matching PCs, NPCs, monsters, and items.
-* Use household objects to hand over as evidence, provide packets of notes with images describing what they find and secret knowledge, giving players the choice of sharing or keeping what they learn.
-* Find incredible playlists for a creepy mood on Spotify or Youtube. You can also find incredible music and effects with [Syrinscape](https://syrinscape.com/), [Tabletop Audio](https://tabletopaudio.com/), and [BattleBards](https://battlebards.com/#/home).
-* For mood lighting, add LED candles and lanterns to the table, turn off lights, add halloween or holiday lights (check out [Sebastian's set up](https://www.youtube.com/watch?v=QJGtD0NtHkI)). 
-* Use Discord for voice and video if your VTT integration isn't the best. Discord servers give you a great way to share downtime, post maps and info for what they encounter, and bots for rolls between games. You can also run games in Discord without using an online system, or between games sessions. 
-* If you need help with different voices, try a voice changer like [VoiceMod](https://www.voicemod.net/discord-voice-changer/) or [Clownfish](https://clownfish-voicechanger.com/). Here's a [nice video](https://www.youtube.com/watch?v=3zS25g_NhcY) on this and another option.
-
-Want to create custom tokens? 
-
-1. Download this [Photoshop token file](/files/token.psd).
-2. Select Square or Circle and a color. Want to make your own? The custom layer gives you the option for changing the gradients.
-3. Paste art in the noted folder. It will mask it to fit nicely.
-4. Export to .png to look great in your VTT!
-
-![token](/img/guides/token.jpg)
-
-:::gamerchic Finding Battlemaps
-Many artists offer incredible battlemaps, tokens, monsters, and short adventures through Patreon. Search and find some amazing artists, including the following favorites: Cze and Peku [Patreon](https://www.patreon.com/czepeku) and [website](https://www.czepeku.com/), [Moonlight Maps](https://www.patreon.com/MoonlightMaps), Dyson Logos [Patreon](https://www.patreon.com/dysonlogos) and [blog](https://dysonlogos.blog/maps/), [Jared Blando](https://www.patreon.com/JaredBlando), [Ori the Cartographer](https://www.patreon.com/orithecartographer), [Party of Two](https://www.patreon.com/partyoftwo), [Eightfold Paper](https://www.patreon.com/EightfoldPaper), [John Stevenson](https://www.patreon.com/sirinkman), [Animated Dungeon Maps](https://www.patreon.com/animatedmaps), [Neutral Party](https://www.patreon.com/neutralparty), [Forgotten Adventures](https://www.patreon.com/forgottenadventures). [Heroic Maps](https://www.patreon.com/heroicmaps), [Maphammer](https://www.patreon.com/maphammer), [Afternoon Maps](https://www.patreon.com/afternoonmaps) and I have just started too at [Sonceri Masterworks](https://www.patreon.com/sonceri). Reddit also has a great [Battle Maps](https://www.reddit.com/r/battlemaps/) forum.
-:::
-
 </div>
 
 ## Create a Carrd Site
@@ -141,7 +144,7 @@ Some quick examples:
 
 ![Investigation](/img/guides/investigation-card.png)
 
-*Uses a fantastic Adventurer's Hall map from [CzePeku](https://www.patreon.com/czepeku)*
+*Uses a fantastic Adventurer's Hall map from [Cze and Peku](https://www.patreon.com/czepeku)*
 
 ![Investigation](/img/guides/investigation-card2.png)
 

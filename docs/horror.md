@@ -19,7 +19,7 @@ Horror does not have to be overwhelming amounts of gore, terror, grandiose speec
 :::
 
 :::sonceri Game Genres
-This guide can be used for MMO-RPG in-game events (like WoW or FFXIV), tabletop games, LARPs, and more! The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
+This guide can be used for MMO-RPG in-game events, tabletop games, LARPs, and more! The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
 :::
 
 :::caution Too Scary?
@@ -188,7 +188,16 @@ Determine what the horror event is. This could be a couple sentences, which give
 <div id="vhilit">
 
 * **Lady VanDain's Invitation**: Psychological horror of a haunted mansion where the host has turned trespassers and visitors into statuary in a garden, extending the life of a dying child with their enchantment. The party arrives based on your story needs, such as a summons by a host, investigating lost friends, seeking a missing carriage, or idle curiosity.
+
+  ![Lady](/img/guides/horror-lady.jpg)
+
+  *Map by [Tom Cartos](https://www.patreon.com/tomcartos)!*
+
 * **Mark of the Golden Hand**: A slaughter horror adventure set in a market fallen to a cult. Those in the city district that fell asleep now waken to chanting outside their windows, a pain in their palms. There a brilliant sigil of some maddening language burns. Cultists have started killing all of those marked, blood for the blood god.
+
+  ![Portal](/img/guides/horror-demon.jpg)
+
+  *Map by [Cze and Peku](https://www.patreon.com/czepeku)!*
 
 </div>
 
@@ -240,7 +249,7 @@ Craft your tale of horror by showing small elements to develop a sense of the un
 | Elements | Lady VanDain | Golden Hand |
 | -- | -- | -- |
 | Villain | <ul><li>Something she wears is always tattered or discolored at the edges.</li><li>Heavy scent of orchids trying to mask the constant sickly sweet edge of decay, tucked in pockets.</li><li>Never smiling showing teeth, for they may be rotting or fanged or discolored from something.</li><li>Her shadow moves when she does not, or is missing at times.</li><li>Never blinks, a strong direct gaze.</li></ul> | <ul><li>Kha'voss Dek is mute, speaking only through those marked on their palm.</li><li>Marked NPCs may speak oddly with a different voice of this demon.</li><li>A merchant may sell items of the demon: old goblets used to hold blood, rugs that were tapestries marking its history.</li><li>Its true face is not seen until players partake in the ritual, increasing the potential for failure.</li><li>Anyone possessed by the demon jerk and pop, bones cracking from too many joints.</li></ul> |
-| Atmosphere | <ul><li>A mist always rises around the point of Waycrest in the evening, disappating at 3am.</li><li>Soft whispers like bound lips may be heard in the garden or from windows facing the garden.</li><li>It rarely rains, yet all of the flowers bloom beautifully.</li><li>The garden is overrun by flowers in reds and deep pinks: roses, orchids, etc.</li><li>Colors outside are muted yet sharp and vibrant in the house.</li></ul>| <ul><li>Stars wink out in the sky as more die, their souls collected.</li><li>The night is overly dark, no moon, any lantern or firelight painfully bright.</li><li>Any rain is actually drops of blood flying from the frenzy of battle and sacrifice.</li><li>The air hangs with a coppery taste, close and dense, overly hot or cold, never comfortable.</li><li>Dawn never comes.</li></ul> |
+| Atmosphere | <ul><li>A mist always rises around the point of Ravenhill in the evening, disappating at 3am.</li><li>Soft whispers like bound lips may be heard in the garden or from windows facing the garden.</li><li>It rarely rains, yet all of the flowers bloom beautifully.</li><li>The garden is overrun by flowers in reds and deep pinks: roses, orchids, etc.</li><li>Colors outside are muted yet sharp and vibrant in the house.</li></ul>| <ul><li>Stars wink out in the sky as more die, their souls collected.</li><li>The night is overly dark, no moon, any lantern or firelight painfully bright.</li><li>Any rain is actually drops of blood flying from the frenzy of battle and sacrifice.</li><li>The air hangs with a coppery taste, close and dense, overly hot or cold, never comfortable.</li><li>Dawn never comes.</li></ul> |
 | Conflict | <ul><li>Lady Vandain will encourage the players to rest, visit, enjoy a bit of dinner and exploration. She wants their last moments to be happy, relaxed, enjoyable. She believes this may affect the health of her child when the ritual is used.</li><li>The house staff love the young daughter of the deceased lord, but do not entirely agree with the choices made by the lady. Some of them may trade glances, leave notes, not unpack their luggage encouraging their leaving.</li><li>The daughter is lovely, bright, with such infectous happiness. Her illness though is seen and felt through accidents, leg braces, smaller than children her age, etc.</li></ul>| <ul><li>Not all cultists attack like zealots. Some may be silently crying, pleading with their eyes, as they seek kills.</li><li>The demon seems beautiful, golden, a refined creature akin to a celestial spirit or angel. But the truth lies in sharp angles, harsh demands, unflinching hatred.</li><li>Some of the merchants and townfolk may beg the players to die, to sacrifice, for their lives will be better under the demon than the local lord.</li><li>A bard singing that night in the tavern foreshadows the hell to come through song, tales. Merchants and cultists may watch the party, drinking tea not booze, eager for the party to indulge.</li></ul> |
 | In Medias Res / In the middle | <ul><li>Previous visitors have guested, some of their items left in the bedrooms or throughout the house. Perhaps there are extra horses and carriages.</li><li>Some of the players may know some of those that guested but have not been seen.</li><li>The child is in terrible need of new lives, showing signs of illness.</li><li>Someone intended for the garden is being held, not transformed yet, giving players an opportunity to catch the horror in the middle of happening.</li></ul> | <ul><li>Convert or die situations have been occuring recently, some members of the neighborhood marked in tattoos and symbols that are starting to glow golden.</li><li>Members of the local tavern the party rests at are fearful of the nightmares haunting the populace, whispers of a great figure in gold, wings of an angel, face of a king.</li><li>Some folk at the tavern seem to get drunk or food poisoned as the party arrives, incapacitated for the night to come.</li><li>New symbols and statues are found throughout the market venerating this new god, enchanted to capture souls in a magical net.</li></ul> |
 
@@ -309,7 +318,7 @@ For this exercise, determine the emotions you want to convey, the kind of horror
 
 #### A House in Decline
 
-In this example, using this video of ambience and movie still from Crimson Peak.
+In this example, using this video of ambience and movie still from Crimson Peak as inspiration.
 
 <Iframe url="https://www.youtube.com/embed/5hBAXcsm4_Y"
         width="854px"
@@ -322,21 +331,17 @@ In this example, using this video of ambience and movie still from Crimson Peak.
         allowfullscreen
         />
 
-
-![Lady](/img/guides/horror-lady.jpg)
-
 * **Emotion to convey**: Unsettled, moldering house and slight rot points to the inherent darkness in the location and owner
 * **Senses to focus on**: Tarnished gold, patina of rotted greens, neverending autumn on the verge of winter, sickly sweet
 * **Aspect of horror**: Corruption and madness, the sacrifices for saving a child have pushed the lady of the house into dark magics and madness
-
 
 <details closed>
 <summary>Expand to read the story.
 </summary>
 
-The letter arrived in the passing of days to each of the company. Crisp night-inked script itched across fine bone-white parchment with hints of pressed flower, a scent of orchid and sea-- it spoke of refinement, greed, and a woman. When the call to war lead us to the distant shores of Kul'tiras, we aided the Lord of Waycrest Manor to safeguard the populace and deal with constant incursions of a witchly sort. Never once did we meet his beloved wife and child, only hearing of them from his fond memories.
+The letter arrived in the passing of days to each of the company. Crisp night-inked script itched across fine bone-white parchment with hints of pressed flower, a scent of orchid and sea-- it spoke of refinement, greed, and a woman. When the call to war lead us to distant shores, we aided the Lord of Ravenhill Manor to safeguard the populace and deal with constant incursions of a witchly sort. Never once did we meet his beloved wife and child, only hearing of them from his fond memories.
 
-To learn of his death in such a way as this only reminded me of how the ills of home and nation, the constant warfare, had worn to fraying the ties of new friendships. Yet looking over these penned words again, and seeing the darkened windows and loaming walls of Waycrest, I must give pause until the rest of my party arrives. Best to enter together, my courage failing.
+To learn of his death in such a way as this only reminded me of how the ills of home and nation, the constant warfare, had worn to fraying the ties of new friendships. Yet looking over these penned words again, and seeing the darkened windows and loaming walls of Ravenhill, I must give pause until the rest of my party arrives. Best to enter together, my courage failing.
 
 *Long have the nights become. I bid you welcome to my estates, dear friends of my late departed lord. You aided him in times most dire, and sought to end threats beleaguring our people. Come and allow me to repay the honors you have imparted.*
 
@@ -354,11 +359,22 @@ Here the scent of orchid and cracking hearth push away something sweeter, a scen
 
 #### Grand Designs
 
+In this example, using this video of darkness sinister mix as inspiration. The [Gloriae Templum](https://www.youtube.com/channel/UCbAvVTaq1AJAVBQ3u-y6l_g) channel has many inspirational dark compilations if you need something different.
+
+<Iframe url="https://www.youtube.com/embed/07nRu4xjUTw"
+        width="854px"
+        height="480px"
+        id="myId"
+        className="video-container"
+        display="initial"
+        position="relative"
+        allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        />
+
 * **Emotion to convey**: Heart thundering fear, excitement, speed
 * **Senses to focus on**: Glimmering golds of holy light, blood and scarlet reds, chanting, wet sounds
 * **Aspect of horror**: Bloodbath of death, alien presence
-
-![Portal](/img/guides/horror-demon.jpg)
 
 <details closed>
 <summary>Expand to read the story.
