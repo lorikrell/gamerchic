@@ -77,6 +77,7 @@ See [How to Run Events & Campaigns](best-practice.md) for information and the fo
 * Create lists of items and clues players can find throughout the investigation. Mark multiple places and NPCs holding the information.
 * Pay attention to player ideas. They may leap to conclusions that are better or interesting. Keep note of their ideas to slip into other aspects of your events. This gives players a sense of being on the right track.
 * If players come to incorrect conclusions, let them go down the wrong track so far. If they need to be lead back to the plot, offer rolls or spark conversion, give whispers or info directly to some players, let them find their path.
+* Create a map to track your investigation. Here is an [example for MMO Warcraft events](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit).
 
 ### Set the Investigation
 Determine what the investigation is. This could be a couple sentences, which gives you something fantastic to give players when starting the event. Optional details could be title, NPCs, etc. Just don’t overwhelm yourself with details yet.

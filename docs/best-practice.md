@@ -23,7 +23,7 @@ Dungeon masters, storytellers, moderators...whatever your title, you write, host
 
 To run events in World of Warcraft:
 
-* Go in game, take screenshots, and plan your route. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit?usp=sharing).
+* Go in game, take screenshots, and plan your route. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [Investigation example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit) and [Horror example](https://docs.google.com/drawings/d/1gbPCHeGB-qnfxWzix4Aq_N9KrpClYdYJWDJpt_Rlc0I/edit).
 * Don’t depend on addons. They are great, but if you have a diverse group coming to an event, players will get left behind. 
 * Some addons are your friend:
 

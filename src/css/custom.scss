@@ -1440,14 +1440,16 @@ html[data-theme='dark'] .DocSearch {
 
 details {
   ::marker {
-    color:rgb(38, 127, 153);
+    color:rgb(0, 159, 207);
   }
+  
 }
 
 summary {
   font-weight: bold;
-  color:rgb(38, 127, 153);
+  color:rgb(0, 159, 207);
   cursor: pointer;
+  margin-bottom: 10px;
 }
 
 // VAMPIRE
@@ -1457,9 +1459,9 @@ summary {
   blockquote {
     color: #af0300;
     border-left: 3px solid #af0300;
-}
+  }
 
-.info-table {
+  .info-table {
     table {
       table-layout: auto;
       thead {
@@ -1480,11 +1482,17 @@ summary {
     color: transparent;  
     text-shadow: 0 0 0 red;
   }
+
+  table {
+    th {
+      --ifm-table-head-background: #5f0a0a !important;
+    }
+  }
 }
 
 #vhilit {
   strong {
-    color: #af0300;
+    color: #ce0300;
   }
 }
 
@@ -1509,4 +1517,11 @@ summary {
     grid-template-columns: repeat(1, 1fr);
     grid-column-gap: 20px;
   }
+}
+
+.unique-tabs {
+  border-left: 1px solid rgb(49, 49, 49);
+  border-right: 1px solid rgb(49, 49, 49);
+  border-bottom: 1px solid rgb(49, 49, 49);
+  padding: 0px 10px 0px 10px;
 }
