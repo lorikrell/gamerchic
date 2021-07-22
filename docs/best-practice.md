@@ -17,7 +17,34 @@ Dungeon masters, storytellers, moderators...whatever your title, you write, host
 * **Create a loose timeline** of actions leading up to and including this event, add tidbits for important items and NPCs/players. Mark and note when something was triggered or learned in it, or add to the timeline as new actions change the timeline.
 * **Give your event(s) a theme**. This can help hone your images and ideas. Each guide will provide examples.
 * **Have multiple methods** for players to find the clues and focus for your event type/scenes: investigation, horror, battle, scouting, and so on. If you tie everything to one or two places and items, they may not catch on and investigate those.
-* **Provide NPCs** that will have details to help, some may not know what they have or found, some may demand payment for the information. This can also be an interesting hook for a fight, adventure, deal making, etc. 
+* **Provide NPCs** that will have details to help, some may not know what they have or found, some may demand payment for the information. This can also be an interesting hook for a fight, adventure, deal making, etc.
+* **Communicate with players** about the type of event/campaign you want to run. This is especially important for roll vs roleplay, rules you follow (combat, specialized knowledge, gear, etc) and genre. Not everyone will want to engage in a highly political or horror themed game, likewise heavy war or faction conflict (depending on the game).
+
+### Final Fantasy 14 Prep
+
+[Hydaelyyn Roleplayers Coalition](https://ffxiv-roleplayers.com/) | [FFXIV Event Calendar](https://ffxiv-rp.org/) | [New Players Lore Guide](https://www.reddit.com/r/ffxiv/comments/l07kdm/roleplay_in_final_fantasy_xiv_a_starting_guide_to/)
+
+To run events in FFXIV:
+
+* When setting off to roleplay, consider using the `/roleplaying` command! It adds a flag for roleplay.
+* Consider how large your event is to gauge how to handle invites and rolls. Parties can contain a maximum of 8 players. Or you can create a [Cross-world Linkshell](https://ffxiv.consolegameswiki.com/wiki/Linkshell) (CWLS). Players can form CWLS of up to 64 players from different worlds on the same data center. Players in a CWLS will be able to see other members' online status, and invite them to parties via subcommand.
+* To roll for d20 or similar events, use the [/dice command](https://na.finalfantasyxiv.com/lodestone/playguide/db/text_command/74e28154eb2/). For example, `/dice 20` rolls random from 1 to 20, `/dice cwl1 20` rolls random to the Cross-world Linkshell channel 1.
+* Add waymarks to note specific locations for enemies, NPCs, and such. Select **Party** > **Waymarks**. Select and place the waymark. These include numbers and letters. Here are some images to save and use for your Google Docs and Drawings: 
+
+  ![a](/img/icons/a.png) ![b](/img/icons/b.png) ![c](/img/icons/c.png) ![d](/img/icons/d.png) ![1](/img/icons/1.png) ![2](/img/icons/2.png) ![3](/img/icons/3.png)  ![4](/img/icons/4.png)
+
+* Use Signs to mark players and NPCs. Select **Party** > **Signs**.
+
+  ![signs](/img/icons/signs.png)
+
+* Use jobs, glamours, mounts, and minions for different NPCs. They can stand in for something to interact with beyond a floating waymark.
+* Use /yell to highlight text, be advised you are yelling! 
+* Macros and emotes are varied and powerful in FFXIV. If standing near a bench, using sit will seek and settle nicely. You can unlock and receive emotes through quests, leveling, factions. Some even change your position, like pose! See this guide for [RP emote help](https://www.reddit.com/r/ffxiv/comments/1r9bdv/ffxivarr_custom_emote_macro_guide/) and extended [guide on macros](https://latetothepartyfinder.com/ffxiv-beginner-guide-to-macros/) (including music files).
+* When you complete dungeons, you have an option in the Duty Finder called Explorer Mode. This gives you an empty instance to explore and roleplay in!
+
+  ![signs](/img/guides/explore.jpg)
+
+* [Helpful ideas and info on FFXIV](https://spotofmummery.com/2021/02/25/ffxiv-role-play-creating-a-rp-character-profile-and-linking-it-in-search-info/) docs and sites to consider for your events and characters
 
 ### Warcraft Game Prep
 
@@ -51,30 +78,6 @@ To run events in World of Warcraft:
 * Create TRP3 (or other addon) profiles for key NPCs you want to rp directly for your players. This gives them someone to study and interact with. Bring along some extra gear saved to gear lists in your character screen to quick flip. You can name the saved gear by the NPC name.
 * Contributed by [Vendel'o](https://twitter.com/stupidelfmain): One of my favorite things for WoW in particular is to get used to the terrain. I’ll wander around a zone so I can get a feel and know what points I can utilize.
 
-### Final Fantasy 14 Prep
-
-[Hydaelyyn Roleplayers Coalition](https://ffxiv-roleplayers.com/) | [FFXIV Event Calendar](https://ffxiv-rp.org/) | [New Players Lore Guide](https://www.reddit.com/r/ffxiv/comments/l07kdm/roleplay_in_final_fantasy_xiv_a_starting_guide_to/)
-
-To run events in FFXIV:
-
-* When setting off to roleplay, consider using the `/roleplaying` command! It adds a flag for roleplay.
-* Consider how large your event is to gauge how to handle invites and rolls. Parties can contain a maximum of 8 players. Or you can create a [Cross-world Linkshell](https://ffxiv.consolegameswiki.com/wiki/Linkshell) (CWLS). Players can form CWLS of up to 64 players from different worlds on the same data center. Players in a CWLS will be able to see other members' online status, and invite them to parties via subcommand.
-* To roll for d20 or similar events, use the [/dice command](https://na.finalfantasyxiv.com/lodestone/playguide/db/text_command/74e28154eb2/). For example, `/dice 20` rolls random from 1 to 20, `/dice cwl1 20` rolls random to the Cross-world Linkshell channel 1.
-* Add waymarks to note specific locations for enemies, NPCs, and such. Select **Party** > **Waymarks**. Select and place the waymark. These include numbers and letters. Here are some images to save and use for your Google Docs and Drawings: 
-
-  ![a](/img/icons/a.png) ![b](/img/icons/b.png) ![c](/img/icons/c.png) ![d](/img/icons/d.png) ![1](/img/icons/1.png) ![2](/img/icons/2.png) ![3](/img/icons/3.png)  ![4](/img/icons/4.png)
-
-* Use Signs to mark players and NPCs. Select **Party** > **Signs**.
-
-  ![signs](/img/icons/signs.png)
-
-* Use jobs, glamours, mounts, and minions for different NPCs. They can stand in for something to interact with beyond a floating waymark.
-* Use /yell to highlight text, be advised you are yelling! 
-* Macros and emotes are varied and powerful in FFXIV. If standing near a bench, using sit will seek and settle nicely. You can unlock and receive emotes through quests, leveling, factions. Some even change your position, like pose! See this guide for [RP emote help](https://www.reddit.com/r/ffxiv/comments/1r9bdv/ffxivarr_custom_emote_macro_guide/) and extended [guide on macros](https://latetothepartyfinder.com/ffxiv-beginner-guide-to-macros/) (including music files).
-* When you complete dungeons, you have an option in the Duty Finder called Explorer Mode. This gives you an empty instance to explore and roleplay in!
-
-  ![signs](/img/guides/explore.jpg)
-
 ### In Person & VTT Prep
 
 To run tabletop and virtual tabletop adventures:
@@ -94,22 +97,55 @@ Many artists offer incredible battlemaps, tokens, monsters, and short adventures
 
 </div>
 
+## Create a Carrd Site
+
+[Carrd](https://carrd.co/) is a powerful one-page tool for beautiful promotions for events, characters, NPCs, and more. Many players and DMs use Carrd sites to generate marketing and direct roleplayers to their events. All you need is info, a few screenshots, and a bit of time. You'll find guides, videos, and examples to help you get started.
+
+* [Roleplay guide to Carrd](https://rpschtuff.tumblr.com/post/189648182063/carrdco)
+* [Carrd Docs](https://carrd.co/docs)
+* Video - [Character/Creative](https://www.youtube.com/watch?v=sfe8LJZCdR0)
+* Video [Mobile Friendly/Pretty](https://www.youtube.com/watch?v=kZKjvCe-SG0)
+* Video - [Instagram look](https://www.youtube.com/watch?v=A3pqmc81eAM)
+
+Some incredible examples!
+
+* Event - [The Moonlight Music Event](https://moonlightevent.carrd.co/)
+* Event - [barEQUILIBRIUM](https://equilibrium-xiv.carrd.co/)
+* Event+ - [Silver Valkyrie Events](https://silvervalkyrieevents.carrd.co/)
+* Tavern - [The Cracked Cluster](https://cluster-tavern.carrd.co/#)
+* Inn - [The Inari Inn](https://theinariinn.carrd.co/)
+* Shop - [Crystalline Library](https://crystallinelibrary.crd.co/)
+* Shop - [The Busy Bean](https://busybean.carrd.co/)
+* Resort - [The Feybrand Oasis](https://thefeyrbrandoasis.carrd.co/#)
+* RP Group - [The Enlightened Ones](https://enlightenedones.carrd.co/)
+* Player - [Rayne](https://luminous-wordsmith.carrd.co/)
+* Player - [Pipin Tarupin](https://bloodsworn-marshal.carrd.co/)
+* Free Company - [Rose & Thorn Trading Co](https://rp-rt.carrd.co/)
+
 ## Create an Event Card
 
-Event cards and posters give you fantastic tools to stir up creativity in your table-top game, advertise for new players in VTT online communities, and lure players in MMO-RPGs. You don't need to be a Photoshop wizard to create these posters. Tools like GIMP for graphics and Google apps like Docs, Drawing, and Slides can be enough to get your adventure started.
+If you enjoy working in Photoshop or other graphic apps, event cards and posters give you fantastic tools to stir up creativity in your table-top game, advertise for new players in VTT online communities, and lure players in MMO-RPGs. You don't need to be a Photoshop wizard to create these posters. Tools like GIMP for graphics and Google apps like Docs, Drawing, and Slides can be enough to get your adventure started.
 
 I also provide a series of templates to use as you like. See [Event Map Cards](photoshop/event-cards.md), [Event Cards](wow-conquest/event-cards.md), and [Boss and Item Cards](wow-conquest/loot-cards.md) to find templates and examples. All you need is the Photoshop file, an art file, and some text.
 
 Some quick examples:
 
-![Investigation](/img/guides/investigation-card2.png)
-
-![Event](/img/guides/horror-card.png)
-
 ![Investigation](/img/guides/investigation-card.png)
 
 *Uses a fantastic Adventurer's Hall map from [CzePeku](https://www.patreon.com/czepeku)*
 
-## Coming Soon!
+![Investigation](/img/guides/investigation-card2.png)
 
-More tips and tricks coming soon!
+![Event](/img/guides/horror-card.png)
+
+## Get Added to Calendars
+
+For tabletop games, create a calendar event for your players. This helps know who is available, when, if game falls on a holiday, and more. Google Calendar is a great and easy way to track. Add links to important sheets, VTT games, notes or important items for specific nights, and more.
+
+For MMO-RPGs, check if your server or community has a calendar. Submit your events according to their rules. If you have a discord, add bot support to post daily or weekly events. This is an excellent way to get your event out to the community while welcoming new and returning players, and attending events with other groups.
+
+Example Calendars:
+
+* [FFXIV RP Event Calendar](https://balmungrpcalendar.tumblr.com/) / [plain list](https://ffxiv-rp.org/) & [submission](https://docs.google.com/forms/d/e/1FAIpQLSdWDosD1dbRKhdyWaReVAa1tRB8GMueS2vY6fR2Jqws5CDJOg/viewform?c=0&w=1)
+* [Warcraft RP Events](https://calendar.google.com/calendar/u/0/embed?src=rffk9av1tmj5lp08ma357b7ma8@group.calendar.google.com&pli=1) and [Twitter](https://twitter.com/wowrpevents?lang=en) and [Tumblr](https://wowrpevents.tumblr.com/) for Moon Guard and Wyrmrest Accord US
+* [The Royal Courier](https://the-royal-courier.tumblr.com/) Wyrmrest Accord US

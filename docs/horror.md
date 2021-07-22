@@ -19,7 +19,7 @@ Horror does not have to be overwhelming amounts of gore, terror, grandiose speec
 :::
 
 :::sonceri Game Genres
-This guide can be used for World of Warcraft (WoW) or FFXIV in-game events, tabletop games, LARPs, and more! Some of the terminology may be geared to WoW or a d20 system, but anyone can use it for any genre. The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
+This guide can be used for MMO-RPG in-game events (like WoW or FFXIV), tabletop games, LARPs, and more! Some of the terminology may be geared to a d20 system, but anyone can use it for any genre. The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
 :::
 
 :::caution Too Scary?
