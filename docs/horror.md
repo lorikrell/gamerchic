@@ -378,7 +378,7 @@ As the battle ensues, flashes blind and burn from golden lightning through the o
 
 "Mua'tollvex..." Breath catches in a final gurgle, as pain sharp and heated lances in your palm. Each of you gasp and grip at bare or gloved hands, the gleam of a sigil flared to life that left the freshly killed man to mark you. *Accept our gift.*
 
-Stumbling into the night, many townsfolk and merchant lay in broken heaps. Details of faces caught in rictus of surprise and pain caught in scarlet light edged in golds. Softly shifting hues of dawn, motes of brightness lifting to the heavens, lure your sight to the end of the city block. More flickers of streaming gold leave newly killed to seek that shimmer, joining it in harmony.
+Stumbling into the night, many townsfolk and merchants lay in broken heaps. Details of faces caught in rictus of surprise and pain caught in scarlet light edged in golds. Softly shifting hues of dawn, motes of brightness lifting to the heavens, lure your sight to the end of the city block. More flickers of streaming gold leave newly killed to seek that shimmer, joining it in harmony.
 
 And the rythmic song of cultist chanting strengthens.
 
@@ -388,7 +388,7 @@ And the rythmic song of cultist chanting strengthens.
 Various tabletop game systems have charts and options for adding madness, sanity, corruption, and other aspects to mechanically track how your players and NPCs are affected by the horror of the setting and event. These are guidelines and open to interpretation and customization for your events.
 
 :::sonceri What requires a sanity check?
-Any situation, experience, or knowledge that may be well beyond the norma. This includes witnessing terrifying deaths, experiencing torture, recurring event connected to a character's painful or traumatic backstory, meeting god-like entities, or finding knowledge alien to human understanding. While magic and nonhuman races form an everyday part of a character’s life, even a seasoned adventurer cannot conquer or understand some things.
+Any situation, experience, or knowledge that may be well beyond the normal. This includes witnessing terrifying deaths, experiencing torture, recurring events connected to a character's painful or traumatic backstory, meeting god-like entities, or finding knowledge alien to human understanding. While magic and nonhuman races form an everyday part of a character’s life, even a seasoned adventurer cannot conquer or understand some things.
 :::
 
 ### Optional: Forbidden Lore
@@ -409,7 +409,7 @@ D&D settings have alternate rules around fear, horror, and madness with numerous
 
 <div id="vhilit">
 
-**Hit points as a madness counter.** As players take damage, they experience elements of horror. When they reach death, they survive but gain an insanity specific to the cause of that death. For example, dying by vampiric bite, they may constantly feel weakened, hungry, see or hear wisps of the vampire about them. Perhaps they were stabbed through by many blades. They may feel dread when raising their sword, feel stabbing pain when attacking others from their old would, or hear and see every slashing attack by others as hyper real overwhelming and gruesome. Or give them a short term or permanent derangement. [World of Darkness](https://whitewolf.fandom.com/wiki/List_of_Derangements_(WOD)) has many incredible options.
+**Hit points as a madness counter.** As players take damage, they experience elements of horror. When they reach death, they survive but gain a madness specific to the cause of that death. For example, dying by vampiric bite, they may constantly feel weakened, hungry, see wisps or hear soft words of the vampire about them. Perhaps they were stabbed through by many blades. They may feel dread when raising their sword, feel stabbing pain when attacking others from their old would, or hear and see every slashing attack by others as hyper real overwhelming and gruesome. Or give them a short term or permanent derangement. [World of Darkness](https://whitewolf.fandom.com/wiki/List_of_Derangements_(WOD)) has many incredible options.
 
 **Madness effects based on encountered horror elements.** They may roll against a difficult class (DC) for the situation, or roleplay out the scenario. Winning or losing may incur a different effect. Madness can be short-term, long-term, or indefinite. Most relatively mundane effects impose short-term madness, which lasts for just a few minutes. More horrific effects or cumulative effects can result in long-term or indefinite madness. Depending on which is easier, choose one of the following methods for tracking madness:
 
@@ -519,7 +519,9 @@ d% | Effect (lasts 1d10 minutes)
 
 ### Simplified Insanity
 
-For an interesting twist on insanity and inner darkness, consider the simplicity of sigils, their meaning, and how it affects players. These additions can be fantastic for MMO-RPGs with symbols you can place on a character and cards for tabletop adventures. Here's how to use this system:
+For an interesting twist on insanity and inner darkness, consider the simplicity of sigils, their meaning, and how it affects players. These additions can be fantastic for visual cues by marking players and locations in MMO-RPGs, placing a symbol over or under a token in VTTs, or handing a card to each player at the tabletop.
+
+Here's how to use this system:
 
 1. Based on your story, select up to five different symbols of horror. These could be from myths, legends, folklore, tarot cards, or your imagination. Give them a meaning and name in case players investigate.
 2. Set a perk and curse for each of these symbols.
@@ -530,7 +532,7 @@ The madness may be the curse that rises the longer they are marked, or the more 
 
 * Tarot Cards: Pick any of these, so many options
 * Folklore: The Maiden, The Mother, The Crone
-* Ages of Time: Dawn, Zenith, Twilight, Night, Eclipse
+* Symbols of Time: Dawn, Zenith, Twilight, Night, Eclipse
 * Chess Pieces: King, Queen, Abbot, Rook, Pawn
 
 #### Tarot Cards
@@ -561,7 +563,7 @@ This is an example using five tarot cards:
 ### Corruption Body Horror
 
 :::caution Enter at your own risk!
-Some tales of terror delve into alien minds, abhorrent flesh, and twisted perceptions all part of body horror. Few players may be interested in these tales. Be prepared to change or simply the descriptions accordingly, and explain what they are in for.
+Some tales of terror delve into alien minds, abhorrent flesh, and twisted perceptions all part of body horror. Few players may be interested in these tales. Be prepared to change or simplify the descriptions accordingly, and explain what they are in for.
 :::
 
 For those willing to go into body horror and supreme corruption, you may want to consider a different system of perks and curses. Players may earn an opportunity to accept a gift (perk) but it comes with a cost (curse).
@@ -578,9 +580,9 @@ The darkness takes root, crafting within you new organs, twisted bones, scaled f
 | Living Weapon | Physical Weapon | Your weapon has errupted with strange, new life. Tendons and flesh wrap about wood, metal fractures with joints of bone, serpentine otherworldly eyes may open upon it, teeth may serrate the edge dripping poison. On a successful attack, you may command the weapon to poison the enemy inflicting more damage. Soon it may become a permanent part of your body.<br/><br/>The damage equals the number of times this perk is taken 1 for 1.  |
 | Umbral Assault | Caster Attack | Whirling from the darkness at your feet, your shadow rises to take form. As you cast magics, words echo through the void form of endless night, in different languages, perhaps in reverse, to jettison an attack in spectral screaming horror or slithering shadowed nightmares. Attacks from you and your shadow land together on a target. When battle ends, your shadows remains alive and seething.<br/><br/>The damage equals the number of times this perk is taken 1 for 1. |
 | Shadowmend | Caster Heal | You become a conduit of stolen life, drawing lifeforce from allies and enemies to mend another. You become greyer in color, red or black veins rise under your skin, edges of deathly colors round your eyes and tip your fingers. Reaching forth to those around you, including yourself, you draw 1 HP from them (damage they take) and siphon it all to another as healing.<br/><br/>The damage to others and healing equals the number of times this perk is taken 1 for 1. Select as many targets as you like to take 1 point from each. |
-| Voidsight | Perception | Your eyes bear the mark of the void, the horrors you parley with, the darkness within. Evil designs reveal themselves to your midnight stare, as your entire eye is a living pool of midnight darkness consuming light. If taken too far, you may never see the living rightly so again, everything in your vision deathly or corrupted.<br/><br/>Gain +1 to perception and environment rolls as many times as you take the perk, 1 for 1. |
+| Voidsight | Perception | Your eyes bear the mark of the void, the horrors you parley with, the darkness within. Evil designs reveal themselves to your midnight stare, as your entire eye is a living pool of onyx darkness consuming light. If taken too far, you may never see the living rightly so again, everything in your vision deathly or corrupted.<br/><br/>Gain +1 to perception and environment rolls as many times as you take the perk, 1 for 1. |
 
-Additionally, ask for corruption rolls (d20 + levels of corruption) for dramatic moments or actions of enemies, using this corruption against those that imbibe this power. This gives you additional options for attacks, environmental situations, perceiving the afflicted, and more.
+Additionally, ask for corruption rolls (d20 + levels of corruption) for dramatic moments or actions of enemies, using this corruption against those that imbibe this power. This gives you additional options for attacks, environmental situations, perceiving the afflicted, and more. For example, when players find a place of sanctuary, anyone with corruption over 2 cannot enter or take damage if they do. A fiend of vile corruption roars, causing those with 3 and higher corruption to roll a will save or join its mind with a potential terrifying effect.
 
 Healing and cleansing this corruption may become part of the event or story arc, seeking more than simple prayer to purge the horrors within.
 
