@@ -50,7 +50,7 @@ When you run these events, always let your players know what they are in for! No
 
 ## Horror Building Blocks
 
-The following are a few building blocks of story and mechanics to consider when creating investigations.
+The following are a few building blocks of story and mechanics to consider when creating tales of horror.
 
 <div id="vhilit">
 
@@ -205,13 +205,17 @@ Any event type can have horror elements woven through it: battles, scouting, inv
   * Seeking lost items can also lead into horror such as soul bound artifacts, eye of a demon, holy sword of a dark god, tome of ancient secrets (necronomicon), scrolls of forbidden magic, etc. 
   * Hunting bounties or kidnapped people have opportunities of reasons for the capture such as nobles, pure blood, prophecies, hired, returning cult members, etc.
 
+  :::gamerchic Learn More
+  See [Investigation Events](investigation.md) for ideas on these events, crafting those tales, and more.
+  :::
+
 * **Social**: A grand ball, meeting of allies, diplomacy council, tea time with the ladies, all of these social situations could have goals and darkness added for flavor without falling into battle. A dark figure with a reason to cause a person or group fall to corruption, or set groups into fighting later, could greet and afflict the event with aspects of horror. Perhaps they add something to drinks/food, curse the location with magic, threaten and hold players hostage, use illusions to look like others twisting a situation, etc.
 * **Magic**: Your imagination is the limit for creating magical horror. Consider the senses, soul, and aspects of magic when involving evil: sacrifices, strange language, use of blood/collected materials, mind-afflicting runes, etc. Also consider the source of magic: dark deals, fiends, zealot celestials, pacts with enemy forces, murder, liches, etc.
 
 </div>
 
 :::sonceri Borrowing From Life
-If you need a bit of help, use historical events, myths, and legends with added twists to make it your own. Borrowing from aspects of a war, serial killer, and rituals from ancient civilizations all together in one tale may craft a provoking experience. Or draw from nightmares, taking images and feelings from those into a villain's dialogue or description of a room can terrify.
+If you need a bit of help, use historical events, archeology, myths, and legends with added twists to make it your own. Borrowing from aspects of a war, serial killer, and rituals from ancient civilizations woven into one tale may craft a provoking experience. Or draw from nightmares, taking images and feelings from those into a villain's dialogue or description of a room. For a creepy addition, use poetry and song lyrics as whispers around the players, giving strange imagery to the unseen.
 :::
 
 Keep these goals in mind when setting up situations and scenes. Here are some ideas using our two events:
