@@ -91,6 +91,15 @@ To run tabletop and virtual tabletop adventures:
 * Use Discord for voice and video if your VTT integration isn't the best. Discord servers give you a great way to share downtime, post maps and info for what they encounter, and bots for rolls between games. You can also run games in Discord without using an online system, or between games sessions. 
 * If you need help with different voices, try a voice changer like [VoiceMod](https://www.voicemod.net/discord-voice-changer/) or [Clownfish](https://clownfish-voicechanger.com/). Here's a [nice video](https://www.youtube.com/watch?v=3zS25g_NhcY) on this and another option.
 
+Want to create custom tokens? 
+
+1. Download this [Photoshop token file](/files/token.psd).
+2. Select Square or Circle and a color. Want to make your own? The custom layer gives you the option for changing the gradients.
+3. Paste art in the noted folder. It will mask it to fit nicely.
+4. Export to .png to look great in your VTT!
+
+![token](/img/guides/token.jpg)
+
 :::gamerchic Finding Battlemaps
 Many artists offer incredible battlemaps, tokens, monsters, and short adventures through Patreon. Search and find some amazing artists, including the following favorites: Cze and Peku [Patreon](https://www.patreon.com/czepeku) and [website](https://www.czepeku.com/), [Moonlight Maps](https://www.patreon.com/MoonlightMaps), Dyson Logos [Patreon](https://www.patreon.com/dysonlogos) and [blog](https://dysonlogos.blog/maps/), [Jared Blando](https://www.patreon.com/JaredBlando), [Ori the Cartographer](https://www.patreon.com/orithecartographer), [Party of Two](https://www.patreon.com/partyoftwo), [Eightfold Paper](https://www.patreon.com/EightfoldPaper), [John Stevenson](https://www.patreon.com/sirinkman), [Animated Dungeon Maps](https://www.patreon.com/animatedmaps), [Neutral Party](https://www.patreon.com/neutralparty), [Forgotten Adventures](https://www.patreon.com/forgottenadventures). [Heroic Maps](https://www.patreon.com/heroicmaps), [Maphammer](https://www.patreon.com/maphammer), [Afternoon Maps](https://www.patreon.com/afternoonmaps) and I have just started too at [Sonceri Masterworks](https://www.patreon.com/sonceri). Reddit also has a great [Battle Maps](https://www.reddit.com/r/battlemaps/) forum.
 :::
