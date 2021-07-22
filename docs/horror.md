@@ -318,13 +318,13 @@ In this example, using this video of ambience and movie still from Crimson Peak.
         allowfullscreen
         />
 
-<div id="vhilit">
+
+![Lady](/img/guides/horror-lady.jpg)
 
 * **Emotion to convey**: Unsettled, moldering house and slight rot points to the inherent darkness in the location and owner
 * **Senses to focus on**: Tarnished gold, patina of rotted greens, neverending autumn on the verge of winter, sickly sweet
 * **Aspect of horror**: Corruption and madness, the sacrifices for saving a child have pushed the lady of the house into dark magics and madness
 
-</div>
 
 <details closed>
 <summary>Expand to read the story.
@@ -350,13 +350,9 @@ Here the scent of orchid and cracking hearth push away something sweeter, a scen
 
 #### Grand Designs
 
-<div id="vhilit">
-
 * **Emotion to convey**: Heart thundering fear, excitement, speed
 * **Senses to focus on**: Glimmering golds of holy light, blood and scarlet reds, chanting, wet sounds
 * **Aspect of horror**: Bloodbath of death, alien presence
-
-</div>
 
 ![Portal](/img/guides/horror-demon.jpg)
 
