@@ -236,3 +236,10 @@
     grid-item:nth-child(2) { order: 3; grid-column: 1 / 3; }
     grid-item:nth-child(3) { order: 2; }
 }
+
+.gallery {
+    display: 'grid';
+    grid-template-columns: '240px 171px 171px';
+    grid-template-rows: '114px 114px';
+    grid-gap: 12px;
+}

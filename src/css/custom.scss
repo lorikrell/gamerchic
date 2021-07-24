@@ -241,14 +241,34 @@ blockquote {
   //box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.hero {
+  padding: 16rem 2rem !important;
+}
+
+.hero--gallery {
+  --ifm-hero-text-color: rgb(255, 255, 255) !important;
+  background-image: 
+    linear-gradient(rgba(0,0,0,0.1),
+    rgba(0,0,0,0.65)),
+    url("../../static/img/landing/gallery-hero.jpg") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: transparent !important;
+  -webkit-mask-image: url("../../static/img/landing/gallery-mask.png");
+  mask-image: url("../../static/img/landing/gallery-mask.png");
+  //-webkit-mask-image: linear-gradient(to top, transparent 5%, black 25%);
+  //mask-image: linear-gradient(to top, transparent 5%, black 25%);
+  //box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 5rem 2rem !important;
+}
+
 .mask1 {
   -webkit-mask-image: linear-gradient(to top, transparent 5%, black 75%);
   mask-image: linear-gradient(to top, transparent 5%, black 75%);
 }
 
-.hero {
-  padding: 16rem 2rem !important;
-}
+
 
 .faq--primary {
   --ifm-hero-text-color: rgb(255, 255, 255) !important;
@@ -777,6 +797,14 @@ html[data-theme='dark'] .admonition-sonceri {
     height: 713px;
   }
 
+  .hero--gallery {
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/gallery-hero-med.jpg") !important;
+    height: 315px;
+  }
+
   .menu__link--sublist:after {
     background: var(--ifm-menu-link-sublist-icon) 50% / 2rem 2rem;
     content: ' ';
@@ -857,6 +885,17 @@ html[data-theme='dark'] .admonition-sonceri {
       -webkit-mask-image: url("../../static/img/landing/landing-hero-mobilemask.png");
       mask-image: url("../../static/img/landing/landing-hero-mobilemask.png");
   }
+
+  .hero--gallery {
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/gallery-hero-mobile.jpg") !important;
+      height: 315px;
+      -webkit-mask-image: url("../../static/img/landing/gallery-hero-mobilemask.png");
+      mask-image: url("../../static/img/landing/gallery-hero-mobilemask.png");
+  }
+
   .feedback-edit {
     text-align: left !important;
   }
@@ -1524,4 +1563,12 @@ summary {
   border-right: 1px solid rgb(49, 49, 49);
   border-bottom: 1px solid rgb(49, 49, 49);
   padding: 0px 10px 0px 10px;
+}
+
+//gallery
+
+.gallery-grid {
+  display: 'grid';
+  grid-template-columns:  repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 1rem;
 }

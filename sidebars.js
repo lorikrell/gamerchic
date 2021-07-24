@@ -84,13 +84,7 @@ module.exports = {
     ]
     },
 
-
     /*
-    {
-      type: 'category',
-      label: 'DMs and Storytellers',
-      items: ['d-n-d/intro', 'photoshop/coins',],
-    },
     {
       type: 'category',
       label: 'Dungeons and Dragons',

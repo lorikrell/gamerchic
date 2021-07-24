@@ -90,6 +90,11 @@ module.exports = {
             }, 
           ]
         },
+        {
+          position: 'left',
+          to: 'gallery',
+          label: 'Art Gallery',
+        },
         {to: '/blog', label: 'Blog', position: 'right'},
         /*{
           href: 'https://github.com/facebook/docusaurus',
