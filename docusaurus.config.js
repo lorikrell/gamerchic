@@ -30,11 +30,11 @@ module.exports = {
       //appId: 'YOUR_APP_ID',
 
       // Optional: Algolia search parameters
-      //searchParameters: {},
+      searchParameters: {},
 
       //... other Algolia params
     },
-    
+
     navbar: {
       title: 'Sonceri | Gamerchic',
       logo: {
