@@ -11,11 +11,30 @@ module.exports = {
   projectName: 'gamerchic', // Usually your repo name.
   trailingSlash: false,
   themeConfig: {
+
     hideableSidebar: true,
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
     },
+
+    //Algolia
+    algolia: {
+      apiKey: '10b97526dc1fb3ba5b0279444d437ba5',
+      indexName: 'sonceri',
+
+      // Optional: see doc section below
+      contextualSearch: false,
+
+      // Optional: see doc section below
+      //appId: 'YOUR_APP_ID',
+
+      // Optional: Algolia search parameters
+      //searchParameters: {},
+
+      //... other Algolia params
+    },
+    
     navbar: {
       title: 'Sonceri | Gamerchic',
       logo: {
