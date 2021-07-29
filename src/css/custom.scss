@@ -871,6 +871,20 @@ html[data-theme='dark'] .admonition-sonceri {
 
 @media screen and (max-width: 500px) {
 
+  html[data-theme='dark'] #__docusaurus {
+    background-image: url(../../static/img/dark-back-med.jpg) !important;
+    background-attachment: fixed;
+    background-color: transparent;
+    background-size: cover;
+  }
+  
+  html[data-theme='light'] #__docusaurus {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.65), rgba(248, 248, 248, 0.2)), url(../../static/img/light-back-med.jpg) !important;
+    background-attachment: fixed;
+    background-color: transparent;
+    background-size: cover;
+  }
+
   .hero {
     padding: 4rem 2rem !important;
   }
