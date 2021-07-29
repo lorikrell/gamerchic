@@ -47,6 +47,10 @@ html[data-theme='light'] #__docusaurus {
   background-size: cover;
 }
 
+html[data-theme='light'] {
+--ifm-toc-border-color: rgb(167, 167, 167);
+}
+
 .footer__link-item {
   --ifm-footer-link-color: #5284a1 !important;
 }
