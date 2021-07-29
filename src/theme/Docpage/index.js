@@ -68,7 +68,7 @@ function DocPageContent({currentDocRoute, versionMetadata, children}) {
         version,
         tag: docVersionSearchTag(pluginId, version),
       }}>
-      <div className={styles.docPage}>
+      <div className={styles.docPage, backer}>
         {sidebar && (
           <aside
             className={clsx(styles.docSidebarContainer, {

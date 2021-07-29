@@ -33,6 +33,20 @@
   --doc-sidebar-width: 250px !important;
 }
 
+html[data-theme='dark'] #__docusaurus {
+  background-image: url(../../static/img/dark-back.jpg) !important;
+  background-attachment: fixed;
+  background-color: transparent;
+  background-size: cover;
+}
+
+html[data-theme='light'] #__docusaurus {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.65), rgba(248, 248, 248, 0.2)), url(../../static/img/light-back.jpg) !important;
+  background-attachment: fixed;
+  background-color: transparent;
+  background-size: cover;
+}
+
 .footer__link-item {
   --ifm-footer-link-color: #5284a1 !important;
 }
