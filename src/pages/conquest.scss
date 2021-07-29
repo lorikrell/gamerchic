@@ -16,6 +16,7 @@
     box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
     object-fit: contain;
     position: relative;
+    z-index: 10;
   }
 
 .conquest-header {
