@@ -20,6 +20,14 @@ You can install tools locally and use online websites to collect models for vehi
 * [Conquest War Machine D20 System](https://docs.google.com/document/d/1WNRYwGUhvwE6BuqN_VFThXmmhnMQ6zCTbEwGaZWek3Q/edit?usp=sharing) by Warcraft Conquest
 * [InBoard App](https://inboardapp.com/) for creating mood boards with screen captures and concept art
 
+:::note Learning 3D
+Want to learn how to export and work on models in 3D? Blender is a great tool to get started. You may need a graphics program to edit texture skins like Photoshop. And some guides!
+
+Videos: [Belvane](https://www.youtube.com/channel/UCOmW1vc5IHljr1pPlu31J9g), [Doc K Games](https://www.youtube.com/watch?v=_1lheyXeFAg), [Nixxiom](https://youtu.be/N-hBogx-bQ4), [Mastermind OverRide](https://www.youtube.com/channel/UCc89tQS-awXZXGTN1ZUFvCQ), [IKEdit - Russian](https://www.youtube.com/watch?v=qpymbw-yKHY&list=PLrNUHxCJ1mlECp2weTJyV25RWGCQ9PUbi)
+
+Tutorials: [Enos Shenk Tutorial](https://blenderartists.org/t/quick-tutorial-how-to-export-world-of-warcraft-assets-to-render-with-cycles/531730), [WoW Blender Studio - outdated](https://model-changing.net/tutorials/article/106-wow-blender-studio-complete-guide/), [Frostmourne Sculpt](https://www.blendernation.com/2017/01/29/world-warcraft-frostmourne-speedmodeling/)
+:::
+
 ## Inspiration for Tokens
 
 Figuring out the vehicles you want to make requires a little thinking and inspiration. Here are some great ideas!
