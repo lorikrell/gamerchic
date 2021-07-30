@@ -44,6 +44,7 @@ module.exports = {
         'photoshop/elven-journal',
         'photoshop/dwarf-journal',
         'photoshop/arden-journal',
+        'photoshop/vampire-journal',
       ]
     },
     {
