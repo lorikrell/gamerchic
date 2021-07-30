@@ -1,6 +1,7 @@
 ---
 title: Elven Journals
 id: elven-journal
+description: Find yourself a journal of fine parchment, seals, and magic inspired by elves. Google Slides journal series.
 ---
 
 A collection of elven pages for your journals. A full Google Slides journal is to come. These downloadable JPGs give you a base to add your words for one of the many elven folk, be you fair from the woodlands, magic taught of the grand cities, or risen in undeath. Each carries a seal, bookmark, flavor imagery, and easily supports white text added using Google Slides, Google Drawing, or your favorite graphic program.
