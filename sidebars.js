@@ -34,7 +34,17 @@ module.exports = {
         'photoshop/coins',
         'photoshop/wax-seals',
         'photoshop/event-maps',
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Character Journals',
+      items: [
+        'photoshop/final-journal',
         'photoshop/elven-journal',
+        'photoshop/dwarf-journal',
+        'photoshop/arden-journal',
+        'photoshop/vampire-journal',
       ]
     },
     {
