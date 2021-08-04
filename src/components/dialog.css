@@ -1,0 +1,41 @@
+.Dialog {
+    width: 300px;
+    height: 360px;
+    background-color: transparent;
+    position: absolute;
+    cursor: grab;
+}
+
+.hidden {
+    display: none;
+}
+
+.DialogTitle {
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid grey;
+}
+
+.stuff {
+    background-image: url(../../static/img/hildira/planchette.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+    align-content: center;
+    width: 300px;
+    height: 360px;
+}
+
+.closeButton {
+    font-size: 12px;
+    width: 75px;
+    color: rgb(29, 11, 3);
+    border: 2px solid rgb(29, 11, 3);
+    border-radius: 25px;
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+}
