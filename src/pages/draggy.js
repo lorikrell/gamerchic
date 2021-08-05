@@ -20,8 +20,10 @@ export default class MainApp extends Component {
         
 		return (
 			<div className='board'>
+                
 				<div className='planch-button' onClick={this._showDialog.bind(this)}> <img src='../../static/img/icons/icon-planchette.png'/></div>
                 <Dialog onClose={this._showDialog.bind(this)} show={this.state.showDialog}/>
+
 			</div>
 
 		);
