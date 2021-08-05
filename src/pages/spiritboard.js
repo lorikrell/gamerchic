@@ -20,7 +20,7 @@ function SpiritBoard() {
     <MainApp />
           <div className="contain row ">
     <div className='board-credit center'>
-        <p><img src='../../static/img/icons/icon-planchette2.png'/> Artwork created by <a href="https://twitter.com/MerelliaH">Hildira Moon Guard-US</a> - An incredible spirit board with a matching planchette.</p>
+        <p><img src='/img/icons/icon-planchette2.png'/> Artwork created by <a href="https://twitter.com/MerelliaH">Hildira Moon Guard-US</a> - An incredible spirit board with a matching planchette.</p>
         </div>
     </div>
     <div className="spacer"></div>
