@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './draggy.scss';
-import Dialog from '../Components/Dialog';
+import Dialog from '../components/dialog.js';
 
 
 export default class MainApp extends Component {
