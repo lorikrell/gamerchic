@@ -16,13 +16,15 @@ function SpiritBoard() {
     return (
       <Layout title="Warcraft Spirit Boards" 
       description="Call the spirits with these special tools, created by Hildira of Moon Guard-US!">
+    
     <MainApp />
-    <section className='spacer2'>
-        <div className="container">
-        <div className='board-credit'>
-        <p><img src='../../static/img/icons/icon-planchette2.png'/> Artwork created by <a href="https://www.youtube.com/channel/UCwmkSpfuE47IL0yaG6QqQNg">Hildira Moon Guard-US</a> - An incredible spirit board with a matching planchette.</p>
+          <div className="contain row ">
+    <div className='board-credit center'>
+        <p><img src='../../static/img/icons/icon-planchette2.png'/> Artwork created by <a href="https://twitter.com/MerelliaH">Hildira Moon Guard-US</a> - An incredible spirit board with a matching planchette.</p>
         </div>
-    </div></section>
+    </div>
+    <div className="spacer"></div>
+    
    </Layout>
   );
 }

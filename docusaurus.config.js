@@ -54,6 +54,10 @@ module.exports = {
               label: 'DMs and Storytellers',
             },
             {
+              to: 'spiritboard',
+              label: 'Spirit Board',
+            },
+            {
               to: 'docs/wow-conquest/intro',
               label: 'Warcraft Conquest',
             }, 

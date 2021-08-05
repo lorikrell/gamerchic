@@ -5,23 +5,18 @@
 
 .board {
     background-image: url(../../static/img/hildira/SpiritBoardAutumnhearth.png);
-    height: 90vh;
+    height: calc(0.816 * 100vw);
+    width: 100%;
     background-size: contain;
     background-repeat: no-repeat;
-   //background-position: center;
-    //margin: auto;
     padding: 10px;
+    position: relative;
     
 }
 
 .board-credit {
     position: absolute;
     width: 100%;
-    bottom: 0;
+    padding-top: 5px;
+    z-index: 5;
 }
-
-.spacer2 {
-    padding: 1rem;
-    width: 100%;
-    bottom: 0;
-  }
