@@ -46,6 +46,7 @@ module.exports = {
         'photoshop/arden-journal',
         'photoshop/vampire-journal',
         'photoshop/jungle-journal',
+        'photoshop/scrollcase',
       ]
     },
     {

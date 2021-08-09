@@ -203,7 +203,22 @@
     margin-top: 20px;
 }
 
+.responsive-tall-google-slides iframe {
+    border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
 
+.responsive-tall-google-slides {
+    position: relative;
+    padding-bottom: calc(2000 / 1200 * 100%);
+    height: 0;
+    overflow: hidden;
+    margin-top: 20px;
+}
 
 @media screen and (max-width: 500px) {
     .conquest-title {

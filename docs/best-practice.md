@@ -51,7 +51,12 @@ Many artists offer incredible battlemaps, tokens, monsters, and short adventures
 
 ### Final Fantasy 14 Prep
 
-[Hydaelyyn Roleplayers Coalition](https://ffxiv-roleplayers.com/) | [FFXIV Event Calendar](https://ffxiv-rp.org/) | [New Players Lore Guide](https://www.reddit.com/r/ffxiv/comments/l07kdm/roleplay_in_final_fantasy_xiv_a_starting_guide_to/)
+Connections and resources:
+
+* [Hydaelyyn Roleplayers Coalition](https://ffxiv-roleplayers.com/)
+* [FFXIV Event Calendar](https://ffxiv-rp.org/)
+* [New Players Lore Guide](https://www.reddit.com/r/ffxiv/comments/l07kdm/roleplay_in_final_fantasy_xiv_a_starting_guide_to/)
+* Chaos Roleplay Community EU [Twitter](https://twitter.com/chaosrpc) and [Discord](discord.gg/rCHdUdSVsr)
 
 To run events in FFXIV:
 
@@ -68,11 +73,12 @@ To run events in FFXIV:
 
 * Use jobs, glamours, mounts, and minions for different NPCs. They can stand in for something to interact with beyond a floating waymark.
 * Use /yell to highlight text, be advised you are yelling! 
-* Macros and emotes are varied and powerful in FFXIV. If standing near a bench, using sit will seek and settle nicely. You can unlock and receive emotes through quests, leveling, factions. Some even change your position, like pose! See this guide for [RP emote help](https://www.reddit.com/r/ffxiv/comments/1r9bdv/ffxivarr_custom_emote_macro_guide/) and extended [guide on macros](https://latetothepartyfinder.com/ffxiv-beginner-guide-to-macros/) (including music files).
+* Macros and emotes are varied and powerful in FFXIV. If standing near a bench, using sit will seek and settle nicely. You can unlock and receive emotes through quests, leveling, factions. Some even change your position, like pose! See this guide for [RP emote help](https://www.reddit.com/r/ffxiv/comments/1r9bdv/ffxivarr_custom_emote_macro_guide/) and extended [guide on macros](https://latetothepartyfinder.com/ffxiv-beginner-guide-to-macros/) (including music files). /em allows for custom emotes as text.
 * When you complete dungeons, you have an option in the Duty Finder called Explorer Mode. This gives you an empty instance to explore and roleplay in!
 
   ![signs](/img/guides/explore.jpg)
 
+* Player housing provides extensive roleplay opportunities! Houses and apartments can simply be welcoming locations for visit friends or also hold events and shops.
 * [Helpful ideas and info on FFXIV](https://spotofmummery.com/2021/02/25/ffxiv-role-play-creating-a-rp-character-profile-and-linking-it-in-search-info/) docs and sites to consider for your events and characters
 
 ### Warcraft Game Prep
