@@ -508,6 +508,7 @@ html[data-theme='light'] .admonition-homebrew {
   border: 1px solid #006591;
   border-left: 6px solid #006591;
   color: var(--ifm-font-color-base);
+  padding: 5px;
   .admonition-icon svg {
     width: 30px;
     height: 30px;
@@ -519,6 +520,7 @@ html[data-theme='dark'] .admonition-homebrew {
   border: 1px solid #006591;
   border-left: 6px solid #006591;
   color: #ffffff;
+  padding: 5px;
   .admonition-icon svg {
     width: 30px;
     height: 30px;
@@ -532,6 +534,7 @@ html[data-theme='light'] .admonition-exalted {
   border-left: 6px solid #ad9759;
   color: var(--ifm-font-color-base);
   --ra-admonition-icon-color: #ad9759; 
+  padding: 5px;
   .admonition-icon svg {
     width: 26px !important;
     height: 26px !important;
@@ -544,6 +547,7 @@ html[data-theme='dark'] .admonition-exalted {
   border-left: 6px solid #ad9759;
   color: #ffffff;
   --ra-admonition-icon-color: #ad9759; 
+  padding: 5px;
   .admonition-icon svg {
     width: 26px !important;
     height: 26px !important;
@@ -556,6 +560,7 @@ html[data-theme='light'] .admonition-gamerchic {
   border: 1px solid #e5ab09;
   border-left: 6px solid #e5ab09;
   color: var(--ifm-font-color-base);
+  padding: 5px;
   --ra-admonition-icon-color: #e5ab09; 
 }
 
@@ -564,6 +569,7 @@ html[data-theme='dark'] .admonition-gamerchic {
   border: 1px solid #e5ab09;
   border-left: 6px solid #e5ab09;
   color: #ffffff;
+  padding: 5px;
   --ra-admonition-icon-color: #e5ab09; 
 }
 
@@ -585,6 +591,7 @@ html[data-theme='dark'] .admonition-dungeon {
   border-left: 6px solid #df4b30;
   color: #ffffff;
   --ra-admonition-icon-color: #df4b30; 
+  padding: 5px;
   .admonition-icon svg {
     width: 26px !important;
     height: 26px !important;
@@ -598,6 +605,7 @@ html[data-theme='light'] .admonition-shadowrun {
   border-left: 6px solid #00dde0;
   color: var(--ifm-font-color-base);
   --ra-admonition-icon-color: #00dde0; 
+  padding: 5px;
   .admonition-icon svg {
     width: 30px !important;
     height: 30px !important;
@@ -627,6 +635,7 @@ html[data-theme='light'] .admonition-conquest {
   border-top: 1px solid transparent;
   border-right: 1px solid transparent;
   border-radius: var(--ra-admonition-border-radius);
+  padding: 5px;
   .admonition-icon svg {
     width: 30px;
     height: 30px;
@@ -643,6 +652,7 @@ html[data-theme='dark'] .admonition-conquest {
   border-top: 1px solid transparent;
   border-right: 1px solid transparent;
   border-radius: var(--ra-admonition-border-radius);
+  padding: 5px;
   .admonition-icon svg {
     width: 30px;
     height: 30px;
@@ -656,6 +666,7 @@ html[data-theme='light'] .admonition-wod {
   border-left: 6px solid #9001f5;
   color: var(--ifm-font-color-base);
   --ra-admonition-icon-color: #9001f5; 
+  padding: 5px;
   .admonition-icon svg {
     width: 26px !important;
     height: 26px !important;
@@ -668,6 +679,7 @@ html[data-theme='dark'] .admonition-wod {
   border-left: 6px solid #9001f5;
   color: #ffffff;
   --ra-admonition-icon-color: #9001f5; 
+  padding: 5px;
   .admonition-icon svg {
     width: 26px !important;
     height: 26px !important;
@@ -681,6 +693,7 @@ html[data-theme='light'] .admonition-sonceri {
   border-left: 6px solid #e836a1;
   color: var(--ifm-font-color-base);
   --ra-admonition-icon-color: #e836a1; 
+  padding: 5px;
   .admonition-icon svg {
     width: 30px !important;
     height: 30px !important;
@@ -693,6 +706,7 @@ html[data-theme='dark'] .admonition-sonceri {
   border-left: 6px solid #e836a1;
   color: #ffffff;
   --ra-admonition-icon-color: #e836a1; 
+  padding: 5px;
   .admonition-icon svg {
     width: 30px !important;
     height: 30px !important;
