@@ -56,7 +56,8 @@ Connections and resources:
 * [Hydaelyyn Roleplayers Coalition](https://ffxiv-roleplayers.com/)
 * [FFXIV Event Calendar](https://ffxiv-rp.org/)
 * [New Players Lore Guide](https://www.reddit.com/r/ffxiv/comments/l07kdm/roleplay_in_final_fantasy_xiv_a_starting_guide_to/)
-* Chaos Roleplay Community EU [Twitter](https://twitter.com/chaosrpc) and [Discord](discord.gg/rCHdUdSVsr)
+* Chaos Roleplay Community EU [Twitter](https://twitter.com/chaosrpc) and [Discord](https://discord.gg/rCHdUdSVsr)
+* [New/Shy Roleplayer Guide](https://house-vexile.tumblr.com/post/185775370139/ffxiv-newshy-roleplayer-advice)
 
 To run events in FFXIV:
 
@@ -71,15 +72,20 @@ To run events in FFXIV:
 
   ![signs](/img/icons/signs.png)
 
+  !!!note All About Icons
+  There are many icons throughout the game, locations, bars, quests, and more. To help understand them, see the [Dictionary of Icons](https://ffxiv.gamerescape.com/wiki/Dictionary_of_Icons).
+  !!!
+
 * Use jobs, glamours, mounts, and minions for different NPCs. They can stand in for something to interact with beyond a floating waymark.
 * Use /yell to highlight text, be advised you are yelling! 
+* Use /em for custom emotes, when the built in emotes just are not enough. All emotes are available in an interface. Use `<t>` for your target.
 * Macros and emotes are varied and powerful in FFXIV. If standing near a bench, using sit will seek and settle nicely. You can unlock and receive emotes through quests, leveling, factions. Some even change your position, like pose! See this guide for [RP emote help](https://www.reddit.com/r/ffxiv/comments/1r9bdv/ffxivarr_custom_emote_macro_guide/) and extended [guide on macros](https://latetothepartyfinder.com/ffxiv-beginner-guide-to-macros/) (including music files). /em allows for custom emotes as text.
 * When you complete dungeons, you have an option in the Duty Finder called Explorer Mode. This gives you an empty instance to explore and roleplay in!
 
   ![signs](/img/guides/explore.jpg)
 
-* Player housing provides extensive roleplay opportunities! Houses and apartments can simply be welcoming locations for visit friends or also hold events and shops.
-* [Helpful ideas and info on FFXIV](https://spotofmummery.com/2021/02/25/ffxiv-role-play-creating-a-rp-character-profile-and-linking-it-in-search-info/) docs and sites to consider for your events and characters
+* Player housing provides extensive roleplay opportunities! Houses and apartments can simply be welcoming locations for visit friends or also hold events and shops. Houses may be marked with RP tags. Also check the Party Finder for events, if hosted in a house that may be in the notes.
+* [Helpful ideas and info on FFXIV](https://spotofmummery.com/2021/02/25/ffxiv-role-play-creating-a-rp-character-profile-and-linking-it-in-search-info/) docs and sites to consider for your events and characters.
 
 ### Warcraft Game Prep
 

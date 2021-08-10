@@ -40,6 +40,7 @@ module.exports = {
       type: 'category',
       label: 'Character Journals',
       items: [
+        'photoshop/adventure-journal',
         'photoshop/final-journal',
         'photoshop/elven-journal',
         'photoshop/dwarf-journal',
