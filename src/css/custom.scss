@@ -421,7 +421,9 @@ html[data-theme='dark'] .alert--secondary {
   --ifm-alert-border-color: #20c997;
   border-left: 6px solid #20c997;
   --ifm-alert-color: #ffffff;
-  --ra-admonition-icon-color: #20c997;
+  .admonition-icon {
+    --ifm-alert-foreground-color: #20c997 !important;
+  } 
 }
 
 html[data-theme='light'] .alert--secondary {
@@ -431,7 +433,9 @@ html[data-theme='light'] .alert--secondary {
   --ra-admonition-icon-color: #ffffff;
   border-left: 6px solid #20c997;
   --ifm-alert-color: var(--ifm-font-color-base);
-  --ra-admonition-icon-color: #20c997;  
+  .admonition-icon {
+    --ifm-alert-foreground-color: #20c997 !important;
+  } 
 }
 
 // IMPORTANT
@@ -440,15 +444,19 @@ html[data-theme='light'] .alert--info {
   --ifm-alert-border-color: #008bb2;
   border-left: 6px solid #008bb2;
   --ifm-alert-color: var(--ifm-font-color-base);
-  --ra-admonition-icon-color: #008bb2;  
+  .admonition-icon {
+    --ifm-alert-foreground-color: #008bb2 !important;
+  } 
 }
 
 html[data-theme='dark'] .alert--info {
   --ifm-alert-background-color: rgba(0, 139, 178, 0.05);
   --ifm-alert-border-color: #008bb2;
   border-left: 6px solid #008bb2;
-  --ifm-alert-color: #ffffff;
-  --ra-admonition-icon-color: #008bb2;  
+  --ifm-alert-color: #ffffff; 
+  .admonition-icon {
+    --ifm-alert-foreground-color: #008bb2 !important;
+  } 
 }
 
 // TIP
@@ -457,15 +465,19 @@ html[data-theme='light'] .alert--success {
   --ifm-alert-border-color: #3f923f;
   border-left: 6px solid #3f923f;
   --ifm-alert-color: var(--ifm-font-color-base);
-  --ra-admonition-icon-color: #3f923f;   
+  .admonition-icon {
+    --ifm-alert-foreground-color: #3f923f !important;
+  }   
 }
 
 html[data-theme='dark'] .alert--success {
   --ifm-alert-background-color: rgba(63, 146, 63, 0.05);
   --ifm-alert-border-color: #3f923f;
   border-left: 6px solid #3f923f;
-  --ifm-alert-color: #ffffff;
-  --ra-admonition-icon-color: #3f923f;   
+  --ifm-alert-color: #ffffff; 
+  .admonition-icon {
+    --ifm-alert-foreground-color: #3f923f !important;
+  } 
 }
 
 // CAUTION
@@ -474,7 +486,10 @@ html[data-theme='light'] .alert--warning {
   --ifm-alert-border-color: #ff8d03;
   border-left: 6px solid #ff8d03;
   --ifm-alert-color: var(--ifm-font-color-base);
-  --ra-admonition-icon-color: #ff8d03;
+  border-radius: 0;
+  .admonition-icon {
+    --ifm-alert-foreground-color: #ff8d03 !important;
+  }
 }
 
 html[data-theme='dark'] .alert--warning {
@@ -482,7 +497,10 @@ html[data-theme='dark'] .alert--warning {
   --ifm-alert-border-color: #ff8d03;
   border-left: 6px solid #ff8d03;
   --ifm-alert-color: #ffffff;
-  --ra-admonition-icon-color: #ff8d03;
+  border-radius: 0;
+  .admonition-icon {
+    --ifm-alert-foreground-color: #ff8d03 !important;
+  }
 }
 
 // WARNING
@@ -491,7 +509,9 @@ html[data-theme='light'] .alert--danger {
   --ifm-alert-border-color: #df4b30;
   border-left: 6px solid #df4b30;
   --ifm-alert-color: var(--ifm-font-color-base);
-  --ra-admonition-icon-color: #df4b30;
+  .admonition-icon {
+    --ifm-alert-foreground-color: #df4b30 !important;
+  } 
 }
 
 html[data-theme='dark'] .alert--danger {
@@ -499,7 +519,9 @@ html[data-theme='dark'] .alert--danger {
   --ifm-alert-border-color: #df4b30;
   border-left: 6px solid #df4b30;
   --ifm-alert-color: #ffffff;
-  --ra-admonition-icon-color: #df4b30;
+  .admonition-icon {
+    --ifm-alert-foreground-color: #df4b30 !important;
+  } 
 }
 
 // homebrew
@@ -513,6 +535,10 @@ html[data-theme='light'] .admonition-homebrew {
     width: 30px;
     height: 30px;
   }
+  .admonition-heading {
+    padding-top: 5px;
+    padding-left: 5px;
+  }
 }
 
 html[data-theme='dark'] .admonition-homebrew {
@@ -525,6 +551,7 @@ html[data-theme='dark'] .admonition-homebrew {
     width: 30px;
     height: 30px;
   }
+  
 }
 
 // Exalted
@@ -561,7 +588,11 @@ html[data-theme='light'] .admonition-gamerchic {
   border-left: 6px solid #e5ab09;
   color: var(--ifm-font-color-base);
   padding: 5px;
-  --ra-admonition-icon-color: #e5ab09; 
+  --ifm-alert-foreground-color: #e5ab09 !important; 
+  .admonition-heading {
+    padding-top: 5px;
+    padding-left: 5px;
+  }
 }
 
 html[data-theme='dark'] .admonition-gamerchic {
@@ -570,7 +601,11 @@ html[data-theme='dark'] .admonition-gamerchic {
   border-left: 6px solid #e5ab09;
   color: #ffffff;
   padding: 5px;
-  --ra-admonition-icon-color: #e5ab09; 
+  --ifm-alert-foreground-color: #e5ab09 !important; 
+  .admonition-heading {
+    padding-top: 5px;
+    padding-left: 5px;
+  }
 }
 
 // D&D
@@ -605,10 +640,13 @@ html[data-theme='light'] .admonition-shadowrun {
   border-left: 6px solid #00dde0;
   color: var(--ifm-font-color-base);
   --ra-admonition-icon-color: #00dde0; 
-  padding: 5px;
+  padding-left: 5px;
   .admonition-icon svg {
     width: 30px !important;
     height: 30px !important;
+  }
+  .admonition-heading {
+    padding-top: 5px;
   }
 }
 
@@ -618,9 +656,13 @@ html[data-theme='dark'] .admonition-shadowrun {
   border-left: 6px solid #00dde0;
   color: #ffffff;
   --ra-admonition-icon-color: #00dde0; 
+  padding-left: 5px;
   .admonition-icon svg {
     width: 30px !important;
     height: 30px !important;
+  }
+  .admonition-heading {
+    padding-top: 5px;
   }
 }
 
@@ -1525,6 +1567,7 @@ html[data-theme='dark'] .DocSearch {
 // DETAILS SUMMARY for long code
 
 details {
+  border-radius: 0 !important;
   ::marker {
     color:rgb(0, 159, 207);
   }
@@ -1545,6 +1588,7 @@ summary {
   blockquote {
     color: #af0300;
     border-left: 3px solid #af0300;
+    background-color: transparent;
   }
 
   .info-table {

@@ -7,7 +7,18 @@ id: intro
 
 A fantastic yet typical scenario played out so many times in games. How do you take it further? Let's work together to enrich your events, game nights, campaigns, and stories.
 
-![here](/img/icons/more.png)
+<div class="info-rows">
+
+| | |
+| -- | -- |
+| [Graphic Resources](/docs/photoshop/fonts-brushes) | Find sample files and Photoshop templates to create gaming resources like wax seals for letters and coins. These reources also include a collection of brushes, fonts, and event cards. |
+| [Event Guides](/docs/events-campaigns) | Learn more about running events and specialized encounters for tabletop and MMO-RPGs. |
+| [Character Journals](/docs/photoshop/adventure-journal) | Craft your character or NPC journey, custom books, or incriminating letters with these Google Slides journals and scrollcases. |
+| [Warcraft Conquest](/docs/wow-conquest/intro) | Find resources for the [Warcraft Conquest](/Conquest) group, including graphic templates, vehicle battle setup, and more. |
+| [Exalted](/docs/exalted/resources) | Find resources and campaign information for games including Solars, Lunars, Abyssals, and locations in Creation. |
+| [World of Darkness](/docs/w-o-d/intro) | Find resources and campaign information for games including Vampire, Werewolf, and more.|
+
+</div>
 
 ## Highlights
 

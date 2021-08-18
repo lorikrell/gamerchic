@@ -12,6 +12,24 @@ Journal images are 1920 x 1080, a popular wallpaper size. Click images to zoom i
 To save, right-click any image and select **Save image as...**
 :::
 
+## Elven Journal Google Slides
+
+1. Visit the [elven journal Google Slides](https://docs.google.com/presentation/d/1Bzp7_Ab2ZLo0i1zsJheAAWJ38avHh4K-Eelsl4I4xxM).
+2. Select **File** > **Make a Copy** to save a copy of the Entire Presentation to your Google Drive.
+3. Create new slides.
+4. Right-click on a slide, select **Apply Layout**, and pick a look! Each layout includes a custom background and text areas.
+
+To share with friends, share the entire slide deck, save to PDF, or export each slide to an image.
+
+<div className='responsive-google-slides'>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQegi_DxM9elx3nMFGdZ93f2u1WQpzaxGaieViqFPZrXYoVOR6E-kYaBhrlWTtVCzEL_gc9izqLYXSe/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</div>
+
+
+import Iframe from 'react-iframe';
+
 ## Elven Seals
 
 <div class="info-plain">

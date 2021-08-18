@@ -19,9 +19,15 @@ module.exports = {
     'intro',
     {
       type: 'category',
-      label: 'DM & Storyeller Resources',
+      label: 'Graphic Resources',
       items: [
-        {
+        'photoshop/fonts-brushes',
+        'photoshop/coins',
+        'photoshop/wax-seals',
+        'photoshop/event-maps',
+      ]
+    },
+    {
           type: 'category',
           label: 'Event Guides',
           items: [
@@ -29,12 +35,6 @@ module.exports = {
             'investigations',
             'horror',
           ]
-        },
-        'photoshop/fonts-brushes',
-        'photoshop/coins',
-        'photoshop/wax-seals',
-        'photoshop/event-maps',
-      ]
     },
     {
       type: 'category',
