@@ -25,7 +25,7 @@ A fantastic yet typical scenario played out so many times in games. How do you t
 Watch for these notes for tips and tricks!
 
 :::gamerchic
-Specific information on Gamerchic run campaigns, which can span a ton of different settings.
+Specific information on Gamerchic run campaigns, which can span a ton of different settings. Who is Gamerchic? ME! Sonceri.
 :::
 
 :::homebrew
