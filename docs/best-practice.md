@@ -56,7 +56,7 @@ Connections and resources:
 * [Hydaelyyn Roleplayers Coalition](https://ffxiv-roleplayers.com/)
 * [FFXIV Event Calendar](https://ffxiv-rp.org/)
 * [New Players Lore Guide](https://www.reddit.com/r/ffxiv/comments/l07kdm/roleplay_in_final_fantasy_xiv_a_starting_guide_to/)
-* Chaos Roleplay Community EU [Twitter](https://twitter.com/chaosrpc) and [Discord](discord.gg/rCHdUdSVsr)
+* Chaos Roleplay Community EU [Twitter](https://twitter.com/chaosrpc) and [Discord](https://discord.gg/rCHdUdSVsr)
 
 To run events in FFXIV:
 
