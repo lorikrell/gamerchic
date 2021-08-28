@@ -19,17 +19,8 @@ module.exports = {
     'intro',
     {
       type: 'category',
-      label: 'DM & Storyeller Resources',
+      label: 'Graphic Resources',
       items: [
-        {
-          type: 'category',
-          label: 'Event Guides',
-          items: [
-            'events-campaigns',
-            'investigations',
-            'horror',
-          ]
-        },
         'photoshop/fonts-brushes',
         'photoshop/coins',
         'photoshop/wax-seals',
@@ -37,9 +28,19 @@ module.exports = {
       ]
     },
     {
+          type: 'category',
+          label: 'Event Guides',
+          items: [
+            'events-campaigns',
+            'investigations',
+            'horror',
+          ]
+    },
+    {
       type: 'category',
       label: 'Character Journals',
       items: [
+        'photoshop/adventure-journal',
         'photoshop/final-journal',
         'photoshop/elven-journal',
         'photoshop/dwarf-journal',
