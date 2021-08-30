@@ -36,6 +36,7 @@ This is an example of hidden content to watch for.
 ## What makes a good horror tale?
 
 Before plotting out terrifying scenes, let's consider the elements of a good horror story.
+
 Dark events begin with normal circumstances and touches of something off-kilter, uncertain, or out-of-place. You build upon these elements, leading through the senses and mixing history and lore. Woven details. Rushing players through an area, mentioning something lurks in the dark, and ending in a sudden gory scene with exquisite details of dismemberment and lustful wrath is one type of horror. Giving the killer some backstory unearthed through discussions, investigations, and strange interactions touched with a series of incidents forwarning the inevitable definitely chills players to the bone and leads to glorious tension and conflict.
 
 What frightens you and your players may differ greatly as these tales depend on subjective fear. Simply throwing a ton of blood and skulls in a room may not send the warrior half-orc running for the hills. A creepy noble sharing the same cat eyes as the feline settled in his lap may not concern an elven druid of the wild. There are methods to twist and turn these scenes to make those hardened folk quake.
@@ -606,6 +607,9 @@ Healing and cleansing this corruption may become part of the event or story arc,
 These rules are simplified from rules used by DMs during the Warcraft Conquest *Shadows in the Sands* campaign warring against N'zoth, Sathog, and various denizens of the void. Incredible thanks to Virsandir MG-Horde for crafting these ideas and the many DMs and players that aided!
 :::
 
+:::sonceri Congratulations Dark Lords!
+You have created a dark, thrilling horror event. Have fun, tweak as you need, build your events one to the next for a grand campaign. May you leave your players hungering for more!
+:::
 
 </div>
 
