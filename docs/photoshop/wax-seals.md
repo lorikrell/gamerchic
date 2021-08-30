@@ -5,42 +5,108 @@ id: wax-seals
 
 Wax seals include round and square formats with numerous patterns and colors including metal and stone. Use these to create custom seals for using your your letters, journals, and much more.
 
-You can create these for D&D, World of Darkness, World of Warcraft, thief guilds, noble families, and many other games and settings.
+You can create these for D&D, Pathfinder, LARPs, World of Darkness, Final Fantasy, World of Warcraft, homebrew settings, thief guilds, noble families, and many other games and genres.
 
 :::sonceri Fonts and Brushes
-You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
+If you want to add special effects, add text, or grunge up the seals, download and install fonts and brushes. See [Fonts and Brushes](psd-resources.md).
 :::
 
-## Download and Build
+## Download PSD Files
 
-[![PSD](/img/psd.png) Sonceri Seals](https://drive.google.com/file/d/1n1QsbB3GgZ37op4l9_fM8nbidrJHxJJe/view?usp=sharing) - click to download.
+You have more options for making wax seals! You will need to supply your own icons for the new files. The Original seals file does have some icons already available.
 
-1. Add an icon or pick one from the purple folder, Paste an Icon here.
-1. If you select an existing seal, you may find a foil folder available. These have layers to show or hide for metallic touches: rocky, silver, gold, white gold, etc.
-1. Select the wax type: metallic, plain, or vintage (square). 
-1. Show/hide a seal color group. Each group has many layers you can show/hide to change the colors and looks.
-1. Optional, you can add a shape decoration and a foil effect. You may need to shift some images, icons, and effects to fit in the different seals.
-1. Save as a *.png*.
+:::warning Large Files
+These files can be rather large, some of them ~200mb, due to the hefty amount of shapes and overlay colors. I tried to make these smaller, and group seal shapes into specific files.
+:::
 
-![Wax Seals](/img/resources/wow-seals.jpg)
+Download Photoshop files!
+
+<div class="info-rows">
+
+| | |
+| -- | -- |
+| [Original Sonceri Seals](https://drive.google.com/file/d/1n1QsbB3GgZ37op4l9_fM8nbidrJHxJJe/view?usp=sharing) | A few shapes, colors, and wax options with a bunch of icon examples to choose from. You can add your own. |
+| [Round Wax Seals zip](https://drive.google.com/file/d/1iU0o4BgMJzsvD7EcVkfKULD_Gw79uO-u/view?usp=sharing) | Four round options including white with flowers, plain round, heavy round, and round with a hex imprint. Numerous color and pattern options. Only a couple icon examples. |
+| [Oval Wax Seals zip](https://drive.google.com/file/d/1tx-h6VR3hmY2gQVMB0d2uBViwf7qHiUv/view?usp=sharing) | Three oval options with different kinds of wax and thickness. Numerous color and pattern options. Only a couple icon examples. |
+| [Square Wax Seals zip](https://drive.google.com/file/d/1VEBra-1lcR9hVh3UmmEgLKOlsKX8lL4-/view?usp=sharing) | Three options including square, diamond, and rectangle. Numerous color and pattern options. Only a couple icon examples. |
+
+</div>
+
+*Round Seals*
+
+![Round](/img/resources/round-seals.png)
+
+*Oval Seals*
+
+![Oval](/img/resources/oval-seals.png)
+
+*Square Seals*
+
+![Square](/img/resources/square-seals.png)
+
+## Get an Icon
+
+Before creating a seal, you will need an icon, clipart, or symbol. This should have a transparent background and completely black for best results. Of course, play around with ideas! These files give you a base to create some awesome seals!
+
+Where to find a symbol?
+
+* Search for free lineart or clipart. Check icon libraries like [Flaticon](https://www.flaticon.com/), FontAwesome, or Material.
+* Draw your own lineart. Just make sure it is on a transparent background.
+* Use free heraldry images for flags and house crests. There are many sites and libraries, like [HeraldryClipart](http://www.heraldicclipart.com/catalog/index1.html)
+* Save images from the [WoW Tabard Designer](https://wow-hunter.ro/tabard-creator/).
+* Search for vintage designs and decorations like art nouveau or art deco designs.
+
+You can add one or many different icons to make up your seal!
+
+:::sonceri Clean Up Icons
+If you are new to cleaning up art, see [Cut out Assets](../wow-conquest/capture-assets.md#cut-out-models) for ideas and tools.
+:::
+
+## Create a Seal
+
+It's time to create your wax seal. These instructions will use the new round seals, and can be used for any file:
+
+1. Create a duplicate of the layer group **SYMBOL - Copy for custom seals!** You will add your icon here and set up optional foil (metal texture).
+
+    ![Wax Seals](/img/resources/wow-seal1.jpg)
+
+1. Paste the transparent icon into the Icon folder. It will automatically add embossing and hide the black color.
+
+    ![Wax Seals](/img/resources/wow-seal2.jpg)
+
+1. Select a seal shape by showing/hiding those groups. 
+
+    ![Wax Seals](/img/resources/wow-seal3.jpg)
+
+1. Show/hide layers to find a color you like for the seal. Colors and patterns are separated into color groups. You can show multiple layer to change how the colors and patterns look. 
+
+    ![Wax Seals](/img/resources/wow-seal4.jpg)
+
+    :::sonceri Add new patterns!
+    You can also add your own! Find a pattern you like, copy and paste it into those layer groups. Change the layer style from Normal to options like Multiply, Screen, Lighten, and so on till you find a look you like. It will automatically mask to fill just the wax seal.
+    :::
+
+1. Save as a *.png*, or add a foil effect. See the next section.
 
 ## Add Foil Effect
 
 To add a foil effect, you have a couple options. Here's an easy method:
 
-1. In the Foil Work group, make a copy of the Copy Me! group.
+1. Select the icon layer. Using the move tool, select all, nudge up and down with your keyboard, to select the icon.
 
-    ![Copy Group](/img/resources/foil-copy.jpg)
+    ![Foil1](/img/resources/foil1.jpg)
 
-1. When you add an icon to the Paste an Icon here group, nudge it to get the edges selected. For this example, adding a new icon Dragon.
+1. With the icon selected, click on the Masked Foil folder. Click the Add Mask button at the bottom of the layers list. A new black and white mask is added to the group. This will show images only within the white area.
 
-    ![Icon](/img/resources/foil-dragon.jpg)
+    ![Mask](/img/resources/foil2.jpg)
 
-1. On the copied Foil group, select the copied group and add a mask.
+1. Show/hide the metal texture options to add a foil look to the icon. You can add your own in this folder too!
 
-    ![Mask](/img/resources/foil-mask.jpg)
+    ![Mask](/img/resources/foil3.jpg)
 
-1. Turn on and off the foil layers to find just the right look. You can edit the mask to add or cut away giving a distressed look. Here are some examples!
+1. Save as a *.png*.
+
+Here are some foil and seal examples for a single icon:
 
 <div class="info-plain">
 
@@ -52,14 +118,17 @@ To add a foil effect, you have a couple options. Here's an easy method:
 
 ## Example Seals
 
-Click to zoom in. Feel free to save and use these images.
+Click to zoom in. These seals are much larger than viewed below. Feel free to save and use these images!
 
 <div class="info-plain">
 
 | | | | |
 |--|--|--|--|
-|![Seal](/img/resources/seals/design1.png) |![Seal](/img/resources/seals/night-fae.png) |![Seal](/img/resources/seals/ninja.png) |![Seal](/img/resources/seals/sanlayn.png) |
-|![Seal](/img/resources/seals/skull.png) |![Seal](/img/resources/seals/star-moon.png) |![Seal](/img/resources/seals/flair.png) |![Seal](/img/resources/seals/belf.png) |
+|![Seal](/img/resources/seals/square-alliance.png) |![Seal](/img/resources/seals/square-horde.png) |![Seal](/img/resources/seals/square-argent.png) |![Seal](/img/resources/seals/round-alliance.png) |
+|![Seal](/img/resources/seals/round-horde.png) |![Seal](/img/resources/seals/round-argent.png) |![Seal](/img/resources/seals/oval-alliance.png) |![Seal](/img/resources/seals/oval-horde.png) |
+|![Seal](/img/resources/seals/oval-argent.png) |![Seal](/img/resources/seals/butterfly.png) |![Seal](/img/journal/seal-dk.png) |![Seal](/img/journal/seal-illidari.png) |
+|![Seal](/img/resources/seals/design1.png) |![Seal](/img/resources/seals/night-fae.png) |![Seal](/img/resources/seals/ninja.png) |![Seal](/img/resources/seals/ff-scion.png) |
+|![Seal](/img/resources/seals/ff-scion2.png) |![Seal](/img/resources/seals/star-moon.png) |![Seal](/img/resources/seals/flair.png) |![Seal](/img/resources/seals/belf.png) |
 |![Seal](/img/resources/seals/seal-flower2.png) |![Seal](/img/resources/seals/seal-oval.png) |![Seal](/img/resources/seals/seal-flower.png) |![Seal](/img/resources/seals/seal-diamond.png) |
 |![Seal](/img/resources/seals/seal-diamond2.png) |![Seal](/img/resources/seals/seal-initial.png) |![Seal](/img/resources/seals/seal-scarlets.png) |![Seal](/img/resources/seals/seal-argent.png) |
 
