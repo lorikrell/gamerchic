@@ -34,7 +34,6 @@ module.exports = {
             'events-campaigns',
             'investigations',
             'horror',
-            'stealth',
           ]
     },
     {

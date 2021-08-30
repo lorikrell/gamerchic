@@ -62,11 +62,11 @@ You can find a ton of incredible sources for inspiration. Here are just a few:
 
 :::
 
-## Building a Horror Event
+## Building a Stealth/Spy Event
 
 To build an entire horror campaign starts with smaller ideas, key villains, and arcing plots. Before coming up with a campaign, let's start with an initial event to start. For these steps, we will create two types of horror events: psychological horror and  splatterfest gore horror.
 
-See [How to Run Events & Campaigns](best-practice.md) for information and the following tips for horror:
+See [How to Run Events & Campaigns](best-practice.md) for information and the following tips:
 
 * Give your event and horror a theme. This can help you form ideas and give your players expectations. For example: ravaged by a curse, haunted mansion, rise of the dead, ritual gone bad, becoming a lich, death knights breaking from service, the fallen rightous, monster attacks, stolen artifact of a major power, murderous designs.
 * If the evil can be ended, have multiple methods for players to learn what is needed, materials/weapons/prayers to end the threat, NPCs to aid in resolving issues, and other ideas for conflict. If you tie everything to one or two places and items, they may not catch on and miss opportunities.
@@ -74,24 +74,6 @@ See [How to Run Events & Campaigns](best-practice.md) for information and the fo
 * Consider asking your players for backstory information or some of their fears. You can use these pieces to enhance and personalize the dark aspects touching on their personal story.
 * Create a map to track your horror story. Here is an [example for horror events](https://docs.google.com/drawings/d/1gbPCHeGB-qnfxWzix4Aq_N9KrpClYdYJWDJpt_Rlc0I/edit), MMO Warcraft and tabletop.
 
-### Craft the Villain
-
-Every tale of terror has an antagonist, be it a person, location, supernatural element, and so on. To increase the drama and tale, consider building this villain as you would the entire campaign or a character you would love to play. Give them strengths and flaws, capable of bein truly diabolical or aiding others to become horrific. While I could write a ton of ideas, [WoW DMing](https://discord.gg/RNT6sv9) DM Craft has tackled that for us! 
-
-For a great guide on crafting villains, see [DM Craft's Antagonist](https://docs.google.com/document/d/1WCiAq1DM3SOYQm0cVX3L34HkXBE8bOZbJ_QcG1DMbSI/edit) guide.
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSn_gXuLiuw-psDCKwJfCUxpto4djovHJMVMeDdItv7sy5lrpjV_L0HKxw9BDNqsgVDKvaXQv5u1q19/pub?embedded=true#view=fith" width="100%" height="500px;"></iframe>
-
-You may also use an uncommon villain, such as a curse or location:
-
-<div id="hilit">
-
-* **Determine the level of intelligence.** Is the location alive and aware or merely destroyed, dangerous, and reactive? A landscape of seething from a magical war or natural disaster may actively provide challenges to the players. They may need to cleanse, rebuild, deal with the dead, etc. If it is intelligent, players may feel watched, trees and earth may try to swallow them, animals driven to attack, etc. For curses and contagions, it may be virulent and medical infecting, or parasidic with an agenda and awareness through those it consumes.
-* **Define what is required to end the threat.** Do they need to cleanse the area, destroy an artifact, collect stolen items from a tomb? Can the illness be treated, how does magic affect it? 
-* **Build a history for the dark location/curse.** A terrible battle, death, or spirit may have fallen on the land causing this change. The curse may have been seen before, enscrolled by casters or laid by fiends/celestials. Crafting a backstory gives you details to aid players and enrich key scenes.
-* **Provide multiple methods to learn the secrets, while considering dark prices to pay for it.** If they can't get to a library, perhaps they need to pay an eldering crone for insight, get sick with the illness to provide feedback, sacrifice something important to a higher power, and so on. Don't forget the horror aspect, demand a tithe.
-
-</div>
 
 ### Set the Stage
 Determine what the horror event is. This could be a couple sentences, which gives you something fantastic to give players when starting the event.
