@@ -31,6 +31,7 @@ You may need fonts used by these PSD files. Download and install fonts used in m
 | | | | |
 |--|--|--|--|
 |![Coin](/img/resources/coin/alliance-round-gold.png) |![Coin](/img/resources/coin/argent-square.png) |![Coin](/img/resources/coin/ashenvale.png) |![Coin](/img/resources/coin/cenarion-forged.png) |
+|![Coin](/img/resources/coin/coin-scarletc.png) |![Coin](/img/resources/coin/coin-scarletc2.png) |![Coin](/img/resources/coin/coin-ebon.png) |![Coin](/img/resources/coin/coin-kt.png) |
 |![Coin](/img/resources/coin/darkspear-hex.png) |![Coin](/img/resources/coin/darnassus-round.png) |![Coin](/img/resources/coin/dragonmaw-hex.png) |![Coin](/img/resources/coin/gilneas-forged.png) |
 | ![Coin](/img/resources/coin/cenarion-square.png) |![Coin](/img/resources/coin/vecna.png) | ![Coin](/img/resources/coin/gnome-hex.png) |![Coin](/img/resources/coin/glasswalker.png) |
 | ![Coin](/img/resources/coin/vampire.png) |![Coin](/img/resources/coin/darkspear-forged.png) | ![Coin](/img/resources/coin/harpers.png) |![Coin](/img/resources/coin/horde-wood.png) |
