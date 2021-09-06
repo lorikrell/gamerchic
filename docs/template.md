@@ -5,6 +5,22 @@ id: template
 
 ## Admonitions
 
+:::note
+This is a note.
+:::
+
+:::tip
+This is a tip.
+:::
+
+:::warning
+This is a warning.
+:::
+
+:::important
+This is an important.
+:::
+
 :::gamerchic
 Specific information on Gamerchic run campaigns, which can span a ton of different settings.
 :::

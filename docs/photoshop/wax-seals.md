@@ -138,6 +138,7 @@ Click to zoom in. These seals are much larger than viewed below. Feel free to sa
 |![Seal](/img/resources/seals/square-alliance.png) |![Seal](/img/resources/seals/square-horde.png) |![Seal](/img/resources/seals/square-argent.png) |![Seal](/img/resources/seals/round-alliance.png) |
 |![Seal](/img/resources/seals/round-horde.png) |![Seal](/img/resources/seals/round-argent.png) |![Seal](/img/resources/seals/oval-alliance.png) |![Seal](/img/resources/seals/oval-horde.png) |
 |![Seal](/img/resources/seals/oval-argent.png) |![Seal](/img/resources/seals/butterfly.png) |![Seal](/img/journal/seal-dk.png) |![Seal](/img/journal/seal-illidari.png) |
+|![Seal](/img/resources/seals/ebon.png) |![Seal](/img/resources/seals/sanlayn2.png) |![Seal](/img/resources/seals/scarlet.png) |![Seal](/img/resources/seals/troll.png) |
 |![Seal](/img/resources/seals/design1.png) |![Seal](/img/resources/seals/night-fae.png) |![Seal](/img/resources/seals/ninja.png) |![Seal](/img/resources/seals/ff-scion.png) |
 |![Seal](/img/resources/seals/ff-scion2.png) |![Seal](/img/resources/seals/star-moon.png) |![Seal](/img/resources/seals/flair.png) |![Seal](/img/resources/seals/belf.png) |
 |![Seal](/img/resources/seals/seal-flower2.png) |![Seal](/img/resources/seals/seal-oval.png) |![Seal](/img/resources/seals/seal-flower.png) |![Seal](/img/resources/seals/seal-diamond.png) |
