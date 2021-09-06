@@ -66,11 +66,22 @@ If you are new to cleaning up art, see [Cut out Assets](../wow-conquest/capture-
 
 It's time to create your wax seal. These instructions will use the new round seals, and can be used for any file:
 
+<Iframe url="https://www.youtube.com/embed/Oz25LotPTsg"
+        width="854px"
+        height="480px"
+        id="myId"
+        className="video-container"
+        display="initial"
+        position="relative"
+        allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        />
+
 1. Create a duplicate of the layer group **SYMBOL - Copy for custom seals!** You will add your icon here and set up optional foil (metal texture).
 
     ![Wax Seals](/img/resources/wow-seal1.jpg)
 
-1. Paste the transparent icon into the Icon folder. It will automatically add embossing and hide the black color.
+1. Paste the transparent icon into the Icon folder. It will automatically add embossing and hide the black color. If the icon ends up in another layer outside of the group, just drag and drop that layer!
 
     ![Wax Seals](/img/resources/wow-seal2.jpg)
 
@@ -133,3 +144,5 @@ Click to zoom in. These seals are much larger than viewed below. Feel free to sa
 |![Seal](/img/resources/seals/seal-diamond2.png) |![Seal](/img/resources/seals/seal-initial.png) |![Seal](/img/resources/seals/seal-scarlets.png) |![Seal](/img/resources/seals/seal-argent.png) |
 
 </div>
+
+import Iframe from 'react-iframe';
