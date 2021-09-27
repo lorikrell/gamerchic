@@ -56,6 +56,7 @@ Connections and resources:
 * [Hydaelyyn Roleplayers Coalition](https://ffxiv-roleplayers.com/)
 * [FFXIV Event Calendar](https://ffxiv-rp.org/)
 * [New Players Lore Guide](https://www.reddit.com/r/ffxiv/comments/l07kdm/roleplay_in_final_fantasy_xiv_a_starting_guide_to/)
+* [So You Wanna Start Roleplaying In FFXIV FAQ](https://docs.google.com/document/d/1WWnEo_-0p79Cz4UYF0EXOWnney6xPS1LiqZYa9bjHQU/edit) great resource!
 * Chaos Roleplay Community EU [Twitter](https://twitter.com/chaosrpc) and [Discord](https://discord.gg/rCHdUdSVsr)
 * [New/Shy Roleplayer Guide](https://house-vexile.tumblr.com/post/185775370139/ffxiv-newshy-roleplayer-advice)
 
