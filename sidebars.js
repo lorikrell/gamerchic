@@ -48,6 +48,7 @@ module.exports = {
         'photoshop/vampire-journal',
         'photoshop/jungle-journal',
         'photoshop/scrollcase',
+        'photoshop/posters',
       ]
     },
     {
