@@ -96,16 +96,16 @@ module.exports = {
               label: 'Warcraft Conquest',
             },
             {
+              to: 'thornwake',
+              label: 'Thornwake',
+            },
+            {
               to: 'TropicSunder',
               label: 'Tropic Sunder',
             },
             {
               to: 'DeathShadow',
               label: 'In Death\'s Shadow',
-            },
-            {
-              to: 'thornwake',
-              label: 'Thornwake',
             },
             {
               href: 'https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/edit?usp=sharing',
