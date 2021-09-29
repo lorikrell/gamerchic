@@ -143,8 +143,8 @@ Click to zoom in. These seals are much larger than viewed below. Feel free to sa
 |![Seal](/img/resources/seals/ff-scion2.png) |![Seal](/img/resources/seals/star-moon.png) |![Seal](/img/resources/seals/flair.png) |![Seal](/img/resources/seals/belf.png) |
 |![Seal](/img/resources/seals/seal-flower2.png) |![Seal](/img/resources/seals/seal-oval.png) |![Seal](/img/resources/seals/seal-flower.png) |![Seal](/img/resources/seals/seal-diamond.png) |
 |![Seal](/img/resources/seals/seal-diamond2.png) |![Seal](/img/resources/seals/seal-initial.png) |![Seal](/img/resources/seals/seal-scarlets.png) |![Seal](/img/resources/seals/seal-argent.png) |
-| [Seal](/img/resources/seals/earthenring.png) | [Seal](/img/resources/seals/gilneas.png) | [Seal](/img/resources/seals/kirintor.png) | [Seal](/img/resources/seals/seal-ironforge.png) |
-| [Seal](/img/resources/seals/thunderbluff.png) | [Seal](/img/resources/seals/seal-law1.png) | [Seal](/img/resources/seals/seal-law2.png) | [Seal](/img/resources/seals/seal-law3.png) |
+| ![Seal](/img/resources/seals/earthenring.png) | ![Seal](/img/resources/seals/gilneas.png) | ![Seal](/img/resources/seals/kirintor.png) | ![Seal](/img/resources/seals/seal-ironforge.png) |
+| ![Seal](/img/resources/seals/thunderbluff.png) | ![Seal](/img/resources/seals/seal-law1.png) | ![Seal](/img/resources/seals/seal-law2.png) | ![Seal](/img/resources/seals/seal-law3.png) |
 
 </div>
 
