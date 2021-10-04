@@ -47,19 +47,39 @@ The following are a few building blocks of story and mechanics to consider when 
 
 <div id="hilit">
 
-**Idea** Description
+**Determine consequences for player actions.** Consider what happens if the players are uncovered or misstep. This can lead to an evolving story run by the players' actions through a series of plot steps you want to tackle. Think of it like a Rube Goldberg machine where every action causes another effect.
 
+* Prepare before sneaking or just go? If they can collect information or start with some insights, that may give players bonuses to rolls or vital information on what they face. If they go in blind, hijinks can ensue.
+* Fight their way out? Yes, but that has limited success. Players will need to hide the body or increase the kill/subdue count till they are free of alerts or out.
+* Take prisoners? They could bind or knock out forces they invade, but other guards or leaders may wonder what happened to their people. Or the prisoners get loose and raise alarms.
+* Disable or trip alarms? If they location has magic or mundane traps and alarms, can the players disarm or disable them? Or flip it around and set off every single alarm confusing their targets.
+* If the mission fails, how do they get out? 
+* If they succeed and have a hot/hunted item, what do they do with it?
+* Does the employer double cross them? This scenario could be two rival teams seeking the same item. Or once receiving the objective, the employer tries to send the targets against the players.
+
+**Keep action moving, but give them a breather.** Striking a balance betweem constant rushing through traps, tests, and a maze may be great for non-stop action. But to build the narrative and rising tension, give players safe zones to take a moment and consider their next moves. It could be a fortified location, a blind spot in a guard rotation, a shack on the premises. After a bit of time passes, give them incentive to move with perception tests around the location or through any watchful scouts in the team.
+
+**Make the motive something the team wants to accomplish.** What are they seeking and why. These goals may include saving hostages, gaining wealth, gathering information, infiltrating an enemy, capturing a leader, and so on. Give hooks along the way that ensure the importance of the goal, perhaps pulling on player history or faction and political lines, to aid alliances, or forcing some moral quandries.
+
+**Mix intelligent leaders with brutes.** A force running a con or holding a position are not all dumb and strong. They have intelligent leaders, specialists with different skills such as medicine, engineering, technology, ammunitions and explosives, and much more. Consider the skills of your players and creating a couple of mirrors for them in the enemy ranks. A sly bomb maker, a charismatic leader that once worked for the players' employer, and a medical doctor or healer can create deadly scenarios to foil the invading players.
+
+**Encourage creative solutions.** Just telling your players to think about the situation may frustrate them when figuring out the best method to win. Add items, information, and opportunities to your location. A supply room with random items, broken technologies, pieces of bombs, and some old uniforms may spark players to create disguises, build a bomb, and interfere with communications.
+
+**Rolls can be helpful.** If players get stuck, ask them to roll for a skill, expertise, intelligence or wisdom, perception, or just for ideas. Based on the results, toss ideas their way based on their characters, what's around them in the area, what's in their pockets or backpack. This little nudge may give them a chance to leap out of the bad situation, or create one for their enemy.
+
+**Use alternate rules for silencing or assassinating targets.** For stealth missions, instead of running typical battles, consider assassination or subdue rolls to silence a target for a round. In that time, their comrades could bind hands and feet, stuff a rag in their mouths, or move them to a secure location. This reduces long fights with boring guards and focuses on more time dedicated to boss fights! Players then have memorable moments of knocking out five guards then epicly battling the general with two body guard hyenas instead of 2 hours fighting simple guards before a seemingly short leader fight.
+
+**Make lists for failsafes, plan B, and other options for your enemies and players.** Nothing ever goes to plan with heists, scouting runs, and spy missions. By creating lists of key locations and options available at different times, you can react quickly to players without losing the pace and save you from hitting a deadlock moment. Depending on the situation, you could reward or curse players based on each situation won or lost by increasing or decreasing difficulties for the next actions, like earning a boon or incurring a tail on their route out.
 
 </div>
 
 :::gamerchic Spy and Thief Inspirations
 You can find a ton of incredible sources for inspiration. Here are just a few:
 
-* TV: 
-* Movies: Sneakers, Mission Impossible, Ocean's 11, James Bond, Jason Borne, In the Line of Fire, The Man from UNCLE, War, Army of the Dead, Lupin, Any movie by Michael Mann like Heat, The Usual Suspects, Reservoir Dogs, Rurouni Kenshin
-* Books: 
+* TV: Heist, Money Heist, Good Girls, The Great Train Robbery, Lupin, Homeland, Nitika, 24, The Blacklist, Agents of Shield, The Man in the High Castle, The Enemy Within, The Prisoner, Quantico, The Equalizer, MI5
+* Movies: Sneakers, Mission Impossible, Ocean's 11, James Bond, Jason Borne, In the Line of Fire, The Man from UNCLE, War, Army of the Dead, Lupin, Any movie by Michael Mann like Heat, The Usual Suspects, Reservoir Dogs, Rurouni Kenshin, time heist in Avengers End Game, anything Tom Clancy
+* Books: Tom Clancy, Robert Ludlum, *Tinker, Tailor, Soldier, Spy*, James Bond, *Manchurian Candidate*, *Seven Silent Men*, *Steal the Sky*, *The Thousand Deaths of Ardor Benn*, Rogues of the Republic series
 * Games: Dishonored, Assassin's Creed, Thief, Tenchu, Metal Gear Solid
-
 :::
 
 ## Building a Stealth/Spy Event
@@ -80,7 +100,7 @@ Determine what the horror event is. This could be a couple sentences, which give
 
 <div id="hilit">
 
-* **Lucky Aces Infiltration Team**: Answering the call, a group comes together under the name Lucky Aces. Each person takes a moniker based on a playing card. Enemy forces in a warring faction headquarters received another shipment of supplies and weapon, preparing to strike. The Aces will sneak into a compound, gather information, sabotage efforts, and save prisoners if any are found. They have sketchy information and part of a map. Stealth is key! How will they proceed?
+* **Lucky Aces Infiltration Team**: Answering the call, a group comes together under the name Lucky Aces. Each person takes a moniker based on a playing card. Enemy forces in a warring faction headquarters received another shipment of supplies and weapons, preparing to strike. The Aces will sneak into the compound, gather information, sabotage efforts, and save prisoners if any are found. They have sketchy information and part of a map. Stealth is key! How will they proceed?
   ![Lady](/img/guides/horror-lady.jpg)
 
   *Map by [Tom Cartos](https://www.patreon.com/tomcartos)!*
@@ -94,13 +114,14 @@ Determine what the horror event is. This could be a couple sentences, which give
 </div>
 
 ### Set Key Factors
-When you have a scene coming up that may incur investigations, give yourself key information to fall back on.
+When you plan a scouting/spy mission or a heist, give yourself key information to fall back on.
 
-* What can they investigate? Give them key areas and directions or you will be there for hours sifting through meaningless details.
+* What are the entrances to the location? Make note of gates, doors, hatches, windows, and more and how they can get around or through them. Players can get inventive on how they break through walls, floors, windows, chimneys, and other potential points.
+* Who and what guards the objective? Create a list of guards of people and creatures that patrol or guard the area. Note their paths, key location, number of members and strength, and more.
 * What clues lead from this item/situation? Consider minor to major, directly connected to the object of investigation/the culprits or loosely affiliated to the actual scene.
 * Who or what is connected to the item/situation? What are the motivations?
 
-| | Dead Lord Ferris | Forest Trail at Camp |
+| | Lucky Aces Infiltration | Lost Arc Heist |
 | -- | -- | -- |
 | What can they investigate? | <ul><li>Dead body & pockets</li><li>Weapon in back</li><li>Empty scroll case on body</li><li>Trashed desk</li><li>Trashed bookcase</li><li>Beautiful rug body is on</li></ul> | <ul><li>The trail and surrounding dirt and grass</li><li>Nearby trees and bushes</li><li>Odd hollows and mounds in the ground</li></ul> |
 |Clues from the area? | <ul><li>The dagger in the back has a house symbol</li><li>The scrollcase is lead lined and empty, whatever in it taken</li><li>His clothing is disheveled, wine spattered, little blood, with a ripped coat where the scrollcase was</li><li>The trashed desk and bookcase marks someone searching for something - finding it in the scrollcase</li><li>The rug is seeped through with wine, very little blood, no goblet or glass is there</li></ul> | <ul><li>The trail is old, little more than a game path through the trees, but the area has a bit more growth than it should</li><li>A bush or two has been moved, holes dug and bushes from nearby moved closer to the camp</li><li>Some branches have been snapped/cut to view different parts of the camp from afar</li><li>Sound of flies, smell rich decay of fresh dead</li><li>Marks of scouts kneeling, casing the camp, footprints away leaving all recent</li></ul> |
@@ -205,8 +226,8 @@ Much like a battle, these events will have a beginning and finale. Investigation
 
 </div>
 
-:::sonceri Congratulations Overlord!
-You have created a great spy/thieft craft event. Have fun, tweak as you need, build your events one to the next for a grand campaign. You can use infiltrations and thefts in battles, horror arcs, scouting parties, and so much more!
+:::sonceri Congratulations Spy Masters and Kingpins!
+You have created a great spy/theft event. Have fun, tweak as you need, build your events one to the next for a grand campaign. You can use infiltrations and thefts in battles, horror arcs, scouting parties, and so much more!
 :::
 
 

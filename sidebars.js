@@ -55,7 +55,14 @@ module.exports = {
       type: 'category',
       label: 'Warcraft Conquest',
       items: [
-        'wow-conquest/intro', 'wow-conquest/token', 'wow-conquest/capture-assets', 'wow-conquest/simple-token', 'wow-conquest/create-ship', 'wow-conquest/squad-token','wow-conquest/event-cards', 'wow-conquest/boss-item-cards'
+        'wow-conquest/intro',
+        'wow-conquest/token',
+        'wow-conquest/capture-assets',
+        'wow-conquest/simple-token',
+        'wow-conquest/create-ship',
+        'wow-conquest/squad-token',
+        'wow-conquest/event-cards',
+        'wow-conquest/boss-item-cards'
       ],
     },
     {
