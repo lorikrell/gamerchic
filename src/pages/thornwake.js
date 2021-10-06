@@ -136,15 +136,15 @@ function Barrens() {
 
         <h1>November 11 - 21 2021 | Barrens Campaign</h1>
           
-        <p>Emboldened by thinning lines of Alliance and Horde, the mongrels of the Barrens aggressively test the defenses and integrity of the major factions. Patrols, traders, and even fortified outposts have been attacked, a few utterly lost. Quilboar war drums thunder from the depths of the Kraul, Centaur and Harpies raise war banners, as the Venture Company arm these denizens after brutal defeats in the Vale. And in the shadows of the Overgrowth, age-old allies seek vengeance.</p>
+        <p>Emboldened by thinning lines of Alliance and Horde, the mongrels of the Barrens aggressively test the defenses and integrity of the major factions. Patrols, traders, and even fortified outposts of the Horde and Alliance have been attacked, a few utterly lost. Quilboar war drums thunder from the depths of the Kraul, Centaur and Harpies raise war banners, as the Venture Company arm these denizens after brutal defeats in the Vale. And in the shadows of the Overgrowth and walls of Northwatch, age-old allies seek vengeance.</p>
         
-        <p>The Alliance and Horde must now muster their war-wearied armies and seek the Barrens to safeguard the homefront and strategic holds. About them all, they feel the impending threat of <strong>Thornwake</strong>.</p>
+        <p>The Alliance and Horde must now muster and seek the Barrens to safeguard the homefront and strategic holds. About them all, they feel the impending threat of <strong>Thornwake</strong>.</p>
 
         </div>
         <div >
         <img src="img/landing/thorns-wake.png" /></div>
        </div>
-       <p><strong>Warcraft Conquest</strong> presents <strong>Thornwake</strong>, a narrative and D20 campaign that will take place between November 11th - 21st in the Barrens. This story continues our journey to battle foes in Azeroth, plaguing the Barrens and threatening to tip the factions into open war. Players from Moon Guard, Wyrmrest Accord, and US servers are welcome!</p>
+       <p><strong>Warcraft Conquest</strong> presents <strong>Thornwake</strong>, a narrative and D20 campaign that run November 11th - 21st in the Barrens. This story continues our journey to battle foes in Azeroth, plaguing the Barrens and threatening to tip the factions into open war. Players from Moon Guard, Wyrmrest Accord, and US servers are welcome!</p>
        </div></section>
        
        <section >

@@ -88,44 +88,69 @@ To build an entire horror campaign starts with smaller ideas, key villains, and 
 
 See [How to Run Events & Campaigns](best-practice.md) for information and the following tips:
 
-* Give your event and horror a theme. This can help you form ideas and give your players expectations. For example: ravaged by a curse, haunted mansion, rise of the dead, ritual gone bad, becoming a lich, death knights breaking from service, the fallen rightous, monster attacks, stolen artifact of a major power, murderous designs.
-* If the evil can be ended, have multiple methods for players to learn what is needed, materials/weapons/prayers to end the threat, NPCs to aid in resolving issues, and other ideas for conflict. If you tie everything to one or two places and items, they may not catch on and miss opportunities.
-* Provide NPCs and items that will have details to help, some may not know what they have or found, some may demand payment for the information. This can also be an interesting hook for a fight, learning the past, determining weaknesses, creating a solution, and so on.
-* Consider asking your players for backstory information or some of their fears. You can use these pieces to enhance and personalize the dark aspects touching on their personal story.
-* Create a map to track your horror story. Here is an [example for horror events](https://docs.google.com/drawings/d/1gbPCHeGB-qnfxWzix4Aq_N9KrpClYdYJWDJpt_Rlc0I/edit), MMO Warcraft and tabletop.
-
+* Give your spy/scouting event a theme. This can help hone in on objectives, resources, and opportunities for your players. For example, it could be the heist of the century, infiltrating a corrupt organization, or scouting a battlefield the night before the fight.
+* Allow rolls to help suppliment roleplay. Whisper key information based on results, place items in their path, helping to put them on the right track.
+* Provide NPCs and items that will have details to help. They may find or purchase plans to the location, get incorrect information on guard rotations, locate battle plans, or leave changes to orders to cause problems.
+* Allow players to go different directions, keeping track of where they go and the consequences of those paths. Let them split their groups, find things out of order, and miss things.
 
 ### Set the Stage
-Determine what the horror event is. This could be a couple sentences, which gives you something fantastic to give players when starting the event.
+Determine what the spy or stealth event is. This could be a couple sentences, which gives you something fantastic to give players when starting the event. Here are two examples used in this guide.
 
 <div id="hilit">
 
-* **Lucky Aces Infiltration Team**: Answering the call, a group comes together under the name Lucky Aces. Each person takes a moniker based on a playing card. Enemy forces in a warring faction headquarters received another shipment of supplies and weapons, preparing to strike. The Aces will sneak into the compound, gather information, sabotage efforts, and save prisoners if any are found. They have sketchy information and part of a map. Stealth is key! How will they proceed?
-  ![Lady](/img/guides/horror-lady.jpg)
+**Lucky Aces Infiltration Team**: Answering the call, a group comes together under the name Lucky Aces. Each person takes a moniker based on a playing card. Enemy forces in a warring faction headquarters received another shipment of supplies and weapons, preparing to strike. The Aces will sneak into the compound, gather information, sabotage efforts, and save prisoners if any are found. They have sketchy information and part of a map. Stealth is key! How will they proceed?
+![Aces](/img/guides/stealth-aces.jpg)
 
-  *Map by [Tom Cartos](https://www.patreon.com/tomcartos)!*
+*Map by [eViLe-eAgLe](https://www.deviantart.com/evile-eagle)!*
 
-* **Lost Arc of Jade Winds**: A beautiful arc of gold and jade was unearthed by a rival. It holds not just wealth but power, ancient scriptures and tomes of lore mark it as the vessel for archmagi relics of the ancient past. And we need it first. You need it before the rival opens and learns of that power. And payment? How about anything else you can find and lift from the vault? Gold, platnium, jewelry, fine artworks, weapons and armor...if they own one relic, they may have many more!
+<div class="info-rows">
 
-  ![Portal](/img/guides/horror-demon.jpg)
+| | |
+| -- | -- |
+| ![cross](/img/icons/icon-arrows.png)<br/>Guards | The two sets of tents provide housing for the 3 guard squads. One mans the walls and crossbows, taking turns to get rest. One patrols outside the walls. One splits time protecting prisoners and manning walls. |
+| ![club](/img/icons/icon-club.png)<br/>Prisoners | A few prisoners may be kept shackled in the tents, along side any medics or other support staff. This position doesn't have a formal prison and may fall back to having important prisoners in the tower. |
+| ![diamond](/img/icons/icon-diamond.png)<br/>Crossbows | Large mounted crossbows with limited turn radius are set up on wooden platforms with just enough clearance to fire over the wall. Cut trees provide the larger shot. |
+| ![moon](/img/icons/icon-moon.png)<br/>Supplies | All supplies are kept behind the practice pells kept in crates and covered with tarps. |
+| ![skull](/img/icons/icon-skull.png)<br/>Tower | The leader, knights, plans, seals, and other import items are kept in this solid structure. It's the most reinforced and defensible location. |
 
-  *Map by [Cze and Peku](https://www.patreon.com/czepeku)!*
+</div>
+
+**Lost Arc of Jade Winds**: A beautiful arc of gold and jade was unearthed by a rival. It holds not just wealth but power, ancient scriptures and tomes of lore mark it as the vessel for archmagi relics of the ancient past. And we need it first. You need it before the rival opens and learns of that power. And payment? How about anything else you can find and lift from the vault? Gold, platnium, jewelry, fine artworks, weapons and armor...if they own one relic, they may have many more!
+
+![Portal](/img/guides/horror-demon.jpg)
+
+*Map by [Cze and Peku](https://www.patreon.com/czepeku)!*
+
+<div class="info-rows">
+
+| | |
+| -- | -- |
+| ![cross](/img/icons/icon-arrows.png)<br/>Guards | The two sets of tents provide housing for the 3 guard squads. One mans the walls and crossbows, taking turns to get rest. One patrols outside the walls. One splits time protecting prisoners and manning walls. |
+| ![club](/img/icons/icon-club.png)<br/>Prisoners | A few prisoners may be kept shackled in the tents, along side any medics or other support staff. This position doesn't have a formal prison and may fall back to having important prisoners in the tower. |
+| ![moon](/img/icons/icon-moon.png)<br/>Supplies | All supplies are kept behind the practice pells kept in crates and covered with tarps. |
+| ![star](/img/icons/icon-star.png)<br/>Supplies | All supplies are kept behind the practice pells kept in crates and covered with tarps. |
+| ![diamond](/img/icons/icon-diamond.png)<br/>Library | Large mounted crossbows with limited turn radius are set up on wooden platforms with just enough clearance to fire over the wall. Cut trees provide the larger shot. |
+| ![skull](/img/icons/icon-skull.png)<br/>Vault | The leader, knights, plans, seals, and other import items are kept in this solid structure. It's the most reinforced and defensible location. |
+
+</div>
 
 </div>
 
 ### Set Key Factors
 When you plan a scouting/spy mission or a heist, give yourself key information to fall back on.
 
-* What are the entrances to the location? Make note of gates, doors, hatches, windows, and more and how they can get around or through them. Players can get inventive on how they break through walls, floors, windows, chimneys, and other potential points.
-* Who and what guards the objective? Create a list of guards of people and creatures that patrol or guard the area. Note their paths, key location, number of members and strength, and more.
-* What clues lead from this item/situation? Consider minor to major, directly connected to the object of investigation/the culprits or loosely affiliated to the actual scene.
-* Who or what is connected to the item/situation? What are the motivations?
+* **What are the possible objectives?** Spy and scouting missions may focus on learning numbers and positions of the enemy, a leader, supplies to capture, prisoners to save, plans and documents to collect, and more. Give objectives a location, protections, methods to find it, and DCs for any skill checks.
+* **What are the entrances and exits to the location?** Make note of gates, doors, hatches, windows, and more and how they can get around or through them. Players can get inventive on how they break through walls, floors, windows, chimneys, and other potential points.
+* **Who and what guards the objective?** Create a list of guards of people and creatures that patrol or guard the area. Note their paths, key locations, number of members and strength, and more.
+* **What are the protections and traps?** Make note of siege weapons, turrets, weapon depots, traps and triggers, magical traps, wards, and other protective options at the location.
+* What are
 
 | | Lucky Aces Infiltration | Lost Arc Heist |
 | -- | -- | -- |
-| What can they investigate? | <ul><li>Dead body & pockets</li><li>Weapon in back</li><li>Empty scroll case on body</li><li>Trashed desk</li><li>Trashed bookcase</li><li>Beautiful rug body is on</li></ul> | <ul><li>The trail and surrounding dirt and grass</li><li>Nearby trees and bushes</li><li>Odd hollows and mounds in the ground</li></ul> |
-|Clues from the area? | <ul><li>The dagger in the back has a house symbol</li><li>The scrollcase is lead lined and empty, whatever in it taken</li><li>His clothing is disheveled, wine spattered, little blood, with a ripped coat where the scrollcase was</li><li>The trashed desk and bookcase marks someone searching for something - finding it in the scrollcase</li><li>The rug is seeped through with wine, very little blood, no goblet or glass is there</li></ul> | <ul><li>The trail is old, little more than a game path through the trees, but the area has a bit more growth than it should</li><li>A bush or two has been moved, holes dug and bushes from nearby moved closer to the camp</li><li>Some branches have been snapped/cut to view different parts of the camp from afar</li><li>Sound of flies, smell rich decay of fresh dead</li><li>Marks of scouts kneeling, casing the camp, footprints away leaving all recent</li></ul> |
-| Connection & motivation? | <ul><li>Dagger is from a rival house of the dead body and that the players are visiting</li><li>The dagger is a red herring, false evidence, the death is from poison (spilled wine)</li><li>The poisoned goblet is missing, easy to pocket (could use to find the killer)</li><li>The lead in the scrollcase blocked location magic for the item (magic scroll, letter)</li></ul> | <ul><li>Scouts may know the trail leads to an old cave</li><li>Footprints are fresh and head down the trail (cave)</li><li>Some footprints may diverge into the woods (ambush)</li><li>Enemies will return, didn’t leave cause of patrol</li><li>Dead body could be scout, prisoner, missing group member, etc</li></ul> |
+| Objectives | <ul><li>Track the path of supply wagons and storehouses</li><li>Determine guard rotations and possible ways to get supplies</li><li>Locate and save prisoners if possible</li></ul> | |
+| Entrances and Exits | <ul><li>Front gate</li><li>Few small breaks in the wall barricades</li><li>Over the wall in the supply area</li><li>Supply wagons</li></ul> | <ul><li>The trail and surrounding dirt and grass</li><li>Nearby trees and bushes</li><li>Odd hollows and mounds in the ground</li></ul> |
+| Guards? | <ul><li>1 guard squad in camp</li><li>Trained dogs</li><li>Leader's personal knights with mounts in main tower</li><li>1 guard squad on patrol</li><li>1 guard squad with prisoners</li></ul> | <ul><li>The trail is old, little more than a game path through the trees, but the area has a bit more growth than it should</li><li>A bush or two has been moved, holes dug and bushes from nearby moved closer to the camp</li><li>Some branches have been snapped/cut to view different parts of the camp from afar</li><li>Sound of flies, smell rich decay of fresh dead</li><li>Marks of scouts kneeling, casing the camp, footprints away leaving all recent</li></ul> |
+| Protection and traps? | <ul><li>Each wall has a log pike barricade</li><li>Each wall corner has a mounted crossbow on a platform</li><li>Trees are being cut down to reduce hiding positions</li><li>Guards watch over the prisoners in tents</li></ul> | <ul><li>Scouts may know the trail leads to an old cave</li><li>Footprints are fresh and head down the trail (cave)</li><li>Some footprints may diverge into the woods (ambush)</li><li>Enemies will return, didn’t leave cause of patrol</li><li>Dead body could be scout, prisoner, missing group member, etc</li></ul> |
 
 ### Set a Difficulty Class
 This is the difficult (DC) required on a roll or roleplay to complete a task or get info. You can set a DC for both quite easily and effectively, just to give context of finding or missing things. Consider awarding not only successes but failures, these could be painful finds, breaking evidence by finding it, or discovering incorrect details to increase tension or misdirect.
