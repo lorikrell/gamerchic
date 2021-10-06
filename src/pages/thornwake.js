@@ -144,7 +144,7 @@ function Barrens() {
         <div >
         <img src="img/landing/thorns-wake.png" /></div>
        </div>
-       <p><strong>Warcraft Conquest</strong> presents <strong>Thornwake</strong>, a narrative and D20 campaign that will take place between November 11th - September 21st in the Barrens. This story continues our journey to battle foes in Azeroth, plaguing the Barrens and threatening to tip the factions into open war. Players from Moon Guard, Wyrmrest Accord, and US servers are welcome!</p>
+       <p><strong>Warcraft Conquest</strong> presents <strong>Thornwake</strong>, a narrative and D20 campaign that will take place between November 11th - 21st in the Barrens. This story continues our journey to battle foes in Azeroth, plaguing the Barrens and threatening to tip the factions into open war. Players from Moon Guard, Wyrmrest Accord, and US servers are welcome!</p>
        </div></section>
        
        <section >
