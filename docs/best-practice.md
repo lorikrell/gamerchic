@@ -73,9 +73,9 @@ To run events in FFXIV:
 
   ![signs](/img/icons/signs.png)
 
-  !!!note All About Icons
+  :::note All About Icons
   There are many icons throughout the game, locations, bars, quests, and more. To help understand them, see the [Dictionary of Icons](https://ffxiv.gamerescape.com/wiki/Dictionary_of_Icons).
-  !!!
+  :::
 
 * Use jobs, glamours, mounts, and minions for different NPCs. They can stand in for something to interact with beyond a floating waymark.
 * Use /yell to highlight text, be advised you are yelling! 

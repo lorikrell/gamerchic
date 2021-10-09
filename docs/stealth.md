@@ -47,19 +47,39 @@ The following are a few building blocks of story and mechanics to consider when 
 
 <div id="hilit">
 
-**Idea** Description
+**Determine consequences for player actions.** Consider what happens if the players are uncovered or misstep. This can lead to an evolving story run by the players' actions through a series of plot steps you want to tackle. Think of it like a Rube Goldberg machine where every action causes another effect.
 
+* Prepare before sneaking or just go? If they can collect information or start with some insights, that may give players bonuses to rolls or vital information on what they face. If they go in blind, hijinks can ensue.
+* Fight their way out? Yes, but that has limited success. Players will need to hide the body or increase the kill/subdue count till they are free of alerts or out.
+* Take prisoners? They could bind or knock out forces they invade, but other guards or leaders may wonder what happened to their people. Or the prisoners get loose and raise alarms.
+* Disable or trip alarms? If they location has magic or mundane traps and alarms, can the players disarm or disable them? Or flip it around and set off every single alarm confusing their targets.
+* If the mission fails, how do they get out? 
+* If they succeed and have a hot/hunted item, what do they do with it?
+* Does the employer double cross them? This scenario could be two rival teams seeking the same item. Or once receiving the objective, the employer tries to send the targets against the players.
+
+**Keep action moving, but give them a breather.** Striking a balance betweem constant rushing through traps, tests, and a maze may be great for non-stop action. But to build the narrative and rising tension, give players safe zones to take a moment and consider their next moves. It could be a fortified location, a blind spot in a guard rotation, a shack on the premises. After a bit of time passes, give them incentive to move with perception tests around the location or through any watchful scouts in the team.
+
+**Make the motive something the team wants to accomplish.** What are they seeking and why. These goals may include saving hostages, gaining wealth, gathering information, infiltrating an enemy, capturing a leader, and so on. Give hooks along the way that ensure the importance of the goal, perhaps pulling on player history or faction and political lines, to aid alliances, or forcing some moral quandries.
+
+**Mix intelligent leaders with brutes.** A force running a con or holding a position are not all dumb and strong. They have intelligent leaders, specialists with different skills such as medicine, engineering, technology, ammunitions and explosives, and much more. Consider the skills of your players and creating a couple of mirrors for them in the enemy ranks. A sly bomb maker, a charismatic leader that once worked for the players' employer, and a medical doctor or healer can create deadly scenarios to foil the invading players.
+
+**Encourage creative solutions.** Just telling your players to think about the situation may frustrate them when figuring out the best method to win. Add items, information, and opportunities to your location. A supply room with random items, broken technologies, pieces of bombs, and some old uniforms may spark players to create disguises, build a bomb, and interfere with communications.
+
+**Rolls can be helpful.** If players get stuck, ask them to roll for a skill, expertise, intelligence or wisdom, perception, or just for ideas. Based on the results, toss ideas their way based on their characters, what's around them in the area, what's in their pockets or backpack. This little nudge may give them a chance to leap out of the bad situation, or create one for their enemy.
+
+**Use alternate rules for silencing or assassinating targets.** For stealth missions, instead of running typical battles, consider assassination or subdue rolls to silence a target for a round. In that time, their comrades could bind hands and feet, stuff a rag in their mouths, or move them to a secure location. This reduces long fights with boring guards and focuses on more time dedicated to boss fights! Players then have memorable moments of knocking out five guards then epicly battling the general with two body guard hyenas instead of 2 hours fighting simple guards before a seemingly short leader fight.
+
+**Make lists for failsafes, plan B, and other options for your enemies and players.** Nothing ever goes to plan with heists, scouting runs, and spy missions. By creating lists of key locations and options available at different times, you can react quickly to players without losing the pace and save you from hitting a deadlock moment. Depending on the situation, you could reward or curse players based on each situation won or lost by increasing or decreasing difficulties for the next actions, like earning a boon or incurring a tail on their route out.
 
 </div>
 
 :::gamerchic Spy and Thief Inspirations
 You can find a ton of incredible sources for inspiration. Here are just a few:
 
-* TV: 
-* Movies: Sneakers, Mission Impossible, Ocean's 11, James Bond, Jason Borne, In the Line of Fire, The Man from UNCLE, War, Army of the Dead, Lupin, Any movie by Michael Mann like Heat, The Usual Suspects, Reservoir Dogs, Rurouni Kenshin
-* Books: 
+* TV: Heist, Money Heist, Good Girls, The Great Train Robbery, Lupin, Homeland, Nitika, 24, The Blacklist, Agents of Shield, The Man in the High Castle, The Enemy Within, The Prisoner, Quantico, The Equalizer, MI5
+* Movies: Sneakers, Mission Impossible, Ocean's 11, James Bond, Jason Borne, In the Line of Fire, The Man from UNCLE, War, Army of the Dead, Lupin, Any movie by Michael Mann like Heat, The Usual Suspects, Reservoir Dogs, Rurouni Kenshin, time heist in Avengers End Game, anything Tom Clancy
+* Books: Tom Clancy, Robert Ludlum, *Tinker, Tailor, Soldier, Spy*, James Bond, *Manchurian Candidate*, *Seven Silent Men*, *Steal the Sky*, *The Thousand Deaths of Ardor Benn*, Rogues of the Republic series
 * Games: Dishonored, Assassin's Creed, Thief, Tenchu, Metal Gear Solid
-
 :::
 
 ## Building a Stealth/Spy Event
@@ -68,43 +88,69 @@ To build an entire horror campaign starts with smaller ideas, key villains, and 
 
 See [How to Run Events & Campaigns](best-practice.md) for information and the following tips:
 
-* Give your event and horror a theme. This can help you form ideas and give your players expectations. For example: ravaged by a curse, haunted mansion, rise of the dead, ritual gone bad, becoming a lich, death knights breaking from service, the fallen rightous, monster attacks, stolen artifact of a major power, murderous designs.
-* If the evil can be ended, have multiple methods for players to learn what is needed, materials/weapons/prayers to end the threat, NPCs to aid in resolving issues, and other ideas for conflict. If you tie everything to one or two places and items, they may not catch on and miss opportunities.
-* Provide NPCs and items that will have details to help, some may not know what they have or found, some may demand payment for the information. This can also be an interesting hook for a fight, learning the past, determining weaknesses, creating a solution, and so on.
-* Consider asking your players for backstory information or some of their fears. You can use these pieces to enhance and personalize the dark aspects touching on their personal story.
-* Create a map to track your horror story. Here is an [example for horror events](https://docs.google.com/drawings/d/1gbPCHeGB-qnfxWzix4Aq_N9KrpClYdYJWDJpt_Rlc0I/edit), MMO Warcraft and tabletop.
-
+* Give your spy/scouting event a theme. This can help hone in on objectives, resources, and opportunities for your players. For example, it could be the heist of the century, infiltrating a corrupt organization, or scouting a battlefield the night before the fight.
+* Allow rolls to help suppliment roleplay. Whisper key information based on results, place items in their path, helping to put them on the right track.
+* Provide NPCs and items that will have details to help. They may find or purchase plans to the location, get incorrect information on guard rotations, locate battle plans, or leave changes to orders to cause problems.
+* Allow players to go different directions, keeping track of where they go and the consequences of those paths. Let them split their groups, find things out of order, and miss things.
 
 ### Set the Stage
-Determine what the horror event is. This could be a couple sentences, which gives you something fantastic to give players when starting the event.
+Determine what the spy or stealth event is. This could be a couple sentences, which gives you something fantastic to give players when starting the event. Here are two examples used in this guide.
 
 <div id="hilit">
 
-* **Lucky Aces Infiltration Team**: Answering the call, a group comes together under the name Lucky Aces. Each person takes a moniker based on a playing card. Enemy forces in a warring faction headquarters received another shipment of supplies and weapon, preparing to strike. The Aces will sneak into a compound, gather information, sabotage efforts, and save prisoners if any are found. They have sketchy information and part of a map. Stealth is key! How will they proceed?
-  ![Lady](/img/guides/horror-lady.jpg)
+**Lucky Aces Infiltration Team**: Answering the call, a group comes together under the name Lucky Aces. Each person takes a moniker based on a playing card. Enemy forces in a warring faction headquarters received another shipment of supplies and weapons, preparing to strike. The Aces will sneak into the compound, gather information, sabotage efforts, and save prisoners if any are found. They have sketchy information and part of a map. Stealth is key! How will they proceed?
+![Aces](/img/guides/stealth-aces.jpg)
 
-  *Map by [Tom Cartos](https://www.patreon.com/tomcartos)!*
+*Map by [eViLe-eAgLe](https://www.deviantart.com/evile-eagle)!*
 
-* **Lost Arc of Jade Winds**: A beautiful arc of gold and jade was unearthed by a rival. It holds not just wealth but power, ancient scriptures and tomes of lore mark it as the vessel for archmagi relics of the ancient past. And we need it first. You need it before the rival opens and learns of that power. And payment? How about anything else you can find and lift from the vault? Gold, platnium, jewelry, fine artworks, weapons and armor...if they own one relic, they may have many more!
+<div class="info-rows">
 
-  ![Portal](/img/guides/horror-demon.jpg)
+| | |
+| -- | -- |
+| ![cross](/img/icons/icon-arrows.png)<br/>Guards | The two sets of tents provide housing for the 3 guard squads. One mans the walls and crossbows, taking turns to get rest. One patrols outside the walls. One splits time protecting prisoners and manning walls. |
+| ![club](/img/icons/icon-club.png)<br/>Prisoners | A few prisoners may be kept shackled in the tents, along side any medics or other support staff. This position doesn't have a formal prison and may fall back to having important prisoners in the tower. |
+| ![diamond](/img/icons/icon-diamond.png)<br/>Crossbows | Large mounted crossbows with limited turn radius are set up on wooden platforms with just enough clearance to fire over the wall. Cut trees provide the larger shot. |
+| ![moon](/img/icons/icon-moon.png)<br/>Supplies | All supplies are kept behind the practice pells kept in crates and covered with tarps. |
+| ![skull](/img/icons/icon-skull.png)<br/>Tower | The leader, knights, plans, seals, and other import items are kept in this solid structure. It's the most reinforced and defensible location. |
 
-  *Map by [Cze and Peku](https://www.patreon.com/czepeku)!*
+</div>
+
+**Lost Arc of Jade Winds**: A beautiful arc of gold and jade was unearthed by a rival. It holds not just wealth but power, ancient scriptures and tomes of lore mark it as the vessel for archmagi relics of the ancient past. And we need it first. You need it before the rival opens and learns of that power. And payment? How about anything else you can find and lift from the vault? Gold, platnium, jewelry, fine artworks, weapons and armor...if they own one relic, they may have many more!
+
+![Portal](/img/guides/horror-demon.jpg)
+
+*Map by [Cze and Peku](https://www.patreon.com/czepeku)!*
+
+<div class="info-rows">
+
+| | |
+| -- | -- |
+| ![cross](/img/icons/icon-arrows.png)<br/>Guards | The two sets of tents provide housing for the 3 guard squads. One mans the walls and crossbows, taking turns to get rest. One patrols outside the walls. One splits time protecting prisoners and manning walls. |
+| ![club](/img/icons/icon-club.png)<br/>Prisoners | A few prisoners may be kept shackled in the tents, along side any medics or other support staff. This position doesn't have a formal prison and may fall back to having important prisoners in the tower. |
+| ![moon](/img/icons/icon-moon.png)<br/>Supplies | All supplies are kept behind the practice pells kept in crates and covered with tarps. |
+| ![star](/img/icons/icon-star.png)<br/>Supplies | All supplies are kept behind the practice pells kept in crates and covered with tarps. |
+| ![diamond](/img/icons/icon-diamond.png)<br/>Library | Large mounted crossbows with limited turn radius are set up on wooden platforms with just enough clearance to fire over the wall. Cut trees provide the larger shot. |
+| ![skull](/img/icons/icon-skull.png)<br/>Vault | The leader, knights, plans, seals, and other import items are kept in this solid structure. It's the most reinforced and defensible location. |
+
+</div>
 
 </div>
 
 ### Set Key Factors
-When you have a scene coming up that may incur investigations, give yourself key information to fall back on.
+When you plan a scouting/spy mission or a heist, give yourself key information to fall back on.
 
-* What can they investigate? Give them key areas and directions or you will be there for hours sifting through meaningless details.
-* What clues lead from this item/situation? Consider minor to major, directly connected to the object of investigation/the culprits or loosely affiliated to the actual scene.
-* Who or what is connected to the item/situation? What are the motivations?
+* **What are the possible objectives?** Spy and scouting missions may focus on learning numbers and positions of the enemy, a leader, supplies to capture, prisoners to save, plans and documents to collect, and more. Give objectives a location, protections, methods to find it, and DCs for any skill checks.
+* **What are the entrances and exits to the location?** Make note of gates, doors, hatches, windows, and more and how they can get around or through them. Players can get inventive on how they break through walls, floors, windows, chimneys, and other potential points.
+* **Who and what guards the objective?** Create a list of guards of people and creatures that patrol or guard the area. Note their paths, key locations, number of members and strength, and more.
+* **What are the protections and traps?** Make note of siege weapons, turrets, weapon depots, traps and triggers, magical traps, wards, and other protective options at the location.
+* What are
 
-| | Dead Lord Ferris | Forest Trail at Camp |
+| | Lucky Aces Infiltration | Lost Arc Heist |
 | -- | -- | -- |
-| What can they investigate? | <ul><li>Dead body & pockets</li><li>Weapon in back</li><li>Empty scroll case on body</li><li>Trashed desk</li><li>Trashed bookcase</li><li>Beautiful rug body is on</li></ul> | <ul><li>The trail and surrounding dirt and grass</li><li>Nearby trees and bushes</li><li>Odd hollows and mounds in the ground</li></ul> |
-|Clues from the area? | <ul><li>The dagger in the back has a house symbol</li><li>The scrollcase is lead lined and empty, whatever in it taken</li><li>His clothing is disheveled, wine spattered, little blood, with a ripped coat where the scrollcase was</li><li>The trashed desk and bookcase marks someone searching for something - finding it in the scrollcase</li><li>The rug is seeped through with wine, very little blood, no goblet or glass is there</li></ul> | <ul><li>The trail is old, little more than a game path through the trees, but the area has a bit more growth than it should</li><li>A bush or two has been moved, holes dug and bushes from nearby moved closer to the camp</li><li>Some branches have been snapped/cut to view different parts of the camp from afar</li><li>Sound of flies, smell rich decay of fresh dead</li><li>Marks of scouts kneeling, casing the camp, footprints away leaving all recent</li></ul> |
-| Connection & motivation? | <ul><li>Dagger is from a rival house of the dead body and that the players are visiting</li><li>The dagger is a red herring, false evidence, the death is from poison (spilled wine)</li><li>The poisoned goblet is missing, easy to pocket (could use to find the killer)</li><li>The lead in the scrollcase blocked location magic for the item (magic scroll, letter)</li></ul> | <ul><li>Scouts may know the trail leads to an old cave</li><li>Footprints are fresh and head down the trail (cave)</li><li>Some footprints may diverge into the woods (ambush)</li><li>Enemies will return, didn’t leave cause of patrol</li><li>Dead body could be scout, prisoner, missing group member, etc</li></ul> |
+| Objectives | <ul><li>Track the path of supply wagons and storehouses</li><li>Determine guard rotations and possible ways to get supplies</li><li>Locate and save prisoners if possible</li></ul> | |
+| Entrances and Exits | <ul><li>Front gate</li><li>Few small breaks in the wall barricades</li><li>Over the wall in the supply area</li><li>Supply wagons</li></ul> | <ul><li>The trail and surrounding dirt and grass</li><li>Nearby trees and bushes</li><li>Odd hollows and mounds in the ground</li></ul> |
+| Guards? | <ul><li>1 guard squad in camp</li><li>Trained dogs</li><li>Leader's personal knights with mounts in main tower</li><li>1 guard squad on patrol</li><li>1 guard squad with prisoners</li></ul> | <ul><li>The trail is old, little more than a game path through the trees, but the area has a bit more growth than it should</li><li>A bush or two has been moved, holes dug and bushes from nearby moved closer to the camp</li><li>Some branches have been snapped/cut to view different parts of the camp from afar</li><li>Sound of flies, smell rich decay of fresh dead</li><li>Marks of scouts kneeling, casing the camp, footprints away leaving all recent</li></ul> |
+| Protection and traps? | <ul><li>Each wall has a log pike barricade</li><li>Each wall corner has a mounted crossbow on a platform</li><li>Trees are being cut down to reduce hiding positions</li><li>Guards watch over the prisoners in tents</li></ul> | <ul><li>Scouts may know the trail leads to an old cave</li><li>Footprints are fresh and head down the trail (cave)</li><li>Some footprints may diverge into the woods (ambush)</li><li>Enemies will return, didn’t leave cause of patrol</li><li>Dead body could be scout, prisoner, missing group member, etc</li></ul> |
 
 ### Set a Difficulty Class
 This is the difficult (DC) required on a roll or roleplay to complete a task or get info. You can set a DC for both quite easily and effectively, just to give context of finding or missing things. Consider awarding not only successes but failures, these could be painful finds, breaking evidence by finding it, or discovering incorrect details to increase tension or misdirect.
@@ -205,8 +251,8 @@ Much like a battle, these events will have a beginning and finale. Investigation
 
 </div>
 
-:::sonceri Congratulations Overlord!
-You have created a great spy/thieft craft event. Have fun, tweak as you need, build your events one to the next for a grand campaign. You can use infiltrations and thefts in battles, horror arcs, scouting parties, and so much more!
+:::sonceri Congratulations Spy Masters and Kingpins!
+You have created a great spy/theft event. Have fun, tweak as you need, build your events one to the next for a grand campaign. You can use infiltrations and thefts in battles, horror arcs, scouting parties, and so much more!
 :::
 
 

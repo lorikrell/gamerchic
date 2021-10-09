@@ -13,7 +13,7 @@ The opportunities of investigations are vast and can make up a single scene for 
 This guide provides information on how to build an investigation, key questions to answer before an event, and how to determine DC and results to quickly keep your event moving with dramatic and gritty detail.
 
 :::sonceri Game Genres
-This guide can be used for MMO-RPG in-game events, tabletop games, LARPs, and more! The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
+This guide can be used for MMO-RPG in-game events, tabletop games, LARPs, and more! Examples include tabletop and MMO images. The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
 :::
 
 ## What makes a good investigation?
@@ -124,15 +124,19 @@ Example for a roleplay investigation of the Forest Trail:
 
 | | |
 | -- | -- |
-| ![cross](/img/icons/icon-arrows.png) | Trees and bushes have been dug up and moved from here, leaving open holes in the earth and newly planted seedlings. It aids in moving cover for spying scouts to wait.<br/>Some trees have been pulled over, branches tied, to form a hiding place for spies to lie in wait.<br/>Marks from animals are old, having left this area some time ago. But fresh claw marks mark higher branches, from owls the spies of the elves. |
-| ![star](/img/icons/icon-star.png) | The mounds of earth and undergrowth hold a sense of druidic magic. It seethes with a glow that reaches to branches and vines.<br/>You have faced warfare in these woods before, and the shadows of the trees hold a threat, perfect place for an ambush...<br/>As you near, a trap of entangling roots and vines awaits to unleash! |
-| ![square](/img/icons/icon-diamond.png) | A sickly sweet scent of death and blossoms rises from the underbrush, definitely from a larger body not some small animals.<br/>Flies buzz, a sign of fresh death, while the scent of decay seems older. Brushing back leaves, you spy two bodies wrapped in entangling roots. Both hold the marks of allies.<br/>The bodies have died from one of many methods. Strangled by vines. Sucked dry by roots. Poisoned by flowers. They are not slashed, stabbed, or pierced by weapons.  |
+| ![cross](/img/icons/icon-arrows.png)<br/>**Trees** | Trees and bushes have been dug up and moved from here, leaving open holes in the earth and newly planted seedlings. It aids in moving cover for spying scouts to wait.<br/>Some trees have been pulled over, branches tied, to form a hiding place for spies to lie in wait.<br/>Marks from animals are old, having left this area some time ago. But fresh claw marks mark higher branches, from owls the spies of the elves. |
+| ![star](/img/icons/icon-star.png)<br/>**Mounds/Bodies** | The mounds of earth and undergrowth hold a sense of druidic magic. It seethes with a glow that reaches to branches and vines.<br/>You have faced warfare in these woods before, and the shadows of the trees hold a threat, perfect place for an ambush...<br/>As you near, a trap of entangling roots and vines awaits to unleash! |
+| ![square](/img/icons/icon-diamond.png)<br/>**Trail** | A sickly sweet scent of death and blossoms rises from the underbrush, definitely from a larger body not some small animals.<br/>Flies buzz, a sign of fresh death, while the scent of decay seems older. Brushing back leaves, you spy two bodies wrapped in entangling roots. Both hold the marks of allies.<br/>The bodies have died from one of many methods. Strangled by vines. Sucked dry by roots. Poisoned by flowers. They are not slashed, stabbed, or pierced by weapons.  |
 
 </div>
 
-![Ferris Markers](/img/guides/trail-camp-markers1.jpg)
+![Camp Markers](/img/guides/trail-camp-markers1.jpg)
 
 *Map by [Talemaps](https://www.reddit.com/r/battlemaps/comments/kudemh/camp_battlemap_26x19/)!*
+
+![Camp Markers](/img/guides/wow-trail-camp-markers1.jpg)
+
+*Ashenvale Horde Camp near Barrens border, World of Warcraft*
 
 #### DC for Rolling Events
 These games you roll to get a result. Usually 1-20 or d20 die with 1 being a critical failure and 20 a critical success. If you use custom game rules for MMOs or tabletop systems, bonuses may be added on rolls to go beyond a 20 or to reroll. Also what they roll differs for these situations.
@@ -163,20 +167,24 @@ I strongly recommend prewriting a few things that may be lengthy. This cuts down
 
 Connect your content with the physical location. Add raid markers per area they can investigate. This helps you track what players are checking, connecting to your DC rolls and descriptions. To make your life easier, take screenshots and create images plotting your raid markers. If you don’t have a chance to set them with another player, use screenshots and Google Drawing. Here is an example:
 
-![Ferris Markers](/img/guides/trail-house-markers.jpg)
-
-*Map by [Natwuns](https://www.reddit.com/r/Roll20/comments/k47y0s/battlemap_enchanted_library_37x228498x7565px2/)!*
-
 <div class="info-rows">
 
 | | |
 | -- | -- |
-| ![cross](/img/icons/icon-club.png)<br/>Bookcases | Books tumble from the shelves, spilling across the floor, tossed back and forth from their places. Loose parchment juts from books, between stacks, yanked free from bindings. Someone hunted madly for a page, something tucked in a book or hidden behind the stacks. |
-| ![square](/img/icons/icon-skull.png)<br/>Body | Lord Ferris lies dead, one arm outstretched with the other curled underneath. His robes tightly wind around his body, legs caught yet in jagged angles as if running when stabbed or...something else. His eyes stare wide, bulging from the sockets, lips parched, jaw clenched tight. Blood and wine stains his jaw. A dagger portrudes from his back. |
-| ![circle](/img/icons/icon-diamond.png)<br/>Rug/Wine | A thick rug of hand-woven soft yarn shifts in shades of scarlet, gold, and emerald with lines of onyx depicting a house seal, floating above arches, grand designs. Wine soaks through the artwork, spreading forth as if seeking to cover the house symbol. The body covers most of the designwork. An empty scrollcase has rolled from the body to rest in the wine stain. |
-| ![triangle](/img/icons/icon-moon.png)<br/>Desk | A fine desk of rosewood and inlaid ivory is a mess of shuffled papers, spilled inks, ripped open letters and mail. Drawers have been pulled open, contents searched. One remains locked despite the marred marked of someone trying to force it open. |
+| ![cross](/img/icons/icon-club.png) <br/>**Bookcases** | Books tumble from the shelves, spilling across the floor, tossed back and forth from their places. Loose parchment juts from books, between stacks, yanked free from bindings. Someone hunted madly for a page, something tucked in a book or hidden behind the stacks. |
+| ![square](/img/icons/icon-skull.png)<br/>**Body** | Lord Ferris lies dead, one arm outstretched with the other curled underneath. His robes tightly wind around his body, legs caught yet in jagged angles as if running when stabbed or...something else. His eyes stare wide, bulging from the sockets, lips parched, jaw clenched tight. Blood and wine stains his jaw. A dagger portrudes from his back. |
+| ![circle](/img/icons/icon-diamond.png)<br/>**Rug/Wine** | A thick rug of hand-woven soft yarn shifts in shades of scarlet, gold, and emerald with lines of onyx depicting a house seal, floating above arches, grand designs. Wine soaks through the artwork, spreading forth as if seeking to cover the house symbol. The body covers most of the designwork. An empty scrollcase has rolled from the body to rest in the wine stain. |
+| ![triangle](/img/icons/icon-moon.png)<br/>**Desk** | A fine desk of rosewood and inlaid ivory is a mess of shuffled papers, spilled inks, ripped open letters and mail. Drawers have been pulled open, contents searched. One remains locked despite the marred marked of someone trying to force it open. |
 
 </div>
+
+![Ferris Markers](/img/guides/trail-house-markers.jpg)
+
+*Map by [Natwuns](https://www.reddit.com/r/Roll20/comments/k47y0s/battlemap_enchanted_library_37x228498x7565px2/)!*
+
+![Ferris Markers](/img/guides/wow-trail-house-markers.jpg)
+
+*Gilneas Greymane Manor, World of Warcraft*
 
 ## Run the Event
 
