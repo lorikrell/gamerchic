@@ -97,7 +97,7 @@ function Barrens() {
       <div className='conquest-hero' id='barrens'>
       <ReactPlayer 
       className='react-player'
-      url='https://www.youtube.com/v/xco-KnAmdMU?version=3&vq=hd1080&t=5' 
+      url='https://www.youtube.com/v/II1S3w9gIC0?version=3&vq=hd1080' 
       loop
       playing
       muted
@@ -123,7 +123,7 @@ function Barrens() {
             </Link>
           </div>
           <div className='credits'>
-          <p>Video by <a href="https://www.youtube.com/channel/UCVia_crjzJylRmGq7SHTiaw">Hearthstone</a></p>
+          <p>Video by <a href="https://www.youtube.com/channel/UCyj8FQbaiyj9qJPQ6ENZcXA">Sonceri</a></p>
           </div>
       </div>
       </header>
@@ -136,15 +136,15 @@ function Barrens() {
 
         <h1>November 11 - 21 2021 | Barrens Campaign</h1>
           
-        <p>Emboldened by thinning lines of Alliance and Horde, the mongrels of the Barrens aggressively test the defenses and integrity of the major factions. Patrols, traders, and even fortified outposts have been attacked, a few utterly lost. Quilboar war drums thunder from the depths of the Kraul, Centaur and Harpies raise war banners, as the Venture Company arm these denizens after brutal defeats in the Vale. And in the shadows of the Overgrowth, age-old allies seek vengeance.</p>
+        <p>Emboldened by the thinning lines of Alliance and Horde, the mongrels of the Barrens now aggressively test the defenses of the major factions. Patrols, traders, and even fortified outposts of the Horde and Alliance have been attacked, with false flags planted to stoke the tensions of the thinly-held armistice. Quillboar war drums thunder from the depths of the Kraul. Centaur and Harpies raise war banners. The Venture Company arms these denizens with equipment salvaged from the Iron Horde, seeking vengeance for their losses in Stranglethorn. In the shadows of the Overgrowth and within the walls of Northwatch Hold, a clandestine power seeks to ignite the flames of war.</p>
         
-        <p>The Alliance and Horde must now muster their war-wearied armies and seek the Barrens to safeguard the homefront and strategic holds. About them all, they feel the impending threat of <strong>Thornwake</strong>.</p>
+        <p>The <strong>Thornwake</strong> rises. The Alliance and Horde will have to face it - <i>and each other</i>.</p>
 
         </div>
         <div >
         <img src="img/landing/thorns-wake.png" /></div>
        </div>
-       <p><strong>Warcraft Conquest</strong> presents <strong>Thornwake</strong>, a narrative and D20 campaign that will take place between November 11th - September 21st in the Barrens. This story continues our journey to battle foes in Azeroth, plaguing the Barrens and threatening to tip the factions into open war. Players from Moon Guard, Wyrmrest Accord, and US servers are welcome!</p>
+       <p><strong>Warcraft Conquest</strong> presents <strong>Thornwake</strong>, a narrative and D20 campaign set to run between <strong>November 11th - November 21st</strong> in the <strong>Barrens</strong>. This story continues our journey to battle foes in Azeroth, plaguing the Barrens and threatening to tip the factions into open war. Players from Moon Guard, Wyrmrest Accord, and US servers are welcome!</p>
        </div></section>
        
        <section >
@@ -208,7 +208,10 @@ function Barrens() {
         <div className='row'>
         <div className="col col-md-6 center">
           <h1>Campaign Camps</h1>
-        <p>Camps for the campaign will not move, with Alliance in Northwatch Hold and Horde in Crossroads. Images coming soon.</p>
+        <p>Camps for the campaign will not move, with Alliance in Northwatch Hold and Horde in Crossroads.</p>
+        <div className='responsive-google-slides'>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfB2w0cInTJILXT_o38nJZP48MvoQj6oMubLQtFrovgJ3k-C5W7ifE6DhX3sWM0_sQfzJEbEl8_WfX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        </div>
 
         <h1>Campaign Events Preview</h1>
         <p>Coming soon!</p>
