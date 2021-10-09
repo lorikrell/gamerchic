@@ -92,7 +92,7 @@ function Barrens() {
   const {siteConfig = {}} = context;
   return (
     <Layout title="Thornwake" 
-    description="Warcraft Conquest presented Thornwake, a campaign set in the Barrens in Fall 2021. Learn more about this campaign and others! ">
+    description="Warcraft Conquest presents Thornwake, a campaign set in the Barrens Nov 11-21. Learn more about this campaign and others! ">
       <header className='conquest-header'>
       <div className='conquest-hero' id='barrens'>
       <ReactPlayer 
