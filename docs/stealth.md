@@ -10,24 +10,24 @@ description: Learn how to plan and run horror events for roleplay and rolling ga
 
 To move in stealth and spy upon quarry does not always require a rogue and thief's kit. Infiltration missions range the spectrum including disguised guests at a party, spies working for liberation as a double or triple agent, mercenary ops using brutal force to get in and out, treasure thieves running a heist, and...the usual movement of thieves using stealth and guile to complete a mission without leaving evidence of their movements. Building and running these missions can be diverse as any other event if you give it thought and care.
 
-The target of spy and thief-craft also differs depending on the goals of a campaign. From eliminating targets to collecting information and supplies, a single agent or group of allies can turn the tide without alerting your enemies. This guide enters the world of spies, assassins, and thieves to give you the elements and guidelines for crafting remarkable events.
+The target of *spycraft* also differs depending on the goals of a campaign. From eliminating targets to collecting information and loot, a single agent or group of allies can turn the tide without alerting your enemies. This guide enters the world of spies, assassins, and thieves to give you the elements and guidelines for crafting remarkable events.
 
 :::sonceri Game Genres
 This guide can be used for MMO-RPG in-game events, tabletop games, LARPs, and more! The rolling rules are for a d20 system, but you could easily convert this to a d10 World of Darkness table of successes and botches, d6 Shadowrun system, and so on.
 :::
 
-## What makes a good spy or stealth mission?
+## What makes a good spycraft mission?
 
-Before delving into the world of spies, let's consider the elements of a good stealth assignment.
+Before delving into the world of spycraft, let's consider the elements of a good stealth assignment.
 
-The typical path of sneak in, kill the guy, and grab the loot is tried and trusted, but lacks imagination. To breath life into the genre, consider another option: player agency with consequences. The power of a fine spy/thief tale lies not in moving from point A to B and collecting C with high rolls for success. It's having an objective, setting the opportunities and pitfalls, and letting your players loose within the boundaries. 
+The typical path of sneak in, kill the guy, and grab the loot is tried and trusted, but lacks imagination. To breath life into the genre, consider another option: player agency with consequences. The power of a fine spy/thief/scout tale lies not in moving from point A to B and collecting C with high rolls for success. It's having an objective, setting the opportunities and pitfalls, and letting your players loose within the boundaries. 
 
-Have lists and ideas ready for anything including rich NPCs, false leads, difficult claimed information (cursed, in code, broken), and constantly moving enemies. While players shift and move through a place, have your NPCs likewise on the move, open to changing sides, or steadfast to their cause. If the location or group being spied on would have a key villain, have them prominent, accessible, without being wooden. And have levels of consequences. One small failure should not cause the entire mission to fail, even at the end grab. Give the players a chance to rise and fall to the challenge.
+Have lists and ideas ready for anything including rich NPCs, false leads, tricky information (cursed, in code, broken), and constantly moving enemies. While players shift and move through a place, have your NPCs likewise on the move, open to changing sides, or steadfast to their cause. If the location or group being spied on would have a key villain, have them prominent, accessible, without being wooden. And have levels of consequences. One small failure should not cause the entire mission to fail, even at the end grab. Give the players a chance to rise and fall to the challenge.
 
-> *Even James Bond has a team to help him in missions. Give everything life!*
+> *Even James Bond has a team to help him in missions. And he had many ways to gain the objective. Give everything life!*
 
 :::sonceri To Battle or not to Battle?
-The best spy and stealth events thrive within boundaries, sparking player ideas. An inventive one is the level of battle. If you remove warfare from the equation, tell your players early. Let them solve problems and end threats using the environment, NPCs, tools and equipment. If you want to use battle, consider instant kills and silencing manuevers. A dagger to the foot will earn screams whereas a dagger to the throat may silence that noise.
+The best spy and stealth events thrive within boundaries, sparking player ideas. An inventive one is the level of battle. If you remove warfare from the equation, tell your players early. Let them solve problems and end threats using the environment, NPCs, tools, and equipment. If you want to use battle, consider instant kills and silencing manuevers for guards. A dagger to the foot will earn screams whereas a dagger to the throat may silence that noise.
 :::
 
 <Iframe url="https://www.youtube.com/embed/o4TSZh2DY9k"
@@ -43,9 +43,13 @@ The best spy and stealth events thrive within boundaries, sparking player ideas.
 
 ## Spycraft Building Blocks
 
-The following are a few building blocks of story and mechanics to consider when creating spy vs assassin vs vault encounters.
+The following are a few building blocks of story and mechanics to consider when creating spycraft encounters.
 
 <div id="hilit">
+
+**Determine the type of spycraft: battle, scouting, heist, infiltration?** Each of these types of missions are all under the genre of spycraft, be it a small squad getting information on the locale around their base to sneaking into a party and stealing a treasure. This will help define the different skills to use, difficulty class (DC) for any rolls, and obstacles to encounter.
+
+**Make the motive something the team wants to accomplish.** What are they seeking and why? These goals may include saving hostages, gaining wealth, gathering information, infiltrating an enemy, capturing a leader, and so on. Give hooks along the way that ensure the importance of the goal, perhaps pulling on player history or faction and political lines, to aid alliances, or forcing some moral quandries.
 
 **Determine consequences for player actions.** Consider what happens if the players are uncovered or misstep. This can lead to an evolving story run by the players' actions through a series of plot steps you want to tackle. Think of it like a Rube Goldberg machine where every action causes another effect.
 
@@ -57,11 +61,9 @@ The following are a few building blocks of story and mechanics to consider when 
 * If they succeed and have a hot/hunted item, what do they do with it?
 * Does the employer double cross them? This scenario could be two rival teams seeking the same item. Or once receiving the objective, the employer tries to send the targets against the players.
 
-**Keep action moving, but give them a breather.** Striking a balance betweem constant rushing through traps, tests, and a maze may be great for non-stop action. But to build the narrative and rising tension, give players safe zones to take a moment and consider their next moves. It could be a fortified location, a blind spot in a guard rotation, a shack on the premises. After a bit of time passes, give them incentive to move with perception tests around the location or through any watchful scouts in the team.
+**Keep action moving, but give them a breather.** Striking a balance between constant rushing through traps, tests, and a maze may be great for non-stop action. But to build the narrative and rising tension, give players safe zones to take a moment and consider their next moves. It could be a fortified location, a blind spot in a guard rotation, a shack on the premises. After a bit of time passes, give them incentive to move with perception tests around the location or through any watchful scouts in the team.
 
-**Make the motive something the team wants to accomplish.** What are they seeking and why. These goals may include saving hostages, gaining wealth, gathering information, infiltrating an enemy, capturing a leader, and so on. Give hooks along the way that ensure the importance of the goal, perhaps pulling on player history or faction and political lines, to aid alliances, or forcing some moral quandries.
-
-**Mix intelligent leaders with brutes.** A force running a con or holding a position are not all dumb and strong. They have intelligent leaders, specialists with different skills such as medicine, engineering, technology, ammunitions and explosives, and much more. Consider the skills of your players and creating a couple of mirrors for them in the enemy ranks. A sly bomb maker, a charismatic leader that once worked for the players' employer, and a medical doctor or healer can create deadly scenarios to foil the invading players.
+**Mix intelligent leaders with brutes.** A force running a con or holding a position are not all dumb and strong. They have intelligent leaders, specialists with different skills such as medicine, engineering, technology, ammunitions and explosives, and much more. Consider the skills of your players and create a couple of mirrors for them in the enemy ranks. A sly bomb maker, a charismatic leader that once worked for the players' employer, and a medical doctor or healer can create deadly scenarios to foil the invading players.
 
 **Encourage creative solutions.** Just telling your players to think about the situation may frustrate them when figuring out the best method to win. Add items, information, and opportunities to your location. A supply room with random items, broken technologies, pieces of bombs, and some old uniforms may spark players to create disguises, build a bomb, and interfere with communications.
 
@@ -109,27 +111,27 @@ Determine what the spy or stealth event is. This could be a couple sentences, wh
 | -- | -- |
 | ![cross](/img/icons/icon-arrows.png)<br/>Guards | The two sets of tents provide housing for the 3 guard squads. One mans the walls and crossbows, taking turns to get rest. One patrols outside the walls. One splits time protecting prisoners and manning walls. |
 | ![club](/img/icons/icon-club.png)<br/>Prisoners | A few prisoners may be kept shackled in the tents, along side any medics or other support staff. This position doesn't have a formal prison and may fall back to having important prisoners in the tower. |
-| ![diamond](/img/icons/icon-diamond.png)<br/>Crossbows | Large mounted crossbows with limited turn radius are set up on wooden platforms with just enough clearance to fire over the wall. Cut trees provide the larger shot. |
+| ![diamond](/img/icons/icon-diamond.png)<br/>Crossbows | Large mounted crossbows with limited turn radius are set up on wooden platforms with just enough clearance to fire over the wall. They use local lumber for ammunition. |
 | ![moon](/img/icons/icon-moon.png)<br/>Supplies | All supplies are kept behind the practice pells kept in crates and covered with tarps. |
 | ![skull](/img/icons/icon-skull.png)<br/>Tower | The leader, knights, plans, seals, and other import items are kept in this solid structure. It's the most reinforced and defensible location. |
 
 </div>
 
-**Lost Arc of Jade Winds**: A beautiful arc of gold and jade was unearthed by a rival. It holds not just wealth but power, ancient scriptures and tomes of lore mark it as the vessel for archmagi relics of the ancient past. And we need it first. You need it before the rival opens and learns of that power. And payment? How about anything else you can find and lift from the vault? Gold, platnium, jewelry, fine artworks, weapons and armor...if they own one relic, they may have many more!
+**Lost Arc of Jade Winds**: A beautiful arc of gold and jade was unearthed by a rival lord. It holds not just wealth but power, ancient scriptures and tomes of lore mark it as the vessel for archmagi relics of the ancient past. And we need it first. You need it before the rival opens and learns of that power. And payment? How about anything else you can find and lift from the vault? Gold, platnium, jewelry, fine artworks, weapons and armor...if they own one relic, they may have many more!
 
-![Portal](/img/guides/horror-demon.jpg)
+![Portal](/img/guides/stealth-treasure.jpg)
 
-*Map by [Cze and Peku](https://www.patreon.com/czepeku)!*
+*Map by [Morvold Press](https://www.patreon.com/morvoldpress)!*
 
 <div class="info-rows">
 
 | | |
 | -- | -- |
-| ![cross](/img/icons/icon-arrows.png)<br/>Guards | The two sets of tents provide housing for the 3 guard squads. One mans the walls and crossbows, taking turns to get rest. One patrols outside the walls. One splits time protecting prisoners and manning walls. |
-| ![club](/img/icons/icon-club.png)<br/>Prisoners | A few prisoners may be kept shackled in the tents, along side any medics or other support staff. This position doesn't have a formal prison and may fall back to having important prisoners in the tower. |
-| ![moon](/img/icons/icon-moon.png)<br/>Supplies | All supplies are kept behind the practice pells kept in crates and covered with tarps. |
-| ![star](/img/icons/icon-star.png)<br/>Supplies | All supplies are kept behind the practice pells kept in crates and covered with tarps. |
-| ![diamond](/img/icons/icon-diamond.png)<br/>Library | Large mounted crossbows with limited turn radius are set up on wooden platforms with just enough clearance to fire over the wall. Cut trees provide the larger shot. |
+| ![moon](/img/icons/icon-moon.png)<br/>Entry | The vault is located on the second floor of the lord's estate, which houses students and adepts of the arcane to research mysteries, craft arcane items, and repair finds. The stairwell leads from the lower floor to a reinforced chamber with guards. This is the only entry to the floor. |
+| ![cross](/img/icons/icon-arrows.png)<br/>Staff | The two chambers provide living quarters for the magical adepts and researchers. Some tomes and personal effects are here. |
+| ![star](/img/icons/icon-star.png)<br/>Supplies | Chamber of carefully maintained supplies, materials, and more. |
+| ![club](/img/icons/icon-club.png)<br/>Headmaster | The personal chambers for the headmaster of the arcane teams. This may be a wizard/bard/cleric of some renown and ability. |
+| ![diamond](/img/icons/icon-diamond.png)<br/>Facilities | Numerous desks, tables, and crafting stations  |
 | ![skull](/img/icons/icon-skull.png)<br/>Vault | The leader, knights, plans, seals, and other import items are kept in this solid structure. It's the most reinforced and defensible location. |
 
 </div>
