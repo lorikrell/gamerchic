@@ -165,11 +165,50 @@ function Barrens() {
           </div>
           
         </section>
-
-        <div className="hero barrens--primary hero-banner" id="barrens">
+<section className='spacer'>
+        <div className="hero barrens-events--primary hero-banner" id="barrens">
       <div className="container">
       <div className="row">
         
+        <div className="col col--6">
+          <h1 className="blog-title">Players battle for regions</h1>
+          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> Key locations, story lines, and PVP Dungeon Masters offer a set of player warfare options at this campaign. For the Horde, Alliance, and Azeroth! All battles will have their own maps, events, and rules to ensure the faction conflict does not spill into other storylines. A No Man's Land provides open PVP with DMs available as needed.</p>
+          <p>Maps and narration tales will track successes and failures as war rages. D20 rules, "Pro Faction War" in your TRP profiles, in-game events, a No Man's Land, and vehicle battle.</p>
+          <div className="buttons-pages">
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to='https://discord.gg/vUp9G7BaqR'>
+              Learn more about PVP
+            </Link>
+          </div>
+        </div>
+
+        <div className="col col--6">
+          <h1 className="blog-title right">Save the Barrens and Strongholds</h1>
+          <p className="blog-subtitle right">Sabers rattle and smoke rises across the Barrens as the Mongrel Horde continues attacks against all peoples in the plains. The Horde endured attacks in Durotar and have lost contact with Crossroads. Alliance seeks Northwatch Hold having gone silent after requisitioning supplies and ammunitions. Druids moving from the cinders of Teldrassil make silent moves. And the thorns rise, casting shadows from the cliffs. </p>
+          <p>Maps and narration tales provide details over the campaign. D20 and open RP, in-game events, camp RP, Discord RP, and vehicle battles.</p>
+          <div className="buttons-right">
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to='https://discord.gg/zvRfQQzVu2'>
+              Learn more about Events
+            </Link>
+          </div>
+        </div>
+      </div>
+      </div>
+      </div>
+
+       </section>
+        <div className="hero barrens--primary hero-banner" id="barrens">
+      <div className="container">
+      <div className="row">
         <div className="col col--6">
           <h1 className="blog-title">Learn what happened</h1>
           <p className="blog-subtitle">Every night DMs posted narration information and reports on events and the campaign, crafting the story based on player achievements.</p>
@@ -185,8 +224,9 @@ function Barrens() {
           </div>
         </div>
 
+
         <div className="col col--6">
-          <h1 className="blog-title right">Captured Moments</h1>
+          <h1 className="blog-title right">Captured moments</h1>
           <p className="blog-subtitle right">Everyone shared screenshots, journals, and more throughout the campaign. See what you missed, or remember all the great adventures!</p>
           <div className="buttons-right">
             <Link
@@ -202,6 +242,7 @@ function Barrens() {
       </div>
       </div>
       </div>
+
         <section className='spacer'>
 
         <div className='container'>
