@@ -172,15 +172,15 @@ function Barrens() {
         
         <div className="col col--6">
           <h1 className="blog-title">Players battle for regions</h1>
-          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> Key locations, story lines, and PVP Dungeon Masters offer a set of player warfare options at this campaign. For the Horde, Alliance, and Azeroth! All battles will have their own maps, events, and rules to ensure the faction conflict does not spill into other storylines. A No Man's Land provides open PVP with DMs available as needed.</p>
-          <p>Maps and narration tales will track successes and failures as war rages. D20 rules, "Pro Faction War" in your TRP profiles, in-game events, a No Man's Land, and vehicle battle.</p>
+          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> Key locations, story lines, and PVP Dungeon Masters offer a set of player warfare options at this campaign. For the Horde, Alliance, and Azeroth! All battles will have their own maps, events, and rules to ensure the faction conflict does not spill into other storylines. A No Man's Land provides open PVP with DM lead raid groups.</p>
+          <p>Maps and narration tales will track successes and failures as war rages. D20 rules, "Pro Faction War" in your TRP profiles, in-game events, No Man's Land, and vehicle battle.</p>
           <div className="buttons-pages">
             <Link
               className={clsx(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to='https://discord.gg/vUp9G7BaqR'>
+              to='https://docs.google.com/document/d/1Uxdudk6KI8-1FgkeRwvK5-6kwKR0lEQLaFjLeaRciVM/view'>
               Learn more about PVP
             </Link>
           </div>
