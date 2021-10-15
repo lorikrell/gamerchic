@@ -13,7 +13,7 @@ You may need fonts used by these PSD files. Download and install fonts used in m
 
 You can use this template for anything, including tabletops, LARPs, and World of Warcraft. All you need is a world, city map, or dungeon map and text. This template has the following folders.
 
-[![PSD](/img/psd.png) Sonceri Event Map cards](https://drive.google.com/file/d/1n2G1ju3zbpjie_H6nDdMlE4b0uoyND37/view?usp=sharing) - click to download.
+[![PSD](/img/psd.png) Sonceri Event Map cards](https://drive.google.com/file/d/1SlEimNQkIVr4YcFSWVp4nIc9tgKMZZT7/view?usp=sharing) - click to download.
 
 1. Pick a Campaign Title look and font, with many options available by font and colors.
 1. Select a Title Decoration from different colors and effects.
