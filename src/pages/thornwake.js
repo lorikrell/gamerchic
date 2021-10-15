@@ -188,7 +188,7 @@ function Barrens() {
 
         <div className="col col--6">
           <h1 className="blog-title right">Save the Barrens and Strongholds</h1>
-          <p className="blog-subtitle right">Sabers rattle and smoke rises across the Barrens as the Mongrel Horde continues attacks against all peoples in the plains. The Horde endured attacks in Durotar and have lost contact with Crossroads. Alliance seeks Northwatch Hold having gone silent after requisitioning supplies and ammunitions. Druids moving from the cinders of Teldrassil make silent moves. And the thorns rise, casting shadows from the cliffs. </p>
+          <p className="blog-subtitle right">Sabers rattle and smoke rises across the Barrens as the Mongrel Horde continues attacks against all peoples in the plains. The Horde endured attacks in Durotar and have lost contact with Crossroads. Alliance seeks Northwatch Hold having gone silent after requisitioning supplies and ammunitions. Druids moving from the cinders of Teldrassil make silent moves into the Barrens. Thorns rise, casting shadows from the cliffs. </p>
           <p>Maps and narration tales provide details over the campaign. D20 and open RP, in-game events, camp RP, Discord RP, and vehicle battles.</p>
           <div className="buttons-right">
             <Link
