@@ -218,7 +218,7 @@ function Barrens() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to='https://discord.gg/vUp9G7BaqR'>
+              to='https://discord.gg/4fY6GaPaYn'>
               See the Narration Log
             </Link>
           </div>
@@ -234,7 +234,7 @@ function Barrens() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to='https://discord.gg/zvRfQQzVu2'>
+              to='https://discord.gg/TpzaYyUgGt'>
               See the Screenshots
             </Link>
           </div>
