@@ -1,5 +1,18 @@
 const items = [
     {
+      title: "40 L.C. / November 2021",
+      cardTitle: "Thornwake",
+      cardSubtitle: `Blood and rage will not wait long in these hills.`,
+      cardDetailedText: `Replaced`,
+        media: {
+          name: "thornwake",
+          source: {
+            url: "img/landing/thorns-wake.png"
+          },
+          type: "IMAGE"
+        }
+    },
+    {
       title: "40 L.C. / April 2021",
       cardTitle: "Tropic Sunder",
       cardSubtitle: `Of course. I bring de word from Zul’Gurub. We tink it be time for new leadahs here in de Vale.`,
