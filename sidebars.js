@@ -34,6 +34,7 @@ module.exports = {
             'events-campaigns',
             'investigations',
             'horror',
+            'onepage'
           ]
     },
     {
