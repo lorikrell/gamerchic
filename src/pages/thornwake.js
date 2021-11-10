@@ -265,9 +265,10 @@ function Barrens() {
         <div className='responsive-google-slides'>
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc-HtfI8pr7Rmii_tUObKamwxjbiKnNZLik2VyTxiiaIP-uV-b2EieguaNDzIsTblNNxX6sIrb0HAw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </div>
+        <p> </p>
 
-  
-
+        <h1>Finale Events</h1>
+        <p>We have two finales planned with a series of events per night: Thornwake Druids and Gravetusk Quilboar!</p>
 
         </div>
         </div>
@@ -275,6 +276,9 @@ function Barrens() {
 
 
         </section>
+
+        
+
         <section className='spacer'>
         <div className="hero barrens-finale--primary hero-banner" id="barrens">
       <div className="container">
