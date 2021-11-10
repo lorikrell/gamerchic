@@ -219,6 +219,28 @@ html[data-theme='light'] .barrens-events--primary {
     color: #000;
 }
 
+html[data-theme='dark'] .barrens-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/barrens-finale.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .barrens-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/barrens-finale-light.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    color: #000;
+}
+
   // death's shadow Specific
 #death {
 

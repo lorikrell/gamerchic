@@ -254,6 +254,9 @@ function Barrens() {
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfB2w0cInTJILXT_o38nJZP48MvoQj6oMubLQtFrovgJ3k-C5W7ifE6DhX3sWM0_sQfzJEbEl8_WfX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </div>
 
+        <h1>Campaign Factions</h1>
+        <p></p>
+
         <h1>Campaign Events Preview</h1>
         <p>Get a sneak peek into campaign events including stories, PVE, PVP, and vehicle battles. Additional events will be added over time.</p>
         <div className='responsive-google-slides'>
@@ -266,8 +269,29 @@ function Barrens() {
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc-HtfI8pr7Rmii_tUObKamwxjbiKnNZLik2VyTxiiaIP-uV-b2EieguaNDzIsTblNNxX6sIrb0HAw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </div>
 
-        <h1>Finale Event</h1>
-        <p>Coming soon!</p>
+  <section className='spacer'>
+        <div className="hero barrens-finale--primary hero-banner" id="barrens">
+      <div className="container">
+      <div className="row">
+        
+        <div className="col col--6">
+          <h1 className="blog-title">Thornwake Druids</h1>
+          <p className="blog-subtitle">As the Horde and Alliance and all neutral factions arrive in the Barrens, what seems to haunt the land and peoples may not be what it seems. At the depths of misfortune and attacks by twisted plants and corrupted leadership are a faction of rogue druids. The Thornwake. Midway through the campaign, the true horrors of this twisted grove and its tenders awaken!</p>
+          <p>A series of events scout, investigate, and battle into the Overgrowth! End this now!</p>
+          
+        </div>
+
+        <div className="col col--6">
+          <h1 className="blog-title right">Gravetusk Quilboar</h1>
+          <p className="blog-subtitle right">For months, the Bramblespear Horde has gathered and armed allies to retake the Barrens from usurpers and invaders. Woefully called the Mongrel Horde, these folk of plains and cliffs and thorns rise up as the druids fall, enacting the great battles that culminate in a final draw. But who is the true enemy? This horde battling for to hold their ancestral lands, or something that lurks still in the Kraul?</p>
+          <p>Final events all take place together, as we siege the Razorfen Kraul and Downs to find the truth.</p>
+          
+        </div>
+      </div>
+      </div>
+      </div>
+
+       </section>
 
 
         </div>
