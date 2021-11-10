@@ -254,9 +254,6 @@ function Barrens() {
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfB2w0cInTJILXT_o38nJZP48MvoQj6oMubLQtFrovgJ3k-C5W7ifE6DhX3sWM0_sQfzJEbEl8_WfX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </div>
 
-        <h1>Campaign Factions</h1>
-        <p></p>
-
         <h1>Campaign Events Preview</h1>
         <p>Get a sneak peek into campaign events including stories, PVE, PVP, and vehicle battles. Additional events will be added over time.</p>
         <div className='responsive-google-slides'>
@@ -269,7 +266,16 @@ function Barrens() {
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc-HtfI8pr7Rmii_tUObKamwxjbiKnNZLik2VyTxiiaIP-uV-b2EieguaNDzIsTblNNxX6sIrb0HAw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </div>
 
-  <section className='spacer'>
+  
+
+
+        </div>
+        </div>
+        </div>
+
+
+        </section>
+        <section className='spacer'>
         <div className="hero barrens-finale--primary hero-banner" id="barrens">
       <div className="container">
       <div className="row">
@@ -292,14 +298,6 @@ function Barrens() {
       </div>
 
        </section>
-
-
-        </div>
-        </div>
-        </div>
-
-
-        </section>
       </main>
       
     </Layout>
