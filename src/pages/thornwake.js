@@ -226,7 +226,7 @@ function Barrens() {
         </div>
 
         <h1>Campaign PVP Maps</h1>
-        <p>These maps track the ongoing PVP battles through Ashenvale and the Barrens. Objectives and results will be noted nightly. We use [Conquest D20 Simplified 1.1](https://tinyurl.com/WCD20v101) for D20 PVP battles. [This template](https://tinyurl.com/WCD20PVPv101) can help create and track your character abilities and status. </p>
+        <p>These maps track the ongoing PVP battles through Ashenvale and the Barrens. Objectives and results will be noted nightly. We use <a href="https://tinyurl.com/WCD20v101">Conquest D20 Simplified 1.1 rules</a> for D20 PVP battles. <a href="https://tinyurl.com/WCD20PVPv101">This template</a> can help create and track your character abilities and status. </p>
         <div className='responsive-google-slides'>
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc-HtfI8pr7Rmii_tUObKamwxjbiKnNZLik2VyTxiiaIP-uV-b2EieguaNDzIsTblNNxX6sIrb0HAw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </div>
