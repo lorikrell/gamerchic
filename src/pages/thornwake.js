@@ -206,42 +206,7 @@ function Barrens() {
       </div>
 
        </section>
-        <div className="hero barrens--primary hero-banner" id="barrens">
-      <div className="container">
-      <div className="row">
-        <div className="col col--6">
-          <h1 className="blog-title">Learn what happened</h1>
-          <p className="blog-subtitle">Every night DMs posted narration information and reports on events and the campaign, crafting the story based on player achievements.</p>
-          <div className="buttons-pages">
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to='https://discord.gg/4fY6GaPaYn'>
-              See the Narration Log
-            </Link>
-          </div>
-        </div>
-
-
-        <div className="col col--6">
-          <h1 className="blog-title right">Captured moments</h1>
-          <p className="blog-subtitle right">Everyone shared screenshots, journals, and more throughout the campaign. See what you missed, or remember all the great adventures!</p>
-          <div className="buttons-right">
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to='https://discord.gg/TpzaYyUgGt'>
-              See the Screenshots
-            </Link>
-          </div>
-        </div>
-      </div>
-      </div>
-      </div>
+        
 
         <section className='spacer'>
 
@@ -296,6 +261,43 @@ function Barrens() {
           <p className="blog-subtitle right">For months, the Bramblespear Horde has gathered and armed allies to retake the Barrens from usurpers and invaders. Woefully called the Mongrel Horde, these folk of plains and cliffs and thorns rise up as the druids fall, enacting great battles that culminate in a final draw. But who is the true enemy? This horde battling to hold their ancestral lands, or something that lurks still in the Kraul?</p>
           <p>Final events all take place together, as we siege Razorfen Kraul and Downs to find the truth.</p>
           
+        </div>
+      </div>
+      </div>
+      </div>
+
+      <div className="hero barrens--primary hero-banner" id="barrens">
+      <div className="container">
+      <div className="row">
+        <div className="col col--6">
+          <h1 className="blog-title">Learn what happened</h1>
+          <p className="blog-subtitle">Every night DMs posted narration information and reports on events and the campaign, crafting the story based on player achievements.</p>
+          <div className="buttons-pages">
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to='https://discord.gg/4fY6GaPaYn'>
+              See the Narration Log
+            </Link>
+          </div>
+        </div>
+
+
+        <div className="col col--6">
+          <h1 className="blog-title right">Captured moments</h1>
+          <p className="blog-subtitle right">Everyone shared screenshots, journals, and more throughout the campaign. See what you missed, or remember all the great adventures!</p>
+          <div className="buttons-right">
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to='https://discord.gg/TpzaYyUgGt'>
+              See the Screenshots
+            </Link>
+          </div>
         </div>
       </div>
       </div>
