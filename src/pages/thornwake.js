@@ -173,7 +173,7 @@ function Barrens() {
         <div className="col col--6">
           <h1 className="blog-title">Players battle for regions</h1>
           <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> Key locations, story lines, and PVP Dungeon Masters offer a set of player warfare options at this campaign. For the Horde, Alliance, and Azeroth! All battles will have their own maps, events, and rules to ensure the faction conflict does not spill into other storylines. A No Man's Land provides open PVP with DM led raid groups nightly.</p>
-          <p>Maps and narration tales will track successes and failures as war rages. [Conquest D20 Simplified 1.1 rules](https://tinyurl.com/WCD20v101), [helpful template](https://tinyurl.com/WCD20PVPv101), "Pro Faction War" in your TRP profiles, in-game events, No Man's Land, and vehicle battle.</p>
+          <p>Maps and narration tales will track successes and failures as war rages. <a href="https://tinyurl.com/WCD20v101">Conquest D20 Simplified 1.1 rules</a>, <a href="https://tinyurl.com/WCD20PVPv101">helpful template</a>, "Pro Faction War" in your TRP profiles, in-game events, No Man's Land, and vehicle battle.</p>
           <div className="buttons-pages">
             <Link
               className={clsx(
