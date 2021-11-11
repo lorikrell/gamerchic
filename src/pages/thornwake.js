@@ -286,15 +286,15 @@ function Barrens() {
         
         <div className="col col--6">
           <h1 className="blog-title">Thornwake Druids</h1>
-          <p className="blog-subtitle">As the Horde and Alliance and all neutral factions arrive in the Barrens, what seems to haunt the land and peoples may not be what it seems. At the depths of misfortune and attacks by twisted plants and corrupted leadership are a faction of rogue druids. The Thornwake. Midway through the campaign, the true horrors of this twisted grove and its tenders awaken!</p>
-          <p>A series of events scout, investigate, and battle into the Overgrowth! End this now!</p>
+          <p className="blog-subtitle">As the Horde and Alliance and all neutral factions arrive in the Barrens, what seems to haunt the land and peoples may not be what it seems. At the depths of misfortune and attacks by twisted plants and corrupted leadership are a faction of rogue druids. The Thornwake. Events lead us through to locate their numbers and battle the true horrors of this twisted grove midway in the campaign!</p>
+          <p>All events invade the Overgrowth to scout, investigate, and battle the Thornwake!</p>
           
         </div>
 
         <div className="col col--6">
           <h1 className="blog-title right">Gravetusk Quilboar</h1>
-          <p className="blog-subtitle right">For months, the Bramblespear Horde has gathered and armed allies to retake the Barrens from usurpers and invaders. Woefully called the Mongrel Horde, these folk of plains and cliffs and thorns rise up as the druids fall, enacting the great battles that culminate in a final draw. But who is the true enemy? This horde battling for to hold their ancestral lands, or something that lurks still in the Kraul?</p>
-          <p>Final events all take place together, as we siege the Razorfen Kraul and Downs to find the truth.</p>
+          <p className="blog-subtitle right">For months, the Bramblespear Horde has gathered and armed allies to retake the Barrens from usurpers and invaders. Woefully called the Mongrel Horde, these folk of plains and cliffs and thorns rise up as the druids fall, enacting great battles that culminate in a final draw. But who is the true enemy? This horde battling to hold their ancestral lands, or something that lurks still in the Kraul?</p>
+          <p>Final events all take place together, as we siege Razorfen Kraul and Downs to find the truth.</p>
           
         </div>
       </div>
