@@ -173,7 +173,7 @@ function Barrens() {
         <div className="col col--6">
           <h1 className="blog-title">Players battle for regions</h1>
           <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> Key locations, story lines, and PVP Dungeon Masters offer a set of player warfare options at this campaign. For the Horde, Alliance, and Azeroth! All battles will have their own maps, events, and rules to ensure the faction conflict does not spill into other storylines. A No Man's Land provides open PVP with DM led raid groups nightly.</p>
-          <p>Maps and narration tales will track successes and failures as war rages. D20 rules, "Pro Faction War" in your TRP profiles, in-game events, No Man's Land, and vehicle battle.</p>
+          <p>Maps and narration tales will track successes and failures as war rages. [Conquest D20 Simplified 1.1 rules](https://tinyurl.com/WCD20v101), [helpful template](https://tinyurl.com/WCD20PVPv101), "Pro Faction War" in your TRP profiles, in-game events, No Man's Land, and vehicle battle.</p>
           <div className="buttons-pages">
             <Link
               className={clsx(
@@ -261,7 +261,7 @@ function Barrens() {
         </div>
 
         <h1>Campaign PVP Maps</h1>
-        <p>These maps track the ongoing PVP battles through Ashenvale and the Barrens. Objectives and results will be noted nightly. Expect updates!</p>
+        <p>These maps track the ongoing PVP battles through Ashenvale and the Barrens. Objectives and results will be noted nightly. We use [Conquest D20 Simplified 1.1](https://tinyurl.com/WCD20v101) for D20 PVP battles. [This template](https://tinyurl.com/WCD20PVPv101) can help create and track your character abilities and status. </p>
         <div className='responsive-google-slides'>
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc-HtfI8pr7Rmii_tUObKamwxjbiKnNZLik2VyTxiiaIP-uV-b2EieguaNDzIsTblNNxX6sIrb0HAw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </div>
