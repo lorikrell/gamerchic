@@ -13,7 +13,7 @@ Created by [White Wolf/Onyx Path](http://theonyxpath.com/), World of Darkness is
 It has two major setting lines: [World of Darkness](https://www.worldofdarkness.com/) (classic) and Chronicles of Darkness (new). Both have fascinating tales and options, numerous versions and tomes, and some of the best writing and art available in any game line.
 
 ![Divide](/img/divide/divide-toreador.png)
-
+</div>
 ## Resources
 
 For quick resources and options to get you started with World of Darkness games, check these links:
@@ -76,6 +76,6 @@ For quick resources and options to get you started with World of Darkness games,
         allowfullscreen
         />
 
-</div>
+
 
 import Iframe from 'react-iframe';

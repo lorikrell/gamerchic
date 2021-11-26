@@ -6,9 +6,13 @@
  */
 
 .blogPostTitle {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
-.blogPostDate {
+.blogPostData {
   font-size: 0.9rem;
+}
+
+.blogPostDetailsFull {
+  flex-direction: column;
 }

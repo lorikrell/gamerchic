@@ -98,6 +98,7 @@ module.exports = {
       type: 'category',
       label: 'World of Darkness',
       items: ['w-o-d/intro', 
+      'w-o-d/suicide-kings',
       {
         type: 'category',
         label: 'Vampire Domains',
