@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6, .text-break {
   color: white;
 }
 
-.blogPostTitle_3-lP {
+.blogPostTitle* {
   font-size: 2rem !important;
 }
 
@@ -1637,6 +1637,10 @@ summary {
     th {
       --ifm-table-head-background: #5f0a0a !important;
     }
+  }
+
+  .responsive-google-slides {
+    margin-bottom: 20px;
   }
 }
 

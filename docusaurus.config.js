@@ -12,6 +12,8 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
 
+    // wrap images with * * to not zoom them!
+    zoomSelector: '.markdown :not(em) > img',
     hideableSidebar: true,
     colorMode: {
       defaultMode: 'dark',
@@ -251,7 +253,10 @@ module.exports = {
         },
       },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
+          postsPerPage: 'ALL',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           //editUrl:
           //  'https://github.com/facebook/docusaurus/edit/master/website/blog/',
@@ -265,7 +270,7 @@ module.exports = {
 plugins: [
     'docusaurus-plugin-sass',
     '@docusaurus/plugin-client-redirects',
-    'plugin-image-zoom',
+    //'plugin-image-zoom',
     'react-iframe'
   ]
 };
