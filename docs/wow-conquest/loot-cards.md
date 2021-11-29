@@ -22,9 +22,19 @@ These cards let you add art files and info for bosses players battle or meet or 
 To make life easier and keep the file size down, write content in a separate file like a Google Doc. Add the art to the file, giving the layer a name matching the card type. You can just save the art in this PSD, using copy/paste from the Google Doc if you ever need to tweak something.
 :::
 
+## Barrens Theme
+
+Originally these cards were used in the [Thornwake campaign](/thornwake) with a Barrens plains and major city feel.
+
+[![PSD](/img/psd.png) Sonceri Card - Barrens](https://drive.google.com/file/d/1hA0YStU5qeJKeVz0HDxl2fBsYA-1kVVC/view?usp=sharing) - click to download.
+
+You will also need the [28 Days font](https://drive.google.com/file/d/1AKJSiAHD_M6oYiV5j8w94RGCuxejASwV/view?usp=sharing).
+
+![Barrens Card](/img/resources/sonceri-barrens-card.png)
+
 ## Tropic Sunder Theme
 
-Originally these cards were used in the Tropioc Sunder campaign with a wild jungle feel.
+Originally these cards were used in the [Tropic Sunder campaign](/TropicSunder) with a wild jungle feel.
 
 [![PSD](/img/psd.png) Sonceri Card - Tropic](https://drive.google.com/file/d/1wPA-NzIrOvmPdICQPBcnCa-0LpopEbWl/view?usp=sharing) - click to download.
 
@@ -32,7 +42,7 @@ Originally these cards were used in the Tropioc Sunder campaign with a wild jung
 
 ## Scourge Shadowlands Theme
 
-Originally these cards were used in In Death's Shadow campaign with a Shadowlands Scourge feel.
+Originally these cards were used in the [In Death's Shadow campaign](/DeathShadow) with a Shadowlands scourge feel.
 
 [![PSD](/img/psd.png) Sonceri Card - Scourge](https://drive.google.com/file/d/1GIOC2jTavO1gXRpXFDsXVxMnnXwmT8gj/view?usp=sharing) - click to download.
 

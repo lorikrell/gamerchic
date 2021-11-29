@@ -23,9 +23,24 @@ These cards let you add art files and info for bosses players battle or meet or 
 To make life easier and keep the file size down, write content in a separate file like a Google Doc. Add the art to the file, giving the layer a name matching the card type. You can just save the art in this PSD, using copy/paste from the Google Doc if you ever need to tweak something.
 :::
 
+## The Barrens Theme
+
+Originally these cards were used in the [Thornwake campaign](/thornwake) with a Barrens plains and major city feel.
+
+[![PSD](/img/psd.png) Sonceri Card - Barrens](https://drive.google.com/file/d/1wLaYEgxhGG6nN-KqeOx_5R_8HO8OIVmd/view?usp=sharing) - click to download.
+
+You will also need the [28 Days font](https://drive.google.com/file/d/1AKJSiAHD_M6oYiV5j8w94RGCuxejASwV/view?usp=sharing).
+
+![Thornwake Card](/img/resources/sonceri-barrens-event.png)
+
+To add more elements, enjoy these heading images for stories, announcements, and more! 
+
+* [Heading just text](https://drive.google.com/file/d/18e0e7t4_n274nrl9bw-gW02AXHXx_w49/view?usp=sharing)
+* [Heading with custom image](https://drive.google.com/file/d/1xCpUjDAt8VavwEBbII4DwSN5x9bsSWuE/view?usp=sharing)
+
 ## Tropic Sunder Theme
 
-Originally these cards were used in the Tropic Sunder campaign with a wild jungle feel.
+Originally these cards were used in the [Tropic Sunder campaign](/TropicSunder) with a wild jungle feel.
 
 [![PSD](/img/psd.png) Sonceri Card - Tropic](https://drive.google.com/file/d/1aCzX7dDRdTxCs7-sDo6THq8DstLnpo9l/view?usp=sharing) - click to download.
 
@@ -33,7 +48,7 @@ Originally these cards were used in the Tropic Sunder campaign with a wild jungl
 
 ## Scourge Shadowlands Theme
 
-Originally these cards were used in the In Death's Shadow campaign with a Shadowlands scourge feel.
+Originally these cards were used in the [In Death's Shadow campaign](/DeathShadow) with a Shadowlands scourge feel.
 
 [![PSD](/img/psd.png) Sonceri Card - Scourge](https://drive.google.com/file/d/1UG27tedgL5HKNWMvZ3LHAoC9iwFxVPn8/view?usp=sharing) - click to download.
 
