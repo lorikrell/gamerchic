@@ -10,6 +10,7 @@ tags: [exalted, storyteller]
 The group incurs the interest of the Great Lahsini. A peek into the exaltation of Findler. And a nice evening between Jadefang and Beng.
 
 <!--truncate-->
+![divider](/img/divide/divide-exalted.png)
 
 ## The Great Lahsini
 

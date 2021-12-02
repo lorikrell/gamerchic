@@ -10,7 +10,7 @@ tags: [exalted, storyteller]
 Ulna delves into a tome of secrets considering a meeting with Seyjan. The Black Pawn and his thieving comrades learn the dark truth of the bone scarabs.
 
 <!--truncate-->
-
+![divider](/img/divide/divide-exalted.png)
 ## Of Fire and Smoke
 
 Pages turned, simple parchment with a stain of time despite the care given by the owners. Age itself lives within all things, be they flesh or simpler forms. Spine not as straight as first binding, edges frayed, touches of fingers and oils shifting shades, scents of cedar, pears, and perfume rising from within its heart despite the coppery notes of old blood. Any would look upon the work and know it hailed from an ancient time, crafted by skilled hands. A perfection in imperfections.

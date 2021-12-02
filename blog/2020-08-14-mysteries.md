@@ -11,7 +11,7 @@ A look into the Carnival of Mysteries, a peek into the life and love of Anthorne
 
 <!--truncate-->
 
-
+![divider](/img/divide/divide-exalted.png)
 ## As Dreams Begin…
 
 It began as a dream, from some stupor of drunken words trailing into conversation betwixt a madam with little to lose and a man with so much needed. He had a fine bit of brew, she a way with the heart. But a brothel with drinks easily could be found anywhere, and they had such evils trailing after them in the dung hole of a village.

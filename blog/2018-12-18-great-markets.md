@@ -10,7 +10,7 @@ tags: [exalted, storyteller]
 The opening storyteller journal for Exalted - Ghosts of the South. Arrival of dark figures, insights of the cards, and a bit of lunch.
 
 <!--truncate-->
-
+![divider](/img/divide/divide-exalted.png)
 ## A Boat from Nowhere
 
 "Some call this the great jewel of the coast. A place of beauty, to feed all hunger and answer all prayers." The tired voice nearly slurred, exhaustion burrowing as hungry worms into his sanity. The Physician needed darkness and blood, a moment's respite. "I lack the encouragement to look beyond these walls."

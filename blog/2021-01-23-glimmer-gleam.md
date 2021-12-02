@@ -10,7 +10,7 @@ tags: [exalted, storyteller]
 Looking back unto the past of the city, of the wars, and the fate of the swords Glimmer and Gleam.
 
 <!--truncate-->
-
+![divider](/img/divide/divide-exalted.png)
 ## A History in Glass
 
 A haze of smoke and sanded dust billowed through streets that shuddered. Stones jitter jumped across the expanse littered with splintered timber and tumbled columns. Grit burned into eyes as Tamuz sought the sky, spying out only a fog roiling across from the deserts. A few feet here and there offered any path through the wreckage of his beloved city.

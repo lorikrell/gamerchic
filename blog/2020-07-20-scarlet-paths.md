@@ -10,7 +10,7 @@ tags: [exalted, storyteller]
 Following the path of saviors, the Roseblack continues her treachery against her family. And many experience the great week of harvests.
 
 <!--truncate-->
-
+![divider](/img/divide/divide-exalted.png)
 ## The Roseblack
 
 The clamor and cry of thousands pressed tight within the district made an exceptional heated day unbearable. What few shadows cast held as many people as the brightest rays. Chiaroscuro during a festival seemed ludicrous, but damned if it did not bless their meeting in secret with so much in public.

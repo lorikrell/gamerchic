@@ -10,6 +10,7 @@ tags: [exalted, storyteller]
 The party finds and wanders the Under Market of rare and dark goods. And a look into the imprisoned Joselin in the Heptagram.
 
 <!--truncate-->
+![divider](/img/divide/divide-exalted.png)
 
 ## A job well done!
 
