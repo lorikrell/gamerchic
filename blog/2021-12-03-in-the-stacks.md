@@ -96,7 +96,7 @@ Metal and leather creaked as Butch drove, stopped, and exited their car. A renta
 
 And what indeed did she care? Rosalind knew someone would die bloody and awful at his hands, drunk dry, tossed in the desert or someone's backyard pool. Ever the faithful man of muscles. She knew Butch for many years, through his ghouling, training, and finally his embrace by Victor. The brother of her heart, his sire. 
 
-"Miss?" The gentleman of the Belagio opened the door, holding till she neared, that fabulous curved line and exsquisite clothing she perfected always earned an extrance. She tired of it though. A smile that never touched her eyes, whisper of perfume and tendril of smoke as she passed into the brilliant lighting. Every detail burned into the men and women that spied her, even at this late hour the halls and casinos thrummed with the lifeblood of sin.
+"Miss?" The gentleman of the Belagio opened the door, holding till she neared, that fabulous curved line and exquisite clothing she perfected always earned an extrance. She tired of it though. A smile that never touched her eyes, whisper of perfume and tendril of smoke as she passed into the brilliant lighting. Every detail burned into the men and women that spied her, even at this late hour the halls and casinos thrummed with the lifeblood of sin.
 
 It held all of the luster of fifty year old rot to Rosalind. A chintsy kingdom of wealth bored her nigh to blood tears, yet she played the game of intrigue and feigned interest. The light lunch at the donut palace wasn't enough for her.
 
