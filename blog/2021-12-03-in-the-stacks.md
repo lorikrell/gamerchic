@@ -17,7 +17,7 @@ And then Eden held up a smart drive she stole the night before. One file of thre
 
 The first opened a recording of a man tied to a chair, tortured, laughing. A voice off camera questioned. The face peered up, lineage from the east, mouth in a cruel grin. His flesh shifted until it seemed an Oni mask. A fanged grin, gutteral voice, answered with a spat of blood. With a shrug, it broke through ropes and brought forth a sword of black glass. Leaping at the camera, the demon attacked the torturers. 
 
-The next file was a zip of emails and conversations and photos between a group of scholars and researchers. They found evidence of labyrinth stone circles in different parts of the world. Intrigued, they sought more information, seeking and sharing what they found, eager to understand what these strange circles. The crafter seemed to be a single person, over centuries, in different countries. The last name they noted in the emails was Zelios.
+The next file was a zip of emails and conversations and photos between a group of scholars and researchers. They found evidence of labyrinth stone circles in different parts of the world. Intrigued, they sought more information, seeking and sharing what they found, eager to understand these strange circles. The crafter seemed to be a single person, over centuries, in different countries. The last name they noted in the emails was Zelios.
 
 The last file had a scruffy biker with many tattoos sitting at a picnic table. Checking the background, they determined it was in LA. The file name was hes-alive.jpg. 
 
