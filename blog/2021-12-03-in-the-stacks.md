@@ -29,7 +29,7 @@ They needed more help...and set up a meeting with Cuthbert that night.
 
 *I planned to leave after meeting with Professor Andrews. He claims a breakthrough on the Merlyn passage, and asked for an additional night. Not entirely sure what this may mean, especially with the coincidental request by Montrose for a vital discussion. My curiosity got the better of me, and I came face to face with the Giovanni. I knew he was here, not the first or last face I wanted to see. If he receives word from Italy, I may find myself in need of another burned boon else feel the rays of morning.*
 
-*Yet, nothing of destruction has fallen, instead a most promising piece of blackmail trivia. Rothstein broke the masquerade, dashed the blind eye, and tossed aside family rule. He welcomed mortals into a den of kindred and assembled enemies of soul and bond as equals. I could scarce believe my eyes, yet Montrose nodded. I the only one in the backroom bar that could spy his face from obscurity. Monstrose was, for lack of a better word, dead serious.*
+*Yet, nothing of destruction has fallen, instead a most promising piece of blackmail trivia. Rothstein broke the masquerade, dashed the blind eye, and tossed aside family rule. He welcomed mortals into a den of kindred and assembled enemies of soul and bond as equals. I could scarce believe my eyes, yet Montrose nodded. And I was the only one in the backroom bar that could spy his face from obscurity. Monstrose was, for lack of a better word, dead serious.*
 
 His eyes roamed the living around him, a fang pricking with disquieted annoyance into his lip. Hunger tugged. His pen scribbled across another thought. *I need to tuck this away, not bring it up to Benedic or Rainier. The last anyone needs are justicars and additions to the Red List. I'm in enough ledgers.*
 
@@ -48,7 +48,9 @@ I saw a face in the sand<br/>
 But when I picked it up<br/>
 Then it vanished away from my hands, down<br/>*
 
-The world spied nothing more than a tired man in a boring vehicle, like some random man stuck in eternal coach on a flight that never touched down. Yet within the boundaries of glass and worn seats he spied another realm. Eyes of flat porcelain and teal never blinked piercing the distance seeking the home he craved. But the passing of events and the lad had hair like fire instead consumed his mind's eye.
+![Preston](/img/blog/preston.jpg)
+
+The world spied nothing more than a tired man in a boring vehicle, like some random man stuck in eternal coach on a flight that never touched down. Yet within the boundaries of glass and worn seats he spied another realm. Eyes of flat porcelain and teal never blinked piercing the distance seeking the home he craved. But the passing of night's events and the flame-haired lad instead consumed his mind's eye.
 
 Of Keyes and Lockes and what next would come? Their names bound him as surely as the ancient pacts. How did Donovan not recognize the sidhe? Or did he merely spy the plain aspect of the Clark County District Attorney? His fingers pressed back a single errant strand of grayed hair touched in denium blue hues. The point of ear keeping vigil against the rest.
 
