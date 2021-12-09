@@ -75,10 +75,7 @@ module.exports = {
               to:'docs/w-o-d/intro',
               label: 'World of Darkness',
             },
-            /*{
-              to: 'docs/w-o-d/intro',
-              label: 'World of Darkness',
-            },
+            /*
             {
               to: 'docs/d-n-d/intro',
               label: 'Dungeons & Dragons',
@@ -128,7 +125,7 @@ module.exports = {
           to: 'gallery',
           label: 'Art Gallery',
         },
-        {to: '/blog', label: 'Blog', position: 'right'},
+        {to: '/blog', label: 'Game Blog', position: 'right'},
         /*{
           href: 'https://github.com/facebook/docusaurus',
           className: 'navbar-grid-menu',

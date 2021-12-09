@@ -55,7 +55,7 @@
     text-decoration: none;
   }
   .sidebarItemLinkActive {
-    color: var(--ifm-font-color-base);
+    color: var(--ifm-menu-color-active);
     background: var(--ifm-menu-color-background-active);
     border-left-color: var(--ifm-menu-color-active);
     font-weight: 700;

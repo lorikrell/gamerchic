@@ -1,0 +1,17 @@
+sonceri:
+  name: Sonceri
+  title: Storyteller and Writer
+  url: https://twitter.com/lorioliodraws
+  image_url: https://avatars.githubusercontent.com/u/29388020?v=4
+
+exalted:
+  name: Exalted
+  title: Tales of Creation
+  url: https://sonceri.art/blog/tags/exalted
+  image_url: https://sonceri.art/img/landing/logo-exalt.png
+
+wod:
+  name: World of Darkness
+  title: Horrors of Our Time
+  url: https://sonceri.art/blog/tags/world-of-darkness
+  image_url: https://sonceri.art/img/landing/logo-wod.png
