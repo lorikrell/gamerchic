@@ -16,10 +16,10 @@ module.exports = {
   // But you can create a sidebar manually
   
   games: [
-    'intro',
     {
       type: 'category',
-      label: 'Graphic Resources',
+      label: 'Gamer Resources',
+      link: {type: 'doc', id: 'intro'},
       items: [
         'photoshop/fonts-brushes',
         'photoshop/coins',
@@ -30,8 +30,8 @@ module.exports = {
     {
           type: 'category',
           label: 'Event Guides',
+          link: {type: 'doc', id: 'events-campaigns'},
           items: [
-            'events-campaigns',
             'investigations',
             'horror',
             'onepage'
@@ -55,8 +55,8 @@ module.exports = {
     {
       type: 'category',
       label: 'Warcraft Conquest',
+      link: {type: 'doc', id: 'wow-conquest/intro'},
       items: [
-        'wow-conquest/intro',
         'wow-conquest/token',
         'wow-conquest/capture-assets',
         'wow-conquest/simple-token',
@@ -69,8 +69,8 @@ module.exports = {
     {
       type: 'category',
       label: 'Exalted',
+      link: {type: 'doc', id: 'exalted/resources'},
       items: [
-        'exalted/resources',
         {
           type: 'category',
           label: 'Campaigns',
@@ -97,7 +97,8 @@ module.exports = {
     {
       type: 'category',
       label: 'World of Darkness',
-      items: ['w-o-d/intro', 
+      link: {type: 'doc', id: 'w-o-d/intro'},
+      items: [
       'w-o-d/suicide-kings',
       {
         type: 'category',

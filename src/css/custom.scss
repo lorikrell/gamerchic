@@ -840,6 +840,11 @@ html[data-theme='dark'] .admonition-sonceri {
   margin-left: -5px !important;
 }
 
+.menu__caret {
+  margin-left: 0.1rem;
+  padding-right: 5px;
+}
+
 // Responsive
 @media screen and (max-width: 996px) { 
 

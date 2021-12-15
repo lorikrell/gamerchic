@@ -11,7 +11,6 @@ module.exports = {
   projectName: 'gamerchic', // Usually your repo name.
   trailingSlash: false,
   themeConfig: {
-
     // wrap images with * * to not zoom them!
     zoomSelector: '.markdown :not(em) > img',
     hideableSidebar: true,
@@ -19,7 +18,9 @@ module.exports = {
       defaultMode: 'dark',
       disableSwitch: false,
     },
-
+    stylesheets: [
+      'https://fonts.googleapis.com/css?family=Material+Icons',
+    ],
     //Algolia
     algolia: {
       apiKey: '10b97526dc1fb3ba5b0279444d437ba5',
@@ -53,7 +54,7 @@ module.exports = {
           items: [
             {
               to: 'docs/intro',
-              label: 'Graphic Resources',
+              label: 'Gamer Resources',
             },
             {
               to: 'docs/events-campaigns',

@@ -1,6 +1,7 @@
 ---
 title: Resources for Conquest
 id: intro
+hide_table_of_contents: true
 ---
 
 The Warcraft Conquest Discord Server is a community project that focuses on coordinating fun and dynamic roleplay plot lines set in the Warcraft universe, conducted via dungeon mastered PvE-D20, PvP-D20, RP-PvE, and RP-PvP events. We hope to provide a platform for networking and collaboration for players on the Moon Guard and Wyrmrest Accord World of Warcraft servers! Many immersive graphical and written resources have been created by members of this project that any player may use in their roleplay.
