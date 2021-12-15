@@ -7,7 +7,10 @@ hide_table_of_contents: true
 <div id="vamp">
 
 ![Divide](/img/wod/suicide-kings.png)
-Welcome to Sin City! Many differing paths led supernaturals here, from Kindred holding The Strip at war with Camarilla at large, shifters in the deserts and national parks, mages battling between chantries and with the Technocracy, and fair folk in the kingdom of burning sands. Mortals wander the city, consumed with the ideal of what happens in Vegas stays in Vegas. A perfect backdrop of these giants.
+
+## Welcome to Sin City! 
+
+Many differing paths led supernaturals here, from Kindred holding The Strip at war with Camarilla at large, shifters in the deserts and national parks, mages battling between chantries and with the Technocracy, and fair folk in the kingdom of burning sands. Mortals wander the city, consumed with the ideal of what happens in Vegas stays in Vegas. A perfect backdrop of these giants.
 
 This campaign tosses our mortal players into a fanon creation of Las Vegas in the 6th age with a new cross-genre assembly of vampires, changelings, and ghosts adhering to the **Accords of the Cup**. Will the mortals be embraced, awakened, changed in some way? Would the shifters and mages finally join the accords? Would the hunter gets them all first?
 
