@@ -31,7 +31,7 @@ As they leave, Donovan spies a strange door, Eden steals an ivory necklace, and 
 
 ## Spotlight: Bastien Wathan 
 
-Tremere, 11th Gen, Magus, Seventh Circle of Mystery, Sire Vegas
+Tremere, 11th Gen, Magus, Seventh Circle of Mystery, Vegas
 
 Born a Wathen to a line of the family that settled in Austria, away from England, Bastien spent his fifth son position seeking a craft. Rather than enter the priesthood, he sought out an apprenticeship with a family nearing its end. The Thonets had few still interested in continuing the business, most eldering and nearing ages best not spent bent to chisel and turning wheel. 
 
@@ -67,7 +67,7 @@ Ventrue Anti-tribu Sabbat, 10th Gen, Sire Melansie Bordelon, "The Deposed Prince
 
 Few ever had the audacity to change their lives so drastically as Serena Dorn did in her embrace. Cutting away the soft woman of priviledge, she transformed herself into a beast of power, business, and knowledge taking the guise and life of a man. Never one to squander a turn, Shane (no longer Serena) rose ahead of the ghouls then childer in her sire's stead, earning the right to take his ventures into the colonies. She battled through revolution, the Civil War, and into the blossoming of a new era. Never has she become complacent or turned away an idea.
 
-So it was she made alliance with a questionable Lasombra with a gem of an idea. With the means and capability, she took control of initiatives and claimed Austin, donning the title of Prince with her false persona of Camarilla Ventrue. All was well until a the status quo changed so drastically with the arrival of Maxmillian from England. Deposed, lesser in stature, and ready to tear apart the new prince, she stepped up plans with Victor. Little did she know he had made plans as well.
+So it was she made alliance with a questionable Lasombra with a gem of an idea. With the means and capability, she took control of initiatives and claimed Austin, donning the title of Prince with her false persona of Camarilla Ventrue. All was well until the status quo changed so drastically with the arrival of Maxmillian from England. Deposed, lesser in stature, and ready to tear apart the new prince, she stepped up plans with Victor. Little did she know he had made plans as well.
 
 Together they overthrew the prince, plans and killing blows commited by the Dirty Deeds pack of Sabbat. Titles moved to Victor as he rose to Bishop, and Dorn was left with meager position and opportunity. Making the best of it, Dorn has taken charge of the city, delved further into finance, land deeds, and took up vested interests to surround Victor by law if not arms. 
 
