@@ -24,6 +24,7 @@ module.exports = {
         'photoshop/fonts-brushes',
         'photoshop/coins',
         'photoshop/wax-seals',
+        'photoshop/crest',
         'photoshop/event-maps',
       ]
     },
