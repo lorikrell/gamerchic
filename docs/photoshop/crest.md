@@ -21,9 +21,10 @@ Select existing emblems or add your own!
 1. Select a **Crest** from the folders. WoW emblems are divided up into many folders. Double-click and open the group options. Select the Color Overlay option. Change the color to anything.
 1. On the **Banner** group, double-click and open the group options. Select the Color Overlay option. Change the color to anything.
 1. Select a **Ring** and show/hide to find the best option.
-1. Select a Faction Background and show/hide to find the best option.
 
     ![ring](/img/resources/guild/crest-ring.png)
+
+1. Select a **Faction Background** and show/hide to find the best option. These include Alliance, Horde, and Argent colors with a flat stone, cracked stone, and cobbles background.
 
 1. Save as a *.png*.
 
