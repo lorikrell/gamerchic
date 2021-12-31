@@ -48,6 +48,6 @@ These crests use faction symbols.
 
 | | | |
 |--|--|--|
-|![Guild](/img/resources/guild/guild-alliance.png) |![Guild](/img/resources/guild/guild-horde.png) |![Guild](/img/resources/guild/guild-argent.png) |
+|![Guild](/img/resources/guild/guild-alliance.png) |![Guild](/img/resources/guild/guildhorde.png) |![Guild](/img/resources/guild/guild-argent.png) |
 
 </div>
