@@ -28,6 +28,10 @@ Select existing emblems or add your own!
 
 1. Save as a *.png*.
 
+Here's a video!
+
+<iframe src="https://drive.google.com/file/d/1tCrfgjIKfO_CSuhvAEQ8-epDZW6TllEx/preview" width="100%" height="600" allow="autoplay"></iframe>
+
 ## Add your own!
 
 To add a crest, add a PNG icon image to the Crest folder. For best results, the icon should be grey in color to capture the color you select for the group. 
