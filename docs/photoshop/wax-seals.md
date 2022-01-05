@@ -25,7 +25,7 @@ Download Photoshop files!
 
 | | |
 | -- | -- |
-| [Original Sonceri Seals](https://drive.google.com/file/d/1n1QsbB3GgZ37op4l9_fM8nbidrJHxJJe/view?usp=sharing) | A few shapes, colors, and wax options with a bunch of icon examples to choose from. You can add your own. |
+| [Original Sonceri Seals](https://drive.google.com/file/d/1wpRWY5fYhMen82PUA114-Zll8WM_qBVo/view?usp=sharing) | A few shapes, colors, and wax options with a bunch of icon examples to choose from. You can add your own. |
 | [Round Wax Seals zip](https://drive.google.com/file/d/1iU0o4BgMJzsvD7EcVkfKULD_Gw79uO-u/view?usp=sharing) | Four round options including white with flowers, plain round, heavy round, and round with a hex imprint. Numerous color and pattern options. Only a couple icon examples. |
 | [Oval Wax Seals zip](https://drive.google.com/file/d/1tx-h6VR3hmY2gQVMB0d2uBViwf7qHiUv/view?usp=sharing) | Three oval options with different kinds of wax and thickness. Numerous color and pattern options. Only a couple icon examples. |
 | [Square Wax Seals zip](https://drive.google.com/file/d/1VEBra-1lcR9hVh3UmmEgLKOlsKX8lL4-/view?usp=sharing) | Three options including square, diamond, and rectangle. Numerous color and pattern options. Only a couple icon examples. |
