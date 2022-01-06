@@ -17,7 +17,7 @@ To share with friends, share the entire slide deck, save to PDF, or export each 
 
 <div className='responsive-google-slides'>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSgmyjI0VrftXdk7HcvVh8KdGQGvw__Pneyvbr4DNtaYdmxVtlwN69QtCHjZWfhSw8WH0BwYyeBXUA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSgmyjI0VrftXdk7HcvVh8KdGQGvw__Pneyvbr4DNtaYdmxVtlwN69QtCHjZWfhSw8WH0BwYyeBXUA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
 
 </div>
 
@@ -25,7 +25,7 @@ To share with friends, share the entire slide deck, save to PDF, or export each 
 
 <div className='responsive-google-slides'>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKTimErjlQWJ3YqFuQ7boKD65i_eLzxl6GChFsdC3TxKTdUo-fE1lEdVUcn3F9dnjuGhDlrBH_nLJ9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKTimErjlQWJ3YqFuQ7boKD65i_eLzxl6GChFsdC3TxKTdUo-fE1lEdVUcn3F9dnjuGhDlrBH_nLJ9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
 
 </div>
 

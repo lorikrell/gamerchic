@@ -53,7 +53,7 @@ For quick resources and options to get you started with World of Darkness games,
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 <Iframe url="https://www.youtube.com/embed/OEi7nQbNDog"
@@ -64,7 +64,7 @@ For quick resources and options to get you started with World of Darkness games,
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 <Iframe url="https://www.youtube.com/embed/5hdeR7HBO4k"
@@ -75,7 +75,7 @@ For quick resources and options to get you started with World of Darkness games,
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 

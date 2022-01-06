@@ -15,7 +15,7 @@ To share with friends, share the entire slide deck, save to PDF, or export each 
 
 <div className='responsive-google-slides'>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTe_OJC047R9d_pJWHWkfgXNiEDHuwHrHp79Osjgj1GdaqYwcJcWAH5Bke_4Fh-3GiYjLs6vYHKF-Pu/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTe_OJC047R9d_pJWHWkfgXNiEDHuwHrHp79Osjgj1GdaqYwcJcWAH5Bke_4Fh-3GiYjLs6vYHKF-Pu/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
 
 </div>
 

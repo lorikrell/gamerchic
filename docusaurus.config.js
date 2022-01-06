@@ -191,6 +191,11 @@ module.exports = {
           ],
         },
       ],
+      logo: {
+        alt: 'Sonceri',
+        src: 'img/logo-sonc.png',
+        href: 'https://sonceri.art'
+      },
       copyright: `Copyright © ${new Date().getFullYear()} Gamerchic | Built with Docusaurus`,
     },
     

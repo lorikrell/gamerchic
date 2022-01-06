@@ -33,7 +33,7 @@ And a new member will be joining the circle, unheard of in other cities, but the
 
 <div className='responsive-google-slides'>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTGOc2R95d7iXDEMUeFvT1UNPLUOO99GifaCoQu1rpZICKOsR2BP46Zotj4KEhSVwWailm-2QciykNs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTGOc2R95d7iXDEMUeFvT1UNPLUOO99GifaCoQu1rpZICKOsR2BP46Zotj4KEhSVwWailm-2QciykNs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
 </div>
 
 ## Game Map

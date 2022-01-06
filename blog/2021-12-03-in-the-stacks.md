@@ -85,7 +85,7 @@ But it rarely rained in Las Vegas.
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 ![divider](/img/divide/divide-sword.png)

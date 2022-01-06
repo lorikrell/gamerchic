@@ -216,19 +216,19 @@ function Barrens() {
         <h1>Campaign Camps</h1>
         <p>Camps for the campaign will not move, with Alliance in Northwatch Hold and Horde in Crossroads.</p>
         <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfB2w0cInTJILXT_o38nJZP48MvoQj6oMubLQtFrovgJ3k-C5W7ifE6DhX3sWM0_sQfzJEbEl8_WfX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfB2w0cInTJILXT_o38nJZP48MvoQj6oMubLQtFrovgJ3k-C5W7ifE6DhX3sWM0_sQfzJEbEl8_WfX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
 
         <h1>Campaign Events Preview</h1>
         <p>Get a sneak peek into campaign events including stories, PVE, PVP, and vehicle battles. Additional events will be added over time.</p>
         <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZNEao5wLY4fIL8Jby-I7E8SbNuxh4v5cn8u0SfiRj1z_C7ebsFk6I7Svqh4kQ2aivW0WPHhxBdQ_8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZNEao5wLY4fIL8Jby-I7E8SbNuxh4v5cn8u0SfiRj1z_C7ebsFk6I7Svqh4kQ2aivW0WPHhxBdQ_8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
 
         <h1>Campaign PVP Maps</h1>
         <p>These maps track the ongoing PVP battles through Ashenvale and the Barrens. Objectives and results will be noted nightly. We use <a href="https://tinyurl.com/WCD20v101">Conquest D20 Simplified 1.1 rules</a> for D20 PVP battles. <a href="https://tinyurl.com/WCD20PVPv101">This template</a> can help create and track your character abilities and status. </p>
         <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc-HtfI8pr7Rmii_tUObKamwxjbiKnNZLik2VyTxiiaIP-uV-b2EieguaNDzIsTblNNxX6sIrb0HAw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc-HtfI8pr7Rmii_tUObKamwxjbiKnNZLik2VyTxiiaIP-uV-b2EieguaNDzIsTblNNxX6sIrb0HAw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
         <p> </p>
 

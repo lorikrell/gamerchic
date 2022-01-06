@@ -109,7 +109,7 @@ Convert or die... Chronicles of Riddick
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 Madness of existance... In the Mouth of Madness
@@ -121,7 +121,7 @@ Madness of existance... In the Mouth of Madness
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 Refined Cthulhu
@@ -133,7 +133,7 @@ Refined Cthulhu
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 The classic body horror... The Thing
@@ -145,7 +145,7 @@ The classic body horror... The Thing
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 </details>
@@ -329,7 +329,7 @@ In this example, using this video of ambience and movie still from Crimson Peak 
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 * **Emotion to convey**: Unsettled, moldering house and slight rot points to the inherent darkness in the location and owner
@@ -370,7 +370,7 @@ In this example, using this video of darkness sinister mix as inspiration. The [
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 * **Emotion to convey**: Heart thundering fear, excitement, speed

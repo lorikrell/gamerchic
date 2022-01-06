@@ -74,7 +74,7 @@ It's time to create your wax seal. These instructions will use the new round sea
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 1. Create a duplicate of the layer group **SYMBOL - Copy for custom seals!** You will add your icon here and set up optional foil (metal texture).

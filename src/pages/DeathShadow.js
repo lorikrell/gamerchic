@@ -234,7 +234,7 @@ function DeathShadow() {
 
         <h1>Campaign Events Preview</h1>
         <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqnwKMj2PwtMDWqNaQWbu1hnvTuvxScOc-tq2ahPvv0gOZm5qRJu1vjfPPR4kBk5f36lx5iLzrPEAo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="829" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqnwKMj2PwtMDWqNaQWbu1hnvTuvxScOc-tq2ahPvv0gOZm5qRJu1vjfPPR4kBk5f36lx5iLzrPEAo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="829" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
 
         <h1>Finale Event</h1>

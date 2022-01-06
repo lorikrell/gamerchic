@@ -22,7 +22,7 @@ To share with friends, share the entire slide deck, save to PDF, or export each 
 
 ## Warcraft Posters
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWik6ya9qwCV17G_MqJu1blTzR--mHX2fXF8ToTZIQziZp6Dl3ZF-M_bHuVFmr5L9q2SGeCV1BThNS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1080" height="1949" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWik6ya9qwCV17G_MqJu1blTzR--mHX2fXF8ToTZIQziZp6Dl3ZF-M_bHuVFmr5L9q2SGeCV1BThNS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1080" height="1949" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
 
 </div>
 
@@ -30,7 +30,7 @@ To share with friends, share the entire slide deck, save to PDF, or export each 
 
 <div className='responsive-google-slides'>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-kxyh4UV8m9u__Io7IJiZvZKjawFTomi9uS1EHGlyQiUA49XjewY769NxEfq_IfAxR8QxW32BtLr8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-kxyh4UV8m9u__Io7IJiZvZKjawFTomi9uS1EHGlyQiUA49XjewY769NxEfq_IfAxR8QxW32BtLr8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
 
 </div>
 

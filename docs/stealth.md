@@ -38,7 +38,7 @@ The best spy and stealth events thrive within boundaries, sparking player ideas.
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 ## Spycraft Building Blocks

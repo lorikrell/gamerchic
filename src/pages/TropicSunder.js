@@ -225,20 +225,20 @@ function TropicSunder() {
         <div className='row'>
         <div className="col col-md-6 center ">
         <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdT1954PxagEt0kVhvz3ZvQK92IlNjGh4U9O82N0eSDkIzB1mP673WsBjBl-QFnrjJApAaalA605xl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="577" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdT1954PxagEt0kVhvz3ZvQK92IlNjGh4U9O82N0eSDkIzB1mP673WsBjBl-QFnrjJApAaalA605xl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="577" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
         <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSP9oZzf6axVjLde32DUCylbWzR9Xiyydg96HcAaxkX_afw7uw6qy0u0wqBs6KJjIBysZBtJQZbinOP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="615" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSP9oZzf6axVjLde32DUCylbWzR9Xiyydg96HcAaxkX_afw7uw6qy0u0wqBs6KJjIBysZBtJQZbinOP/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="615" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
         <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLZhuG8NsW15HTN0zt7lTucb7PCNSjBSbrVK2Q12dywvSItaQBuiYyQyEnTQ1WqX09wgDZRfYfztMd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="577" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLZhuG8NsW15HTN0zt7lTucb7PCNSjBSbrVK2Q12dywvSItaQBuiYyQyEnTQ1WqX09wgDZRfYfztMd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="577" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
         <h1>Zul'Gurub Event</h1>
         <p><img src="img/landing/tropic-zg.png" /></p>
 
         <p>See <a href="https://docs.google.com/presentation/d/1_-rGWZkL5a0zFJX1d9o6TkTamqT0KAFnzII5m87Iz14">this link</a> to create a copy of the journal slidedeck.</p>
         <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTK2Hhui7-_FqMepYwnVd80T2Fp6CQ5WcYIOd3G7kPVW19EHquhI3fUHA8utsAkur9XkbP_6FMmGvOy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTK2Hhui7-_FqMepYwnVd80T2Fp6CQ5WcYIOd3G7kPVW19EHquhI3fUHA8utsAkur9XkbP_6FMmGvOy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
         </div>
         </div>

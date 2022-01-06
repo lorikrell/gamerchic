@@ -51,7 +51,7 @@ This information is play-test content for a Storyteller Book in-progress by Lori
         display="initial"
         position="relative"
         allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen
+        allowFullScreen
         />
 
 </div>
