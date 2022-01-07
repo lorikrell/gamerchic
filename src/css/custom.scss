@@ -12,6 +12,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Icons&display=swap');
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
 
 /* You can override the default Infima variables here. */
 :root {
@@ -1788,6 +1805,78 @@ summary {
   border-right: 1px solid rgb(49, 49, 49);
   border-bottom: 1px solid rgb(49, 49, 49);
   padding: 0px 10px 0px 10px;
+}
+
+.land-box {
+  display: flex;
+  align-items: stretch;
+  max-width: 300px;
+}
+
+
+.land-feature {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.land-title {
+  font-size: 1rem;
+  margin-bottom: 0px;
+}
+
+.land-body {
+  margin-left: 10px;
+}
+
+.land-desc {
+  max-height: 100px;
+  font-size: .85rem;
+}
+
+.land-image {
+  width: 60px;
+  padding: 5px;
+}
+
+html[data-theme='dark'] .featureImage {
+  filter: grayscale(1) brightness(3);
+}
+
+html[data-theme='light'] .featureImage {
+  filter: grayscale(1) brightness(1);
+}
+
+.land-link a {
+  color: var(--ifm-font-base-color);
+  text-decoration: none;
+  transition: color var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+  :hover {
+    color: var(--ifm-font-base-color);
+  }
+}
+
+.featureImage {
+  max-width:70px;
+}
+
+.land-flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  width: 100%;
+  gap: 10px;
+}
+
+@media screen and (max-width: 996px) {
+  .land-box, .highlight-box {
+    height: auto;
+  }
+  .nav-break {
+    border-top: 1px solid rgb(156, 156, 156);
+    border-left: 0px;
+  }
+
 }
 
 //gallery

@@ -10,6 +10,9 @@ module.exports = {
   organizationName: 'gamerchic', // Usually your GitHub org/user name.
   projectName: 'gamerchic', // Usually your repo name.
   trailingSlash: false,
+  stylesheets: [
+    'https://fonts.googleapis.com/css?family=Material+Icons',
+  ],
   themeConfig: {
     // wrap images with * * to not zoom them!
     zoomSelector: '.markdown :not(em) > img',
@@ -18,9 +21,6 @@ module.exports = {
       defaultMode: 'dark',
       disableSwitch: false,
     },
-    stylesheets: [
-      'https://fonts.googleapis.com/css?family=Material+Icons',
-    ],
     //Algolia
     algolia: {
       apiKey: '10b97526dc1fb3ba5b0279444d437ba5',
@@ -198,7 +198,25 @@ module.exports = {
       },
       copyright: `Copyright © ${new Date().getFullYear()} Gamerchic | Built with Docusaurus`,
     },
-    
+    colorMode: {
+      defaultMode: 'dark',
+      // Dark/light switch icon options
+      switchConfig: {
+        // Icon for the switch while in dark mode
+        darkIcon: 'light_mode',
+
+        // CSS to apply to dark icon
+        darkIconStyle: {
+          fontFamily: 'Material Icons',
+        },
+
+        lightIcon: 'dark_mode',
+
+        lightIconStyle: {
+          fontFamily: 'Material Icons',
+        },
+      },
+    },
   },
   presets: [
     [

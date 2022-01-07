@@ -3,23 +3,29 @@ import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './index.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const features = [
   {
-    title: 'Sonceri Tips & Tricks ',
+    title: 'Graphic Resources',
     imageUrl: 'img/landing/logo-gamerchic.png',
     description: (
       <>
-        Sonceri brings you templates, graphics, event guides, and more to help you get creative with your events.
+        Sonceri brings you Photoshop templates, wax seals, coins, event images, and more!
       </>
     ),
-    link: (
+    link:'docs/intro',
+  },
+  {
+    title: 'Dungeon Master Guides',
+    imageUrl: 'img/landing/logo-gamerchic.png',
+    description: (
       <>
-      <a href="docs/intro" class="land-link">Find cool adventure stuff!</a>
+        Sonceri brings you Photoshop templates, wax seals, coins, event images, and more!
       </>
     ),
+    link:'docs/events-campaigns',
   },
   {
     title: 'Warcraft Conquest',
@@ -29,11 +35,7 @@ const features = [
         Find resources and guides for your Warcraft Conquest adventures and vehicle battles. See Sonceri's tips and tricks for more goodies.
       </>
     ),
-    link: (
-      <>
-      <a href="docs/wow-conquest/intro" class="land-link">Learn more about Conquest!</a>
-      </>
-    ),
+    link: 'docs/wow-conquest/intro',
   },
   {
     title: 'Lives Exalted',
@@ -43,11 +45,7 @@ const features = [
         Risen by gods, find campaign information and game resources for Exalted games. Includes fan creations and campaigns. 
       </>
     ),
-    link: (
-      <>
-      <a href="docs/exalted/resources" class="land-link">Become heroes of the ages!</a>
-      </>
-    ),
+    link: 'docs/exalted/resources',
   },
   {
     title: 'A World of Darkness',
@@ -57,103 +55,67 @@ const features = [
         Resources and content for all WoD games as we wander them, including Kindred of the East, Vampire: The Masquerade, and more. 
       </>
     ),
-    link: (
-      <>
-     <a href="docs/w-o-d/intro" class="land-link">Battle the night!</a>
-      </>
-    ),
-  },
-  {
-    title: 'Dungeons for Your Dragons',
-    imageUrl: 'img/landing/logo-dnd.png',
-    description: (
-      <>
-        Find custom world and resources including battle maps, tokens, NPCs, and campaign settings. Many ideas for game masters and players.
-      </>
-    ),
-    link: (
-      <>
-      Coming soon...
-      </>
-    ),
-  },
-  {
-    title: 'Running in Shadows',
-    imageUrl: 'img/landing/logo-shadowrun.png',
-    description: (
-      <>
-        Resources for your fast-paced games set in the Shadowrun universe. Great for DMs, Johnsons, and chummers.
-      </>
-    ),
-    link: (
-      <>
-      Coming soon...
-      </>
-    ),
+    link: 'docs/w-o-d/intro',
   },
 ];
 
 const highlights = [
   {
-    title: 'Develop with MLAPI',
+    title: 'txt',
     imageUrl: 'img/landing/logo-dnd.png',
     description: (
       <>
-        We’re evolving our solution, built on MLAPI, in the open to become a netcode foundation that you can depend on – 
-        customizable and extensible to meet the needs of many multiplayer game types.
+        Text.
       </>
     ),
-    link: (
-      <>
-      <a href="http://google.com" class="land-link">Learn more about MLAPI</a>
-      </>
-    ),
-  },
-  {
-    title: 'Develop with MLAPI',
-    imageUrl: 'img/landing/logo-dnd.png',
-    description: (
-      <>
-        We’re evolving our solution, built on MLAPI, in the open to become a netcode foundation that you can depend on – 
-        customizable and extensible to meet the needs of many multiplayer game types.
-      </>
-    ),
-    link: (
-      <>
-      <a href="http://google.com" class="land-link">Learn more about MLAPI</a>
-      </>
-    ),
+    link: 'http://google.com',
   },
 ];
 
 function Feature({imageUrl, title, description, link}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div >
+    <div className="land-box">
       {imgUrl && (
-        <div className="text--center land-feature">
+        <div className="land-image">
           <img className="featureImage" src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
-      <div class="land-box"><p>{description}</p></div>
-      <p class="land-link">{link}</p>
+      <div className="land-body">
+      <a href={link} className="land-link"><h3 className="land-title">{title}</h3></a>
+      <div className="land-desc"><p>{description}</p></div>
+      </div>
     </div>
+  );
+}
+
+function HomepageHeader() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <div className="container">
+        <h1 className="hero__title">{siteConfig.title}</h1>
+        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.buttons}>
+        </div>
+      </div>
+    </header>
   );
 }
 
 function Highlight({imageUrl, title, description, link}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={clsx('col col--6', styles.feature)}>
+    <div className="land-box">
       {imgUrl && (
-        <div className="text--center land-highlight">
-          <img className="highlightImage" src={imgUrl} alt={title} />
+        <div className="land-image">
+          <img className="featureImage" src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
-      <div class="highlight-box"><p>{description}</p></div>
-      <p class="land-link">{link}</p>
+      <div className="land-body">
+      <a href={link} className="land-link"><h3 className="land-title">{title}</h3></a>
+      <div className="land-desc"><p>{description}</p></div>
+      </div>
     </div>
   );
 }
@@ -162,30 +124,15 @@ function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
-    <Layout
-      title="Sonceri / Gamerchic"
+<Layout
+      title={`Hello from ${siteConfig.title}`}
       description="This site provides gaming resources for Warcraft Conquest, RPG tabletop adventures, and so much more! Graphics, guides, advice.">
-      <header className="hero hero--primary hero-banner">
-        <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className="buttons-pages">
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to={useBaseUrl('docs/intro')}>
-              Get Started
-            </Link>
-          </div>
-        </div>
-      </header>
+      <HomepageHeader />
       <main>
         {features && features.length > 0 && (
           <section className="spacer">
             <div className="container">
-            <div className="grid">
+            <div className="land-flex">
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
                 ))}
@@ -193,43 +140,6 @@ function Home() {
           </section>
         )}
       </main>
-      {/*<div className="hero blog--primary hero-banner">
-      <div className="container">
-      <div className="row">
-        
-        <div className="col col--6">
-          <h1 className="blog-title">Get the latest news!</h1>
-          <p className="blog-subtitle">New releases, tips and tricks, contribution news, and much more...see the blog! Every month we highlight releases, new content, and community news. </p>
-          <div className="buttons-pages">
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to={useBaseUrl('blog')}>
-              See the Blog
-            </Link>
-          </div>
-        </div>
-      </div>
-      </div>
-      </div>
-
-       <main>
-        {highlights && highlights.length > 0 && (
-          <section className="spacer">
-            <div className="container">
-              <div className="row">
-                {highlights.map((props, idx) => (
-                  <Highlight key={idx} {...props} />
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
-        </main>*/}
-
-      
     </Layout>
   );
 }
