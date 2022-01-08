@@ -12,7 +12,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Material+Icons&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/materialicons/v118/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format('woff2');
+}
 
 .material-icons {
   font-family: 'Material Icons';
@@ -384,8 +391,8 @@ blockquote {
 }
 
 .featureImage {
-  max-width:100%;
-  max-height:100%;
+  //max-width:100%;
+  //max-height:100%;
   border-radius: 10px 10px 0 0 ;
 }
 
@@ -1858,6 +1865,7 @@ html[data-theme='light'] .featureImage {
 
 .featureImage {
   max-width:70px;
+  max-height: 41px;
 }
 
 .land-flex {

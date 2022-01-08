@@ -3,7 +3,7 @@
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
- */
+*/
 import React from 'react';
 import clsx from 'clsx';
 import PropTypes from 'prop-types';
@@ -58,7 +58,7 @@ function NavLink({
       {...props}
     >
       <div className='link'>
-        {icon && <div className='link__icon'>{icon}</div>}
+        {icon && <div className='link__icon'><span className="material-icons-outlined">{icon}</span></div>}
         <div className='link__body'>
           <div className='link__label'>
             {isExternalLink ? (

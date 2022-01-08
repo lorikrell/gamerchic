@@ -9,10 +9,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'gamerchic', // Usually your GitHub org/user name.
   projectName: 'gamerchic', // Usually your repo name.
-  trailingSlash: false,
   stylesheets: [
     'https://fonts.googleapis.com/css?family=Material+Icons',
   ],
+  trailingSlash: false,
   themeConfig: {
     // wrap images with * * to not zoom them!
     zoomSelector: '.markdown :not(em) > img',
@@ -47,79 +47,169 @@ module.exports = {
       style: 'dark',
       items: [
         {
-          //type: 'doc',
-          //docId: 'intro',
-          position: 'left',
-          label: 'Games and Resources',
-          items: [
+          label: 'Find Resources',
+          to: '#',
+          layout: [
+            '0 1 2 3',
+            '0 1 2 3',
+            '0 1 2 3',
+            '0 1 2 4',
+            '0 1 2 4',
+            '0 1 2 4',
+            '. . . 4',
+          ],
+          items_: [
             {
-              to: 'docs/intro',
-              label: 'Gamer Resources',
+              // 0 level
+              label: 'Game Resources',
+              items: [
+                {
+                  label: 'Graphic Resources',
+                  sublabel: 'Wax seals, coins, events, and more',
+                  to: 'docs/intro',
+                  icon: 'color_lens',
+                },
+                {
+                  label: 'Running Events',
+                  sublabel: 'Run VTT & MMORPG campaigns',
+                  to: 'docs/events-campaigns',
+                  icon: 'local_library',
+                },
+                {
+                  label: 'Investigation Events',
+                  sublabel: 'Running mysteries, clues, and finding culprits',
+                  to: 'docs/investigations',
+                  icon: 'search',
+                },
+                {
+                  label: 'Horror Events',
+                  sublabel: 'Running nightmares, terror, & gore',
+                  to: 'docs/horror',
+                  icon: 'nights_stay',
+                },
+                {
+                  label: 'Spirit Board',
+                  sublabel: 'Online ouija board for DMs',
+                  to: 'spiritboard',
+                  icon: 'pin_drop',
+                },
+              ],
             },
             {
-              to: 'docs/events-campaigns',
-              label: 'Event Guides',
+              // 1 level
+              label: 'Journal Templates',
+              items: [
+                {
+                  label: 'Adventurer Journal',
+                  sublabel: 'Journal for travels around the world',
+                  to: 'docs/photoshop/adventure-journal',
+                  icon: 'menu_book',
+                },
+                {
+                  label: 'FF14 Journal',
+                  sublabel: 'Your Final Fantasy across Eorzea',
+                  to: 'docs/photoshop/final-journal',
+                  icon: 'auto_stories',
+                },
+                {
+                  label: 'Dwarven Journal',
+                  sublabel: 'Tales of mountains and thanes',
+                  to: 'docs/photoshop/dwarf-journal',
+                  icon: 'photo_album',
+                },
+                {
+                  label: 'Scrollcase',
+                  sublabel: 'Create scrolls and letters',
+                  to: 'docs/photoshop/scrollcase',
+                  icon: 'history_edu',
+                },
+                {
+                  label: 'Posters & Notices',
+                  sublabel: 'Post proclamations, wanted posters, & more',
+                  to: 'docs/photoshop/posters',
+                  icon: 'dashboard',
+                },
+              ],
             },
             {
-              to: 'spiritboard',
-              label: 'Spirit Board',
+              // 2 level
+              label: 'Warcraft',
+              items: [
+                {
+                  label: 'Warcraft Conquest',
+                  sublabel: 'Moon Guard WC campaign project',
+                  to: 'Conquest',
+                  icon: 'castle',
+                },
+                {
+                  label: 'WC Resources',
+                  sublabel: 'Rules, guides, tokens and more',
+                  to: 'docs/wow-conquest/intro',
+                  icon: 'style',
+                },
+                {
+                  label: 'Vehicle Battle Tokens',
+                  sublabel: 'IOTA node written in Go',
+                  to: 'docs/wow-conquest/token',
+                  icon: 'directions_boat',
+                },
+                {
+                  label: 'Event Cards',
+                  sublabel: 'Photoshop templates for events',
+                  to: 'docs/wow-conquest/event-cards',
+                  icon: 'event_note',
+                },
+                {
+                  label: 'Loot Cards',
+                  sublabel: 'Photoshop templates for loot & bosses',
+                  to: 'docs/wow-conquest/boss-item-cards',
+                  icon: 'recent_actors',
+                },
+              ],
             },
             {
-              to: 'docs/wow-conquest/intro',
-              label: 'Warcraft Conquest',
-            }, 
-            {
-              to: 'docs/exalted/resources',
-              label: 'Exalted',
+              // 3 level
+              label: 'Tabletop Resources & Games',
+              items: [
+                {
+                  label: 'Exalted',
+                  sublabel: 'Resources and campaigns for Exalted',
+                  to: 'docs/exalted/resources',
+                  icon: 'brightness_5',
+                },
+                {
+                  label: 'World of Darkness',
+                  sublabel: 'Resources and campaigns for WoD',
+                  to: 'docs/w-o-d/intro',
+                  icon: 'dark_mode',
+                },
+              ],
             },
             {
-              to:'docs/w-o-d/intro',
-              label: 'World of Darkness',
+              // 4 level
+              label: 'WoW Conquest Campaigns',
+              items: [
+                {
+                  label: 'Thornwake',
+                  sublabel: 'Battles in the Barrens',
+                  to: 'thornwake',
+                  icon: 'grass',
+                },
+                {
+                  label: 'Tropic Sunder',
+                  sublabel: 'Battles in the Stranglethorn Vale',
+                  to: 'TropicSunder',
+                  icon: 'sailing',
+                },
+                {
+                  label: 'In Death\'s Shadow',
+                  sublabel: 'Battles in the Stranglethorn Vale',
+                  to: 'DeathShadow',
+                  icon: 'shield_moon',
+                },
+              ],
             },
-            /*
-            {
-              to: 'docs/d-n-d/intro',
-              label: 'Dungeons & Dragons',
-            },
-            {
-              to: 'docs/shadowrun/intro',
-              label: 'Shadowrun',
-            },*/
-          ]
-        },
-        {
-          position: 'left',
-          label: 'Conquest Campaigns',
-          items: [
-            {
-              to: 'Conquest',
-              label: 'Warcraft Conquest',
-            },
-            {
-              to: 'thornwake',
-              label: 'Thornwake',
-            },
-            {
-              to: 'TropicSunder',
-              label: 'Tropic Sunder',
-            },
-            {
-              to: 'DeathShadow',
-              label: 'In Death\'s Shadow',
-            },
-            {
-              href: 'https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/edit?usp=sharing',
-              label: 'Conquest d20 Rules',
-            },
-            {
-              href: 'https://docs.google.com/document/d/1WNRYwGUhvwE6BuqN_VFThXmmhnMQ6zCTbEwGaZWek3Q',
-              label: 'Warmachine Rules',
-            },
-            {
-              to: 'docs/wow-conquest/intro',
-              label: 'WC Resources',
-            }, 
-          ]
+          ],
         },
         {
           position: 'left',
@@ -127,17 +217,6 @@ module.exports = {
           label: 'Art Gallery',
         },
         {to: '/blog', label: 'Game Blog', position: 'right'},
-        /*{
-          href: 'https://github.com/facebook/docusaurus',
-          className: 'navbar-grid-menu',
-          position: 'right',
-          items: [
-            {
-              href: 'https://www.pinterest.com/leareth/_saved/',
-              label: 'Pinterest',
-            }
-          ]
-        },*/
       ],
     },
     footer: {

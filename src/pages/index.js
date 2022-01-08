@@ -9,7 +9,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 const features = [
   {
     title: 'Graphic Resources',
-    imageUrl: 'img/landing/logo-gamerchic.png',
+    imageUrl: 'img/icons/graphic.png',
     description: (
       <>
         Sonceri brings you Photoshop templates, wax seals, coins, event images, and more!
@@ -26,6 +26,16 @@ const features = [
       </>
     ),
     link:'docs/events-campaigns',
+  },
+  {
+    title: 'Adventure Journals',
+    imageUrl: 'img/icons/journals.png',
+    description: (
+      <>
+        Create personal journals, scrolls, and notice boards using these Google slide decks.
+      </>
+    ),
+    link:'docs/photoshop/adventure-journal',
   },
   {
     title: 'Warcraft Conquest',
@@ -125,7 +135,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
 <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Huzzah ${siteConfig.title}`}
       description="This site provides gaming resources for Warcraft Conquest, RPG tabletop adventures, and so much more! Graphics, guides, advice.">
       <HomepageHeader />
       <main>
