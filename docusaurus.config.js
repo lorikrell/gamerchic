@@ -65,31 +65,31 @@ module.exports = {
               items: [
                 {
                   label: 'Graphic Resources',
-                  sublabel: 'Wax seals, coins, events, and more',
+                  sublabel: 'Wax seals, coins, templates',
                   to: 'docs/intro',
                   icon: 'color_lens',
                 },
                 {
                   label: 'Running Events',
-                  sublabel: 'Run VTT & MMORPG campaigns',
+                  sublabel: 'VTT, Tabletop, MMO',
                   to: 'docs/events-campaigns',
                   icon: 'local_library',
                 },
                 {
                   label: 'Investigation Events',
-                  sublabel: 'Running mysteries, clues, and finding culprits',
+                  sublabel: 'Run & write mysteries',
                   to: 'docs/investigations',
                   icon: 'search',
                 },
                 {
                   label: 'Horror Events',
-                  sublabel: 'Running nightmares, terror, & gore',
+                  sublabel: 'Run & write terror',
                   to: 'docs/horror',
                   icon: 'nights_stay',
                 },
                 {
                   label: 'Spirit Board',
-                  sublabel: 'Online ouija board for DMs',
+                  sublabel: 'Online ouija board',
                   to: 'spiritboard',
                   icon: 'pin_drop',
                 },
@@ -101,31 +101,31 @@ module.exports = {
               items: [
                 {
                   label: 'Adventurer Journal',
-                  sublabel: 'Journal for travels around the world',
+                  sublabel: 'Book for travels',
                   to: 'docs/photoshop/adventure-journal',
                   icon: 'menu_book',
                 },
                 {
                   label: 'FF14 Journal',
-                  sublabel: 'Your Final Fantasy across Eorzea',
+                  sublabel: 'Book for Eorzea',
                   to: 'docs/photoshop/final-journal',
                   icon: 'auto_stories',
                 },
                 {
                   label: 'Dwarven Journal',
-                  sublabel: 'Tales of mountains and thanes',
+                  sublabel: 'Book of metal',
                   to: 'docs/photoshop/dwarf-journal',
                   icon: 'photo_album',
                 },
                 {
                   label: 'Scrollcase',
-                  sublabel: 'Create scrolls and letters',
+                  sublabel: 'Scrolls and letters',
                   to: 'docs/photoshop/scrollcase',
                   icon: 'history_edu',
                 },
                 {
                   label: 'Posters & Notices',
-                  sublabel: 'Post proclamations, wanted posters, & more',
+                  sublabel: 'Posters & notice board',
                   to: 'docs/photoshop/posters',
                   icon: 'dashboard',
                 },
@@ -137,31 +137,31 @@ module.exports = {
               items: [
                 {
                   label: 'Warcraft Conquest',
-                  sublabel: 'Moon Guard WC campaign project',
+                  sublabel: 'Moon Guard WC campaigns',
                   to: 'Conquest',
                   icon: 'castle',
                 },
                 {
                   label: 'WC Resources',
-                  sublabel: 'Rules, guides, tokens and more',
+                  sublabel: 'Rules, guides, & tokens',
                   to: 'docs/wow-conquest/intro',
                   icon: 'style',
                 },
                 {
                   label: 'Vehicle Battle Tokens',
-                  sublabel: 'IOTA node written in Go',
+                  sublabel: 'Creat tokens & maps',
                   to: 'docs/wow-conquest/token',
                   icon: 'directions_boat',
                 },
                 {
                   label: 'Event Cards',
-                  sublabel: 'Photoshop templates for events',
+                  sublabel: 'Photoshop templates',
                   to: 'docs/wow-conquest/event-cards',
                   icon: 'event_note',
                 },
                 {
                   label: 'Loot Cards',
-                  sublabel: 'Photoshop templates for loot & bosses',
+                  sublabel: 'Photoshop templates',
                   to: 'docs/wow-conquest/boss-item-cards',
                   icon: 'recent_actors',
                 },
@@ -173,13 +173,13 @@ module.exports = {
               items: [
                 {
                   label: 'Exalted',
-                  sublabel: 'Resources and campaigns for Exalted',
+                  sublabel: 'Solars & Lunars',
                   to: 'docs/exalted/resources',
                   icon: 'brightness_5',
                 },
                 {
                   label: 'World of Darkness',
-                  sublabel: 'Resources and campaigns for WoD',
+                  sublabel: 'Vampires, Wolves, & more',
                   to: 'docs/w-o-d/intro',
                   icon: 'dark_mode',
                 },
@@ -191,19 +191,19 @@ module.exports = {
               items: [
                 {
                   label: 'Thornwake',
-                  sublabel: 'Battles in the Barrens',
+                  sublabel: 'The Barrens',
                   to: 'thornwake',
                   icon: 'grass',
                 },
                 {
                   label: 'Tropic Sunder',
-                  sublabel: 'Battles in the Stranglethorn Vale',
+                  sublabel: 'Stranglethorn Vale',
                   to: 'TropicSunder',
                   icon: 'sailing',
                 },
                 {
                   label: 'In Death\'s Shadow',
-                  sublabel: 'Battles in the Stranglethorn Vale',
+                  sublabel: 'Icecrown Citadel',
                   to: 'DeathShadow',
                   icon: 'shield_moon',
                 },
