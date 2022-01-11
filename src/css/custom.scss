@@ -58,6 +58,10 @@
   --doc-sidebar-width: 250px !important;
 }
 
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2rem;
+}
+
 blockquote {
   background-color: transparent;
 }
@@ -86,10 +90,6 @@ html[data-theme='light'] {
 
 html[data-theme="dark"] {
   --collapse-button-bg-color-dark: transparent !important;
-}
-
-h1 {
-  font-size: 2rem !important;
 }
 
 .menu__link {
@@ -425,13 +425,6 @@ blockquote {
     border-top: 1px solid rgb(156, 156, 156);
     border-left: 0px;
   }
-  /*.docs-wrapper {
-    background-image: 
-      url("../../static/img/tops/top-wow-tablet.png") !important;
-      background-repeat: no-repeat;
-      background-size: contain;
-      background-position: top right;
-  }*/
   
 }
 
@@ -873,44 +866,11 @@ html[data-theme='dark'] .admonition-sonceri {
 // Responsive
 @media screen and (max-width: 996px) { 
 
-  /*.docs-wrapper {
-    background-image: 
-      url("../../static/img/tops/top-wow-tablet.png") !important;
-      background-repeat: no-repeat;
-      background-size: contain;
-      background-position: top right;
-  }*/
-  .navbar__toggle {
-    display: inherit
-  }
-
-  .navbar__item {
-      display: none;
-  }
-
-  .navbar-github-link, .navbar-github-link:before {
-    content: "GitHub";
-  }
-  .navbar-github-link:after {
-    background-image: none;
-  }
-  .navbar-grid-menu, .navbar-grid-menu:before {
-    content: "Community";
-    background-image: none;
-    margin-right: -10px;
-  }
-  .navbar-grid-link:after {
-    background-image: none;
-  }
-
   .navbar-sidebar {
     .menu__link, .menu__link:hover {
       color: #fff !important;
       border-radius: 0rem;
     }
-  }
-  .navbar__toggle {
-    color: #fff !important;
   }
 
   .hero--primary {
@@ -943,22 +903,6 @@ html[data-theme='dark'] .admonition-sonceri {
   .margin-vert--xl {
     margin-bottom: 2rem !important;
     margin-top: 2rem !important;
-  }
-
-  .feedback-edit {
-    text-align: left !important;
-  }
-  
-  .feedback-issue {
-    text-align: left !important;
-  }
-  
-  .feedback-update {
-    text-align: left !important;
-  }
-
-  .version::before {
-    content: unset !important;
   }
 
 }
@@ -1004,13 +948,6 @@ html[data-theme='dark'] .admonition-sonceri {
     font-size: 2rem !important;
   }
 
-  /*.docs-wrapper {
-    background-image: 
-      url("../../static/img/tops/top-wow-phone.png") !important;
-      background-repeat: no-repeat;
-      background-size: contain;
-      background-position: top right;
-  } */
   .footer {
     background-image: url("../../static/img/landing/footer-mobile.png");
   }
@@ -1032,26 +969,6 @@ html[data-theme='dark'] .admonition-sonceri {
       height: 315px;
       -webkit-mask-image: url("../../static/img/landing/gallery-hero-mobilemask.png");
       mask-image: url("../../static/img/landing/gallery-hero-mobilemask.png");
-  }
-
-  .feedback-edit {
-    text-align: left !important;
-  }
-  
-  .feedback-issue {
-    text-align: left !important;
-  }
-  
-  .feedback-update {
-    text-align: left !important;
-  }
-
-  .docTitle_src-theme-DocItem- {
-    font-size: 1.5rem !important;
-  }
-  
-  .docTitle_cWlf {
-    font-size: 1.5rem !important;
   }
   
   .markdown > h1 {
