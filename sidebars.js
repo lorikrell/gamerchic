@@ -108,17 +108,5 @@ module.exports = {
       }
     ]
     },
-
-    /*
-    {
-      type: 'category',
-      label: 'Dungeons and Dragons',
-      items: ['d-n-d/intro', 'photoshop/coins',],
-    },
-    {
-      type: 'category',
-      label: 'Shadowrun',
-      items: ['shadowrun/intro'],
-    },*/
   ],
 };
