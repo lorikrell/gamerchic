@@ -34,6 +34,7 @@ module.exports = {
           link: {type: 'doc', id: 'events-campaigns'},
           items: [
             'investigations',
+            'stealth',
             'horror',
             'onepage'
           ]

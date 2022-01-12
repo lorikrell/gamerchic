@@ -173,7 +173,7 @@ function Barrens() {
         <div className="col col--6">
           <h1 className="blog-title">Players battle for regions</h1>
           <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> Key locations, story lines, and PVP Dungeon Masters offer a set of player warfare options at this campaign. For the Horde, Alliance, and Azeroth! All battles will have their own maps, events, and rules to ensure the faction conflict does not spill into other storylines. A No Man's Land provides open PVP with DM led raid groups nightly.</p>
-          <p>Maps and narration tales will track successes and failures as war rages. <a href="https://tinyurl.com/WCD20v101">Conquest D20 Simplified 1.1 rules</a>, <a href="https://tinyurl.com/WCD20PVPv101">helpful template</a>, "Pro Faction War" in your TRP profiles, in-game events, No Man's Land, and vehicle battle.</p>
+          <p>Maps and narration tales will track successes and failures as war rages. <a href="https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit">Conquest D20 Simplified 1.2 rules</a>, <a href="https://tinyurl.com/WCD20PVPv101">helpful template</a>, "Pro Faction War" in your TRP profiles, in-game events, No Man's Land, and vehicle battle.</p>
           <div className="buttons-pages">
             <Link
               className={clsx(
@@ -226,7 +226,7 @@ function Barrens() {
         </div>
 
         <h1>Campaign PVP Maps</h1>
-        <p>These maps track the ongoing PVP battles through Ashenvale and the Barrens. Objectives and results will be noted nightly. We use <a href="https://tinyurl.com/WCD20v101">Conquest D20 Simplified 1.1 rules</a> for D20 PVP battles. <a href="https://tinyurl.com/WCD20PVPv101">This template</a> can help create and track your character abilities and status. </p>
+        <p>These maps track the ongoing PVP battles through Ashenvale and the Barrens. Objectives and results will be noted nightly. We use <a href="https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit">Conquest D20 Simplified 1.2 rules</a> for D20 PVP battles. <a href="https://tinyurl.com/WCD20PVPv101">This template</a> can help create and track your character abilities and status. </p>
         <div className='responsive-google-slides'>
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc-HtfI8pr7Rmii_tUObKamwxjbiKnNZLik2VyTxiiaIP-uV-b2EieguaNDzIsTblNNxX6sIrb0HAw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
