@@ -6,9 +6,9 @@ description: Learn how to plan and run horror events for roleplay and rolling ga
 
 ![Spy](/img/guides/guide-hidden.png)
 
-*The silent care of soft footfalls amid leaves as the hooded eyes seek any sign of alert within an enemy camp. A calm mind directing many shadows down corridors of a lord's stronghold to find plans of a morning attack. The gurgled end of a target caught in a garrote as a pair of assassins steel away after completing their mission. The disguised servant moving to the memorized schedule of a household during a party to claim information and follow a mark. A group working on a plan to infiltrate and steal all the treasure from a fallen fortress or guarded sanctum.*
+*The silent care of soft footfalls amid leaves as the hooded eyes seek any sign of alert within an enemy camp. A calm mind directing many shadows down corridors of a lord's stronghold to find plans of a morning attack. The gurgled end of a target caught in a garrote as a pair of assassins steal away after completing their mission. The disguised servant moving to the memorized schedule of a household during a party to claim information and follow a mark. A group working on a plan to infiltrate and steal all the treasure from a fallen fortress or guarded sanctum.*
 
-To move in stealth and spy upon quarry does not always require a rogue and thief's kit. Infiltration missions range the spectrum including disguised guests at a party, spies working for liberation as a double or triple agent, mercenary ops using brutal force to get in and out, treasure thieves running a heist, and...the usual movement of thieves using stealth and guile to complete a mission without leaving evidence of their movements. Building and running these missions can be diverse as any other event if you give it thought and care.
+To move in *stealth* and spy upon quarry does not always require a rogue and thief's kit. Infiltration missions range the spectrum including disguised guests at a party, spies working for liberation as a double or triple agent, mercenary ops using brutal force to get in and out, treasure thieves running a heist, and...the usual movement of thieves using stealth and guile to complete a mission without leaving evidence of their movements. Building and running these missions can be diverse as any other event if you give it thought and care.
 
 The target of *spycraft* also differs depending on the goals of a campaign. From eliminating targets to collecting information and loot, a single agent or group of allies can turn the tide without alerting your enemies. This guide enters the world of spies, assassins, and thieves to give you the elements and guidelines for crafting remarkable events.
 
@@ -78,7 +78,7 @@ The following are a few building blocks of story and mechanics to consider when 
 :::gamerchic Spy and Thief Inspirations
 You can find a ton of incredible sources for inspiration. Here are just a few:
 
-* TV: Heist, Money Heist, Good Girls, The Great Train Robbery, Lupin, Homeland, Nitika, 24, The Blacklist, Agents of Shield, The Man in the High Castle, The Enemy Within, The Prisoner, Quantico, The Equalizer, MI5
+* TV: Homeland, Heist, Money Heist, Good Girls, The Great Train Robbery, Lupin, Homeland, Nitika, 24, The Blacklist, Agents of Shield, The Man in the High Castle, The Enemy Within, The Prisoner, Quantico, The Equalizer, MI5
 * Movies: Sneakers, Mission Impossible, Ocean's 11, James Bond, Jason Borne, In the Line of Fire, The Man from UNCLE, War, Army of the Dead, Lupin, Any movie by Michael Mann like Heat, The Usual Suspects, Reservoir Dogs, Rurouni Kenshin, time heist in Avengers End Game, anything Tom Clancy
 * Books: Tom Clancy, Robert Ludlum, *Tinker, Tailor, Soldier, Spy*, James Bond, *Manchurian Candidate*, *Seven Silent Men*, *Steal the Sky*, *The Thousand Deaths of Ardor Benn*, Rogues of the Republic series
 * Games: Dishonored, Assassin's Creed, Thief, Tenchu, Metal Gear Solid
@@ -243,6 +243,16 @@ Much like a battle, these events will have a beginning and finale. A heist or in
 You have created a great spy/theft event. Have fun, tweak as you need, build your events one to the next for a grand campaign. You can use infiltrations and thefts in battles, horror arcs, scouting parties, and so much more!
 :::
 
+<Iframe url="https://www.youtube.com/embed/qqpA17FSQPA"
+        width="854px"
+        height="480px"
+        id="myId"
+        className="video-container"
+        display="initial"
+        position="relative"
+        allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowFullScreen
+        />
 
 import Iframe from 'react-iframe';
 import Tabs from '@theme/Tabs';
