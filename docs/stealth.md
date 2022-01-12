@@ -1,7 +1,7 @@
 ---
 title: Stealth and Spy Events
 id: stealth
-description: Learn how to plan and run horror events for roleplay and rolling games.
+description: Learn how to plan and run infiltration, spy, and stealth events for roleplay and rolling games.
 ---
 
 ![Spy](/img/guides/guide-hidden.png)
