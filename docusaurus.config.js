@@ -82,6 +82,12 @@ module.exports = {
                   icon: 'search',
                 },
                 {
+                  label: 'Spycraft Events',
+                  sublabel: 'Run & write infiltrations',
+                  to: 'docs/stealth',
+                  icon: 'visibility',
+                },
+                {
                   label: 'Horror Events',
                   sublabel: 'Run & write terror',
                   to: 'docs/horror',
