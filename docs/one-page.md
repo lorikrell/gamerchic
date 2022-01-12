@@ -7,9 +7,9 @@ Warcraft has a wealth of zone or land and nation maps, dungeon maps, icons, 3d m
 
 The easiest way to get started, plan, and run an event is to create a one page adventure. A fantastic way to craft this event is to use a dungeon or raid instance.
 
-!!!sonceri Guide Example
+:::sonceri Guide Example
 For this guide, I'm using World of Warcraft as an example for building these events. You can use anything from a tabletop battlemap drawn by many incredible artists, any MMO-RPG or RPG game like Final Fantasy XIV or Skyrim, even maps from real world locations and archeology can give you great options. Get creative and inventive!
-!!!
+:::
 
 ## How this works!
 
@@ -40,9 +40,9 @@ To get started, you need a map. These are maps right from the game, with boss ro
 
 1. Copy the image.
 
-!!!gamerchic Guide Example Map
+:::gamerchic Guide Example Map
 For this guide, I'm using the [Blackrock Depths](https://wowpedia.fandom.com/wiki/Classic_instance_maps#Blackrock_Depths) map!
-!!!
+:::
 
 ## Create a Google Drawing
 Create a new Google Drawing or Slides deck. This file is saved to your Google Drive and can be shared, embedded, and more. Paste the copied map image and start adding information, icons, and more.
