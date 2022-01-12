@@ -56,7 +56,7 @@ module.exports = {
             '0 1 2 4',
             '0 1 2 4',
             '0 1 2 4',
-            '. . . 4',
+            '0 . . 4',
           ],
           items_: [
             {
@@ -80,6 +80,12 @@ module.exports = {
                   sublabel: 'Run & write mysteries',
                   to: 'docs/investigations',
                   icon: 'search',
+                },
+                {
+                  label: 'Spycraft Events',
+                  sublabel: 'Run & write infiltrations',
+                  to: 'docs/stealth',
+                  icon: 'visibility',
                 },
                 {
                   label: 'Horror Events',

@@ -144,7 +144,7 @@ These games you roll to get a result. Usually 1-20 or d20 die with 1 being a cri
 * Tabletop System: As noted previously, this could be any system using dice. Convert table results as needed, roll DC vs number of successes, etc. This uses a d20 system.
 * Homebrew: Use special rolls set by group, guild, or your own
 * [Champion’s Compendium](https://burlycloud.wixsite.com/champion/traits): Traits rolls, items can influence results
-* [Warcraft Conquest Simplified 1.1](https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/preview): Perception or Expertise rolls, Perceptive +5
+* [Warcraft Conquest Simplified 1.2](https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit): Perception or Expertise rolls, Perceptive +5
 
 For all of these systems, you have control to set the DC and what players learn. Here are recommendations with examples from the Death of Lord Ferris:
 
