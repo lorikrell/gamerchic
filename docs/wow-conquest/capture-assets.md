@@ -41,7 +41,7 @@ Make selections, turn and set the model to a position, and press Spacebar to pau
 
 ![Animations](/img/vehicle/animation-tools.jpg)
 
-### WoWModelViewer
+### WoWHead Viewers
 
 Select an Animation, select Pause. Select each model color, taking a screenshot.
 
