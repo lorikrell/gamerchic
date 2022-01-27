@@ -91,8 +91,8 @@ To build an entire horror campaign starts with smaller ideas, key villains, and 
 See [How to Run Events & Campaigns](best-practice.md) for information and the following tips:
 
 * Give your spy/scouting event a theme. This can help hone in on objectives, resources, and opportunities for your players. For example, it could be the heist of the century, infiltrating a corrupt organization, or scouting a battlefield the night before the fight.
-* Allow rolls to help suppliment roleplay. Whisper key information based on results, place items in their path, helping to put them on the right track.
-* Provide NPCs and items that will have details to help. They may find or purchase plans to the location, get incorrect information on guard rotations, locate battle plans, or leave changes to orders to cause problems.
+* Allow rolls to help supplement roleplay. Whisper key information based on results, place items in their path, helping to put them on the right track.
+* Provide NPCs and items that will have details to help. They may find or purchase plans to the location, get incorrect information on guard rotations, locate battle plans, or leave modified guard orders to cause problems.
 * Allow players to go different directions, keeping track of where they go and the consequences of those paths. Let them split their groups, find things out of order, and miss things.
 
 ### Set the Stage
@@ -243,7 +243,7 @@ Much like a battle, these events will have a beginning and finale. A heist or in
 You have created a great spy/theft event. Have fun, tweak as you need, build your events one to the next for a grand campaign. You can use infiltrations and thefts in battles, horror arcs, scouting parties, and so much more!
 :::
 
-<Iframe url="https://www.youtube.com/embed/qqpA17FSQPA"
+<Iframe url="https://www.youtube.com/embed/qgdUkKDaRgY"
         width="854px"
         height="480px"
         id="myId"
