@@ -22,7 +22,7 @@ const features = [
     imageUrl: 'img/landing/logo-gamerchic.png',
     description: (
       <>
-        Sonceri brings you Photoshop templates, wax seals, coins, event images, and more!
+        Learn how to run events and campaigns for TTRPG and MMO-RPG games, spycraft, horror and more! 
       </>
     ),
     link:'docs/events-campaigns',
