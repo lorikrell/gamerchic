@@ -25,6 +25,7 @@ module.exports = {
         'photoshop/coins',
         'photoshop/wax-seals',
         'photoshop/crest',
+        'photoshop/wow-logo',
         'photoshop/event-maps',
       ]
     },
