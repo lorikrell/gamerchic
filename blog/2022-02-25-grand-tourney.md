@@ -50,9 +50,9 @@ Yet this could not be denied, the truth of soul beget the falsehood of modern fl
 
 Preston's human guise fell away in the knight's hall, the elegant suit disrobed and set upon hook in his solitary area of shadow at the edge. Far removed from the rabble, yet not forgotten. A trophy of past battles. A promise to uphold between warring factions. All of them fools. His blade and wit belonged to she that turned pale cheek to his advance, and he the scorched earth she received when finally realizing the boon lost in rejection.
 
-Blazer and vest, cotton shirt, slacks, all set aside as the pale flesh nigh colorless among the trolls of this trod revealed. Opening a trunk of eldenwood, no light could pierce the deep shadows within. Layers of woven leather pulled free and wrapped around every limb. With flex of arm and leg, it clasped tightly, releasing with a flick of need. A length of belt wrapped around, slithering as a snake. Thin lengths of silk inlaid leather wrapped in crissed crosses along forearm and calf. Feet silenced. Fingers limber. And into every seem and edge, did he slide shivs, blades, dirks, and a single token nearest his heart. 
+Blazer and vest, cotton shirt, slacks, all set aside as the pale flesh nigh colorless among the trolls of this trod revealed. Opening a trunk of eldenwood, no light could pierce the deep shadows within. Layers of woven leather pulled free and wrapped around every limb. With flex of arm and leg, it clasped tightly, releasing with a flick of need. A length of belt wrapped around, slithering as a snake. Thin lengths of silk inlaid leather wrapped in crissed crosses along forearm and calf. Feet silenced. Fingers limber. And into every seam and edge, did he slide shivs, blades, dirks, and a single token nearest his heart. 
 
-*Something olde...* A ring of silver gilt with a carnellian cracked and symbol faded.
+*Something olde...* A ring of silver gilt with a carnellian cracked and symbol faded slipped on ring finger.
 
 *Something new...* A single silver bullet carved with a D, such a jest but one they shared as Drewberry carried one with a G.
 
@@ -62,11 +62,11 @@ Blazer and vest, cotton shirt, slacks, all set aside as the pale flesh nigh colo
 
 *A sixpence in your shoe...* An old coin marked by lock, key, and moon, spat and bled on, that he found in his hand when the dance ended was tucked in the leather of his left leg.
 
-"*Fennóg liath na gragarnaith*..." He whispered as the ears elongated, skin took on hues of heavy cream, eyes deepened to moss green pools with silver pinpoints of light caught in them, voice became a breath of sound. His mein fulled laid as a mantle as the cloak of silver grey leaves graced his shoulders. 
+"*Fennóg liath na gragarnaith*..." He whispered as the ears elongated, skin took on hues of heavy cream, eyes deepened to moss green pools with silver pinpoints of light caught in them, voice became a breath of sound. His mein fully laid as a mantle as the cloak of silver grey leaves graced his shoulders. 
 
 "So do I handfast to the blade." Right hand held out, he twisted wrist, the fingers clutched to grey metal bound in dark leather. 
 
-"So do I accept the path between." His right hand held out to match the right, palm up as a thin chain nearly transluscent wrapped around wrist and across to hang from the blade.
+"So do I accept the path between." His left hand held out to match the right, palm up as a thin chain nearly transluscent wrapped around wrist and across to hang from the blade.
 
 He pulled hard between, yet it did not snap, only strengthened. What breath held released as his soul was not forfeit in her eyes. 
 
