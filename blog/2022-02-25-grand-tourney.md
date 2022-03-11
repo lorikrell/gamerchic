@@ -4,7 +4,7 @@ authors: [sonceri, wod]
 tags: [world of darkness, storyteller]
 ---
 
-The mortal crew have dealt with a serial killer ghost, had a bit of personal rest, and sought out the Grand Tournament of the 
+The mortal crew have dealt with a serial killer ghost, had a bit of personal rest, and sought out the Grand Tournament of the Changeling. 
 
 <!--truncate-->
 ![divider](/img/divide/divide-wod.png)

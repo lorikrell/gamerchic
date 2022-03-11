@@ -35,7 +35,7 @@ There are two versions:
 
 ## Example Crests
 
-Here are a couple examples using the Guild Crest edition!
+Here are a couple examples!
 
 ![Jade](/img/resources/wow-logo-example.png)
 
