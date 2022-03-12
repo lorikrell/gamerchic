@@ -23,7 +23,8 @@ module.exports = {
     },
     //Algolia
     algolia: {
-      apiKey: '10b97526dc1fb3ba5b0279444d437ba5',
+      apiKey: '87acff29fbd88735d0b9d3f7456f7608',
+      appId: 'BH4D9OD16A',
       indexName: 'sonceri',
 
       // Optional: see doc section below
