@@ -53,7 +53,7 @@ const features = [
     imageUrl: 'img/icons/d20.png',
     description: (
       <>
-        We use the simplified <a href="https://docs.google.com/document/d/1XxboiKSuBA1UsGZfuCWi7EJ_YxYxzptIk-eCJjuLQWE/edit?usp=sharing" target="_blank">Conquest D20 system</a> for PVE/PVP encounters. Additional mechanics and campaign loot available per DM.
+        We use the simplified <a href="https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit?usp=sharing" target="_blank">Conquest D20 system</a> for PVE/PVP encounters. Additional mechanics and campaign loot available per DM.
       </>
     ),
   },
@@ -164,7 +164,7 @@ function Everfrost() {
         <div className="col col--6">
           <h1 className="blog-title">Players battle for regions</h1>
           <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> Key locations, story lines, and PVP Dungeon Masters offer a set of player warfare options at this campaign. For the Horde, Alliance, and Azeroth! All battles will have their own maps, events, and rules to ensure the faction conflict does not spill into other storylines. </p>
-          <p>Maps and narration tales will track successes and failures as war rages. <a href="https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit">Conquest D20 Simplified 1.2 rules</a>, <a href="https://tinyurl.com/WCD20PVPv101">helpful template</a>, "Pro Faction War" in your TRP profiles, in-game events, No Man's Land, and vehicle battle.</p>
+          <p>Maps and narration tales will track successes and failures as war rages. <a href="https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit">Conquest D20 Simplified 1.2 rules</a>, <a href="https://tinyurl.com/WCD20PVPv101">helpful template</a>, "Pro Faction War" in your TRP profiles and in-game events. More info coming soon.</p>
           <div className="buttons-pages">
             <Link
               className={clsx(
@@ -179,7 +179,7 @@ function Everfrost() {
 
         <div className="col col--6">
           <h1 className="blog-title right">Join Forces to End Threats</h1>
-          <p className="blog-subtitle right">Not all battle each other when faced with the threats gaining lands and fortifications once held by the Alliance, Horde, neutral parties, and others. Events will help sway this campaign through battles, scouting missions, infiltrations, magical investigations, vehicle battles, safeguarding allies, and much more! </p>
+          <p className="blog-subtitle right">Not all battle each other when faced with the threats gaining lands and fortifications once held by the Alliance, Horde, neutral parties, and others. Events will help sway this campaign through battles, scouting missions, infiltrations, magical investigations, vehicle battles, safeguarding allies, and much more!<br/><br/>Updates and event descriptions are coming soon!</p>
           <div className="buttons-right">
             <Link
               className={clsx(
