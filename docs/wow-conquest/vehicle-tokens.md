@@ -17,7 +17,7 @@ You can install tools locally and use online websites to collect models for vehi
 * [Dressing Room](https://www.wowhead.com/dressing-room) on WoWHead. Double click to see a full screen for a screenshot. You can import characters with a server and in-game name.
 * WoWHead [Outfits](https://www.wowhead.com/outfits) great for creating squads of character models. Search by look to find great transmog and view in Dressing Room to take screenshots.
 * [Conquest Google Drive](https://drive.google.com/drive/u/0/folders/1i6ZMOfk5-e1dkkgNTMaM-VBEN-BinOJf) of large and small vehicle files
-* [Conquest War Machine D20 System](https://docs.google.com/document/d/1WNRYwGUhvwE6BuqN_VFThXmmhnMQ6zCTbEwGaZWek3Q/edit?usp=sharing) by Warcraft Conquest
+* [Conquest War Machine D20 System](https://docs.google.com/document/d/1Q9vnQ6pLNIQgCSIcxVzJzsQnPSz3nXffgqEjI0nqUsE/edit#) by Warcraft Conquest
 * [InBoard App](https://inboardapp.com/) for creating mood boards with screen captures and concept art
 
 :::note Learning 3D

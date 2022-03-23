@@ -87,17 +87,17 @@ function Feature({imageUrl, title, description}) {
 
 
 
-function Barrens() {
+function Everfrost() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
-    <Layout title="Thornwake" 
-    description="Warcraft Conquest presents Thornwake, a campaign set in the Barrens Nov 11-21. Learn more about this campaign and others! ">
+    <Layout title="Everfrost" 
+    description="Warcraft Conquest presents Everfrost, a campaign set in Alterac April 18-24. Learn more about this campaign and others!">
       <header className='conquest-header'>
       <div className='conquest-hero' id='barrens'>
       <ReactPlayer 
       className='react-player'
-      url='https://www.youtube.com/v/II1S3w9gIC0?version=3&vq=hd1080' 
+      url='https://www.youtube.com/v/D1s6bjaOpBI?version=3&vq=hd1080' 
       loop
       playing
       muted
@@ -110,41 +110,32 @@ function Barrens() {
       }}
       
       />
-        <h1 className='conquest-title'>Thornwake</h1>
+        
 
-        <div className="buttons-pages">
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to='https://tinyurl.com/warcraftconquestdiscord'>
-              Join the Fight
-            </Link>
-          </div>
+        
           <div className='credits'>
           <p>Video by <a href="https://www.youtube.com/channel/UCyj8FQbaiyj9qJPQ6ENZcXA">Sonceri</a></p>
           </div>
       </div>
       </header>
 
-      <main id='barrens'>
+      <main id='death'>
       <section className='spacer'>
         <div className='container'>
         <div className='row'>
         <div className="col col-md-6">
 
-        <h1>November 11 - 21 2021 | Barrens Campaign</h1>
+        <h1>April 18 - 24 2022 | Alterac Campaign</h1>
           
-        <p>Emboldened by the thinning lines of Alliance and Horde, the mongrels of the Barrens now aggressively test the defenses of the major factions. Patrols, traders, and even fortified outposts of the Horde and Alliance have been attacked, with false flags planted to stoke the tensions of the thinly-held armistice. Quillboar war drums thunder from the depths of the Kraul. Centaur and Harpies raise war banners. The Venture Company arms these denizens with equipment salvaged from the Iron Horde, seeking vengeance for their losses in Stranglethorn. In the shadows of the Overgrowth and within the walls of Northwatch Hold, a clandestine power seeks to ignite the flames of war.</p>
+        <p>Description coming soon!</p>
         
-        <p>The <strong>Thornwake</strong> rises. The Alliance and Horde will have to face it - <i>and each other</i>.</p>
+        <p>The <strong>Everfrost</strong> consumes the world in ice. The Alliance, Horde, and Neutral aligned will have to face it - <i>and each other</i>.</p>
 
         </div>
         <div >
-        <img src="img/landing/thorns-wake.png" /></div>
+        <img src="img/landing/everfrost-logo.png" /></div>
        </div>
-       <p><strong>Warcraft Conquest</strong> presents <strong>Thornwake</strong>, a narrative and D20 campaign set to run between <strong>November 11th - November 21st</strong> in the <strong>Barrens</strong>. This story continues our journey to battle foes in Azeroth, plaguing the Barrens and threatening to tip the factions into open war. Players from Moon Guard, Wyrmrest Accord, and US servers are welcome!</p>
+       <p><strong>Warcraft Conquest</strong> presents <strong>Everfrost</strong>, a narrative and D20 campaign set to run between <strong>April 18th - April 24th</strong> in <strong>Alterac</strong>. This story continues our journey to battle a rising frost lord seeking to plunge Azeroth into an eternal winter. Players from Moon Guard, Wyrmrest Accord, and US servers are welcome!</p>
        </div></section>
        
        <section >
@@ -159,20 +150,20 @@ function Barrens() {
             </div>
         )}
         </div>
-        <div className="col col--6"><img src="img/landing/barrens-info.png" className="img-responsive"/></div>
+        <div className="col col--6"><img src="img/landing/everfrost-overview.png" className="img-responsive"/></div>
         
           </div>
           </div>
           
         </section>
 <section className='spacer'>
-        <div className="hero barrens-events--primary hero-banner" id="barrens">
+        <div className="hero everfrost-events--primary hero-banner" id="barrens">
       <div className="container">
       <div className="row">
         
         <div className="col col--6">
           <h1 className="blog-title">Players battle for regions</h1>
-          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> Key locations, story lines, and PVP Dungeon Masters offer a set of player warfare options at this campaign. For the Horde, Alliance, and Azeroth! All battles will have their own maps, events, and rules to ensure the faction conflict does not spill into other storylines. A No Man's Land provides open PVP with DM led raid groups nightly.</p>
+          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> Key locations, story lines, and PVP Dungeon Masters offer a set of player warfare options at this campaign. For the Horde, Alliance, and Azeroth! All battles will have their own maps, events, and rules to ensure the faction conflict does not spill into other storylines. </p>
           <p>Maps and narration tales will track successes and failures as war rages. <a href="https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit">Conquest D20 Simplified 1.2 rules</a>, <a href="https://tinyurl.com/WCD20PVPv101">helpful template</a>, "Pro Faction War" in your TRP profiles, in-game events, No Man's Land, and vehicle battle.</p>
           <div className="buttons-pages">
             <Link
@@ -187,9 +178,8 @@ function Barrens() {
         </div>
 
         <div className="col col--6">
-          <h1 className="blog-title right">Save the Barrens and Strongholds</h1>
-          <p className="blog-subtitle right">Sabers rattle and smoke rises across the Barrens as the Mongrel Horde continues attacks against all peoples in the plains. The Horde endured attacks in Durotar and have lost contact with Crossroads. Alliance seeks Northwatch Hold having gone silent after requisitioning supplies and ammunitions. Druids moving from the cinders of Teldrassil make silent moves into the Barrens. Thorns rise, casting shadows from the cliffs. </p>
-          <p>Maps and narration tales provide details over the campaign. D20 and open RP, in-game events, camp RP, Discord RP, and vehicle battles.</p>
+          <h1 className="blog-title right">Join Forces to End Threats</h1>
+          <p className="blog-subtitle right">Not all battle each other when faced with the threats gaining lands and fortifications once held by the Alliance, Horde, neutral parties, and others. Events will help sway this campaign through battles, scouting missions, infiltrations, magical investigations, vehicle battles, safeguarding allies, and much more! </p>
           <div className="buttons-right">
             <Link
               className={clsx(
@@ -214,26 +204,18 @@ function Barrens() {
         <div className='row'>
         <div className="col col-md-6 center">
         <h1>Campaign Camps</h1>
-        <p>Camps for the campaign will not move, with Alliance in Northwatch Hold and Horde in Crossroads.</p>
+        <p>Camps for the campaign coming soon.</p>
         <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfB2w0cInTJILXT_o38nJZP48MvoQj6oMubLQtFrovgJ3k-C5W7ifE6DhX3sWM0_sQfzJEbEl8_WfX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQS5l6e9Exi7ZrN0Iylq58J-J0C1mPR3uffRbSMG8jHtrFeEvCkToTwvQ2raQkDmcWkubVdO7FpmJHM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
 
         <h1>Campaign Events Preview</h1>
-        <p>Get a sneak peek into campaign events including stories, PVE, PVP, and vehicle battles. Additional events will be added over time.</p>
+        <p>Get a sneak peek into campaign events including stories, PVE, PVP, and vehicle battles. Additional events will be added over time. Coming Soon!</p>
         <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZNEao5wLY4fIL8Jby-I7E8SbNuxh4v5cn8u0SfiRj1z_C7ebsFk6I7Svqh4kQ2aivW0WPHhxBdQ_8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR-4NAyRvxhbhC2aTyaBKyAOrngPE70h4s-_Fm3uHxTu5mls7PywevohrLMidx4i9Y88GNGjBHvrGkT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
         </div>
 
-        <h1>Campaign PVP Maps</h1>
-        <p>These maps track the ongoing PVP battles through Ashenvale and the Barrens. Objectives and results will be noted nightly. We use <a href="https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit">Conquest D20 Simplified 1.2 rules</a> for D20 PVP battles. <a href="https://tinyurl.com/WCD20PVPv101">This template</a> can help create and track your character abilities and status. </p>
-        <div className='responsive-google-slides'>
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRc-HtfI8pr7Rmii_tUObKamwxjbiKnNZLik2VyTxiiaIP-uV-b2EieguaNDzIsTblNNxX6sIrb0HAw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowFullScreen="true" mozallowFullScreen="true" webkitallowFullScreen="true"></iframe>
-        </div>
-        <p> </p>
-
-        <h1>Finale Events</h1>
-        <p>We have two finales planned with a series of events per night: Thornwake Druids and Gravetusk Quilboar!</p>
+        
 
         </div>
         </div>
@@ -245,28 +227,27 @@ function Barrens() {
         
 
         <section className='spacer'>
-        <div className="hero barrens-finale--primary hero-banner" id="barrens">
+        <div className="hero everfrost-finale--primary hero-banner" id="barrens">
       <div className="container">
       <div className="row">
         
         <div className="col col--6">
-          <h1 className="blog-title">Thornwake Druids</h1>
-          <p className="blog-subtitle">As the Horde and Alliance and all neutral factions arrive in the Barrens, what seems to haunt the land and peoples may not be what it seems. At the depths of misfortune and attacks by twisted plants and corrupted leadership are a faction of rogue druids. The Thornwake. Events lead us through to locate their numbers and battle the true horrors of this twisted grove midway in the campaign!</p>
-          <p>All events invade the Overgrowth to scout, investigate, and battle the Thornwake!</p>
+          <h1 className="blog-title">Gain Allies</h1>
+          <p className="blog-subtitle">Not all elements bow to the will of the frozen lord of Alterac. Seek allies in the slopes and passes, protect them from the forces to subvert them, and have their aid in the final battle. If you fail to gain their aid, the battle may become harder. Take care with your choices, paths, and final actions!</p>
+          <p>All events, in-game and vehicle battles in Discord, will affect each other! Unlock allies, gain buffs, break enemy forces.</p>
           
         </div>
 
         <div className="col col--6">
-          <h1 className="blog-title right">Gravetusk Quilboar</h1>
-          <p className="blog-subtitle right">For months, the Bramblespear Horde has gathered and armed allies to retake the Barrens from usurpers and invaders. Woefully called the Mongrel Horde, these folk of plains and cliffs and thorns rise up as the druids fall, enacting great battles that culminate in a final draw. But who is the true enemy? This horde battling to hold their ancestral lands, or something that lurks still in the Kraul?</p>
-          <p>Final events all take place together, as we siege Razorfen Kraul and Downs to find the truth.</p>
+          <h1 className="blog-title right">The Frozen Lord</h1>
+          <p className="blog-subtitle right">A powerful elemental of ice, snow, and hungering vengeance rises in the Alterac Mountains. It has gained a foothold through the climes towards Alterac Valley. It may have gained allies and support in the region, promising resources and an endless winter. Whatever promises made, we must end the threat or have those elementals forces bear down on regions ill-prepared for the onslaught.<br/><br/>Entering the region will be difficult...</p>
           
         </div>
       </div>
       </div>
       </div>
 
-      <div className="hero barrens--primary hero-banner" id="barrens">
+      <div className="hero everfrost--primary hero-banner" id="barrens">
       <div className="container">
       <div className="row">
         <div className="col col--6">
@@ -310,4 +291,4 @@ function Barrens() {
   );
 }
 
-export default Barrens;
+export default Everfrost;

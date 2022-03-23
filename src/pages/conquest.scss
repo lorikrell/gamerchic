@@ -185,6 +185,62 @@
     }
 }
 
+html[data-theme='dark'] .everfrost-events--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/everfrost-pvp-dark.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .everfrost-events--primary {
+    --ifm-hero-text-color: rgb(3, 3, 3) !important;
+    background-image: 
+      url("../../static/img/landing/everfrost-pvp.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    //text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='dark'] .everfrost-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/everfrost-allies-dark.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .everfrost-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/everfrost-allies.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    color: #000;
+}
+
+.everfrost--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/everfrost-slide.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+
 .barrens--primary {
     --ifm-hero-text-color: rgb(255, 255, 255) !important;
     background-image: 
@@ -241,7 +297,7 @@ html[data-theme='light'] .barrens-finale--primary {
     color: #000;
 }
 
-  // death's shadow Specific
+  // death's shadow & everfrost Specific
 #death {
 
     h1, h2, h3, h4, h5, h6, .text-break {

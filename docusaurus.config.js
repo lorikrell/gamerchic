@@ -54,10 +54,10 @@ module.exports = {
             '0 1 2 3',
             '0 1 2 3',
             '0 1 2 3',
-            '0 1 2 4',
-            '0 1 2 4',
-            '0 1 2 4',
-            '0 . . 4',
+            '0 1 2 .',
+            '0 1 2 .',
+            '0 1 2 .',
+            '0 . . .',
           ],
           items_: [
             {
@@ -192,10 +192,31 @@ module.exports = {
                 },
               ],
             },
+          ],
+        },
+        {
+          label: 'Warcraft Conquest',
+          to: '#',
+          layout: [
+            '0 1 . .',
+            '0 1 . .',
+            '0 1 . .',
+            '0 1 . .',
+            '0 1 . .',
+            '0 1 . .',
+            '0 1 . .',
+          ],
+          items_: [
             {
-              // 4 level
+              // 0 level
               label: 'WoW Conquest Campaigns',
               items: [
+                {
+                  label: 'Everfrost',
+                  sublabel: 'Alterac',
+                  to: 'everfrost',
+                  icon: 'grass',
+                },
                 {
                   label: 'Thornwake',
                   sublabel: 'The Barrens',
@@ -216,13 +237,50 @@ module.exports = {
                 },
               ],
             },
+            {
+              // 1 level
+              label: 'Warcraft',
+              items: [
+                {
+                  label: 'Warcraft Conquest',
+                  sublabel: 'Moon Guard WC campaigns',
+                  to: 'Conquest',
+                  icon: 'castle',
+                },
+                {
+                  label: 'WC Resources',
+                  sublabel: 'Rules, guides, & tokens',
+                  to: 'docs/wow-conquest/intro',
+                  icon: 'style',
+                },
+                {
+                  label: 'Vehicle Battle Tokens',
+                  sublabel: 'Creat tokens & maps',
+                  to: 'docs/wow-conquest/token',
+                  icon: 'directions_boat',
+                },
+                {
+                  label: 'Event Cards',
+                  sublabel: 'Photoshop templates',
+                  to: 'docs/wow-conquest/event-cards',
+                  icon: 'event_note',
+                },
+                {
+                  label: 'Loot Cards',
+                  sublabel: 'Photoshop templates',
+                  to: 'docs/wow-conquest/boss-item-cards',
+                  icon: 'recent_actors',
+                },
+              ],
+            },
+            
           ],
         },
-        {
+        /*{
           position: 'left',
           to: 'gallery',
           label: 'Art Gallery',
-        },
+        },*/
         {to: '/blog', label: 'Game Blog', position: 'right'},
       ],
     },
