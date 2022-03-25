@@ -156,40 +156,22 @@ function Everfrost() {
           </div>
           
         </section>
-<section className='spacer'>
-        <div className="hero everfrost-events--primary hero-banner" id="barrens">
+    <section className='spacer'>
+    <div className="hero everfrost-finale--primary hero-banner" id="barrens">
       <div className="container">
       <div className="row">
         
         <div className="col col--6">
-          <h1 className="blog-title">Players battle for regions</h1>
-          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> Key locations, story lines, and PVP Dungeon Masters offer a set of player warfare options at this campaign. For the Horde, Alliance, and Azeroth! All battles will have their own maps, events, and rules to ensure the faction conflict does not spill into other storylines. </p>
-          <p>Maps and narration tales will track successes and failures as war rages. <a href="https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit">Conquest D20 Simplified 1.2 rules</a>, <a href="https://tinyurl.com/WCD20PVPv101">helpful template</a>, "Pro Faction War" in your TRP profiles and in-game events. More info coming soon.</p>
-          <div className="buttons-pages">
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to='https://docs.google.com/document/d/1Uxdudk6KI8-1FgkeRwvK5-6kwKR0lEQLaFjLeaRciVM/view'>
-              Learn more about PVP
-            </Link>
-          </div>
+          <h1 className="blog-title">Gain Allies</h1>
+          <p className="blog-subtitle">Not all elements bow to the will of the frozen lord of Alterac. Seek allies in the slopes and passes, protect them from the forces to subvert them, and have their aid in the final battle. If you fail to gain their aid, the battle may become harder. Take care with your choices, paths, and final actions!</p>
+          <p>All events, in-game and vehicle battles in Discord, will affect each other! Unlock allies, gain buffs, break enemy forces.</p>
+          
         </div>
 
         <div className="col col--6">
-          <h1 className="blog-title right">Join Forces to End Threats</h1>
-          <p className="blog-subtitle right">Not all battle each other when faced with the threats gaining lands and fortifications once held by the Alliance, Horde, neutral parties, and others. Events will help sway this campaign through battles, scouting missions, infiltrations, magical investigations, vehicle battles, safeguarding allies, and much more!<br/><br/>Updates and event descriptions are coming soon!</p>
-          <div className="buttons-right">
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to='https://discord.gg/zvRfQQzVu2'>
-              Learn more about Events
-            </Link>
-          </div>
+          <h1 className="blog-title right">The Frozen Lord</h1>
+          <p className="blog-subtitle right">A powerful elemental of ice, snow, and hungering vengeance rises in the Alterac Mountains. It has gained a foothold through the climes towards Alterac Valley. It may have gained allies and support in the region, promising resources and an endless winter. Whatever promises made, we must end the threat or have those elementals forces bear down on regions ill-prepared for the onslaught.<br/><br/>Entering the region will be difficult...</p>
+          
         </div>
       </div>
       </div>
@@ -225,27 +207,46 @@ function Everfrost() {
         </section>
 
         
-
         <section className='spacer'>
-        <div className="hero everfrost-finale--primary hero-banner" id="barrens">
+        <div className="hero everfrost-events--primary hero-banner" id="barrens">
       <div className="container">
       <div className="row">
         
         <div className="col col--6">
-          <h1 className="blog-title">Gain Allies</h1>
-          <p className="blog-subtitle">Not all elements bow to the will of the frozen lord of Alterac. Seek allies in the slopes and passes, protect them from the forces to subvert them, and have their aid in the final battle. If you fail to gain their aid, the battle may become harder. Take care with your choices, paths, and final actions!</p>
-          <p>All events, in-game and vehicle battles in Discord, will affect each other! Unlock allies, gain buffs, break enemy forces.</p>
-          
+          <h1 className="blog-title">Battles of Skill</h1>
+          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> All members of all factions can battle each other to test skills in an arena. This is not a war of locations and supplies, but of old grudges and supremacy of honed ability. The true enemy lies in the frozen climes of the Alterac Mountains.  More info coming soon on the arena and events.</p>
+          <div className="buttons-pages">
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to='https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit#heading=h.ikvn67qkgdo2'>
+              Learn about PVP D20
+            </Link>
+          </div>
         </div>
 
         <div className="col col--6">
-          <h1 className="blog-title right">The Frozen Lord</h1>
-          <p className="blog-subtitle right">A powerful elemental of ice, snow, and hungering vengeance rises in the Alterac Mountains. It has gained a foothold through the climes towards Alterac Valley. It may have gained allies and support in the region, promising resources and an endless winter. Whatever promises made, we must end the threat or have those elementals forces bear down on regions ill-prepared for the onslaught.<br/><br/>Entering the region will be difficult...</p>
-          
+          <h1 className="blog-title right">Join Forces to End Threats</h1>
+          <p className="blog-subtitle right">Not all battle each other when faced with the threats gaining lands and fortifications once held by the Alliance, Horde, neutral parties, and others. Events will help sway this campaign through battles, scouting missions, infiltrations, magical investigations, vehicle battles, safeguarding allies, and much more!<br/><br/>Updates and event descriptions are coming soon!</p>
+          <div className="buttons-right">
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to='https://discord.gg/zvRfQQzVu2'>
+              Learn more about Events
+            </Link>
+          </div>
         </div>
       </div>
       </div>
       </div>
+
+       </section>
+        <section className='spacer'>
 
       <div className="hero everfrost--primary hero-banner" id="barrens">
       <div className="container">

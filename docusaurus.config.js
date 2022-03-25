@@ -215,7 +215,7 @@ module.exports = {
                   label: 'Everfrost',
                   sublabel: 'Alterac',
                   to: 'everfrost',
-                  icon: 'grass',
+                  icon: 'ac_unit',
                 },
                 {
                   label: 'Thornwake',
