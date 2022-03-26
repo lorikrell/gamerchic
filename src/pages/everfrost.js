@@ -127,15 +127,13 @@ function Everfrost() {
 
         <h1>April 18 - 24 2022 | Alterac Campaign</h1>
           
-        <p>Description coming soon!</p>
-        
-        <p>The <strong>Everfrost</strong> consumes the world in ice. The Alliance, Horde, and Neutral aligned will have to face it - <i>and each other</i>.</p>
-
+        <p>A violent storm brews in the Alterac Mountains, and the misbegotten children cast out seek vengeance against the Alliance and Horde by summoning new powers into the fray.  Lok'harak, a Frost Lord of ancient tales rises from the depths from the help of the Syndicate and the Winterax Tribe to bring about an eternal winter to all of Alterac, and if not stopped, all of Lordaeron. The Alliance and Horde must work together to stop the eternal winter and cast out the local brigands in <strong>Everfrost</strong>.</p>
+        <p><strong>Warcraft Conquest</strong> presents <strong>Everfrost</strong>, a narrative and D20 campaign set to run between <strong>April 18th - April 24th</strong> in <strong>Alterac</strong>. This story continues our journey to battle a rising frost lord seeking to plunge Azeroth into an eternal winter. Players from Moon Guard, Wyrmrest Accord, and US servers are welcome!</p>
         </div>
         <div >
         <img src="img/landing/everfrost-logo.png" /></div>
        </div>
-       <p><strong>Warcraft Conquest</strong> presents <strong>Everfrost</strong>, a narrative and D20 campaign set to run between <strong>April 18th - April 24th</strong> in <strong>Alterac</strong>. This story continues our journey to battle a rising frost lord seeking to plunge Azeroth into an eternal winter. Players from Moon Guard, Wyrmrest Accord, and US servers are welcome!</p>
+       
        </div></section>
        
        <section >
@@ -214,7 +212,7 @@ function Everfrost() {
         
         <div className="col col--6">
           <h1 className="blog-title">Battles of Skill</h1>
-          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> All members of all factions can battle each other to test skills in an arena. This is not a war of locations and supplies, but of old grudges and supremacy of honed ability. The true enemy lies in the frozen climes of the Alterac Mountains.  More info coming soon on the arena and events.</p>
+          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> All members of all factions can battle each other to test skills, win challenges, and gain advantages. This is not a war of locations and supplies, but of old grudges and supremacy of honed ability. The true enemy lies in the frozen climes of the Alterac Mountains.  More info coming soon on the arena and events.</p>
           <div className="buttons-pages">
             <Link
               className={clsx(
