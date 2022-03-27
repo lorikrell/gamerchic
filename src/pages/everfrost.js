@@ -43,7 +43,7 @@ const features = [
     imageUrl: 'img/icons/globe.png',
     description: (
       <>
-        Events take place across the northern and southern Barrens of Kalimdor. Forces set up camp and seek dangers to homes and strongholds.
+        Events take place across the Alterac mountains, using locations in Hillsbrad for camps and events. AV and other locations as proxies.
       </>
     ),
   },
