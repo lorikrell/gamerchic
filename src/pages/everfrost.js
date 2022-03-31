@@ -212,7 +212,7 @@ function Everfrost() {
         
         <div className="col col--6">
           <h1 className="blog-title">Battles of Skill</h1>
-          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> All members of all factions can battle each other to test skills, win challenges, and gain advantages. This is not a war of locations and supplies, but of old grudges and supremacy of honed ability. The true enemy lies in the frozen climes of the Alterac Mountains.  More info coming soon on the arena and events.</p>
+          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> All members of all factions can battle each other to test skills, win challenges, and gain advantages. This is <strong>not</strong> a faction war, but of honed abilities and tests of courage. The true enemy lies in the frozen climes of the Alterac Mountains. More info coming soon on the arena and events.</p>
           <div className="buttons-pages">
             <Link
               className={clsx(
