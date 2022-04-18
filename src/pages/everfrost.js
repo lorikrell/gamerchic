@@ -212,14 +212,14 @@ function Everfrost() {
         
         <div className="col col--6">
           <h1 className="blog-title">Battles of Skill</h1>
-          <p className="blog-subtitle"><strong><i>Optional, opt-in</i> PVP events are here!</strong> All members of all factions can battle each other to test skills, win challenges, and gain advantages. This is <strong>not</strong> a faction war, but of honed abilities and tests of courage. The true enemy lies in the frozen climes of the Alterac Mountains. More info coming soon on the arena and events.</p>
+          <p className="blog-subtitle">The focus of this campaign is on cooperative narration, story, and events. PVP is not allowed in camps or a part of this campaign. We will not have open PVP, faction conflict, or prisoner rp. Only 2 events have sanctioned conflict elements: Alterac Crucible (battle arena of contests) and Rivals of the Rink (demolition derby).</p>
           <div className="buttons-pages">
             <Link
               className={clsx(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to='https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit#heading=h.ikvn67qkgdo2'>
+              to='https://docs.google.com/document/d/1c2GME13re7y3NnMXekGWyjmisbcxm1fv6EIvz2XnEps'>
               Learn about PVP D20
             </Link>
           </div>
@@ -227,7 +227,7 @@ function Everfrost() {
 
         <div className="col col--6">
           <h1 className="blog-title right">Join Forces to End Threats</h1>
-          <p className="blog-subtitle right">Not all battle each other when faced with the threats gaining lands and fortifications once held by the Alliance, Horde, neutral parties, and others. Events will help sway this campaign through battles, scouting missions, infiltrations, magical investigations, vehicle battles, safeguarding allies, and much more!<br/><br/>Updates and event descriptions are coming soon!</p>
+          <p className="blog-subtitle right">Not all battle each other when faced with the threats gaining lands and fortifications once held by the Alliance, Horde, neutral parties, and others. Events will help sway this campaign through battles, scouting missions, infiltrations, magical investigations, vehicle battles, safeguarding allies, and much more!</p>
           <div className="buttons-right">
             <Link
               className={clsx(
@@ -258,7 +258,7 @@ function Everfrost() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to='https://discord.gg/4fY6GaPaYn'>
+              to='https://discord.gg/Mq5aupyFxP'>
               See the Narration Log
             </Link>
           </div>
@@ -274,7 +274,7 @@ function Everfrost() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to='https://discord.gg/TpzaYyUgGt'>
+              to='https://discord.gg/SGQRn2PRCk'>
               See the Screenshots
             </Link>
           </div>
