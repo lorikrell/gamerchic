@@ -234,7 +234,7 @@ function Everfrost() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to='https://discord.gg/zvRfQQzVu2'>
+              to='https://discord.gg/nZvkQZqpxp'>
               Learn more about Events
             </Link>
           </div>
