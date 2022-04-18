@@ -220,7 +220,7 @@ function Everfrost() {
                 styles.getStarted,
               )}
               to='https://docs.google.com/document/d/1c2GME13re7y3NnMXekGWyjmisbcxm1fv6EIvz2XnEps'>
-              Learn about PVP D20
+              Read the PVP Notice
             </Link>
           </div>
         </div>
