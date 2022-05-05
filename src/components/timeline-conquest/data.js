@@ -1,5 +1,18 @@
 const items = [
     {
+      title: "41 L.C. / April 2022",
+      cardTitle: "Everfrost",
+      cardSubtitle: `May the world fall to endless winter.`,
+      cardDetailedText: `Replaced`,
+        media: {
+          name: "everfrost",
+          source: {
+            url: "img/landing/everfrost-logo.png"
+          },
+          type: "IMAGE"
+        }
+    },
+    {
       title: "40 L.C. / November 2021",
       cardTitle: "Thornwake",
       cardSubtitle: `Blood and rage will not wait long in these hills.`,

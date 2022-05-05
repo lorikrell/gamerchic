@@ -14,5 +14,4 @@
     var(--ifm-navbar-padding-horizontal);
   border-bottom: var(--ifm-global-border-width) solid
     var(--ifm-color-emphasis-200);
-  background-color: #000;
 }

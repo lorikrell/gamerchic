@@ -8,6 +8,8 @@ export default function TimelineConquest() {
     <div className="timeline">
       <div style={{ width: "100%", height: "85vh" }}>
         <Chrono items={data} mode="VERTICAL" theme={{primary: "var(--ifm-color-primary-darker)", secondary: "var(--ifm-color-primary-lightest)", cardBgColor: "#121212" }}>
+          {/* everfrost */}
+        <div><p>A violent storm brews in the Alterac Mountains, and the misbegotten children cast out seek vengeance against the Alliance, Horde, and neutral allied by summoning new powers into the fray. Lok'harak, a Frost Lord of ancient tales rises from the depths from the help of the Syndicate and the Winterax Tribe to bring about an eternal winter to all of Alterac, and if not stopped, all of Lordaeron. The Alliance and Horde must work together to stop the eternal winter and cast out the local brigands in Everfrost. See the <a href="everfrost">Everfrost</a> page.</p></div>
         {/* thornwake */}
         <div><p>Emboldened by the thinning lines of Alliance and Horde, the mongrels of the Barrens now aggressively test the defenses of the major factions. Patrols, traders, and even fortified outposts of the Horde and Alliance have been attacked, with false flags planted to stoke the tensions of the thinly-held armistice. Quillboar war drums thunder from the depths of the Kraul. Centaur and Harpies raise war banners. The Venture Company arms these denizens with equipment salvaged from the Iron Horde, seeking vengeance for their losses in Stranglethorn. In the shadows of the Overgrowth and within the walls of Northwatch Hold, a clandestine power seeks to ignite the flames of war. See the <a href="thornwake">Thornwake</a> page.</p></div>
         {/* tropic sunder */}

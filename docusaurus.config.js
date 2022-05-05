@@ -16,7 +16,6 @@ module.exports = {
   themeConfig: {
     // wrap images with * * to not zoom them!
     zoomSelector: '.markdown :not(em) > img',
-    hideableSidebar: true,
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
@@ -38,7 +37,12 @@ module.exports = {
 
       //... other Algolia params
     },
-
+    docs: {
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: false,
+      },
+    },
     navbar: {
       title: 'Sonceri | Gamerchic',
       logo: {

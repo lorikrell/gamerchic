@@ -42,7 +42,11 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Character Journals',
+      label: 'Journals and Scrolls',
+      link: {
+        type: 'doc',
+        id: 'photoshop/journals',
+      },
       items: [
         'photoshop/adventure-journal',
         'photoshop/final-journal',
@@ -51,6 +55,7 @@ module.exports = {
         'photoshop/arden-journal',
         'photoshop/vampire-journal',
         'photoshop/jungle-journal',
+        'photoshop/alterac-journal',
         'photoshop/scrollcase',
         'photoshop/posters',
       ]
