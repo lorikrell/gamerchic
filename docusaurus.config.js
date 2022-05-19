@@ -58,10 +58,10 @@ module.exports = {
             '0 1 2 3',
             '0 1 2 3',
             '0 1 2 3',
-            '0 1 2 .',
-            '0 1 2 .',
-            '0 1 2 .',
-            '0 . . .',
+            '0 1 2 3',
+            '0 1 2 3',
+            '0 1 2 3',
+            '0 1 2 3',
           ],
           items_: [
             {
@@ -108,8 +108,14 @@ module.exports = {
             },
             {
               // 1 level
-              label: 'Journal Templates',
+              label: 'Journals & Posters',
               items: [
+                {
+                  label: 'All Journals',
+                  sublabel: 'Slide Decks for stories',
+                  to: 'docs/photoshop/journals',
+                  icon: 'bookmarks',
+                },
                 {
                   label: 'Adventurer Journal',
                   sublabel: 'Book for travels',
@@ -120,13 +126,7 @@ module.exports = {
                   label: 'FF14 Journal',
                   sublabel: 'Book for Eorzea',
                   to: 'docs/photoshop/final-journal',
-                  icon: 'auto_stories',
-                },
-                {
-                  label: 'Dwarven Journal',
-                  sublabel: 'Book of metal',
-                  to: 'docs/photoshop/dwarf-journal',
-                  icon: 'photo_album',
+                  icon: 'fort',
                 },
                 {
                   label: 'Scrollcase',
