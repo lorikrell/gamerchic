@@ -15,7 +15,7 @@ Select existing emblems or add your own!
 ![crests](/img/resources/guild/crest.png)
 
 1. Download and open the file.
-1. In the **Border** group, show/hide a banner border. 
+1. In the **Border** group, show/hide a banner border. You can change the color or use a metal:
 
     * **Change Color**: Double-click and open the group options. Select the **Color Overlay** option. Select the color block and select any color you like. It will show a preview of the new color. Click **Ok**.
 
@@ -28,7 +28,7 @@ Select existing emblems or add your own!
 1. For the **Crest**, add your own or select a Warcraft icon:
 
     * Copy and paste a transparent background icon of your own in the Crest folder. You can see an Example in the folder.
-    * Browse and show a WoW icon from the folders. All guilde emblems are grouped together to find.
+    * Browse and show a WoW icon from the folders. All guild emblems are grouped together to find.
 
     ![color crest](/img/resources/guild/crest-icon.png)
 
