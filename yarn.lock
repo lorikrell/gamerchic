@@ -7533,9 +7533,9 @@ pkg-up@^3.1.0:
   dependencies:
     find-up "^3.0.0"
 
-plugin-image-zoom@ataft/plugin-image-zoom:
+plugin-image-zoom@flexanalytics/plugin-image-zoom:
   version "0.0.0"
-  resolved "https://codeload.github.com/ataft/plugin-image-zoom/tar.gz/076a3318689e815e7defd42d572c0854e33ed6ac"
+  resolved "https://codeload.github.com/flexanalytics/plugin-image-zoom/tar.gz/86f6f0b4f927ded94dcfdc18c0a9ee702ffd8d06"
   dependencies:
     medium-zoom "^1.0.4"
 
