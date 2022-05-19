@@ -35,7 +35,7 @@ const features = [
         Create personal journals, scrolls, and notice boards using these Google slide decks.
       </>
     ),
-    link:'docs/photoshop/adventure-journal',
+    link:'docs/photoshop/journals',
   },
   {
     title: 'Warcraft Conquest',

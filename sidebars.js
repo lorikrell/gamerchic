@@ -49,6 +49,7 @@ module.exports = {
       },
       items: [
         'photoshop/adventure-journal',
+        'photoshop/tech-journals',
         'photoshop/final-journal',
         'photoshop/elven-journal',
         'photoshop/dwarf-journal',
@@ -62,7 +63,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Warcraft Conquest',
+      label: 'Warcraft Resources',
       link: {type: 'doc', id: 'wow-conquest/intro'},
       items: [
         'wow-conquest/token',
@@ -83,7 +84,7 @@ module.exports = {
           type: 'category',
           label: 'Campaigns',
           items: [
-            'exalted/sands-south',
+            'exalted/ghosts-south',
             'exalted/ascending-souls',
           ]
         },

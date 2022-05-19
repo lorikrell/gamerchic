@@ -1,6 +1,6 @@
 ---
-title: Sands of the South
-id: sands-south
+title: Ghosts of the South
+id: ghosts-south
 ---
 
 Opala hummed to herself, twirling cards within hands newly dipped into lineament and myruhhin to stay limber for a long day of work. Combs held her hair in twisted braids, heated rocks tucked within to help lock in those lovely curls she was known for. A mask of red clay cracked over her cheeks, about her eyes, clean and rested leaving a touch of color to heighten a youth she lost.
