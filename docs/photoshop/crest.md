@@ -25,7 +25,14 @@ Select existing emblems or add your own!
 
         ![metal border](/img/resources/guild/border-metal.png)
 
-1. Select a **Crest** from the folders. WoW emblems are divided up into many folders. Or you can paste a custom icon in this Crest folder. Resize as needed. You have options:
+1. For the **Crest**, add your own or select a Warcraft icon:
+
+    * Copy and paste a transparent background icon of your own in the Crest folder. You can see an Example in the folder.
+    * Browse and show a WoW icon from the folders. All guilde emblems are grouped together to find.
+
+    ![color crest](/img/resources/guild/crest-icon.png)
+
+1. To color your **Crest**, you can change the color or use a metal:
 
     * **Change Color**: Double-click and open the group options. Select the **Color Overlay** option. Select the color block and select any color you like. It will show a preview of the new color. Click **Ok**.
 
@@ -40,7 +47,9 @@ Select existing emblems or add your own!
 
     ![ring](/img/resources/guild/crest-ring.png)
 
-1. Select a **Faction Background** and show/hide to find the best option. These include Alliance, Horde, and Argent colors with a flat stone, cracked stone, and cobbles background.
+1. Select a **Faction Background** and show/hide to find the best option. These include Alliance, Horde, and Argent colors with a flat stone, cracked stone, filigree, cobbles, ice, and more.
+
+    ![bg](/img/resources/guild/crest-bg.png)
 
 1. Save as a *.png*.
 
