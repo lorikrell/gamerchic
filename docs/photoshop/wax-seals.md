@@ -146,6 +146,7 @@ Click to zoom in. These seals are much larger than viewed below. Feel free to sa
 | ![Seal](/img/resources/seals/earthenring.png) | ![Seal](/img/resources/seals/gilneas.png) | ![Seal](/img/resources/seals/kirintor.png) | ![Seal](/img/resources/seals/seal-ironforge.png) |
 | ![Seal](/img/resources/seals/thunderbluff.png) | ![Seal](/img/resources/seals/seal-law1.png) | ![Seal](/img/resources/seals/seal-law2.png) | ![Seal](/img/resources/seals/seal-law3.png) |
 | ![Seal](/img/resources/seals/cenarion2.png) | ![Seal](/img/resources/seals/kaldorei2.png) | ![Seal](/img/resources/seals/kaldorei.png) | ![Seal](/img/resources/seals/warcraft.png) |
+| ![Seal](/img/resources/seals/zandalari.png) |  |  |  |
 
 </div>
 
