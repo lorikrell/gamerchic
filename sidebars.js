@@ -66,6 +66,7 @@ module.exports = {
       label: 'Warcraft Resources',
       link: {type: 'doc', id: 'wow-conquest/intro'},
       items: [
+        'photoshop/wow-emoji',
         'wow-conquest/token',
         'wow-conquest/capture-assets',
         'wow-conquest/simple-token',
