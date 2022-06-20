@@ -170,6 +170,12 @@ module.exports = {
                   icon: 'style',
                 },
                 {
+                  label: 'WoW Emojis',
+                  sublabel: 'Free custom emojis',
+                  to: 'photoshop/wow-emoji',
+                  icon: 'favorite',
+                },
+                {
                   label: 'Vehicle Battle Tokens',
                   sublabel: 'Creat tokens & maps',
                   to: 'docs/wow-conquest/token',
@@ -267,6 +273,12 @@ module.exports = {
                   sublabel: 'Rules, guides, & tokens',
                   to: 'docs/wow-conquest/intro',
                   icon: 'style',
+                },
+                {
+                  label: 'WoW Emojis',
+                  sublabel: 'Free custom emojis',
+                  to: 'photoshop/wow-emoji',
+                  icon: 'favorite',
                 },
                 {
                   label: 'Vehicle Battle Tokens',
