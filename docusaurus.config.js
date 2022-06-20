@@ -172,7 +172,7 @@ module.exports = {
                 {
                   label: 'WoW Emojis',
                   sublabel: 'Free custom emojis',
-                  to: 'photoshop/wow-emoji',
+                  to: 'docs/photoshop/wow-emoji',
                   icon: 'favorite',
                 },
                 {
@@ -277,7 +277,7 @@ module.exports = {
                 {
                   label: 'WoW Emojis',
                   sublabel: 'Free custom emojis',
-                  to: 'photoshop/wow-emoji',
+                  to: docs/'photoshop/wow-emoji',
                   icon: 'favorite',
                 },
                 {
