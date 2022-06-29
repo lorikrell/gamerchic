@@ -13,6 +13,9 @@ Here are the available emoji packs with many more to come!
 * [Sindorei/Blood Elf](/files/belf-emojis.zip)
 
     ![Belf Lineup](/img/resources/emoji/belf-lineup.png)
+* [Worgen](/files/worgen-emojis.zip)
+
+    ![Worgen Lineup](/img/resources/emoji/worgen-lineup.png)
 
 Add them to Discord:
 
