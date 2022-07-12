@@ -16,6 +16,9 @@ Here are the available emoji packs with many more to come!
 * [Worgen](/files/worgen-emojis.zip)
 
     ![Worgen Lineup](/img/resources/emoji/worgen-lineup.png)
+* [Troll](/files/troll-emojis.zip)
+
+    ![Troll Lineup](/img/resources/emoji/troll-lineup.png)
 
 Add them to Discord:
 
