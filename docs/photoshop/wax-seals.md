@@ -38,8 +38,8 @@ Download Photoshop files!
 | | |
 | -- | -- |
 | [Round Wax Seals zip](https://drive.google.com/file/d/1iU0o4BgMJzsvD7EcVkfKULD_Gw79uO-u/view?usp=sharing) | 3 round options, arched, and hex |
-| [Oval Wax Seals zip](https://drive.google.com/file/d/1tx-h6VR3hmY2gQVMB0d2uBViwf7qHiUv/view?usp=sharing) | Three oval options with different kinds of wax and thickness. Numerous color and pattern options. Only a couple icon examples. |
-| [Square Wax Seals zip](https://drive.google.com/file/d/1VEBra-1lcR9hVh3UmmEgLKOlsKX8lL4-/view?usp=sharing) | Three options including square, diamond, and rectangle. Numerous color and pattern options. Only a couple icon examples. |
+| [Oval Wax Seals zip](https://drive.google.com/file/d/1tx-h6VR3hmY2gQVMB0d2uBViwf7qHiUv/view?usp=sharing) | 3 ovals, heart |
+| [Square Wax Seals zip](https://drive.google.com/file/d/1VEBra-1lcR9hVh3UmmEgLKOlsKX8lL4-/view?usp=sharing) | square, diamond, and rectangle |
 | [Original Sonceri Seals](https://drive.google.com/file/d/1wpRWY5fYhMen82PUA114-Zll8WM_qBVo/view?usp=sharing) | A few shapes, colors, and wax options with a bunch of icon examples to choose from. You can add your own. This set requires additional steps to use and not as many options as the new ones. |
 
 </div>
@@ -121,5 +121,6 @@ Click to zoom in. These seals are much larger than viewed below. Feel free to sa
 | ![Seal](/img/resources/seals/thunderbluff.png) | ![Seal](/img/resources/seals/seal-law1.png) | ![Seal](/img/resources/seals/seal-law2.png) | ![Seal](/img/resources/seals/seal-law3.png) |
 | ![Seal](/img/resources/seals/cenarion2.png) | ![Seal](/img/resources/seals/kaldorei2.png) | ![Seal](/img/resources/seals/kaldorei.png) | ![Seal](/img/resources/seals/warcraft.png) |
 | ![Seal](/img/resources/seals/zandalari.png) | ![Seal](/img/resources/seals/mechagnome.png) | ![Seal](/img/resources/seals/nightborn.png) | ![Seal](/img/resources/seals/highmountain.png) |
+| ![Seal](/img/resources/seals/gearlove.png) | ![Seal](/img/resources/seals/wolf-heart.png) | ![Seal](/img/resources/seals/gearlove2.png) |  |
 
 </div>
