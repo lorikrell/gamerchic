@@ -12,6 +12,25 @@ Journal images are 1920 x 1080, a popular wallpaper size. Click images to zoom i
 To save, right-click any image and select **Save image as...**
 :::
 
+## Elven Seals
+
+These have new seals created for TOA 2022 and previous 2021.
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+| ![Seal](/img/resources/seals/kaldorei-super1.png) | ![Seal](/img/resources/seals/kaldorei-super2.png) | ![Seal](/img/resources/seals/kaldorei-super3.png) | ![Seal](/img/resources/seals/kaldorei-super4.png) |
+| ![Seal](/img/resources/seals/nightborne1.png) | ![Seal](/img/resources/seals/nightborne2.png) | ![Seal](/img/resources/seals/nightborne3.png) | ![Seal](/img/resources/seals/nightborne4.png) |
+| ![Seal](/img/resources/seals/queldorei1.png) | ![Seal](/img/resources/seals/queldorei2.png) | ![Seal](/img/resources/seals/queldorei3.png) | ![Seal](/img/resources/seals/queldorei4.png) |
+| ![Seal](/img/resources/seals/rendorei1.png) | ![Seal](/img/resources/seals/rendorei2.png) | ![Seal](/img/resources/seals/rendorei3.png) | ![Seal](/img/resources/seals/rendorei4.png) |
+| ![Seal](/img/resources/seals/sindorei1.png) | ![Seal](/img/resources/seals/sindorei2.png) | ![Seal](/img/resources/seals/sindorei3.png) | ![Seal](/img/resources/seals/sindorei4.png) |
+|![Kaldorei](/img/journal/seal-nelf.png) |![Sindorei](/img/journal/seal-belf.png) | ![Seal](/img/journal/seal-nightborn.png)| ![Seal](/img/journal/seal-helf.png) |
+|![Seal](/img/journal/seal-void.png) |![Seal](/img/journal/seal-illidari.png) |![Seal](/img/journal/seal-sanlayn.png) |![DK](/img/journal/seal-dk.png)  |
+| ![Seal](/img/resources/seals/nightborn.png)  | ![Seal](/img/resources/seals/cenarion2.png) | ![Seal](/img/resources/seals/kaldorei2.png) | ![Seal](/img/resources/seals/kaldorei.png) |
+
+</div>
+
 ## Elven Journal Google Slides
 
 1. Visit the [elven journal Google Slides](https://docs.google.com/presentation/d/1Bzp7_Ab2ZLo0i1zsJheAAWJ38avHh4K-Eelsl4I4xxM).
@@ -29,17 +48,6 @@ To share with friends, share the entire slide deck, save to PDF, or export each 
 
 
 import Iframe from 'react-iframe';
-
-## Elven Seals
-
-<div class="info-plain">
-
-| | | | |
-|--|--|--|--|
-|![Kaldorei](/img/journal/seal-nelf.png) |![Sindorei](/img/journal/seal-belf.png) | ![Seal](/img/journal/seal-nightborn.png)| ![Seal](/img/journal/seal-helf.png) |
-|![Seal](/img/journal/seal-void.png) |![Seal](/img/journal/seal-illidari.png) |![Seal](/img/journal/seal-sanlayn.png) |![DK](/img/journal/seal-dk.png)  |
-
-</div>
 
 ## Kal'dorei
 
