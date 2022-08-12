@@ -23,7 +23,7 @@ These have new seals created for TOA 2022 and previous 2021.
 | ![Seal](/img/resources/seals/kaldorei-super1.png) | ![Seal](/img/resources/seals/kaldorei-super2.png) | ![Seal](/img/resources/seals/kaldorei-super3.png) | ![Seal](/img/resources/seals/kaldorei-super4.png) |
 | ![Seal](/img/resources/seals/nightborne1.png) | ![Seal](/img/resources/seals/nightborne2.png) | ![Seal](/img/resources/seals/nightborne3.png) | ![Seal](/img/resources/seals/nightborne4.png) |
 | ![Seal](/img/resources/seals/queldorei1.png) | ![Seal](/img/resources/seals/queldorei2.png) | ![Seal](/img/resources/seals/queldorei3.png) | ![Seal](/img/resources/seals/queldorei4.png) |
-| ![Seal](/img/resources/seals/rendorei1.png) | ![Seal](/img/resources/seals/rendorei2.png) | ![Seal](/img/resources/seals/rendorei3.png) | ![Seal](/img/resources/seals/rendorei4.png) |
+| ![Seal](/img/resources/seals/rendorei.png) | ![Seal](/img/resources/seals/rendorei2.png) | ![Seal](/img/resources/seals/rendorei3.png) | ![Seal](/img/resources/seals/rendorei4.png) |
 | ![Seal](/img/resources/seals/sindorei1.png) | ![Seal](/img/resources/seals/sindorei2.png) | ![Seal](/img/resources/seals/sindorei3.png) | ![Seal](/img/resources/seals/sindorei4.png) |
 |![Kaldorei](/img/journal/seal-nelf.png) |![Sindorei](/img/journal/seal-belf.png) | ![Seal](/img/journal/seal-nightborn.png)| ![Seal](/img/journal/seal-helf.png) |
 |![Seal](/img/journal/seal-void.png) |![Seal](/img/journal/seal-illidari.png) |![Seal](/img/journal/seal-sanlayn.png) |![DK](/img/journal/seal-dk.png)  |
