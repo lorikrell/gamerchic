@@ -99,6 +99,8 @@ It's time to create your wax seal. These instructions will use the new round sea
     You can also add your own! Find a pattern you like, copy and paste it into those layer groups. Change the layer style from Normal to options like Multiply, Screen, Lighten, and so on till you find a look you like. It will automatically mask to fill just the wax seal.
     :::
 
+1. For **ROUND** seals, you have options for additional rings for the wax art and designs to show under the seal including golden leaves and filigree and magic circles. Show and hide the under options in UNDER DESIGNS and RUNE CIRCLES.
+
 1. Save as a *.png*. Click File > Export > Quick Export as a PNG. You can upload the image to Discord, Google docs, art galleries like Imgur, and much more!
 
 ## Example Seals
