@@ -19,6 +19,9 @@ Here are the available emoji packs with many more to come!
 * [Troll](/files/troll-emojis.zip)
 
     ![Troll Lineup](/img/resources/emoji/troll-lineup.png)
+* [Night Elf](/files/nelf-emojis.zip)
+
+    ![Night Elf Lineup](/img/resources/emoji/nelf-lineup.png)
 
 Add them to Discord:
 
