@@ -22,6 +22,9 @@ Here are the available emoji packs with many more to come!
 * [Night Elf](/files/nelf-emojis.zip)
 
     ![Night Elf Lineup](/img/resources/emoji/nelf-lineup.png)
+* [Orcs](/files/orc-emojis.zip)
+
+    ![Night Elf Lineup](/img/resources/emoji/orc-lineup.png)
 
 Add them to Discord:
 
