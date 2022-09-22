@@ -95,21 +95,7 @@ function Lichfall() {
     description="Warcraft Conquest presents Lichfall, a campaign set in the Plaguelands November 10th-20th. Learn more about this campaign and others!">
       <header className='conquest-header'>
       <div className='conquest-hero' id='barrens'>
-      <ReactPlayer 
-      className='react-player'
-      url='https://www.youtube.com/v/Jx4-cUeZPp4?vq=hd1080'
-      loop
-      playing
-      muted
-      width='100%'
-      height='100%'
-      config={{
-        youtube: {
-          playerVars: { controls:0 , modestbranding:1 }
-        }
-      }}
-      
-      />
+      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Jx4-cUeZPp4?vq=hd1080&autoplay=1&mute=1&playlist=Jx4-cUeZPp4&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
 
         
