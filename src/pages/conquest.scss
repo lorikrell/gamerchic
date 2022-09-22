@@ -185,10 +185,10 @@
     }
 }
 
-html[data-theme='dark'] .everfrost-events--primary {
+html[data-theme='dark'] .lichfall-events--primary {
     --ifm-hero-text-color: rgb(255, 255, 255) !important;
     background-image: 
-      url("../../static/img/landing/everfrost-pvp-dark.png") !important;
+      url("../../static/img/landing/lichfall-pvp-dark.png") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -196,10 +196,10 @@ html[data-theme='dark'] .everfrost-events--primary {
     text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
 }
 
-html[data-theme='light'] .everfrost-events--primary {
+html[data-theme='light'] .lichfall-events--primary {
     --ifm-hero-text-color: rgb(3, 3, 3) !important;
     background-image: 
-      url("../../static/img/landing/everfrost-pvp.png") !important;
+      url("../../static/img/landing/lichfall-pvp.png") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -207,10 +207,10 @@ html[data-theme='light'] .everfrost-events--primary {
     //text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
 }
 
-html[data-theme='dark'] .everfrost-finale--primary {
+html[data-theme='dark'] .lichfall-finale--primary {
     --ifm-hero-text-color: rgb(255, 255, 255) !important;
     background-image: 
-      url("../../static/img/landing/everfrost-allies-dark.png") !important;
+      url("../../static/img/landing/lichfall-allies-dark.png") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -218,10 +218,10 @@ html[data-theme='dark'] .everfrost-finale--primary {
     text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
 }
 
-html[data-theme='light'] .everfrost-finale--primary {
+html[data-theme='light'] .lichfall-finale--primary {
     --ifm-hero-text-color: rgb(255, 255, 255) !important;
     background-image: 
-      url("../../static/img/landing/everfrost-allies.png") !important;
+      url("../../static/img/landing/lichfall-allies.png") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -234,7 +234,62 @@ html[data-theme='light'] .everfrost-finale--primary {
     background-image: 
       linear-gradient(rgba(0,0,0,0.1),
       rgba(0,0,0,0.65)),
-      url("../../static/img/landing/everfrost-slide.png") !important;
+      url("../../static/img/landing/lichfall-slide.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+html[data-theme='dark'] .lichfall-events--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-pvp-dark.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .lichfall-events--primary {
+    --ifm-hero-text-color: rgb(3, 3, 3) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-pvp.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    //text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='dark'] .lichfall-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-allies-dark.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .lichfall-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-allies.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    color: #000;
+}
+
+.lichfall--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/lichfall-slide.png") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;

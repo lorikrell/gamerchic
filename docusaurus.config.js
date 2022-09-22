@@ -233,6 +233,12 @@ module.exports = {
               label: 'WoW Conquest Campaigns',
               items: [
                 {
+                  label: 'Lichfall',
+                  sublabel: 'Plaguelands',
+                  to: 'lichfall',
+                  icon: 'local_police',
+                },
+                {
                   label: 'Everfrost',
                   sublabel: 'Alterac',
                   to: 'everfrost',
