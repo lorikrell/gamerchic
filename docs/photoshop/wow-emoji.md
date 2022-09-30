@@ -24,7 +24,10 @@ Here are the available emoji packs with many more to come!
     ![Night Elf Lineup](/img/resources/emoji/nelf-lineup.png)
 * [Orcs](/files/orc-emojis.zip)
 
-    ![Night Elf Lineup](/img/resources/emoji/orc-lineup.png)
+    ![Orc Elf Lineup](/img/resources/emoji/orc-lineup.png)
+* [Dwarves](/files/dwarf-emojis.zip)
+
+    ![Dwarvf Elf Lineup](/img/resources/emoji/dwarf-lineup.png)
 
 Add them to Discord:
 
