@@ -7,6 +7,10 @@ Remember the amazing Warcraft guild crests from the WoW site, and the incredible
 
 Select existing emblems or add your own!
 
+:::sonceri Photoshop and Photopea
+These templates use layer effects, masks, and clipping masks to generate seals.You can use Photoshop and [Photopea free online](https://www.photopea.com/) editor. Versions for Clip Studio, GIMP, and other graphic programs are not available yet due to some limitations. These were created using the latest Photoshop Creative Cloud version.
+:::
+
 ## Download and Build
 
 * [![PSD](/img/psd.png) Epic Guild Crest Creator](https://drive.google.com/file/d/1g44MIiW2XR0MUIc9FtECNw_pOr3c0ID8/view?usp=sharing) - click to download.

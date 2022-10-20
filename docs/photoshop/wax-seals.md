@@ -103,7 +103,7 @@ It's time to create your wax seal. These instructions will use the new round sea
 
 1. Save as a *.png*. Click File > Export > Quick Export as a PNG. You can upload the image to Discord, Google docs, art galleries like Imgur, and much more!
 
-## Example Seals
+## Seals
 
 Click to zoom in. These seals are much larger than viewed below. Feel free to save and use these images!
 
@@ -111,18 +111,136 @@ Click to zoom in. These seals are much larger than viewed below. Feel free to sa
 
 | | | | |
 |--|--|--|--|
-|![Seal](/img/resources/seals/square-alliance.png) |![Seal](/img/resources/seals/square-horde.png) |![Seal](/img/resources/seals/square-argent.png) |![Seal](/img/resources/seals/round-alliance.png) |
-|![Seal](/img/resources/seals/round-horde.png) |![Seal](/img/resources/seals/round-argent.png) |![Seal](/img/resources/seals/oval-alliance.png) |![Seal](/img/resources/seals/oval-horde.png) |
-|![Seal](/img/resources/seals/oval-argent.png) |![Seal](/img/resources/seals/butterfly.png) |![Seal](/img/journal/seal-dk.png) |![Seal](/img/journal/seal-illidari.png) |
 |![Seal](/img/resources/seals/ebon.png) |![Seal](/img/resources/seals/sanlayn2.png) |![Seal](/img/resources/seals/scarlet.png) |![Seal](/img/resources/seals/troll.png) |
 |![Seal](/img/resources/seals/design1.png) |![Seal](/img/resources/seals/night-fae.png) |![Seal](/img/resources/seals/ninja.png) |![Seal](/img/resources/seals/ff-scion.png) |
 |![Seal](/img/resources/seals/ff-scion2.png) |![Seal](/img/resources/seals/star-moon.png) |![Seal](/img/resources/seals/flair.png) |![Seal](/img/resources/seals/belf.png) |
 |![Seal](/img/resources/seals/seal-flower2.png) |![Seal](/img/resources/seals/seal-oval.png) |![Seal](/img/resources/seals/seal-flower.png) |![Seal](/img/resources/seals/seal-diamond.png) |
-|![Seal](/img/resources/seals/seal-diamond2.png) |![Seal](/img/resources/seals/seal-initial.png) |![Seal](/img/resources/seals/seal-scarlets.png) |![Seal](/img/resources/seals/seal-argent.png) |
-| ![Seal](/img/resources/seals/earthenring.png) | ![Seal](/img/resources/seals/gilneas.png) | ![Seal](/img/resources/seals/kirintor.png) | ![Seal](/img/resources/seals/seal-ironforge.png) |
+|![Seal](/img/resources/seals/seal-diamond2.png) |![Seal](/img/resources/seals/seal-initial.png) |![Seal](/img/resources/seals/seal-scarlets.png) | ![Seal](/img/resources/seals/warcraft.png) |
+| ![Seal](/img/resources/seals/highmountain.png) | ![Seal](/img/resources/seals/gilneas.png) | ![Seal](/img/resources/seals/kirintor.png) | ![Seal](/img/resources/seals/seal-ironforge.png) |
 | ![Seal](/img/resources/seals/thunderbluff.png) | ![Seal](/img/resources/seals/seal-law1.png) | ![Seal](/img/resources/seals/seal-law2.png) | ![Seal](/img/resources/seals/seal-law3.png) |
-| ![Seal](/img/resources/seals/cenarion2.png) | ![Seal](/img/resources/seals/kaldorei2.png) | ![Seal](/img/resources/seals/kaldorei.png) | ![Seal](/img/resources/seals/warcraft.png) |
-| ![Seal](/img/resources/seals/zandalari.png) | ![Seal](/img/resources/seals/mechagnome.png) | ![Seal](/img/resources/seals/nightborn.png) | ![Seal](/img/resources/seals/highmountain.png) |
-| ![Seal](/img/resources/seals/gearlove.png) | ![Seal](/img/resources/seals/wolf-heart.png) | ![Seal](/img/resources/seals/gearlove2.png) |  |
+| ![Seal](/img/resources/seals/zandalari.png) | ![Seal](/img/resources/seals/mechagnome.png) | ![Seal](/img/resources/seals/butterfly.png) | ![Seal](/img/resources/seals/gearlove2.png) |
+| ![Seal](/img/resources/seals/gearlove.png) | ![Seal](/img/resources/seals/wolf-heart.png) | ![Seal](/img/resources/seals/goblin1.png) | ![Seal](/img/resources/seals/goblin2.png)  |
+
+</div>
+
+### Alliance Seals
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+|![Seal](/img/resources/seals/alliance-super1.png) |![Seal](/img/resources/seals/alliance-super2.png) |![Seal](/img/resources/seals/alliance-super3.png) | ![Seal](/img/resources/seals/alliance-super4.png) |
+|![Seal](/img/resources/seals/square-alliance.png) |![Seal](/img/resources/seals/round-alliance.png) | ![Seal](/img/resources/seals/oval-alliance.png) | |
+
+</div>
+
+### Horde Seals
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+|![Seal](/img/resources/seals/horde-super1.png) |![Seal](/img/resources/seals/horde-super2.png) |![Seal](/img/resources/seals/horde-super3.png) |![Seal](/img/resources/seals/horde-super4.png) |
+|![Seal](/img/resources/seals/round-horde.png) | ![Seal](/img/resources/seals/oval-horde.png) | ![Seal](/img/resources/seals/square-horde.png) | |
+
+</div>
+
+### Argent Seals
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+|![Seal](/img/resources/seals/argent-super1.png) |![Seal](/img/resources/seals/argent-super2.png) |![Seal](/img/resources/seals/argent-super3.png) |![Seal](/img/resources/seals/argent-super4.png) |
+| ![Seal](/img/resources/seals/round-argent.png) | ![Seal](/img/resources/seals/square-argent.png) | ![Seal](/img/resources/seals/oval-argent.png) | ![Seal](/img/resources/seals/seal-argent.png) |
+
+</div>
+
+### Earthen Ring Seals
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+|![Seal](/img/resources/seals/earthenring-super1.png) |![Seal](/img/resources/seals/earthenring-super2.png) |![Seal](/img/resources/seals/earthenring-super3.png) |![Seal](/img/resources/seals/earthenring-super4.png) |
+
+</div>
+
+### Illidari Seals
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+|![Seal](/img/resources/seals/illidari-super1.png) |![Seal](/img/resources/seals/illidari-super2.png) |![Seal](/img/resources/seals/illidari-super3.png) |![Seal](/img/resources/seals/illidari-super4.png) |
+
+</div>
+
+### Kirin Tor Seals
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+|![Seal](/img/resources/seals/kirintor1.png) |![Seal](/img/resources/seals/kirintor2.png) |![Seal](/img/resources/seals/kirintor3.png) |![Seal](/img/resources/seals/kirintor4.png) |
+
+</div>
+
+### Shado Pan Seals
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+|![Seal](/img/resources/seals/shadopan1.png) |![Seal](/img/resources/seals/shadopan2.png) |![Seal](/img/resources/seals/shadopan3.png) |![Seal](/img/resources/seals/shadopan4.png) |
+
+</div>
+
+### Valdrakken Seals
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+|![Seal](/img/resources/seals/valdrakken-super1.png) |![Seal](/img/resources/seals/valdrakken-super2.png) |![Seal](/img/resources/seals/valdrakken-super3.png) |![Seal](/img/resources/seals/valdrakken-super4.png) |
+|![Seal](/img/resources/seals/valdrakken-super5.png) |![Seal](/img/resources/seals/valdrakken-super6.png) | | |
+
+</div>
+
+### Cenarion Seals
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+| ![Seal](/img/resources/seals/cenarion-super1.png) | ![Seal](/img/resources/seals/cenarion-super2.png) | ![Seal](/img/resources/seals/cenarion-super3.png) | ![Seal](/img/resources/seals/cenarion-super4.png) |
+
+</div>
+
+### Ebon Blade Seals
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+| ![Seal](/img/resources/seals/ebonblade-super1.png) | ![Seal](/img/resources/seals/ebonblade-super2.png) | ![Seal](/img/resources/seals/ebonblade-super3.png) | ![Seal](/img/resources/seals/ebonblade-super4.png) |
+
+</div>
+
+### Elven Races
+
+<div class="info-plain">
+
+| | | | |
+|--|--|--|--|
+| ![Seal](/img/resources/seals/kaldorei-super1.png) | ![Seal](/img/resources/seals/kaldorei-super2.png) | ![Seal](/img/resources/seals/kaldorei-super3.png) | ![Seal](/img/resources/seals/kaldorei-super4.png) |
+| ![Seal](/img/resources/seals/nightborne1.png) | ![Seal](/img/resources/seals/nightborne2.png) | ![Seal](/img/resources/seals/nightborne3.png) | ![Seal](/img/resources/seals/nightborne4.png) |
+| ![Seal](/img/resources/seals/queldorei1.png) | ![Seal](/img/resources/seals/queldorei2.png) | ![Seal](/img/resources/seals/queldorei3.png) | ![Seal](/img/resources/seals/queldorei4.png) |
+| ![Seal](/img/resources/seals/rendorei.png) | ![Seal](/img/resources/seals/rendorei2.png) | ![Seal](/img/resources/seals/rendorei3.png) | ![Seal](/img/resources/seals/rendorei4.png) |
+| ![Seal](/img/resources/seals/sindorei1.png) | ![Seal](/img/resources/seals/sindorei2.png) | ![Seal](/img/resources/seals/sindorei3.png) | ![Seal](/img/resources/seals/sindorei4.png) |
+|![Kaldorei](/img/journal/seal-nelf.png) |![Sindorei](/img/journal/seal-belf.png) | ![Seal](/img/journal/seal-nightborn.png)| ![Seal](/img/journal/seal-helf.png) |
+|![Seal](/img/journal/seal-void.png) |![Seal](/img/journal/seal-illidari.png) |![Seal](/img/journal/seal-sanlayn.png) |![DK](/img/journal/seal-dk.png)  |
+| ![Seal](/img/resources/seals/nightborn.png)  | ![Seal](/img/resources/seals/cenarion2.png) | ![Seal](/img/resources/seals/kaldorei2.png) | ![Seal](/img/resources/seals/kaldorei.png) |
+| ![Seal](/img/resources/seals/cenarion2.png) | ![Seal](/img/resources/seals/kaldorei2.png) | ![Seal](/img/resources/seals/kaldorei.png) | |
 
 </div>
