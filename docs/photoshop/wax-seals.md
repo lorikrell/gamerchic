@@ -241,6 +241,5 @@ Click to zoom in. These seals are much larger than viewed below. Feel free to sa
 |![Kaldorei](/img/journal/seal-nelf.png) |![Sindorei](/img/journal/seal-belf.png) | ![Seal](/img/journal/seal-nightborn.png)| ![Seal](/img/journal/seal-helf.png) |
 |![Seal](/img/journal/seal-void.png) |![Seal](/img/journal/seal-illidari.png) |![Seal](/img/journal/seal-sanlayn.png) |![DK](/img/journal/seal-dk.png)  |
 | ![Seal](/img/resources/seals/nightborn.png)  | ![Seal](/img/resources/seals/cenarion2.png) | ![Seal](/img/resources/seals/kaldorei2.png) | ![Seal](/img/resources/seals/kaldorei.png) |
-| ![Seal](/img/resources/seals/cenarion2.png) | ![Seal](/img/resources/seals/kaldorei2.png) | ![Seal](/img/resources/seals/kaldorei.png) | |
 
 </div>
