@@ -27,7 +27,10 @@ Here are the available emoji packs with many more to come!
     ![Orc Elf Lineup](/img/resources/emoji/orc-lineup.png)
 * [Dwarves](/files/dwarf-emojis.zip)
 
-    ![Dwarvf Elf Lineup](/img/resources/emoji/dwarf-lineup.png)
+    ![Dwarf Elf Lineup](/img/resources/emoji/dwarf-lineup.png)
+* [Forsaken](/files/forsaken-emojis.zip)
+
+    ![Forsaken Elf Lineup](/img/resources/emoji/forsaken-lineup.png)
 
 Add them to Discord:
 
