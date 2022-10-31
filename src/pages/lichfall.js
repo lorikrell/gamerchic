@@ -183,7 +183,8 @@ function Lichfall() {
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVcXts92JG7rloYaAXC8wJeIztb1kUvjXuHWghCvTB8fcIJN_UDiNg0CK_fTE9H9cjEV1lPDA5ShED/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
         </div>
 
-        
+        <p><img src="img/landing/horde-poster.png" /></p>
+        <p><img src="img/landing/alliance-poster.png" /></p>
 
         </div>
         </div>
