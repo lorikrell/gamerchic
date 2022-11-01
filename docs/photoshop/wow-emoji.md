@@ -10,7 +10,7 @@ Additional options are available to [my Patreons](https://www.patreon.com/soncer
 
 Here are the available emoji packs with many more to come!
 
-* [Sindorei/Blood Elf](/files/belf-emojis.zip)
+* [Sindorei/Blood Elf](/files/belf-emojis.zip) and [Magical Set](/files/belf-magic.zip)
 
     ![Belf Lineup](/img/resources/emoji/belf-lineup.png)
 * [Worgen](/files/worgen-emojis.zip)
