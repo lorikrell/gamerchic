@@ -72,6 +72,10 @@
     text-align: right;
 }
 
+.left {
+    text-align: left;
+}
+
 .center {
     text-align: center;
 }
@@ -185,6 +189,7 @@
     }
 }
 
+// Lichfall
 html[data-theme='dark'] .lichfall-events--primary {
     --ifm-hero-text-color: rgb(255, 255, 255) !important;
     background-image: 
@@ -296,6 +301,7 @@ html[data-theme='light'] .lichfall-finale--primary {
     
 }
 
+// thornwake
 .barrens--primary {
     --ifm-hero-text-color: rgb(255, 255, 255) !important;
     background-image: 
@@ -373,6 +379,30 @@ html[data-theme='light'] .barrens-finale--primary {
         text-align: left !important;
     }
 
+}
+
+// Gamerchic
+
+html[data-theme='dark'] .gamerchic-special--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/landing-specials.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .gamerchic-special--primary {
+    --ifm-hero-text-color: rgb(3, 3, 3) !important;
+    background-image: 
+      url("../../static/img/landing/landing-specials.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    //text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
 }
 
 

@@ -1473,6 +1473,26 @@ html[data-theme="light"] td:nth-child(1) {
   }
 }
 
+.info-plainer {
+  table { 
+    table-layout: fixed;
+    width: 100%;
+    img {
+      max-width: 100% !important;
+    }
+    thead {
+        display: none !important;
+        border: 0px;
+    }
+    td {
+      border-color: transparent !important;
+    }
+    tr:nth-child(2n) {
+      background-color: rgba(210,235,255,.0) !important;
+    }
+  }
+}
+
 .info-rows {
   img {
     max-width: 100px !important;

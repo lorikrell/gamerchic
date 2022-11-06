@@ -4,18 +4,19 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
+import './conquest.scss';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const features = [
   {
-    title: 'Graphic Resources',
-    imageUrl: 'img/icons/graphic.png',
+    title: 'Warcraft Conquest',
+    imageUrl: 'img/landing/logo-wc.png',
     description: (
       <>
-        Sonceri brings you Photoshop templates, wax seals, coins, event images, and more!
+        Find resources and guides for your Warcraft Conquest adventures and vehicle battles. See Sonceri's tips and tricks for more goodies.
       </>
     ),
-    link:'docs/intro',
+    link: 'docs/wow-conquest/intro',
   },
   {
     title: 'Dungeon Master Guides',
@@ -28,6 +29,16 @@ const features = [
     link:'docs/events-campaigns',
   },
   {
+    title: 'Graphic Resources',
+    imageUrl: 'img/icons/graphic.png',
+    description: (
+      <>
+        Sonceri brings you Photoshop templates, wax seals, coins, event images, and more!
+      </>
+    ),
+    link:'docs/intro',
+  },
+  {
     title: 'Adventure Journals',
     imageUrl: 'img/icons/journals.png',
     description: (
@@ -36,16 +47,6 @@ const features = [
       </>
     ),
     link:'docs/photoshop/journals',
-  },
-  {
-    title: 'Warcraft Conquest',
-    imageUrl: 'img/landing/logo-wc.png',
-    description: (
-      <>
-        Find resources and guides for your Warcraft Conquest adventures and vehicle battles. See Sonceri's tips and tricks for more goodies.
-      </>
-    ),
-    link: 'docs/wow-conquest/intro',
   },
   {
     title: 'Lives Exalted',
@@ -135,7 +136,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
 <Layout
-      title={`Huzzah ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="This site provides gaming resources for Warcraft Conquest, RPG tabletop adventures, and so much more! Graphics, guides, advice.">
       <HomepageHeader />
       <main>
@@ -149,6 +150,48 @@ function Home() {
             </div></div>
           </section>
         )}
+
+        <section className='spacer'>
+        <div className="hero gamerchic-special--primary hero-banner" id="barrens">
+      <div className="container">
+      <div className="row">
+        
+        <div className="col col--6">
+        <h1 className="blog-title left">WARCRAFT EMOJIS</h1>
+          <p className="blog-subtitle left">Finding Warcraft emojis and stickers for your fun and friends can be hard. Sonceri's emoji sets include 9 free imagers you can use for emojis and stickers in Discord and other sites. Each set includes additional options for Patreons and Ko-fi donations. Find your sets today!</p>
+          <p className="blog-subtitle left">New sets are drawn and released every month. The first sets focus on Warcraft Races, then new sets will focus on factions, groups, and roles.</p>
+          <div className="left">
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to='docs/photoshop/wow-emoji'>
+              Get Emojis and Stickers
+            </Link>
+          </div>
+        </div>
+
+        <div className="col col--6">
+          <h1 className="blog-title right">JOURNALS AND WAX SEALS</h1>
+          <p className="blog-subtitle right">Document your character journey. Capture and reveal ideas and messages from your villains and allies in storylines. Craft short stories and grand declarations for players to find and follow. Sonceri's <a href="docs/photoshop/journals">Journals</a> and <a href="docs/photoshop/wax-seals">Wax Seals</a> give you the options to create visual letters, notice boards, scrolls, and wax seals with symbols for your house, group, organization, or faction.</p>
+          <p className="blog-subtitle right">New journals, scrolls, and notice boards are releasing as Google Slides all the time. All you need is a Google account! Wax Seals include images and source files to create your own in Photoshop or Photopea</p>
+          <div className="buttons-right">
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to='docs/photoshop/journals'>
+              Find a Journal or Scroll
+            </Link>
+          </div>
+        </div>
+      </div>
+      </div>
+      </div>
+
+       </section>
       </main>
     </Layout>
   );
