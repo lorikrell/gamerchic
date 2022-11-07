@@ -9,11 +9,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const features = [
   {
-    title: 'Warcraft Conquest',
+    title: 'Warcraft Worlds',
     imageUrl: 'img/landing/logo-wc.png',
     description: (
       <>
-        Find resources and guides for your Warcraft Conquest adventures and vehicle battles. See Sonceri's tips and tricks for more goodies.
+        Find resources and guides for your Warcraft adventures and Conquest conflicts. These include events, campaigns, and vehicle battles.
       </>
     ),
     link: 'docs/wow-conquest/intro',
