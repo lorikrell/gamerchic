@@ -158,8 +158,8 @@ function Home() {
         
         <div className="col col--6">
         <h1 className="blog-title left">WARCRAFT EMOJIS</h1>
-          <p className="blog-subtitle left">Finding Warcraft emojis and stickers for your fun and friends can be hard. Sonceri's emoji sets include 9 free imagers you can use for emojis and stickers in Discord and other sites. Each set includes additional options for Patreons and Ko-fi donations. Find your sets today!</p>
-          <p className="blog-subtitle left">New sets are drawn and released every month. The first sets focus on Warcraft Races, then new sets will focus on factions, groups, and roles.</p>
+          <p className="blog-subtitle left">Finding Warcraft emojis and stickers for your Discord, Twitch, and other accounts can be hard. Sonceri's emoji sets include 9 free images you can use for emojis and stickers in Discord and other sites. Each set includes additional options for Patreons and Ko-fi donations. Find your sets today!</p>
+          <p className="blog-subtitle left">New sets are drawn and released every month. Some members of the RP community are featured in the art. The first sets focus on Warcraft Races, then new sets will focus on factions, groups, and roles.</p>
           <div className="left">
             <Link
               className={clsx(
