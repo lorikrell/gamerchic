@@ -18,7 +18,7 @@ module.exports = {
   games: [
     {
       type: 'category',
-      label: 'Gamer Resources',
+      label: 'Graphic Resources',
       link: {type: 'doc', id: 'intro'},
       items: [
         'photoshop/fonts-brushes',
