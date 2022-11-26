@@ -81,6 +81,8 @@ Here are a couple examples!
 
 ![Scales](/img/resources/logo-war-scales.png)
 
+![Void](/img/resources/logo-king.png)
+
 ![Jade](/img/resources/wow-logo-example.png)
 
 ![Blades](/img/resources/wow-logo-example2.png)
