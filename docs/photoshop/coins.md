@@ -11,6 +11,10 @@ You can create these for D&D, World of Darkness, World of Warcraft, thief guilds
 You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
 :::
 
+:::sonceri Photoshop, Affinity Designer, and Photopea
+These templates use layer effects, masks, and clipping masks to generate seals.You can use Photoshop, Affinity Designer, and [Photopea free online](https://www.photopea.com/) editor. Versions for Clip Studio, GIMP, and other graphic programs are not available yet due to some limitations. These were created using the latest Photoshop Creative Cloud version.
+:::
+
 ## Download and Build
 
 [![PSD](/img/psd.png) Sonceri Coins](https://drive.google.com/file/d/1n2G1ju3zbpjie_H6nDdMlE4b0uoyND37/view?usp=sharing) - click to download.

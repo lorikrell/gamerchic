@@ -7,8 +7,8 @@ Remember the amazing Warcraft guild crests from the WoW site, and the incredible
 
 Select existing emblems or add your own!
 
-:::sonceri Photoshop and Photopea
-These templates use layer effects, masks, and clipping masks to generate seals.You can use Photoshop and [Photopea free online](https://www.photopea.com/) editor. Versions for Clip Studio, GIMP, and other graphic programs are not available yet due to some limitations. These were created using the latest Photoshop Creative Cloud version.
+:::sonceri Photoshop, Affinity Designer, and Photopea
+These templates use layer effects, masks, and clipping masks to generate seals.You can use Photoshop, Affinity Designer, and [Photopea free online](https://www.photopea.com/) editor. Versions for Clip Studio, GIMP, and other graphic programs are not available yet due to some limitations. These were created using the latest Photoshop Creative Cloud version.
 :::
 
 ## Download and Build

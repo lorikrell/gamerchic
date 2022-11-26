@@ -11,7 +11,7 @@ There are two versions:
 * Medium logos with space for your [guild crests](crest.md)
 
 :::sonceri
-New to using Photoshop/Photopea? I've added some extra info to help below. It does help having some experience with graphic programs.
+New to using Photoshop/Photopea? I've added some extra info to help below. It does help having some experience with graphic programs. Additions for Affinity Designer will be added later, but similar.
 :::
 
 ## Download Files
@@ -24,7 +24,7 @@ New to using Photoshop/Photopea? I've added some extra info to help below. It do
 
 ## How the PSD Works
 
-1. Download and install the fonts if you are editing this locally using Photoshop.
+1. Download and install the fonts if you are editing this locally using Photoshop or Affinity Designer.
 1. Download and open the Photoshop files in Photoshop or Photopea.
 
 When you open the file, you will see a ton of layer folders or groups in the Layers section. This is the heart and soul of the entire file. When you change text, add art, show and hide stuff, you work in this groups. Some of them are special and help you lay in art without needing to edit anything.
