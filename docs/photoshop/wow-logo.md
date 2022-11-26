@@ -16,9 +16,9 @@ New to using Photoshop/Photopea? I've added some extra info to help below. It do
 
 ## Download Files
 
-* [![PSD](/img/psd.png) WoW Logo](https://drive.google.com/file/d/1x9uKmM98TWsEbcUMuyB_C2lbUS2EBXXG/view?usp=sharing) - Click to download just this PSD.
+* [![PSD](/img/psd.png) WoW Logo - Guild Crest Version](https://drive.google.com/file/d/1s6GIrDo10_YIjwNgpkX7h5l5cr9dvz7A/view?usp=sharing) - Click to download just this PSD. Updated through Dragonflight + customs.
 
-* [![PSD](/img/psd.png) WoW Logo - Guild Crest Version](https://drive.google.com/file/d/1s6GIrDo10_YIjwNgpkX7h5l5cr9dvz7A/view?usp=sharing) - Click to download just this PSD.
+* [![PSD](/img/psd.png) WoW Logo](https://drive.google.com/file/d/1x9uKmM98TWsEbcUMuyB_C2lbUS2EBXXG/view?usp=sharing) - Click to download just this PSD.
 
 * [Folder of all PSDs and fonts!](https://drive.google.com/drive/u/0/folders/1thJDl4LTUwOY-KWd2L8G-MzEeKCxLPDy) Install the fonts to use the text options per logo.
 
@@ -43,6 +43,7 @@ Time to edit and create a logo!
 
     ![logo](/img/resources/wow-logo-layers.png)
 
+    * **More Text Options** - A bunch of preformatted text looks you can choose from.
     * **Text** - Where all of the text is, includes a title and subtitle below.
     * **Frame** - You can ignore this, it's the edges of the entire logo.
     * **Frame Bottom Art Here!** - This allows you to drop in different art or make selections for that bottom area. Not all designs have bottom art options. 
@@ -73,6 +74,12 @@ Time to edit and create a logo!
 ## Example Crests
 
 Here are a couple examples!
+
+![Void](/img/resources/logo-call-void.png)
+
+![Summer](/img/resources/logo-summer.png)
+
+![Scales](/img/resources/logo-war-scales.png)
 
 ![Jade](/img/resources/wow-logo-example.png)
 
