@@ -6,6 +6,10 @@ description: Best practices, tips, tricks, and helpful information to get you st
 
 Welcome to Sonceri's guides on running events and campaigns! This is a collection of tips, tricks, helpful info, and some best practices to run games in MMO-RPGs, Discord, at the table, on a VTT, and more. The info will grow over time. This sections also includes guides for specific types of events.
 
+:::gamerchic
+Guides are also available for running [investigations](investigation.md), [spy missions](stealth.md), and [horror scenarios](horror.md). More guides are on the way!
+:::
+
 ## Prep for Games
 
 Dungeon masters, storytellers, moderators...whatever your title, you write, host, and run games for players. Each event and campaign can take hours if not days and weeks to plan, prep, and run. Let's get to some core best practices and tips to get started.
@@ -49,6 +53,38 @@ Want to create custom tokens?
 Many artists offer incredible battlemaps, tokens, monsters, and short adventures through Patreon. Search and find some amazing artists, including the following favorites: Cze and Peku [Patreon](https://www.patreon.com/czepeku) and [website](https://www.czepeku.com/), [Moonlight Maps](https://www.patreon.com/MoonlightMaps), Dyson Logos [Patreon](https://www.patreon.com/dysonlogos) and [blog](https://dysonlogos.blog/maps/), [Jared Blando](https://www.patreon.com/JaredBlando), [Ori the Cartographer](https://www.patreon.com/orithecartographer), [Party of Two](https://www.patreon.com/partyoftwo), [Eightfold Paper](https://www.patreon.com/EightfoldPaper), [John Stevenson](https://www.patreon.com/sirinkman), [Animated Dungeon Maps](https://www.patreon.com/animatedmaps), [Neutral Party](https://www.patreon.com/neutralparty), [Forgotten Adventures](https://www.patreon.com/forgottenadventures). [Heroic Maps](https://www.patreon.com/heroicmaps), [Maphammer](https://www.patreon.com/maphammer), [Afternoon Maps](https://www.patreon.com/afternoonmaps) and I have just started too at [Sonceri Masterworks](https://www.patreon.com/sonceri). Reddit also has a great [Battle Maps](https://www.reddit.com/r/battlemaps/) forum.
 :::
 
+### Warcraft Game Prep
+
+To run events in World of Warcraft:
+
+* Go in game, take screenshots, and plan your route. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [Investigation example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit) and [Horror example](https://docs.google.com/drawings/d/1gbPCHeGB-qnfxWzix4Aq_N9KrpClYdYJWDJpt_Rlc0I/edit).
+* Don’t depend on addons. They are great, but if you have a diverse group coming to an event, players will get left behind. 
+* Some addons are your friend:
+
+  * [DiceMaster](https://www.curseforge.com/wow/addons/dicemaster) has numerous tools and options for crafting immersive rp and stories, DM features, maps, just incredible! 
+  * [Mega Macro](https://www.curseforge.com/wow/addons/mega-macro) expands your macro world! Manage multiple macros, easily, globally recommended, with long descriptions (1023 characters). 
+  * [TotalRP3](https://www.curseforge.com/wow/addons/total-rp-3) gives you a method of creating NPC profiles you can wear interchangably for players to interact with. [TRP3 Extended](https://www.curseforge.com/wow/addons/total-rp-3-extended) allows you to create custom items, but requires others to have it. 
+  * [Listener](https://www.curseforge.com/wow/addons/listener) pings when mentioned, great for long text. 
+  * [Sessions](https://www.curseforge.com/wow/addons/sessions-messenger) helps with text, long messages, message history, and more.
+  * [Elephant](https://www.curseforge.com/wow/addons/elephant) saves chat logs, great for keeping track of long investigation events and campaigns.
+
+* Collect and use grey items to hand out as evidence they find. For incredible interactivity, check out the numerous toys and battle/cosmetic pets. You can search WoWHead for some incredible options.
+* Use raid icons in your notes and in game.
+
+  * In game and in macros/copy paste content, use these codes: 
+
+    `{skull}`, `{cross}`, `{square}`, `{star}`, `{circle}`, `{triangle}`, `{moon}`, `{diamond}`
+
+  * Here are some images to save and use for your Google Docs and Drawings: 
+
+    ![skull](/img/icons/skull.png) ![cross](/img/icons/cross.png) ![square](/img/icons/square.png) ![star](/img/icons/star.png) ![circle](/img/icons/circle.png) ![triangle](/img/icons/triangle.png) ![moon](/img/icons/moon.png) ![diamond](/img/icons/diamond.png)
+
+* To add a soundtrack, use Discord with music bots, free accounts at [Watch2gether](https://w2g.tv/?lang=en), or put together a playlist and share the link.
+* Take a screenshot of your raid to keep track of who attends. 
+* Save notes for rules, mechanics, your event specifics, names of players hitting important moments/items/npcs, etc in your TRP3 Notes tab on your character. This can keep you in-game without flipping out to a Google Doc.
+* Create TRP3 (or other addon) profiles for key NPCs you want to rp directly for your players. This gives them someone to study and interact with. Bring along some extra gear saved to gear lists in your character screen to quick flip. You can name the saved gear by the NPC name.
+* Contributed by [Vendel'o](https://twitter.com/stupidelfmain): One of my favorite things for WoW in particular is to get used to the terrain. I’ll wander around a zone so I can get a feel and know what points I can utilize.
+
 ### Final Fantasy 14 Prep
 
 Connections and resources:
@@ -88,38 +124,6 @@ To run events in FFXIV:
 * Player housing provides extensive roleplay opportunities! Houses and apartments can simply be welcoming locations for visit friends or also hold events and shops. Houses may be marked with RP tags. Also check the Party Finder for events, if hosted in a house that may be in the notes.
 * [Helpful ideas and info on FFXIV](https://spotofmummery.com/2021/02/25/ffxiv-role-play-creating-a-rp-character-profile-and-linking-it-in-search-info/) docs and sites to consider for your events and characters.
 
-### Warcraft Game Prep
-
-To run events in World of Warcraft:
-
-* Go in game, take screenshots, and plan your route. Keep a small copy marked up with clues and hot spots numbered to your notes. This is great for spot checks and more. You don’t need super expensive art programs. You can put a screenshot into a Google Drawing and plan everything. Here’s an [Investigation example](https://docs.google.com/drawings/d/1J2T8rlCp8cURU6U2ZQ7AN0W3XIXjKdh_Mk8EUSu1wmw/edit) and [Horror example](https://docs.google.com/drawings/d/1gbPCHeGB-qnfxWzix4Aq_N9KrpClYdYJWDJpt_Rlc0I/edit).
-* Don’t depend on addons. They are great, but if you have a diverse group coming to an event, players will get left behind. 
-* Some addons are your friend:
-
-  * [DiceMaster](https://www.curseforge.com/wow/addons/dicemaster) has numerous tools and options for crafting immersive rp and stories, DM features, maps, just incredible! 
-  * [Mega Macro](https://www.curseforge.com/wow/addons/mega-macro) expands your macro world! Manage multiple macros, easily, globally recommended, with long descriptions (1023 characters). 
-  * [TotalRP3](https://www.curseforge.com/wow/addons/total-rp-3) gives you a method of creating NPC profiles you can wear interchangably for players to interact with. [TRP3 Extended](https://www.curseforge.com/wow/addons/total-rp-3-extended) allows you to create custom items, but requires others to have it. 
-  * [Listener](https://www.curseforge.com/wow/addons/listener) pings when mentioned, great for long text. 
-  * [Sessions](https://www.curseforge.com/wow/addons/sessions-messenger) helps with text, long messages, message history, and more.
-  * [Elephant](https://www.curseforge.com/wow/addons/elephant) saves chat logs, great for keeping track of long investigation events and campaigns.
-
-* Collect and use grey items to hand out as evidence they find. For incredible interactivity, check out the numerous toys and battle/cosmetic pets. You can search WoWHead for some incredible options.
-* Use raid icons in your notes and in game.
-
-  * In game and in macros/copy paste content, use these codes: 
-
-    `{skull}`, `{cross}`, `{square}`, `{star}`, `{circle}`, `{triangle}`, `{moon}`, `{diamond}`
-
-  * Here are some images to save and use for your Google Docs and Drawings: 
-
-    ![skull](/img/icons/skull.png) ![cross](/img/icons/cross.png) ![square](/img/icons/square.png) ![star](/img/icons/star.png) ![circle](/img/icons/circle.png) ![triangle](/img/icons/triangle.png) ![moon](/img/icons/moon.png) ![diamond](/img/icons/diamond.png)
-
-* To add a soundtrack, use Discord with music bots, free accounts at [Watch2gether](https://w2g.tv/?lang=en), or put together a playlist and share the link.
-* Take a screenshot of your raid to keep track of who attends. 
-* Save notes for rules, mechanics, your event specifics, names of players hitting important moments/items/npcs, etc in your TRP3 Notes tab on your character. This can keep you in-game without flipping out to a Google Doc.
-* Create TRP3 (or other addon) profiles for key NPCs you want to rp directly for your players. This gives them someone to study and interact with. Bring along some extra gear saved to gear lists in your character screen to quick flip. You can name the saved gear by the NPC name.
-* Contributed by [Vendel'o](https://twitter.com/stupidelfmain): One of my favorite things for WoW in particular is to get used to the terrain. I’ll wander around a zone so I can get a feel and know what points I can utilize.
-
 </div>
 
 ## Create a Carrd Site
@@ -151,7 +155,7 @@ Some incredible examples!
 
 If you enjoy working in Photoshop or other graphic apps, event cards and posters give you fantastic tools to stir up creativity in your table-top game, advertise for new players in VTT online communities, and lure players in MMO-RPGs. You don't need to be a Photoshop wizard to create these posters. Tools like GIMP for graphics and Google apps like Docs, Drawing, and Slides can be enough to get your adventure started.
 
-I also provide a series of templates to use as you like. See [Event Map Cards](photoshop/event-cards.md), [Event Cards](wow-conquest/event-cards.md), and [Boss and Item Cards](wow-conquest/loot-cards.md) to find templates and examples. All you need is the Photoshop file, an art file, and some text.
+I also provide a series of templates to use as you like. See [Event Map Cards](photoshop/event-cards.md), [Event Cards](wow-conquest/event-cards.md), and [Boss and Item Cards](wow-conquest/loot-cards.md) to find templates and examples. All you need is the Photoshop file, an art image, and some text.
 
 Some quick examples:
 
@@ -162,6 +166,16 @@ Some quick examples:
 ![Investigation](/img/guides/investigation-card2.png)
 
 ![Event](/img/guides/horror-card.png)
+
+## Create Campaign Logos
+
+To highlight your events and campaigns, you could also make a logo. The [Warcraft Logo PSD](photoshop/wow-logo.md) file gives you the options to use Warcraft expansion or custom logos, add art, and add a name. 
+
+![logo example](/img/resources/lost-in-time.png)
+
+![Void](/img/resources/logo-call-void.png)
+
+![Scales](/img/resources/logo-war-scales.png)
 
 ## Get Added to Calendars
 

@@ -23,6 +23,22 @@ These cards let you add art files and info for bosses players battle or meet or 
 To make life easier and keep the file size down, write content in a separate file like a Google Doc. Add the art to the file, giving the layer a name matching the card type. You can just save the art in this PSD, using copy/paste from the Google Doc if you ever need to tweak something.
 :::
 
+## The Scourge Theme
+
+Originally these cards were used in the [Lichfall campaign](/lichfall) with a scourge invasion feel.
+
+[![PSD](/img/psd.png) Sonceri Card - Lichfall](https://drive.google.com/file/d/14UE448ilYtpigjkUubg1ideuNBhUim8Q/view?usp=share_link) - click to download.
+
+![Lichfall Card](/img/resources/sonceri-lichfall-event.png)
+
+## The Alterac Theme
+
+Originally these cards were used in the [Everfrost campaign](/everfrost) with a frozen elemental feel.
+
+[![PSD](/img/psd.png) Sonceri Card - Alterac](https://drive.google.com/file/d/1CFU7cA2eW0Ju6czvNoIUKq0NzVIJEqHd/view?usp=share_link) - click to download.
+
+![Everfrost Card](/img/resources/sonceri-alterac-event.png)
+
 ## The Barrens Theme
 
 Originally these cards were used in the [Thornwake campaign](/thornwake) with a Barrens plains and major city feel.
