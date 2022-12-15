@@ -49,6 +49,7 @@ module.exports = {
       },
       items: [
         'photoshop/adventure-journal',
+        'photoshop/dragonflight-journal',
         'photoshop/tech-journals',
         'photoshop/final-journal',
         'photoshop/elven-journal',

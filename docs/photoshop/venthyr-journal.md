@@ -4,7 +4,7 @@ id: vampire-journal
 description: Find yourself a journal of blood, nightmare, and the wrath of the Venthyr. Google Slides journal series.
 ---
 
-The darkness of the soul is a tithe, laid before altars of the dead and beheld of the damned. Enjoy these parchment of shade to collect your thoughts and dreams. Or perhaps to chat the destinies of those you shall tear from the moorings of their life. 
+The darkness of the soul is a tithe, laid before altars of the dead and beheld of the damned. Enjoy these parchments of shade to collect your thoughts and dreams. Or perhaps to chart the destinies of those you shall tear from the moorings of their life. 
 
 1. Visit the [Venthyr journal Google Slides](https://docs.google.com/presentation/d/1sIhDACgHLw6sdK0E5G7wZ_KrE2g70WmPu6gZhYsNweE).
 2. Select **File** > **Make a Copy** to save a copy of the Entire Presentation to your Google Drive.
