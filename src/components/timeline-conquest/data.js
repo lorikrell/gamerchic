@@ -1,5 +1,18 @@
 const items = [
     {
+      title: "41 L.C. / November 2022",
+      cardTitle: "Lichfall",
+      cardSubtitle: `Pitiful wretches, fall and join my army...forever.`,
+      cardDetailedText: `Replaced`,
+        media: {
+          name: "lichfall",
+          source: {
+            url: "img/landing/lichfall-logo.png"
+          },
+          type: "IMAGE"
+        }
+    },
+    {
       title: "41 L.C. / April 2022",
       cardTitle: "Everfrost",
       cardSubtitle: `May the world fall to endless winter.`,
