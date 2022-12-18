@@ -17,6 +17,8 @@ New to using Photoshop/Photopea? I've added some extra info to help below. It do
 ## Download Files
 
 * [![PSD](/img/psd.png) WoW Logo - Guild Crest Version](https://drive.google.com/file/d/1s6GIrDo10_YIjwNgpkX7h5l5cr9dvz7A/view?usp=sharing) - Click to download just this PSD. Updated through Dragonflight + customs.
+* 
+* [![PSD](/img/psd.png) WoW Logo - Portrait Version](https://drive.google.com/file/d/13F25OnA1mjBcl_1N9mz-qROursiKPyKK/view?usp=share_link) - Click to download just this PSD. All custom logos!
 
 * [![PSD](/img/psd.png) WoW Logo](https://drive.google.com/file/d/1x9uKmM98TWsEbcUMuyB_C2lbUS2EBXXG/view?usp=sharing) - Click to download just this PSD.
 
@@ -75,6 +77,8 @@ Time to edit and create a logo!
 
 Here are a couple examples!
 
+### WoW Logos
+
 ![Void](/img/resources/logo-call-void.png)
 
 ![Summer](/img/resources/logo-summer.png)
@@ -88,3 +92,13 @@ Here are a couple examples!
 ![Blades](/img/resources/wow-logo-example2.png)
 
 ![Blood](/img/resources/wow-logo-example3.png)
+
+### WoW Portrait Logos
+
+![Druid](/img/resources/portrait-druidic.png)
+
+![Emblem](/img/resources/portrait-emblem.png)
+
+![Mech](/img/resources/portrait-mech.png)
+
+![Venthyr](/img/resources/portrait-venthyr.png)
