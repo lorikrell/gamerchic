@@ -102,7 +102,7 @@ function Feature2({imageUrl, title, description}) {
   );
 }
 
-function TropicSunder() {
+function Conquest() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
@@ -228,7 +228,7 @@ function TropicSunder() {
       <div className='conquest-hero' id='tropic'>
       <ReactPlayer 
       className='react-player'
-      url='https://www.youtube.com/v/dWIWOsC-QAA?version=3&vq=hd1080&t=5&playlist=dWIWOsC-QAA'
+      url='https://www.youtube.com/v/on9FIFoYFX8?version=3&vq=hd1080&t=5&playlist=on9FIFoYFX8'
       width='100%'
       height='100%'
       config={{
@@ -265,4 +265,4 @@ function TropicSunder() {
   );
 }
 
-export default TropicSunder;
+export default Conquest;
