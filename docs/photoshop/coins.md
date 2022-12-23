@@ -17,13 +17,13 @@ These templates use layer effects, masks, and clipping masks to generate seals.Y
 
 ## Download and Build
 
-[![PSD](/img/psd.png) Sonceri Coins](https://drive.google.com/file/d/1n2G1ju3zbpjie_H6nDdMlE4b0uoyND37/view?usp=sharing) - click to download.
+[![PSD](/img/psd.png) Sonceri Coins](https://drive.google.com/file/d/1n2G1ju3zbpjie_H6nDdMlE4b0uoyND37) - click to download.
 
-1. Add an icon or pick one from the purple folder, Paste an Icon here.
-1. Select the coin type: round, hex, square, forged, or wood. 
-1. Optional, show the Text group and a layer. Edit text. Coins may have rounded text, square text, angled, etc.
+1. Add a transparent image in black to the ADD ICON HERE folder. Or pick one from the folder. There are a few in various folders. Select as many as you like.
+1. Show/hide a coin folder. These include Round, Hex, Square, Diamond, Forged (rectangle, couple options), and Wood (round).
+1. Optional, show the Text group and edit the text. Or add your own. Make sure to put it in that folder in black.
 1. Optional, show the Pick Decoration and layer for little additions, like laurel leaves or runes.
-1. Select the color and type of coin. For example, wood has four different looks, round as multiple colors and metals.
+1. Make changes, tweak things, have some fun! You can show multiple icons and decorations, change colors, change layer settings.
 1. Save as a *.png*.
 
 ![WoW Coins](/img/resources/wow-coins.jpg)
@@ -34,6 +34,15 @@ These templates use layer effects, masks, and clipping masks to generate seals.Y
 
 | | | | |
 |--|--|--|--|
+|![Coin](/img/resources/coin/death-knight.png) |![Coin](/img/resources/coin/Deathmark.png) |![Coin](/img/resources/coin/demon-hunter.png) |![Coin](/img/resources/coin/demonic.png) |
+|![Coin](/img/resources/coin/Draconic.png) |![Coin](/img/resources/coin/Draconic2.png) |![Coin](/img/resources/coin/Draconic3.png) |![Coin](/img/resources/coin/Druid.png) |
+|![Coin](/img/resources/coin/Evil-Skull.png) |![Coin](/img/resources/coin/Gilneas1.png) |![Coin](/img/resources/coin/Gilneas2.png) |![Coin](/img/resources/coin/Gnomergan.png) |
+|![Coin](/img/resources/coin/holy.png) |![Coin](/img/resources/coin/horde1.png) |![Coin](/img/resources/coin/hunter.png) |![Coin](/img/resources/coin/kaldorei.png) |
+|![Coin](/img/resources/coin/KirinTor.png) |![Coin](/img/resources/coin/kultiras1.png) |![Coin](/img/resources/coin/mage.png) |![Coin](/img/resources/coin/magical.png) |
+|![Coin](/img/resources/coin/monk.png) |![Coin](/img/resources/coin/paladin.png) |![Coin](/img/resources/coin/pandaria.png) |![Coin](/img/resources/coin/pandaria-shell.png) |
+|![Coin](/img/resources/coin/Phoenix.png) |![Coin](/img/resources/coin/priest.png) |![Coin](/img/resources/coin/Queldorei.png) |![Coin](/img/resources/coin/rendorei.png) |
+|![Coin](/img/resources/coin/rogue.png) |![Coin](/img/resources/coin/shaman.png) |![Coin](/img/resources/coin/shamanic.png) |![Coin](/img/resources/coin/Sindorei.png) |
+|![Coin](/img/resources/coin/Stormwind.png) |![Coin](/img/resources/coin/warlock.png) |![Coin](/img/resources/coin/warrior.png) |![Coin](/img/resources/coin/wildhammer.png) |
 |![Coin](/img/resources/coin/alliance-round-gold.png) |![Coin](/img/resources/coin/argent-square.png) |![Coin](/img/resources/coin/ashenvale.png) |![Coin](/img/resources/coin/cenarion-forged.png) |
 |![Coin](/img/resources/coin/coin-scarletc.png) |![Coin](/img/resources/coin/coin-scarletc2.png) |![Coin](/img/resources/coin/coin-ebon.png) |![Coin](/img/resources/coin/coin-kt.png) |
 |![Coin](/img/resources/coin/darkspear-hex.png) |![Coin](/img/resources/coin/darnassus-round.png) |![Coin](/img/resources/coin/dragonmaw-hex.png) |![Coin](/img/resources/coin/gilneas-forged.png) |
