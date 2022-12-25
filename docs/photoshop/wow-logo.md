@@ -5,10 +5,7 @@ id: wow-logo
 
 Create your own WoW Logos for events, campaigns, and guilds! Using the base logo images from World of Warcraft, these Photoshop files give you the ability to add art and text, generating custom logos for your groups. You can use these in Photoshop or online [Photopea](https://www.photopea.com/). Gimp and other apps will not keep the text and layer effects.
 
-There are two versions:
-
-* Large base logos
-* Medium logos with space for your [guild crests](crest.md)
+There are a few versions using existing Warcraft expansion logos, custom logos, and new portrait shaped logos. 
 
 :::sonceri
 New to using Photoshop/Photopea? I've added some extra info to help below. It does help having some experience with graphic programs. Additions for Affinity Designer will be added later, but similar.
@@ -25,6 +22,8 @@ New to using Photoshop/Photopea? I've added some extra info to help below. It do
 * [Folder of all PSDs and fonts!](https://drive.google.com/drive/u/0/folders/1thJDl4LTUwOY-KWd2L8G-MzEeKCxLPDy) Install the fonts to use the text options per logo.
 
 ## How the PSD Works
+
+Both versions of logo PSDs work the same. You have folder of logo looks to show/hide, folders to drop in art, and text to add custom titles and subtitles.
 
 1. Download and install the fonts if you are editing this locally using Photoshop or Affinity Designer.
 1. Download and open the Photoshop files in Photoshop or Photopea.
