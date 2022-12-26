@@ -6,6 +6,10 @@ description: Find yourself a journal of sights beheld in the lands of Eorzea and
 
 The call of crystal sings in our minds, hearts blazing in promise, and war ever dodged by the deft. Many stories walk the lands, rise and fall in the halls of adventures and lords. By the will of magic and arms, hymn and steps, the chill of stars and heat of earth, do we make this stand.
 
+:::sonceri Helpful Request for the Artist
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+:::
+
 1. Visit the [Final Fantasy journal Google Slides](https://docs.google.com/presentation/d/1_c1fNukSvs-_Pu0aHrNZinJURoOGU1wpNGkJBCpOjoM).
 2. Select **File** > **Make a Copy** to save a copy of the Entire Presentation to your Google Drive.
 3. Create new slides.

@@ -9,6 +9,10 @@ Event cards can be used for events for a tabletop campaign, guild, short or long
 You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
 :::
 
+:::sonceri Helpful Request for the Artist
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+:::
+
 ## Create Event Cards
 
 These cards let you add art files and info for bosses players battle or meet or items they earn through events. 

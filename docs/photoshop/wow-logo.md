@@ -11,6 +11,10 @@ There are a few versions using existing Warcraft expansion logos, custom logos, 
 New to using Photoshop/Photopea? I've added some extra info to help below. It does help having some experience with graphic programs. Additions for Affinity Designer will be added later, but similar.
 :::
 
+:::sonceri Helpful Request for the Artist
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+:::
+
 ## Download Files
 
 * [![PSD](/img/psd.png) WoW Logo - Guild Crest Version](https://drive.google.com/file/d/1s6GIrDo10_YIjwNgpkX7h5l5cr9dvz7A/view?usp=sharing) - Click to download just this PSD. Updated through Dragonflight + customs.

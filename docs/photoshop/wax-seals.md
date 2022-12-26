@@ -15,6 +15,10 @@ These templates use layer effects, masks, and clipping masks to generate seals.Y
 If you want to add special effects, add text, or grunge up the seals, download and install fonts and brushes. See [Fonts and Brushes](psd-resources.md).
 :::
 
+:::sonceri Helpful Request for the Artist
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+:::
+
 ## Download PSD Files
 
 You have more options for making wax seals! You will need to supply your own icons for the new files. The Original seals file does have some icons already available.

@@ -6,6 +6,10 @@ description: Find yourself a journal to weather adventures in golden ruins and p
 
 Beyond the green forests of Hillsbrad and crater of Dalaran lies the frozen climes of the Alterac Mountains. In the valleys of dense forests and dark snowy rock, the hearty folk of the Stormpike and Frost Wolves keep vigil. Recent warfare led adventurers into these windswept mountains. And this journal can hold those details.
 
+:::sonceri Helpful Request for the Artist
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+:::
+
 1. Visit the [Alterac adventure journal Google Slides](https://docs.google.com/presentation/d/1ZLRKFVI2EHZ08aeYP5dJOW-AH6OALjFqBPWSj6UVPnE).
 2. Select **File** > **Make a Copy** to save a copy of the Entire Presentation to your Google Drive.
 3. Create new slides.

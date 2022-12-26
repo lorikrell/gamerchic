@@ -6,6 +6,10 @@ description: Find yourself a journal to weather adventures in golden ruins and p
 
 To sail the seas wide and deep, ye need little else than a blade and hunger fer adventure. Seek ye to ship and crew, pirate ta merchant. They be needin' all sorts to seek fame and fortune. But be wary what ye find in the jungles. Ruins hold more traps than wonders. But the prizes won, who can turn away? So keep careful note in these here pages.
 
+:::sonceri Helpful Request for the Artist
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+:::
+
 1. Visit the [jungle adventure journal Google Slides](https://docs.google.com/presentation/d/1DDpAp7VVWNes6ywGCZwksRB5bBvRvMwxwGyKwV0TF9k).
 2. Select **File** > **Make a Copy** to save a copy of the Entire Presentation to your Google Drive.
 3. Create new slides.

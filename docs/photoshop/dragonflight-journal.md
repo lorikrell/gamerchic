@@ -6,6 +6,10 @@ description: Find yourself a journal of dreams and magic of the flights. Google 
 
 Welcome to the Dragon Isles! Mysteries abound for those new to the shores, and dragons returning at last to their home. Enjoy these pages capturing scenes from the isles and magic of the flights. Collect your thoughts and dreams, adventures and studies, and archeology finds.
 
+:::sonceri Helpful Request for the Artist
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+:::
+
 1. Visit the [Dragonflight Dream journal Google Slides](https://docs.google.com/presentation/d/1mxCIvF-kOR__PeuS2KZanU1zsQZ23vi4CEFb3ZwVHrs).
 2. Select **File** > **Make a Copy** to save a copy of the Entire Presentation to your Google Drive.
 3. Create new slides.

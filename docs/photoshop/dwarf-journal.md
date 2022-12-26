@@ -6,6 +6,10 @@ description: Find yourself a journal of metal and parchment pages inspired by dw
 
 From the mountains, hills, and wide world, the dwarven folk hold true to a craftsman's spirit and will of mithril. To chart the life and times of our stone heralded brethren, this journal provides a series of metal and parchment pages sparked by their ancient ways. Runes, coins, seals, and more highlight the captured histories you document.
 
+:::sonceri Helpful Request for the Artist
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+:::
+
 1. Visit the [dwarven journal Google Slides](https://docs.google.com/presentation/d/1xzY_uKpY9G_YWiuTE4wM7hBwyA29WVRs6oe13rhYn80).
 2. Select **File** > **Make a Copy** to save a copy of the Entire Presentation to your Google Drive.
 3. Create new slides.

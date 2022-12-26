@@ -12,6 +12,10 @@ Journal images are 1920 x 1080, a popular wallpaper size. Click images to zoom i
 To save, right-click any image and select **Save image as...**
 :::
 
+:::sonceri Helpful Request for the Artist
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+:::
+
 ## Elven Seals
 
 These have new seals created for TOA 2022 and previous 2021.

@@ -6,6 +6,10 @@ description: Book options for your tech journals and notes. Google Slides journa
 
 Engineers, designers, and the like need special pages to document plans, schematics, blueprints, and more. Pages include a technical hex for maps and planning, blueprints, and the like. Many others are open with coins, bookmarks, a quill, and more.
 
+:::sonceri Helpful Request for the Artist
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+:::
+
 1. Visit the [tech journal Google Slides](https://docs.google.com/presentation/d/1MgbuOpKv7U8noZVVaPFawHJbOY_xOvPqMq5RLbEboqI).
 2. Select **File** > **Make a Copy** to save a copy of the Entire Presentation to your Google Drive.
 3. Create new slides.
