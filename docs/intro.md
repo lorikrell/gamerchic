@@ -20,19 +20,3 @@ A fantastic yet typical scenario played out so many times in games. How do you t
 | [World of Darkness](/docs/w-o-d/intro) | Find resources and campaign information for games including Vampire, Werewolf, and more.|
 
 </div>
-
-## Highlights
-
-Watch for these notes for tips and tricks!
-
-:::gamerchic
-Specific information on Gamerchic run campaigns, which can span a ton of different settings. Who is Gamerchic? ME! Sonceri.
-:::
-
-:::homebrew
-Content created by fans and game masters, homebrewed rules and options not available in published game studio content.
-:::
-
-:::sonceri Sonc Tips!
-Little notes and thoughts from Sonceri, especially best practices for Photoshop!
-:::

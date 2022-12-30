@@ -12,7 +12,7 @@ The Warcraft Conquest Discord Server is a community project that focuses on coor
 |--|--|--|
 | [Create Vehicle Tokens](vehicle-tokens.md)<br/>[Event Cards](event-cards.md)<br/>[Event Map Cards](../photoshop/event-cards.md)<br/>[Creator Resources](https://drive.google.com/drive/u/0/folders/1zerrT40geTDstjGdsfDnFHh-_whOEugf) | [Investigation Events](../investigation.md)<br/>[Fonts & Brushes](../photoshop/psd-resources.md)<br/>[Custom Coins](../photoshop/coins.md)<br/>[Wax Seals](../photoshop/wax-seals.md) | [All Campaigns](https://gamerchic.org/warcraft-conquest/warcraft-conquest.html)<br/>[Conquest D20 System Simplified 1.2](https://docs.google.com/document/d/1uWgbEss5eeHPUwn3yROz4JuiYSbTq1JdxiMGy1a2pGY/edit)<br/>[Conquest War Machine System 3.1](https://docs.google.com/document/d/1Q9vnQ6pLNIQgCSIcxVzJzsQnPSz3nXffgqEjI0nqUsE/edit#) |
 
-:::conquest Community Driven!
+:::info Community Driven!
 Warcraft Conquest is community driven, written and forged by numerous moderators, creators, writers, and players. The community is vast and ever-growing. Not enough thanks and love can be given to these folks. 
 
 Interested? Find us on [Discord](https://tinyurl.com/warcraftconquestdiscord)! All are welcome in the Warcraft roleplay community.

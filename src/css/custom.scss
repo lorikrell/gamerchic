@@ -335,10 +335,7 @@ blockquote {
 
 .blog--primary {
   --ifm-hero-text-color: rgb(255, 255, 255) !important;
-  background-image: 
-    linear-gradient(rgba(0,0,0,0.3),
-    rgba(0,0,0,0.75)),
-    url("") !important;
+  // background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.75)),url("") !important;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -434,277 +431,136 @@ html[data-theme='dark'] code {
 
 // ADMONITIONS
 
-.admonition h5 {
-  font-family: "Roboto", sans serif;
+.admonitionHeading {
+  --ifm-heading-font-family: "Roboto", sans serif;
 }
 
-// NOTE
-html[data-theme='dark'] .alert--secondary {
-  --ifm-alert-background-color: rgba(32, 201, 151, 0.05);
-  --ifm-alert-border-color: #20c997;
-  border-left: 6px solid #20c997;
-  --ifm-alert-color: #ffffff;
-  .admonition-icon {
-    --ifm-alert-foreground-color: #20c997 !important;
-  } 
+// NEW ADMONITIONS  https://docusaurus.community/knowledge/component-library/existing/Admonitions/
+// conquest, dungeon, exalted, gamerchic, homebrew, shadowrun, sonceri, wod
+
+.admonitionIcon svg {
+  width: 30px;
+  height: 30px;
 }
 
-html[data-theme='light'] .alert--secondary {
-  --ifm-alert-background-color: rgba(32, 201, 151, 0.05);
-  --ifm-alert-color: #20c997;
-  --ifm-alert-border-color: #20c997;
-  border-left: 6px solid #20c997;
-  --ifm-alert-color: var(--ifm-font-color-base);
-  --ifm-alert-foreground-color: #137c5d;
-  .admonition-icon {
-    --ifm-alert-foreground-color: #137c5d !important;
-  } 
+.alert--conquest {
+  --ifm-alert-background-color: #00458e40;
+  --ifm-alert-background-color-highlight: #00458e40;
+  --ifm-alert-foreground-color: #00458e; // text
+  --ifm-alert-border-color: #00458e;
 }
 
-// IMPORTANT
-html[data-theme='light'] .alert--info {
-  --ifm-alert-background-color: rgba(0, 139, 178, 0.05);
-  --ifm-alert-border-color: #008bb2;
-  border-left: 6px solid #008bb2;
-  --ifm-alert-color: var(--ifm-font-color-base);
-  .admonition-icon {
-    --ra-admonition-icon-color: #008bb2 !important;
-  } 
+html[data-theme='dark'] .alert--conquest {
+  --ifm-alert-background-color: #44b9ff47;
+  --ifm-alert-background-color-highlight: #00cfff25;
+  --ifm-alert-foreground-color: rgb(255,255,255);
+  --ifm-alert-border-color: #00458e;
 }
 
-html[data-theme='dark'] .alert--info {
-  --ifm-alert-background-color: rgba(0, 139, 178, 0.05);
-  --ifm-alert-border-color: #008bb2;
-  border-left: 6px solid #008bb2;
-  --ifm-alert-color: #ffffff; 
-  .admonition-icon {
-    --ifm-alert-foreground-color: #008bb2 !important;
-  } 
+.alert--homebrew {
+  --ifm-alert-background-color: #00659140;
+  --ifm-alert-background-color-highlight: #00659140;
+  --ifm-alert-foreground-color: #00458e; // text
+  --ifm-alert-border-color: #006591;
 }
 
-// TIP
-html[data-theme='light'] .alert--success {
-  --ifm-alert-background-color: rgba(63, 146, 63, 0.05);
-  --ifm-alert-border-color: #3f923f;
-  border-left: 6px solid #3f923f;
-  --ifm-alert-color: var(--ifm-font-color-base);
-  .admonition-icon {
-    --ifm-alert-foreground-color: #3f923f !important;
-  }   
+html[data-theme='dark'] .alert--homebrew {
+  --ifm-alert-background-color: #00659140;
+  --ifm-alert-background-color-highlight: #00659140;
+  --ifm-alert-foreground-color: rgb(255,255,255);
+  --ifm-alert-border-color: #006591;
 }
 
-html[data-theme='dark'] .alert--success {
-  --ifm-alert-background-color: rgba(63, 146, 63, 0.05);
-  --ifm-alert-border-color: #3f923f;
-  border-left: 6px solid #3f923f;
-  --ifm-alert-color: #ffffff; 
-  .admonition-icon {
-    --ifm-alert-foreground-color: #3f923f !important;
-  } 
+.alert--exalted {
+  --ifm-alert-background-color: #ad975940;
+  --ifm-alert-background-color-highlight: #ad975940;
+  --ifm-alert-foreground-color: #4a3e1c; // text
+  --ifm-alert-border-color: #ad9759;
 }
 
-// CAUTION
-html[data-theme='light'] .alert--warning {
-  --ifm-alert-background-color: rgba(255, 141, 3, 0.05);
-  --ifm-alert-border-color: #ff8d03;
-  border-left: 6px solid #ff8d03;
-  --ifm-alert-color: var(--ifm-font-color-base);
-  border-radius: 0;
-  .admonition-icon {
-    --ra-admonition-icon-color: #ff8d03 !important;
-  }
+html[data-theme='dark'] .alert--exalted {
+  --ifm-alert-background-color: #ad975940;
+  --ifm-alert-background-color-highlight: #ad975940;
+  --ifm-alert-foreground-color: rgb(255,255,255);
+  --ifm-alert-border-color: #ad9759;
 }
 
-html[data-theme='dark'] .alert--warning {
-  --ifm-alert-background-color: rgba(255, 141, 3, 0.05);
-  --ifm-alert-border-color: #ff8d03;
-  border-left: 6px solid #ff8d03;
-  --ifm-alert-color: #ffffff;
-  border-radius: 0;
-  .admonition-icon {
-    --ifm-alert-foreground-color: #ff8d03 !important;
-  }
+.alert--gamerchic {
+  --ifm-alert-background-color: #e5ab0940;
+  --ifm-alert-background-color-highlight: #e5ab0940;
+  --ifm-alert-foreground-color: #4a3e1c; // text
+  --ifm-alert-border-color: #e5ab09;
 }
 
-// WARNING
-html[data-theme='light'] .alert--danger {
-  --ifm-alert-background-color: rgba(223, 75, 48, 0.05);
+html[data-theme='dark'] .alert--gamerchic {
+  --ifm-alert-background-color: #e5ab0940;
+  --ifm-alert-background-color-highlight: #e5ab0940;
+  --ifm-alert-foreground-color: rgb(255,255,255);
+  --ifm-alert-border-color: #e5ab09;
+}
+
+.alert--dungeon {
+  --ifm-alert-background-color: #df4b3040;
+  --ifm-alert-background-color-highlight: #df4b3040;
+  --ifm-alert-foreground-color: #8f1f0c; // text
   --ifm-alert-border-color: #df4b30;
-  border-left: 6px solid #df4b30;
-  --ifm-alert-color: var(--ifm-font-color-base);
-  .admonition-icon {
-    --ra-admonition-icon-color: #df4b30 !important;
-  } 
 }
 
-html[data-theme='dark'] .alert--danger {
-  --ifm-alert-background-color: rgba(223, 75, 48, 0.05);
+html[data-theme='dark'] .alert--dungeon {
+  --ifm-alert-background-color: #df4b3040;
+  --ifm-alert-background-color-highlight: #df4b3040;
+  --ifm-alert-foreground-color: rgb(255,255,255);
   --ifm-alert-border-color: #df4b30;
-  border-left: 6px solid #df4b30;
-  --ifm-alert-color: #ffffff;
-  .admonition-icon {
-    --ifm-alert-foreground-color: #df4b30 !important;
-  } 
 }
 
-// homebrew
-html[data-theme='light'] .admonition-homebrew {
-  background-color: rgba(0, 101, 145, 0.05);
-  border-radius: 5px;
-  //border: 1px solid #006591;
-  border-left: 6px solid #006591;
-  color: var(--ifm-font-color-base);
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 30px;
-    height: 30px;
-  }
-  .admonition-heading {
-    padding-top: 5px;
-    padding-left: 5px;
-  }
+.alert--shadowrun {
+  --ifm-alert-background-color: #00dde040;
+  --ifm-alert-background-color-highlight: #00dde040;
+  --ifm-alert-foreground-color: #005052; // text
+  --ifm-alert-border-color: #00dde0;
 }
 
-html[data-theme='dark'] .admonition-homebrew {
-  background-color: rgba(0, 101, 145, 0.05);
-  //border: 1px solid #006591;
-  border-radius: 5px;
-  border-left: 6px solid #006591;
-  color: #ffffff;
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 30px;
-    height: 30px;
-  }
-  
+html[data-theme='dark'] .alert--shadowrun {
+  --ifm-alert-background-color: #00dde040;
+  --ifm-alert-background-color-highlight: #00dde040;
+  --ifm-alert-foreground-color: rgb(255,255,255);
+  --ifm-alert-border-color: #00dde0;
 }
 
-// Exalted
-html[data-theme='light'] .admonition-exalted {
-  background-color: rgba(173, 151, 89, 0.05);
-  //border: 1px solid #ad9759;
-  border-radius: 5px;
-  border-left: 6px solid #ad9759;
-  color: var(--ifm-font-color-base);
-  --ra-admonition-icon-color: #ad9759; 
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 26px !important;
-    height: 26px !important;
-  }
+.alert--wod {
+  --ifm-alert-background-color: #9001f540;
+  --ifm-alert-background-color-highlight: #9001f540;
+  --ifm-alert-foreground-color: #34134b; // text
+  --ifm-alert-border-color: #9001f5;
 }
 
-html[data-theme='dark'] .admonition-exalted {
-  background-color: rgba(173, 151, 89, 0.05);
-  //border: 1px solid #ad9759;
-  border-radius: 5px;
-  border-left: 6px solid #ad9759;
-  color: #ffffff;
-  --ra-admonition-icon-color: #ad9759; 
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 26px !important;
-    height: 26px !important;
-  }
+html[data-theme='dark'] .alert--wod {
+  --ifm-alert-background-color: #9001f540;
+  --ifm-alert-background-color-highlight: #9001f540;
+  --ifm-alert-foreground-color: rgb(255,255,255);
+  --ifm-alert-border-color: #9001f5;
 }
 
-// Gamerchic
-html[data-theme='light'] .admonition-gamerchic {
-  background-color: rgba(229, 171, 9, 0.05);
-  //border: 1px solid #e5ab09;
-  border-radius: 5px;
-  border-left: 6px solid #e5ab09;
-  color: var(--ifm-font-color-base);
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  --ra-admonition-icon-color: #e5ab09 !important; 
-  .admonition-heading {
-    padding-top: 5px;
-    padding-left: 5px;
-  }
+.alert--sonceri {
+  --ifm-alert-background-color: #e836a140;
+  --ifm-alert-background-color-highlight: #e836a140;
+  --ifm-alert-foreground-color: #6d0343; // text
+  --ifm-alert-border-color: #e836a1;
 }
 
-html[data-theme='dark'] .admonition-gamerchic {
-  background-color: rgba(229, 171, 9, 0.05);
-  //border: 1px solid #e5ab09;
-  border-radius: 5px;
-  border-left: 6px solid #e5ab09;
-  color: #ffffff;
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  --ra-admonition-icon-color: #e5ab09 !important; 
-  .admonition-heading {
-    padding-top: 5px;
-    padding-left: 5px;
-  }
+html[data-theme='dark'] .alert--sonceri {
+  --ifm-alert-background-color: #e836a140;
+  --ifm-alert-background-color-highlight: #e836a140;
+  --ifm-alert-foreground-color: rgb(255,255,255);
+  --ifm-alert-border-color: #e836a1;
 }
 
-// D&D
-html[data-theme='light'] .admonition-dungeon {
-  background-color: rgba(223, 75, 48, 0.05);
-  //border: 1px solid #df4b30;
-  border-radius: 5px;
-  border-left: 6px solid #df4b30;
-  color: var(--ifm-font-color-base);
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 26px !important;
-    height: 26px !important;
-  }
-}
-
-html[data-theme='dark'] .admonition-dungeon {
-  background-color: rgba(223, 75, 48, 0.05);
-  //border: 1px solid #df4b30;
-  border-radius: 5px;
-  border-left: 6px solid #df4b30;
-  color: #ffffff;
-  --ra-admonition-icon-color: #df4b30; 
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 26px !important;
-    height: 26px !important;
-  }
-}
-
-// Shadowrun
-html[data-theme='light'] .admonition-shadowrun {
-  background-color: rgba(0, 221, 224, 0.05);
-  //border: 1px solid #00dde0;
-  border-radius: 5px;
-  border-left: 6px solid #00dde0;
-  color: var(--ifm-font-color-base);
-  --ra-admonition-icon-color: #00dde0; 
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 30px !important;
-    height: 30px !important;
-  }
-  .admonition-heading {
-    padding-top: 5px;
-  }
-}
-
-html[data-theme='dark'] .admonition-shadowrun {
-  background-color: rgba(0, 221, 224, 0.05);
-  //border: 1px solid #00dde0;
-  border-radius: 5px;
-  border-left: 6px solid #00dde0;
-  color: #ffffff;
-  --ra-admonition-icon-color: #00dde0; 
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 30px !important;
-    height: 30px !important;
-  }
-  .admonition-heading {
-    padding-top: 5px;
-  }
-}
-
+/** OLD ADMONITIONS 
 // Conquest
 html[data-theme='light'] .admonition-conquest {
   color: var(--ifm-font-color-base);
   background: 
-     linear-gradient(#e1e0e0,#e1e0e0) padding-box, /*this is your page background*/
+     linear-gradient(#e1e0e0,#e1e0e0) padding-box, 
      linear-gradient(#003cff, #fd2e09) border-box;
   border-left: 5px solid transparent;
   //border-bottom: 1px solid transparent;
@@ -721,7 +577,7 @@ html[data-theme='light'] .admonition-conquest {
 html[data-theme='dark'] .admonition-conquest {
   color: #ffffff;
   background: 
-     linear-gradient(#18191a,#18191a) padding-box, /*this is your page background*/
+     linear-gradient(#18191a,#18191a) padding-box, 
      linear-gradient(#003cff, #fd2e09) border-box;
   border-left: 5px solid transparent;
   //border-bottom: 1px solid transparent;
@@ -735,68 +591,12 @@ html[data-theme='dark'] .admonition-conquest {
   }
 }
 
-// World of Darkness
-html[data-theme='light'] .admonition-wod {
-  background-color: rgba(144, 1, 245, 0.05);
-  //border: 1px solid #9001f5;
-  border-radius: 5px;
-  border-left: 6px solid #9001f5;
-  color: var(--ifm-font-color-base);
-  --ra-admonition-icon-color: #9001f5; 
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 26px !important;
-    height: 26px !important;
-  }
-}
-
-html[data-theme='dark'] .admonition-wod {
-  background-color: rgba(144, 1, 245, 0.05);
-  //border: 1px solid #9001f5;
-  border-radius: 5px;
-  border-left: 6px solid #9001f5;
-  color: #ffffff;
-  --ra-admonition-icon-color: #9001f5; 
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 26px !important;
-    height: 26px !important;
-  }
-}
-
-// Sonceri
-html[data-theme='light'] .admonition-sonceri {
-  background-color: rgba(232, 54, 161, 0.05);
-  //border: 1px solid #e836a1;
-  border-radius: 5px;
-  border-left: 6px solid #e836a1;
-  color: var(--ifm-font-color-base);
-  --ra-admonition-icon-color: #e836a1; 
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  .admonition-icon svg {
-    width: 30px !important;
-    height: 30px !important;
-  }
-}
-
-html[data-theme='dark'] .admonition-sonceri {
-  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
-  background-color: rgba(232, 54, 161, 0.05);
-  //border: 1px solid #e836a1;
-  border-radius: 5px;
-  border-left: 6px solid #e836a1;
-  color: #ffffff;
-  --ra-admonition-icon-color: #e836a1; 
-  .admonition-icon svg {
-    width: 30px !important;
-    height: 30px !important;
-  }
-}
-
 .alert a {
   color: var(--ifm-link-color);
   text-decoration: var(--ifm-link-decoration);
 }
+
+*/
 
 //VERSIONING
 .user-options {
@@ -1830,4 +1630,68 @@ html[data-theme='light'] .featureImage {
   display: 'grid';
   grid-template-columns:  repeat(auto-fill, minmax(200px, 1fr));
   grid-gap: 1rem;
+}
+
+
+// footer updated
+
+.footer__copyright {
+  margin-top: 5px;
+  font-size: 14px;
+  color: var(--docs-color-text-100);
+}
+
+.footer__row {
+  display: flex;
+  align-items: center;
+}
+
+.footer__cta {
+  padding-right: 24px;
+  font-size: 14px;
+  img {
+    width: 150px;
+  }
+  text-align: center;
+}
+
+.footer__cta p {
+  margin: 0;
+}
+
+.footer__cta a {
+  --ifm-link-hover-color: #fff;
+  margin-top: 0.25rem;
+  display: inline-block;
+  padding: 0.25rem 1.5rem;
+  border-radius: 4px;
+  background-color: theme('colors.primary.200');
+  color: #ffffff;
+  text-decoration: none;
+}
+
+
+.footer__data {
+  flex: 2;
+}
+
+.footer__row .links {
+  flex: 3;
+}
+
+.footer__title {
+  font-size: 14px;
+  font-weight: normal;
+  color: var(--docs-color-text-100);
+  margin-bottom: 0.5rem;
+}
+
+.footer__item {
+  font-size: 14px;
+  font-weight: normal;
+  color: var(--docs-color-text);
+}
+
+.footer__link-item:hover {
+  text-decoration: none;
 }

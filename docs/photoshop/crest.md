@@ -5,13 +5,13 @@ id: crest
 
 Remember the amazing Warcraft guild crests from the WoW site, and the incredible crest creator? Alas, the creator is no longer available. Using the symbols and ideas, here is a custom Photoshop file to select options, colors, and save guild crests!
 
+Select existing emblems or add your own!
+
 :::sonceri Helpful Request for the Artist
 All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
 :::
 
-Select existing emblems or add your own!
-
-:::sonceri Photoshop, Affinity Designer, and Photopea
+:::info Photoshop, Affinity Designer, and Photopea
 These templates use layer effects, masks, and clipping masks to generate seals.You can use Photoshop, Affinity Designer, and [Photopea free online](https://www.photopea.com/) editor. Versions for Clip Studio, GIMP, and other graphic programs are not available yet due to some limitations. These were created using the latest Photoshop Creative Cloud version.
 :::
 

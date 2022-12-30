@@ -7,7 +7,16 @@ Sometimes dungeon masters and campaign groups need some graphics to help promote
 
 ## Fonts
 
-Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
+This is a collection of fonts I use in the PSD resources on this site. Download and install fonts to your local. You can also add these to Photopea online!
+
+![PSD](/img/psd.png) [Download wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing)
+
+You can also find fonts at these websites:
+
+* [1001 Free Fonts](https://www.1001freefonts.com/)
+* [1001 Fonts](https://www.1001fonts.com/)
+* [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
+* [Google Fonts](https://fonts.google.com/)
 
 ![preview fonts](/img/resources/wow-fonts.jpg)
 
@@ -15,6 +24,9 @@ Download and install fonts used in many of these PSD files. You can download and
 
 You may want to edit fonts, grunge up your images, add dirt to your vehicles, and more. Download and install these packs to crete amazing art. To install, you can double click on the *.abr* file to run. Or in Photoshop, open the Brushes window and import the *.abr* files.
 
+* [Brusheezy](https://fonts.google.com/)
+* [Deviant Art Brushes](https://www.deviantart.com/tag/brushes)
+* [Forgotten Adventures brushes and more](https://www.forgotten-adventures.net/)
 * [Conquest Brush Pack - .abr file](https://drive.google.com/file/d/1eyDBgoevqxoOm0sbriUoTvVK6XRCuici/view?usp=sharing) - Large file!
 
     ![Brushes](/img/resources/brushes.jpg)
@@ -22,8 +34,4 @@ You may want to edit fonts, grunge up your images, add dirt to your vehicles, an
 * [Cartography Pack - abr file](https://drive.google.com/file/d/1fyJT9hxPUsgWCoe76udYz1Zpy2q54Aea/view?usp=sharing)
 
    ![Brushes](/img/resources/cartography.jpg) 
-
-:::sonceri Helpful Request for the Artist
-All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
-:::
 

@@ -5,7 +5,7 @@ id: chiaroscuro
 
 The great city of glass, city of spires, the broken jewel of the south, Chiaroscuro has many names earned and lost through the ages. This guide provides insights to the city and the south.
 
-:::exalted
+:::gamerchic
 Content for Chiaroscuro includes some information, and expands beyond, "Chapter Two: Broken Jewel of the South" in [The Compass of Terrestrial Directions, Vol IV - The South](https://www.drivethrurpg.com/product/59982/The-Compass-of-Terrestrial-Directions-Vol-IV--The-South?term=exalted+south). Some aspects of this history and information is a creation for homebrew campaigns.
 :::
 
