@@ -7,7 +7,7 @@ description: Find yourself a journal of blood, nightmare, and the wrath of the V
 The darkness of the soul is a tithe, laid before altars of the dead and beheld of the damned. Enjoy these parchments of shade to collect your thoughts and dreams. Or perhaps to chart the destinies of those you shall tear from the moorings of their life. 
 
 :::sonceri Helpful Request for the Artist
-All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates. You can link to this page. Thank you so very much! 
 :::
 
 1. Visit the [Venthyr journal Google Slides](https://docs.google.com/presentation/d/1sIhDACgHLw6sdK0E5G7wZ_KrE2g70WmPu6gZhYsNweE).

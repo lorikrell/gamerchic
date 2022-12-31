@@ -64,7 +64,7 @@ module.exports = {
       items: [
         {
           type: 'dropdown',
-          label: 'Find Resources',
+          label: 'Dungeon Masters',
           items: [
               {
                   label: 'Graphic Resources',
@@ -75,60 +75,73 @@ module.exports = {
                   to: 'docs/events-campaigns',
                 },
                 {
-                  label: 'Player Journals',
-                  to: 'docs/photoshop/journals',
+                  label: 'Guide to Investigations',
+                  to: 'docs/investigations',
                 },
                 {
-                  label: 'Scrollcase',
-                  sublabel: 'Scrolls and letters',
-                  to: 'docs/photoshop/scrollcase',
+                  label: 'Guide to Stealth and Spies',
+                  to: 'docs/stealth',
                 },
                 {
-                  label: 'Posters & Notices',
-                  sublabel: 'Posters & notice board',
-                  to: 'docs/photoshop/posters',
+                  label: 'Guide to Horror',
+                  to: 'docs/horror',
                 },
                 {
-                  label: 'Warcraft Conquest',
-                  sublabel: 'Moon Guard WC campaigns',
-                  to: 'Conquest',
+                  label: 'One Page Adventures',
+                  to: 'docs/onepage',
                 },
                 {
-                  label: 'WC Resources',
-                  sublabel: 'Rules, guides, & tokens',
+                  label: 'Warcraft Resources',
                   to: 'docs/wow-conquest/intro',
                 },
                 {
                   label: 'WoW Emojis',
-                  sublabel: 'Free custom emojis',
                   to: 'docs/photoshop/wow-emoji',
                 },
                 {
                   label: 'Vehicle Battle Tokens',
-                  sublabel: 'Creat tokens & maps',
                   to: 'docs/wow-conquest/token',
                 },
                 {
                   label: 'Event Cards',
-                  sublabel: 'Photoshop templates',
                   to: 'docs/wow-conquest/event-cards',
                 },
                 {
                   label: 'Loot Cards',
-                  sublabel: 'Photoshop templates',
                   to: 'docs/wow-conquest/boss-item-cards',
                 },
                 {
                   label: 'Exalted',
-                  sublabel: 'Solars & Lunars',
                   to: 'docs/exalted/resources',
                 },
                 {
                   label: 'World of Darkness',
-                  sublabel: 'Vampires, Wolves, & more',
                   to: 'docs/w-o-d/intro',
                 }, 
               ],
+        },
+        {
+          type: 'dropdown',
+          label: 'Players',
+          items: [
+            {
+              label: 'Player Journals',
+              to: 'docs/photoshop/journals',
+            },
+            {
+              label: 'Scrollcase',
+              sublabel: 'Scrolls and letters',
+              to: 'docs/photoshop/scrollcase',
+            },
+            {
+              label: 'Posters & Notices',
+              to: 'docs/photoshop/posters',
+            },
+            {
+              label: 'WoW Emojis',
+              to: 'docs/photoshop/wow-emoji',
+            },
+          ]
         },
         {
           type: 'dropdown',
@@ -144,27 +157,22 @@ module.exports = {
             },
             {
                   label: 'Lichfall',
-                  sublabel: 'Plaguelands',
                   to: 'lichfall',
                 },
                 {
                   label: 'Everfrost',
-                  sublabel: 'Alterac',
                   to: 'everfrost',
                 },
                 {
                   label: 'Thornwake',
-                  sublabel: 'The Barrens',
                   to: 'thornwake',
                 },
                 {
                   label: 'Tropic Sunder',
-                  sublabel: 'Stranglethorn Vale',
                   to: 'TropicSunder',
                 },
                 {
                   label: 'In Death\'s Shadow',
-                  sublabel: 'Icecrown Citadel',
                   to: 'DeathShadow',
                 },
               ],
