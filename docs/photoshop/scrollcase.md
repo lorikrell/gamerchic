@@ -7,7 +7,7 @@ description: Send letters to fine friends, declare war, or prepare a grocery lis
 Send letters to fine friends, declare war, or prepare a grocery list. The scrollcase is ready for your missives. Simply make a copy to your Google drive, create a slide, select a look, and write. For added flair, use a [wax seal](wax-seals.md) or add [more coins](coins.md).
 
 :::sonceri Helpful Request for the Artist
-All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates. You can link to this page. Thank you so very much! 
 :::
 
 1. Visit the [Scrollcase Google Slides](https://docs.google.com/presentation/d/1AyNMqpj4GJz_vZm4weMPPGA0opVdIv-g1m4fzxBIQu0).

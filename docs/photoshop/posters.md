@@ -7,7 +7,7 @@ description: Create custom posters for wanted notices, lost items, royal decrees
 Hear ye! Hear ye! In your adventures and games, you may need to post posters for wanted criminals, lost items and people, updated laws, royal decrees, and more. Use these posters for your grand declarations for MMO and Tabletop games. For added flair, use a [wax seal](wax-seals.md).
 
 :::sonceri Helpful Request for the Artist
-All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates. You can link to this page. Thank you so very much! 
 :::
 
 1. Visit the posters slide deck you want:

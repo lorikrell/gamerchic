@@ -7,7 +7,7 @@ description: Find yourself a journal of captured stars and dreams inspired by Ar
 Harken unto the glimmering forests, breath caught betwixt the last and the first! The ageless fallen that tend the groves... The newly slumbered awaiting their time to rise... Numerous paths wander through the glades, dappled in star light and remembrance. Wander these far places, or recall them in freams of old.
 
 :::sonceri Helpful Request for the Artist
-All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates. You can link to this page. Thank you so very much! 
 :::
 
 1. Visit the Ardenweald journal Google Slides [Night Fae captured dreams](https://docs.google.com/presentation/d/1vyB30_B88kVGRrsJSoGN5UCeGwN_5VOv8TJ1JlAakXE) or [Ardenweald reflections](https://docs.google.com/presentation/d/1N2dqR-zyMGz8WSYbTTHdbIJrobR25PFcVIbhwOP7JC0).

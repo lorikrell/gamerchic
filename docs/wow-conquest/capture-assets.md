@@ -56,7 +56,7 @@ To remove the background, you have some options: **Select** > **Color Range...**
 
 You can cut out a model or cut sections of a model.
 
-:::note Adobe Tools Tour
+:::gamerchic Adobe Tools Tour
 For a quick overview of Photoshop tools, see [this post](https://helpx.adobe.com/photoshop/using/tools.html#selection_tools_gallery) at Adobe.
 :::
 

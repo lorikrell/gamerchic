@@ -603,7 +603,7 @@ Additionally, ask for corruption rolls (d20 + levels of corruption) for dramatic
 
 Healing and cleansing this corruption may become part of the event or story arc, seeking more than simple prayer to purge the horrors within.
 
-:::conquest
+:::homebrew
 These rules are simplified from rules used by DMs during the Warcraft Conquest *Shadows in the Sands* campaign warring against N'zoth, Sathog, and various denizens of the void. Incredible thanks to Virsandir MG-Horde for crafting these ideas and the many DMs and players that aided!
 :::
 

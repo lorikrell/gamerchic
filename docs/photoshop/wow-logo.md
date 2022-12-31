@@ -7,12 +7,12 @@ Create your own WoW Logos for events, campaigns, and guilds! Using the base logo
 
 There are a few versions using existing Warcraft expansion logos, custom logos, and new portrait shaped logos. 
 
-:::sonceri
+:::homebrew Photoshop, Affinity Designer, and Photopea
 New to using Photoshop/Photopea? I've added some extra info to help below. It does help having some experience with graphic programs. Additions for Affinity Designer will be added later, but similar.
 :::
 
 :::sonceri Helpful Request for the Artist
-All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates for a logo. You can link to this page. Thank you so very much! 
+All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates. You can link to this page. Thank you so very much! 
 :::
 
 ## Download Files
