@@ -13,7 +13,7 @@ Some of the new coins have looks, colors, and names based on Warcraft ores, nati
 You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
 :::
 
-:::Select existing emblems or add your own! Photoshop, Affinity Designer, and Photopea
+:::homebrew Photoshop, Affinity Designer, and Photopea
 These templates use layer effects, masks, and clipping masks to generate seals.You can use Photoshop, Affinity Designer, and [Photopea free online](https://www.photopea.com/) editor. Versions for Clip Studio, GIMP, and other graphic programs are not available yet due to some limitations. These were created using the latest Photoshop Creative Cloud version.
 :::
 
