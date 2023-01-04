@@ -12,7 +12,7 @@ All of these resources are free of charge to download and open for anyone to use
 :::
 
 :::homebrew Photoshop, Affinity Designer, and Photopea
-These templates use layer effects, masks, and clipping masks to generate seals.You can use Photoshop, Affinity Designer, and [Photopea free online](https://www.photopea.com/) editor. Versions for Clip Studio, GIMP, and other graphic programs are not available yet due to some limitations. These were created using the latest Photoshop Creative Cloud version.
+These files can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). I do not recommend using other apps that do not support layer effects.
 :::
 
 ## Download and Build

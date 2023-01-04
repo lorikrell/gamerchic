@@ -5,8 +5,10 @@ id: event-maps
 
 A great way to mix event information and locations is to add maps with your locations and plans. The Event Map card template gives you the best of both worlds! There are tons of ways to use these. Here are a couple great examples.
 
-:::sonceri Fonts and Brushes
+:::sonceri Fonts, Brushes, and Editors
 You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
+
+This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). I do not recommend using other apps that do not support layer effects and complex text.
 :::
 
 :::sonceri Helpful Request for the Artist

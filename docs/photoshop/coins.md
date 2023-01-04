@@ -9,12 +9,10 @@ You can create these for D&D, World of Darkness, World of Warcraft, thief guilds
 
 Some of the new coins have looks, colors, and names based on Warcraft ores, nations, and locations! More to come!
 
-:::sonceri Fonts and Brushes
+:::sonceri Fonts, Brushes, and Editors
 You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
-:::
 
-:::homebrew Photoshop, Affinity Designer, and Photopea
-These templates use layer effects, masks, and clipping masks to generate seals.You can use Photoshop, Affinity Designer, and [Photopea free online](https://www.photopea.com/) editor. Versions for Clip Studio, GIMP, and other graphic programs are not available yet due to some limitations. These were created using the latest Photoshop Creative Cloud version.
+This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). I do not recommend using other apps that do not support layer effects and complex text.
 :::
 
 :::sonceri Helpful Request for the Artist

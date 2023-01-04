@@ -8,7 +8,7 @@ Wax seals include round and square formats with numerous patterns and colors inc
 You can create these for D&D, Pathfinder, LARPs, World of Darkness, Final Fantasy, World of Warcraft, homebrew settings, thief guilds, noble families, and many other games and genres.
 
 :::homebrew Photoshop, Affinity Designer, and Photopea
-These templates use layer effects, masks, and clipping masks to generate seals.You can use Photoshop, Affinity Designer, and [Photopea free online](https://www.photopea.com/) editor. Versions for Clip Studio, GIMP, and other graphic programs are not available yet due to some limitations. These were created using the latest Photoshop Creative Cloud version.
+This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). I do not recommend using other apps that do not support layer effects and complex text.
 :::
 
 :::sonceri Fonts and Brushes

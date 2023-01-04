@@ -1,7 +1,7 @@
 ---
 title: Avatars
 id: avatars
-description: Free avtar template for RPGs.
+description: Free avatar template for RPGs, VTTs, Warcraft, and more.
 ---
 
 You enter the domain of the lich through twisting passages. As you traverse, you wander the in game halls of a raid building like Karazhan or a beautiful map in a VTT like Roll20. Then the mastermind of months of roleplay and events appears... a floating X. Kind of anti-climatic. What if you could have a piece of art in a nice round frame to post in Discord or reveal in Roll20?!
@@ -9,7 +9,7 @@ You enter the domain of the lich through twisting passages. As you traverse, you
 This avatar template (.PSD) gives you the power to add art, select a ring border, and select all sorts of effects to make it look incredible: metal embossed laurels and skulls, glowing rune rings, shadows and flames, simple thin rings.
 
 :::homebrew Photoshop, Affinity Designer, and Photopea
-New to using Photoshop/Photopea? I've added some extra info to help below. It does help having some experience with graphic programs. Additions for Affinity Designer will be added later, but similar.
+This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can open this in Gimp and Clip Studio, but the layer effects will be lost.
 :::
 
 :::sonceri Helpful Request for the Artist
