@@ -14,7 +14,7 @@ A fantastic yet typical scenario played out so many times in games. How do you t
 
 | | |
 | -- | -- |
-| [**Graphic Resources**](/docs/photoshop/fonts-brushes) | Find sample files and Photoshop templates to create gaming resources including wax seals, coins, logos, and a collection of brushes and fonts. |
+| [**Graphic Resources**](/docs/photoshop/fonts-brushes) | Find sample files and Photoshop templates to create gaming resources including wax seals, coins, logos, avatars, and a collection of brushes and fonts. |
 | [**DM Event Guides**](/docs/events-campaigns) | Learn more about running events and specialized encounters for tabletop and MMO-RPGs. |
 | [**Character Journals**](/docs/photoshop/adventure-journal) | Craft your character or NPC journey, custom books, or incriminating letters with these Google Slides journals and scrollcases. |
 | [**Warcraft Resources**](/docs/wow-conquest/intro) | Find resources for World of Warcraft and the [Warcraft Conquest](/Conquest) project, including graphic templates, vehicle battle setup, and more. |

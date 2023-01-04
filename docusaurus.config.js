@@ -99,6 +99,14 @@ module.exports = {
                   to: 'docs/photoshop/wow-emoji',
                 },
                 {
+                  label: 'Avatars',
+                  to: 'docs/photoshop/avatars',
+                },
+                {
+                  label: 'WoW Logos',
+                  to: 'docs/photoshop/wow-logo',
+                },
+                {
                   label: 'Vehicle Battle Tokens',
                   to: 'docs/wow-conquest/token',
                 },
@@ -140,6 +148,10 @@ module.exports = {
             {
               label: 'WoW Emojis',
               to: 'docs/photoshop/wow-emoji',
+            },
+            {
+              label: 'Avatars',
+              to: 'docs/photoshop/avatars',
             },
           ]
         },

@@ -8,7 +8,7 @@ MMOs give dungeon masters and players more opportunities to write their own tale
 
 | WoW Templates | WoW DM Guides |
 |--|--|
-| [WC Event Cards](event-cards.md)<br/>[Event Map Cards](../photoshop/event-cards.md)<br/>[Creator Resources](https://drive.google.com/drive/u/0/folders/1zerrT40geTDstjGdsfDnFHh-_whOEugf)<br/>[WoW Logos](../photoshop/wow-logo.md)<br/>[WoW Guild Crests](../photoshop/crest.md)<br/>[Custom Coins](../photoshop/coins.md)<br/>[Wax Seals](../photoshop/wax-seals.md)<br/>[Create Vehicle Tokens](vehicle-tokens.md) | [Running Events](../best-practice.md)<br/>[Investigation Events](../investigation.md)<br/>[Stealth & Spy Events](../stealth.md)<br/>[Horror Events](../horror.md)<br/>[One Page Events](../one-page.md) |
+| [Avatars](../photoshop/wow-avatars.md)<br/>[WC Event Cards](event-cards.md)<br/>[Event Map Cards](../photoshop/event-cards.md)<br/>[Creator Resources](https://drive.google.com/drive/u/0/folders/1zerrT40geTDstjGdsfDnFHh-_whOEugf)<br/>[WoW Logos](../photoshop/wow-logo.md)<br/>[WoW Guild Crests](../photoshop/crest.md)<br/>[Custom Coins](../photoshop/coins.md)<br/>[Wax Seals](../photoshop/wax-seals.md)<br/>[Create Vehicle Tokens](vehicle-tokens.md) | [Running Events](../best-practice.md)<br/>[Investigation Events](../investigation.md)<br/>[Stealth & Spy Events](../stealth.md)<br/>[Horror Events](../horror.md)<br/>[One Page Events](../one-page.md) |
 
 ![banner](/img/landing/banner-conquest.png)
 

@@ -40,9 +40,9 @@ To run tabletop and virtual tabletop adventures:
 
   ![skull](/img/icons/icon-skull.png) ![cross](/img/icons/icon-club.png) ![square](/img/icons/icon-arrows.png) ![star](/img/icons/icon-star.png) ![circle](/img/icons/icon-heart.png) ![triangle](/img/icons/icon-knight.png) ![moon](/img/icons/icon-moon.png) ![diamond](/img/icons/icon-diamond.png)
 
-Want to create custom tokens? 
+Want to create custom tokens? Use the simple token file below or create [custom avatars](photoshop/wow-avatars.md):
 
-1. Download this [Photoshop token file](/files/token.psd).
+1. Download this [Photoshop simple token file](/files/token.psd).
 2. Select Square or Circle and a color. Want to make your own? The custom layer gives you the option for changing the gradients.
 3. Paste art in the noted folder. It will mask it to fit nicely.
 4. Export to .png to look great in your VTT!

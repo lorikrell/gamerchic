@@ -26,6 +26,7 @@ module.exports = {
         'photoshop/wax-seals',
         'photoshop/crest',
         'photoshop/wow-logo',
+        'photoshop/avatars',
         'photoshop/event-maps',
       ]
     },
