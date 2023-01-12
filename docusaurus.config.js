@@ -137,6 +137,22 @@ module.exports = {
               to: 'docs/photoshop/journals',
             },
             {
+              label: 'Wax Seals',
+              to: 'docs/photoshop/wax-seals',
+            },
+            {
+              label: 'Coins',
+              to: 'docs/photoshop/coins',
+            },
+            {
+              label: 'Crests',
+              to: 'docs/photoshop/crest',
+            },
+            {
+              label: 'Avatars',
+              to: 'docs/photoshop/avatars',
+            },
+            {
               label: 'Scrollcase',
               sublabel: 'Scrolls and letters',
               to: 'docs/photoshop/scrollcase',
@@ -148,10 +164,6 @@ module.exports = {
             {
               label: 'WoW Emojis',
               to: 'docs/photoshop/wow-emoji',
-            },
-            {
-              label: 'Avatars',
-              to: 'docs/photoshop/avatars',
             },
           ]
         },
