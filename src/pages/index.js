@@ -158,7 +158,7 @@ function Home() {
         <div className="col col--6">
         <h1 className="blog-title left">WARCRAFT EMOJIS</h1>
           <p className="blog-subtitle left">Finding Warcraft emojis and stickers for your Discord, Twitch, and other accounts can be hard. Sonceri's emoji sets include 9 free images you can use for emojis and stickers in Discord and other sites. Each set includes additional options for Patreons and Ko-fi donations. Find your sets today!</p>
-          <p className="blog-subtitle left">New sets are drawn and released every month. Some members of the RP community are featured in the art. The first sets focus on Warcraft Races, then new sets will focus on factions, groups, and roles.</p>
+          
           <div className="left">
             <Link
               className={clsx(
@@ -174,7 +174,7 @@ function Home() {
         <div className="col col--6">
           <h1 className="blog-title right">JOURNALS AND WAX SEALS</h1>
           <p className="blog-subtitle right">Document your character journey. Capture and reveal ideas and messages from your villains and allies in storylines. Craft short stories and grand declarations for players to find and follow. Sonceri's <a href="docs/photoshop/journals">Journals</a> and <a href="docs/photoshop/wax-seals">Wax Seals</a> give you the options to create visual letters, notice boards, scrolls, and wax seals with symbols for your house, group, organization, or faction.</p>
-          <p className="blog-subtitle right">New journals, scrolls, and notice boards are releasing as Google Slides all the time. All you need is a Google account! Wax Seals include images and source files to create your own in Photoshop or Photopea</p>
+          
           <div className="buttons-right">
             <Link
               className={clsx(
