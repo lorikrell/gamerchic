@@ -105,8 +105,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <img src="img/landing/sonc-logo.png"></img>
         <div className={styles.buttons}>
         </div>
       </div>
@@ -136,8 +135,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
 <Layout
-      title={`${siteConfig.title}`}
-      description="This site provides gaming resources for Warcraft Conquest, RPG tabletop adventures, and so much more! Graphics, guides, advice.">
+      title="Sonceri.art"
+      description="This site provides gaming resources for TTRPGs, MMOs, campaigns, events, DMs, and more! Graphics, guides, advice.">
       <HomepageHeader />
       <main>
         {features && features.length > 0 && (

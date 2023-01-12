@@ -6,9 +6,12 @@ description: Best practices, tips, tricks, and helpful information to get you st
 
 Welcome to Sonceri's guides on running events and campaigns! This is a collection of tips, tricks, helpful info, and some best practices to run games in MMO-RPGs, Discord, at the table, on a VTT, and more. The info will grow over time. This sections also includes guides for specific types of events.
 
-:::gamerchic
-Guides are also available for running [investigations](investigation.md), [spy missions](stealth.md), and [horror scenarios](horror.md). More guides are on the way!
-:::
+## Event Guides
+Guides are also available for running the following:
+
+* [Guide to Mysteries](investigation.md) for investigations
+* [Guide to the Hidden](stealth.md) for stealth, scouting, and spy events
+* [Guide to Dark Tales](horror.md) for dark and terrifying adventures
 
 ## Prep for Games
 
