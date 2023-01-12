@@ -275,7 +275,7 @@ blockquote {
   --ifm-hero-text-color: rgb(255, 255, 255) !important;
   background-image: 
     linear-gradient(rgba(0,0,0,0.1),
-    rgba(0,0,0,0.65)),
+    rgba(0, 0, 0, 0.8)),
     url("../../static/img/landing/landing-hero.jpg") !important;
   background-repeat: no-repeat;
   background-size: cover;
@@ -290,7 +290,7 @@ blockquote {
 }
 
 .hero {
-  padding: 8rem 2rem !important;
+  padding: 3rem 2rem !important;
 }
 
 .hero--gallery {
@@ -676,7 +676,7 @@ html[data-theme='dark'] .admonition-conquest {
   .hero--primary {
     background-image: 
       linear-gradient(rgba(0,0,0,0.1),
-      rgba(0,0,0,0.65)),
+      rgba(0,0,0,0.8)),
       url("../../static/img/landing/landing-hero-med.jpg") !important;
     //height: 8rem;
   }
@@ -712,7 +712,7 @@ html[data-theme='dark'] .admonition-conquest {
   .hero--primary {
     background-image: 
       linear-gradient(rgba(0,0,0,0.1),
-      rgba(0,0,0,0.65)),
+      rgba(0, 0, 0, 0.8)),
       url("../../static/img/landing/landing-hero-mobilelg.jpg") !important;
   }
 
@@ -740,7 +740,7 @@ html[data-theme='dark'] .admonition-conquest {
   }
 
   .hero {
-    padding: 4rem 2rem !important;
+    padding: 4rem 1rem !important;
   }
 
   .hero__title {
@@ -754,9 +754,9 @@ html[data-theme='dark'] .admonition-conquest {
   .hero--primary {
     background-image: 
       linear-gradient(rgba(0,0,0,0.1),
-      rgba(0,0,0,0.65)),
+      rgba(0, 0, 0, 0.8)),
       url("../../static/img/landing/landing-hero-mobile.jpg") !important;
-      height: 375px;
+      height: 300px;
       -webkit-mask-image: url("../../static/img/landing/landing-hero-mobilemask.png");
       mask-image: url("../../static/img/landing/landing-hero-mobilemask.png");
   }
