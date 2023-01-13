@@ -1,8 +1,13 @@
 # Gamerchic
 
-Welcome to the code repo for Gamerchic.org, gamer resources for tabletop and MMRPG dungeon masters. Find resources, settings, homebrews, templates, and more to enliven your games and craft characters. Some templates available do require Photoshop.
+Welcome to the code repo for Sonceri.art / Gamerchic.org, gamer resources for tabletop and MMO RPGs. Find resources, settings, homebrews, templates, and more to enliven your games and craft characters. Some templates available do require Photoshop, Affinity Designer, or Photopea to use.
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), my favorite doc tool!
+
+For more information on the site, contact Sonceri/LoriK! 
+
+* Twitter: https://twitter.com/lorioliodraws
+* Discord: Loriolio#5076
 
 ## Content Dev Notes
 
@@ -16,13 +21,6 @@ yarn upgrade
 yarn start
 ```
 
-## Deployment
+## Deployment and Ops
 
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-
-## Notes to Self
-docusaurus clear :  clears webpack cache in node_module and .docusaurus 
+I am using Netlify for deploys, Google for URL, and Algolia Docsearch for the search engine.
