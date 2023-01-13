@@ -142,8 +142,8 @@ To run events in FFXIV:
 Some incredible examples!
 
 * Event - [The Moonlight Music Event](https://moonlightevent.carrd.co/)
+* Event - [Running of the Gnomes](https://gnomerun2022.carrd.co/)
 * Event - [barEQUILIBRIUM](https://equilibrium-xiv.carrd.co/)
-* Event+ - [Silver Valkyrie Events](https://silvervalkyrieevents.carrd.co/)
 * Tavern - [The Cracked Cluster](https://cluster-tavern.carrd.co/#)
 * Inn - [The Inari Inn](https://theinariinn.carrd.co/)
 * Shop - [Crystalline Library](https://crystallinelibrary.crd.co/)
