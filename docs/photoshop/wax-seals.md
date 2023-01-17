@@ -5,7 +5,7 @@ id: wax-seals
 
 Wax seals include round and square formats with numerous patterns and colors including metal and stone. Use these to create custom seals for using your your letters, journals, and much more.
 
-You can create these for D&D, Pathfinder, LARPs, World of Darkness, Final Fantasy, World of Warcraft, homebrew settings, thief guilds, noble families, and many other games and genres.
+You can create these for fantasy and sci fi TTRPGs, LARPs, World of Darkness, Final Fantasy, World of Warcraft, homebrew settings, thief guilds, noble families, and many other games and genres.
 
 :::homebrew Photoshop, Affinity Designer, and Photopea
 This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). I do not recommend using other apps that do not support layer effects and complex text.

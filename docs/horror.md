@@ -422,7 +422,7 @@ Optionally, you could make this a pool of points they earn through the event(s).
 </div>
 
 ### Madness d20
-D&D settings have alternate rules around fear, horror, and madness with numerous options for afflictions and madness. These rules are modified to support multiple types of events and calculations. Modify these as needed for your event and DM style.
+Tabletop settings have alternate rules around fear, horror, and madness with numerous options for afflictions and madness. These rules are modified to support multiple types of events and calculations. Modify these as needed for your event and DM style.
 
 <div id="vhilit">
 

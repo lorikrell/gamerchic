@@ -5,7 +5,7 @@ id: coins
 
 Create custom coins for your world, characters, guilds, and more with this Photoshop file. It includes multiple shapes, metals, colors, and text layout options.
 
-You can create these for D&D, World of Darkness, World of Warcraft, thief guilds, noble families, and many other games and settings. You can add as many icons and decorations as you want.
+You can create these for fantasy and sci fi, World of Darkness, World of Warcraft, thief guilds, noble families, and many other games and settings. You can add as many icons and decorations as you want.
 
 Some of the new coins have looks, colors, and names based on Warcraft ores, nations, and locations! More to come!
 

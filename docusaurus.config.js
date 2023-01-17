@@ -103,6 +103,10 @@ module.exports = {
                   to: 'docs/photoshop/avatars',
                 },
                 {
+                  label: 'Banners',
+                  to: 'docs/photoshop/banners',
+                },
+                {
                   label: 'WoW Logos',
                   to: 'docs/photoshop/wow-logo',
                 },
@@ -147,6 +151,10 @@ module.exports = {
             {
               label: 'Crests',
               to: 'docs/photoshop/crest',
+            },
+            {
+              label: 'Banners',
+              to: 'docs/photoshop/banners',
             },
             {
               label: 'Avatars',

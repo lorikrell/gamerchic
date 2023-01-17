@@ -20,7 +20,7 @@ Add them to Discord:
 
 1. [Download the PSD.](https://drive.google.com/file/d/1kfgpsLtg0UCTthm1lToDS6SyZsxxXaAN/view?usp=share_link)
 1. Select a ring border to frame the art. You have tons of options and colors.
-1. Copy and paste character art into ADD ART HERE folder. Use custom art, Hearthstone art, D&D game art, and so on. Resize and move to fit.
+1. Copy and paste character art into ADD ART HERE folder. Use custom art, Hearthstone art, RPG game art, and so on. Resize and move to fit.
 1. Optionally, add some cool effects to make the avatar special. This includes:
 
     * Simple inner rings
