@@ -7,8 +7,8 @@ Wax seals include round and square formats with numerous patterns and colors inc
 
 You can create these for fantasy and sci fi TTRPGs, LARPs, World of Darkness, Final Fantasy, World of Warcraft, homebrew settings, thief guilds, noble families, and many other games and genres.
 
-:::homebrew Photoshop, Affinity Designer, and Photopea
-This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). I do not recommend using other apps that do not support layer effects and complex text.
+:::homebrew Image Editors
+This file can be opened and edited in any art application that opens PSD. I highly recommend Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can use any application that opens a PSD file, but you may be missing embossing which is the heart of the raising seal icon.
 :::
 
 :::sonceri Fonts and Brushes

@@ -11,8 +11,8 @@ Select existing emblems or add your own!
 All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates. You can link to this page. Thank you so very much! 
 :::
 
-:::homebrew Photoshop, Affinity Designer, and Photopea
-These files can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). I do not recommend using other apps that do not support layer effects.
+:::homebrew Image Editors
+This file can be opened and edited in any art application that opens PSD. I highly recommend Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can use any application that opens a PSD file, but you may be missing layer options that control color and more for many layers.
 :::
 
 ## Download and Build

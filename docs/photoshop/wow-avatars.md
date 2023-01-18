@@ -8,7 +8,7 @@ You enter the domain of the lich through twisting passages. As you traverse, you
 
 This avatar template (.PSD) gives you the power to add art, select a ring border, and select all sorts of effects to make it look incredible: metal embossed laurels and skulls, glowing rune rings, shadows and flames, simple thin rings.
 
-:::homebrew Photoshop, Affinity Designer, and Photopea
+:::homebrew Image Editors
 This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can open this in Gimp and Clip Studio, but the layer effects will be lost.
 :::
 

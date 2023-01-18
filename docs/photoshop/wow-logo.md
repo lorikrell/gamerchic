@@ -7,7 +7,7 @@ Create your own WoW Logos for events, campaigns, and guilds! Using the base logo
 
 There are a few versions using existing Warcraft expansion logos, custom logos, and new portrait shaped logos. 
 
-:::homebrew Photoshop, Affinity Designer, and Photopea
+:::homebrew Image Editors
 These files can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). I do not recommend using other apps that do not support layer effects and complex text.
 :::
 

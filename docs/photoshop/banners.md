@@ -11,7 +11,7 @@ Good question! Would this warlord wave an umbrella plucked from your favorite ba
 Create custom banners for your world, characters, guilds, armies, adventuring parties, enemies, and more with this Photoshop file. It includes 6 banner styles with variations, colors, top and back decorations, and icons! These icons are for World of Warcraft, but you can drop any transparent icon or symbol in the file to automatically style. Click to show and hide options. For the hologram, you can change all of the colors of glows to match the banner color. 
 
 :::sonceri Image Editors
-This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). I do not recommend using other apps that do not support layer effects and complex text.
+This file can be opened and edited in any art application that opens PSD. I highly recommend Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can use any application that opens a PSD file, but you may be missing shadows and color options for Hologram Banner that use layer styles. But there are ways around that! 
 :::
 
 :::sonceri Helpful Request for the Artist
