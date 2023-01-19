@@ -191,6 +191,74 @@ The glory of the sea and simple living, the Rustic Kul Tiras banner includes is 
 
 1. When done, hide the grey background and save as a *.png*.
 
+## Mystic Banner
+
+The beauty of day and night, this banner has a touch of magic and elegance with silver and gold touches of frames. This banner includes 3 framed banner areas with transparency, magical decorations, soft glows, and a top symbol with many circle decorations.
+
+![mystic](/img/resources/banners/banner-mystic.png)
+
+1. Show and expand the Purple *Mystic Banner* folder in the PSD. 
+
+1. **Pick Top Decorations**: Show/hide glow decorations that show on over the circle icon. 
+
+    This example uses Soft Rose Gleams.
+
+1. **Pick Left Frame & Content**: Show/hide one of the frames: night or day. Select a decoration in Pick Contents.
+
+    This example uses Day Frame and Thalassian.
+
+1. **Pick Right Frame & Content**: Show/hide one of the frames: night or day. Select a decoration in Pick Contents.
+
+    This example uses Day Frame and Bright Ribbons.
+
+1. **Pick Circle Top & Decorations:** This folder controls the circle above the icon. Choose from Night Gem, Gilt Gold, and many others. At the bottom of that layer list are chains to match. 
+
+    This example uses Gilt Gold.
+
+1. **Pick Icon or Add One**: Show/hide a metal color including gold, bronze, and silver. Show/hide an icon from the options, or add your own! This symbol displays with the metal finish and embossed. The Icon Library folder in this has the images. You can add a png transparent icon here too if you have a piece of lineart, icon, symbol, etc.  At the bottom of the layer list are metals and stones for the background.
+
+    This example uses Dark Silver for metal, Blood Elf in the icon library, and Elune's Grace background.
+
+1. **Pick Main Frame and Contents**: Show/hide one of the frames: night or day. Select a decoration in Pick Contents.
+
+    This example uses Day Frame and Blossom Woods.
+
+1. **Pick Back Decoration**: Show/hide back decorations including glows and swirls matching colors with top decorations.
+
+    This example uses Soft Rose.
+
+1. When done, hide the grey background and save as a *.png*.
+
+## Dwarven Banner
+
+The strength of the mountain, this hard dark iron banner has a frame with various glow colors, stonework textures, effects and designs like flames and feathers, a circle design with icon, and back glows to highlight the bottom.
+
+![dwarven](/img/resources/banners/banner-dwarven.png)
+
+1. Show and expand the Red *Dwarven Banner* folder in the PSD. 
+
+1. **Pick Circle Top & Decorations:** This folder controls the circle above the icon. Choose from Gemmed Dragonflight, Jeweled Fancy, and many others. At the bottom of that layer list are chains to match. 
+
+    This example uses Red Circle.
+
+1. **Pick Icon or Add One**: Show/hide a metal color including gold, bronze, and silver. Show/hide an icon from the options, or add your own! This symbol displays with the metal finish and embossed. The Icon Library folder in this has the images. You can add a png transparent icon here too if you have a piece of lineart, icon, symbol, etc.  At the bottom of the layer list are metals and stones for the background.
+
+    This example uses Dark Silver for metal, Dwarf in the icon library, and Dragonflight background.
+
+1. **Pick a Frame**: Show/hide one of the frames: gold, ice, green, and molten.
+
+    This example uses Molten.
+
+1. Pick Decorations and Back: Show/hide decorations to match the frame like flame and ice, additional designs, and back stone textures.
+
+    This example uses Flame Top, Flame Bottom, and Blackrock Mountain.
+
+1. **Pick Back Decoration**: Show/hide a back decoration including rays, rings, and more.
+
+    This example uses Blade Rings.
+
+1. When done, hide the grey background and save as a *.png*.
+
 ## Example Banners
 
 <div class="info-plain">
@@ -200,5 +268,7 @@ The glory of the sea and simple living, the Rustic Kul Tiras banner includes is 
 | ![dragon](/img/resources/banners/dragon.png) | ![forsaken](/img/resources/banners/forsaken.png) | ![hologram](/img/resources/banners/hologram.png) | ![rustic](/img/resources/banners/rustic.png) |
 | ![filigree](/img/resources/banners/filigree.png) | ![gothic](/img/resources/banners/gothic.png) | ![dragon-nightborne](/img/resources/banners/dragon-nightborne.png) | ![filigree argent](/img/resources/banners/filigree-argent.png) |
 |![gothic raven](/img/resources/banners/gothic-raven.png) | ![forsaken void](/img/resources/banners/forsaken-void.png) | ![hologram draenei](/img/resources/banners/hologram-draenei.png) | ![rustic lordaeron](/img/resources/banners/rustic-lordaeron.png) |
+|![mystic high elf](/img/resources/banners/mystic-highelf.png) | ![mystic blood elf](/img/resources/banners/mystic-bloodelf.png) | ![dwarven gold](/img/resources/banners/dwarven-gold.png) | ![dwarven ice](/img/resources/banners/dwarven-ice.png) |
+| ![dwarven molten](/img/resources/banners/dwarven-molten.png) | ![dwarven wildhammer](/img/resources/banners/dwarven-wildhammer.png) |  |  |
 
 </div>
