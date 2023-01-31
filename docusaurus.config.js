@@ -7,7 +7,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'gamerchic', // Usually your GitHub org/user name.
+  organizationName: 'Masterworks', // Usually your GitHub org/user name.
   projectName: 'gamerchic', // Usually your repo name.
   stylesheets: [
     'https://fonts.googleapis.com/css?family=Material+Icons',
@@ -268,7 +268,7 @@ module.exports = {
         src: 'img/logo-sonc.png',
         href: 'https://sonceri.art'
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Gamerchic | Built with Docusaurus`,
+      copyright: `Copyright © ${new Date().getFullYear()} Masterworks | Built with Docusaurus`,
     },
     colorMode: {
       defaultMode: 'dark',
