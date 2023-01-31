@@ -223,8 +223,8 @@ module.exports = {
               href: 'https://twitter.com/lorioliodraws',
             },
             {
-              label: 'Patreon',
-              href: 'https://www.patreon.com/sonceri',
+              label: 'Ko-fi',
+              href: 'https://ko-fi.com/sonceriart',
             },
             {
               label: 'Art Portfolio',

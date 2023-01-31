@@ -33,5 +33,5 @@ Here are the available emoji packs with many more to come!
 </div>
 
 :::gamerchic
-Additional options are available to [my Patreons](https://www.patreon.com/sonceri) and via [Ko-Fi](https://ko-fi.com/sonceriart/shop).
+Additional options are available to through [Ko-Fi](https://ko-fi.com/sonceriart/shop).
 :::
