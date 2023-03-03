@@ -53,9 +53,9 @@ To share with friends, share the entire slide deck, save to PDF, or export each 
 
 import Iframe from 'react-iframe';
 
-## Kal'dorei
+## Kaldorei
 
-Ancient in sight, keen of mind, caught between the measure of nature and faith of mother moon, the Kal'dorei suffer forward after a terrifying flame sought to engulf their entire people. They rise eternal as does the moon, hidden in turnings, shining in others, never forgotten or lost.
+Ancient in sight, keen of mind, caught between the measure of nature and faith of mother moon, the Kaldorei suffer forward after a terrifying flame sought to engulf their entire people. They rise eternal as does the moon, hidden in turnings, shining in others, never forgotten or lost.
 
 This journal holds a sight of Elune's prayerful chambers upon fine parchment pressed from lavender and peacebloom. The light of mother moon shimmers in the binding. Bookmarks include a lovely butterfly harpy and a lady draped in lilies holding a pearl set on blue velvet ribbon.
 
@@ -71,7 +71,7 @@ This journal holds a sight of Silvermoon city upon fine parchment pressed from f
 
 ## Shal'dorei
 
-Lost elders returned from a life in careful exile, the Nightborn rejoin the world they witnessed in its infancy. They slivered in twain from the Kal'dorei when their worlds teetered on the verge of destruction, crafting a nightwell of power. A stream that became a trickle to keep all bound. The bounds no longer hold bringing their ancient wisdom among their brethren.
+Lost elders returned from a life in careful exile, the Nightborn rejoin the world they witnessed in its infancy. They slivered in twain from the Kaldorei when their worlds teetered on the verge of destruction, crafting a nightwell of power. A stream that became a trickle to keep all bound. The bounds no longer hold bringing their ancient wisdom among their brethren.
 
 This journal holds a sight of the arcan'dor upon fine parchment pressed from astral glory and dreamleaf. The gleam of Nightborn runes burn in the binding. Bookmarks include mithril flowers, runemark inlaid with tigereye and arcane, and a finery of dripping amethyst.
 
