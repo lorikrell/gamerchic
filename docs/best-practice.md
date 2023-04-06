@@ -9,6 +9,7 @@ Welcome to Sonceri's guides on running events and campaigns! This is a collectio
 ## Event Guides
 Guides are also available for running the following:
 
+* [Guide to Boss Battles](boss.md) for boss encounters
 * [Guide to Mysteries](investigation.md) for investigations
 * [Guide to the Hidden](stealth.md) for stealth, scouting, and spy events
 * [Guide to Dark Tales](horror.md) for dark and terrifying adventures

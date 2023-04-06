@@ -285,6 +285,8 @@ The natural 1 and 20 are powerful rolls in a battle. These could mean a terrible
 
 As this is a stationary location, this battle is written as linear with carefully ordered battle sequences. The map is marked with symbols for the groups to stand, not for enemies. This battle includes a vital part of tasks completed with combat and skill rolls to unlock a magical prison. Due to this sequence, environment rolls are not asked for.
 
+#### Battlemap
+
 ![bandit base](/img/guides/prison-battles.jpg)
 
 <div class="info-rows">
@@ -298,10 +300,15 @@ As this is a stationary location, this battle is written as linear with carefull
 | ![moon](/img/icons/moon.png) | **East**: Battling and healing players in this location. They must protect the center at star. |
 | ![square](/img/icons/square.png) | **West**: Battling and healing players in this location. They must protect the center at star. |
 
+#### Wave One Encounter
 
 Each round of battle, groups will be called to attack enemies and working on the ritual magic in a specific order. To keep this interesting and flowing forward, groups will swap around after whelps. The center group may also have a chance to help those around the edges battling depending on their success. This is a revolving fight through waves. Breaking up players into groups and calling them for each round keeps the flow going, action high, and the DM focus on player responses and requests. The special aspect of this fight is DM attention to rolls not writing a ton of battle steps due to the ease of prewritten content to lean on.
 
-This is an example of prewritten linear battle steps for wave 1 of whelps:
+This is an example of prewritten linear battle steps for wave 1 protodragon whelps. 
+
+:::sonceri Prewriting Helps!
+I wrote these literally in a list per turn. This gives me time to focus on player responses, heroic rolls, potential ideas. So much text flies and having a chance to focus on what players post is important. Prewriting helps give breathing room and time without slowing the pace.
+:::
 
 | | |
 | -- | -- |
@@ -314,9 +321,13 @@ This is an example of prewritten linear battle steps for wave 1 of whelps:
 
 Finally, the whelplings end: 
 
-> The last of the whelpings are ended for some, any remaining try to press forward to get any nibble they can!
+> The last of the whelpings are ended for some, any remaining try to press forward to get any nibble they can. You have but a moment to catch your breath. Howls and roars pierce the air...it's not over!
 
-At this point you enter the second wave with protodragons, switching up the groups. Here is an example of how that may go:
+At this point, you can give them just a moment to breath, but keep the battle moving. If you have some players fall, consider giving the healers a moment to get them back up and on their feet. When ready, press on to the second wave.
+
+#### Second Wave Encounter
+
+At this point you enter the second wave with 2 large protodragons, switching up the groups, and completing the battle task. Here is an example of how that may go:
 
 | | |
 | -- | -- |
@@ -325,7 +336,13 @@ At this point you enter the second wave with protodragons, switching up the grou
 | **ALLIES AID!** | To help the magical group, the allies provide aid: Felorin of the Silver Legacy calls together the other members, surrounding those working steadily. Each of them take up wands, form runic circles around those that battled the time eruption. Eyes closed, incanting, casting, they channel from one to the next forming another circle around the edges. {STAR} you get +1 to any next roll! |
 | ![star](/img/icons/star.png) | **Magical**: {STAR} With the force bubble pressed back to a manageable level, some of you show clashes with the power. Some with longer hair, a couple extra lines about the eyes, younger hands. Felorin looks over the runes with you all and nods. “I think…we can move more of them!” Some sequences are close to lightning, if only the southern edge of runes were in the right order… You can gather your wits and try!<br/><br/>{STAR} PERCEPTION + INT or BODY! 10-15 some runes are connected, 16-19 more runes, 20+ a sequence locks! |
 
-These sequences continue, swapping around, reacting to players, the center group dealing with runes and helping battle when they can. When done, call for killing blows on these mini-bosses and continue into a rest period. These are important to give players a chance to heal and deal with the situation. Judge the time and give appropriate time to players. When ready, you can move into the final phase opening the ritual circle and the last battles with the main boss and potentially saving Brightmorn.
+These sequences continue, swapping around, reacting to players, the center group dealing with runes and helping battle when they can. When done, call for killing blows on these mini-bosses and continue into a rest period for open roleplay and healing. 
+
+:::sonceri Rest Periods
+These are important to give players a chance to heal and deal with the situation. Judge the time and give appropriate time to players. When ready, you can move into the final phase opening the ritual circle and the last battles with the main boss and potentially saving Brightmorn.
+:::
+
+#### Final Boss Battle
 
 Players from the center now join their fellows in the side groups in the compass positions. They no longer need to unlock the rituals and can battle and heal as needed. Star is now Brightmorn and Skull is The Betrayer. Both are targetable.
 
@@ -338,7 +355,7 @@ Again setting the turns with linear prewritten content. This is when you introdu
 | ![triangle](/img/icons/triangle.png) ![diamond](/img/icons/diamond.png) ![square](/img/icons/square.png) ![moon](/img/icons/moon.png) | **North, South, East, West**: This is the special attack by The Betrayer:<br/><br/> EVERYONE {TRIANGLE} {DIAMOND} {SQUARE} {MOON}: BETRAYED! Roll PERCEPTION + BODY or INT or CHA. 1-10 {skull} has the face and voice of someone that has betrayed you. 11+ you feel something cloud your mind as you gaze upon it…but seen only this twisted form of Dragon. Those versed in Old Gods and the Void, this feels like something from those realms… <br/><br/>At this point, players will drive themselves crazy, filling their minds and roleplay with those that betrayed them. Make note of some responses for later touches to the fight. |
 | **BATTLE BEGINS** | As this is the final battle, with few rounds left, this is a good place to provide DM notes, flavor text, and get back in the groove of attacks with environmental rolls added in.<br/><br/>{SKULL} “I bring a gift.” The BETRAYER plucks a gem from its chest holding it out. It is not an eye, but a glittering, expensive, powerful, magical piece of wealth. “I offer power to any who wants it…”<br/><br/>{STAR} BRIGHTMORN levels his sword and begins to encant seeking to rebind them again! “No…NO! The way must be shut! The gate cannot be opened further! Either aid me or end him!”<br/><br/>DM NOTES: In this battle you can aid {STAR} BRIGHTMORN by lashing magics, casting rituals. Those combat actions count as points of binding for the gate. You can fight {SKULL} BETRAYER and just end him!  |
 | ![triangle](/img/icons/triangle.png) ![diamond](/img/icons/diamond.png) | **North & South**: {TRIANGLE} and {DIAMOND} The layers of bronze protection discs shift and move like a puzzle then pause! You have an opening to strike. The BETRAYER floats in the air filling the top of the tower with its presence, eyes watchful… <br/><br/>{TRIANGLE} and {DIAMOND} COMBAT! Aid {star} every dmg point aids in his spellwork OR fight {skull} every point damages the fiend! |
-| ![square](/img/icons/square.png) ![moon](/img/icons/moon.png) | **East & West**: {SQUARE} and {MOON} The layers of bronze protection discs spin again! A sliver of space opens to get closer for a strike. The BETRAYER coils deeper into the shadows above in the tower’s arches. It roils like…stormy water…<br/><br/>{square} and {moon} COMBAT! Aid {star} every dmg point aids in his spellwork OR fight {skull} every points damages the fiend! |
+| ![square](/img/icons/square.png) ![moon](/img/icons/moon.png) | **East & West**: {SQUARE} and {MOON} The layers of bronze protection discs spin again! A sliver of space opens to get closer for a strike. The BETRAYER coils deeper into the shadows above in the tower’s arches. It roils like…stormy water…<br/><br/>{square} and {moon} COMBAT! Aid {STAR} every dmg point aids in his spellwork OR fight {SKULL} every points damages the fiend! |
 
 Continue the battle until you feel the time is right, then post the final attacks asking for final rolls. For those that do attack, give them special responses of what they experience. This gives every player a sense of purpose, and ends with a bang.
 
@@ -346,7 +363,7 @@ Continue the battle until you feel the time is right, then post the final attack
 > 
 > EVERYONE {TRIANGLE} {DIAMOND} {SQUARE} {MOON}: Safeguard the Brightmorn! Break the eyes and send the creature back! Close this gate!
 
-And the battle ends.
+Destroying the eyes and closing the gate will end this battle. The blue dragon cannot be saved, only the influencing force can be pushed back. Once this is done, the battle ends.
 
 </div>
 
@@ -357,6 +374,8 @@ This boss battle is far more branching paths, where players get to decide how th
 The best way to handle these events is to prewrite potential attacks and some key phrases. This gives you something to lean on when responding to players. You can also break up the group by encouraging teams: stealthy scouts, ranged, and melee. This gives you some leeway at least in environmental rolls.
 
 The goal here is to end the bosses and save hostages.
+
+#### Battlemap
 
 ![bandit base](/img/guides/bandit-battles.jpg)
 
@@ -376,7 +395,17 @@ For anyone sneaking into the cave, they may receive this information:
 
 > The cavern stretches deep within the hillside, farther than you expected. Within you spy out a group of cutthroats led by a half elf. PIERCE {STAR} has blades at the ready, flicking about their hands, a shock of dark hair with a length of soft blue run through. Baleful eyes lay upon the hostages. “Gag and bind their hands.” A small group of knife wielding thugs get to work on the three hostages next to a battered dracthyr {MOON}. 
 
-When prewriting this event, I created potential attacks for each boss and lean into loyalties depending on how the odds will go. These are just examples and may tweak them into debuffs depending on the size of the group:
+#### Boss Mechanics
+
+When prewriting this event, consider potential attacks for each boss and lean into loyalties depending on how the odds will go. This gives breathing room and options for different enemies to shine. If you have a heavier ranged party, you could have more ranged attacks. For a large stealth group, consider traps and leaving the hyenas inside to help find and ferret out the hidden. 
+
+These are just examples that you can tweak, shift, and scale depending on the size of the group.
+
+:::sonceri Scaling for Group Size
+A great way to scale for small to large groups is the debuff/buff option. This gives a greater affect for damage and actions rather than constant environment rolls without flavor or teeth. Consider skill rolls as well, allowing players a moment to spy out a trap, or fall to one, buffing or debuffing their rolls for 1 round. These small options can scale up and down, while adding flavor and danger. And if one of the bosses has effective attacks, it could cause the group to focus fire a threat fast.
+
+Another option for these is the **squad mechanic**. Instead of fighting a bunch of mini-bosses, they face a mini-boss with minions. As players score hits and whittle down adversaries, they see the groups falling. This is merely a way to buff a group's HP size vs the damage output of the players. For some minor bosses, heavy losses may cause them to have morale debuffs and potentially yielding, dropping weapons.
+:::
 
 | | |
 | -- | -- |
@@ -387,34 +416,45 @@ When prewriting this event, I created potential attacks for each boss and lean i
 | ![diamond](/img/icons/diamond.png) | **Mr. Fellows and Riflemen - Volley and Oil**: The constant seesaw of blows would eventually wear down their defense, forcing them back into the cavern. Something MR. FELLOWS {DIAMOND} could not allow. With a bark and raise of right back, the voice and words more guttural syllables than anything resembling language, the riflemen in his crew reloaded with a series of heavier shots, enough to break bone! Those keen of agility or strong of body would fare better. “HEP, HAR, FER!”  RANGED: ENVIRONMENTAL + BODY roll or be set on fire! |
 | ![square](/img/icons/square.png) | **Wrenn and the Boys - Boulderdash**: Moving in a pack of braun and hatred, the hulking figures of WRENN {SQUARE} and the boys pull away from combat long enough to wrap arms around boulders and heavy stones moved around the mouth of the cave. With just a slight advantage of height, they twist, turn, and HEAVE, sending the stones into the strong battlers at the fore! Earth, grass, some worms are flung in the arc of massive rocks! MELEE: ENVIRONMENT + BODY vs boulders! |
 
-Depending on boss deaths and player interactions, this fight may shift and change as needed. Players may find items in the cave to help the fight as weapons or buffs and debuffs:
+#### Buffs and Debuffs
 
-* Petrification potions could cause minor damage or destroy items 
-* Throw nets to immobilize
-* Hyenas could cause a combat debuff on rolls from cackling howl or bleed targets
-* Riflemen could set fire to oil in the ground with a volley
+This battle leans heavily on Environmental rolls as mass AOE attacks from the bosses. To keep the attacks from being tedious, consider applying buffs and debuffs instead of the normal environmental damage! 
 
-Depending on the attack, you could follow the usual rules for safety or damage or use debuffs like these: 
+**Using the Environment:**  Players may find items in the cave to help the fight as weapons or buffs and debuffs:
+
+* Petrification potions could cause minor damage or destroy items. This could freeze a boss for one round or reduce how many players are affected by their Environmental attack. Instead of hitting all melee, you could pick just three players.
+* Throw nets to immobilize. For one turn, this could apply a reduced damage to the boss Environment check causing rolls 1-5 to do 1 damage, 6 to 20 safe. Or a boss group could loose a turn, stopping that attack type.
+* Destroy loot. The bandits are here for one thing only, their loot! While this could anger the previous owners, it could also stop the enemies. Destroy enough loot and cause a Morale Roll for a group to stop fighting, try to save the loot, ending their attacks. This effectively "kills a boss" as they no longer fight and can be subdued.
+* Healing potions to players. These bandits do have an alchemist working for them from the hostages! Players could chug healing potions (1 Triage use), battle elixirs (1 Overcharge use), and magical elixirs (1 Energize use) to provide 1 use perks. Limit the potions depending on your party size.
+
+**Applying Player Debuffs:** You could follow the usual rules for safety or damage or use debuffs for boss attacks and failed Environmental rolls: 
 
 * *Disoriented*: Hyenas could cause a combat debuff on rolls from cackling howl. Take 2 additional damage in next attack.
+* *Bleed*: Hyenas could cause a combat debuff on rolls from cackling howl or bleed targets. This could debuff players health pools until healed by -1 or cause increased damage from all sources until healed by +2.
 * *Disarmed*: Grosser the shaman casts chain lightning causing people to get disarmed. Next attack, they must pick up their weapon to fight using only a straight attack roll for 1 turn, no perks.
-* *On Fire*: Take 1 extra damage every turn until they put the fire out
+* *On Fire*: Riflemen could set fire to oil in the ground with a volley. Take 1 extra damage every turn until they put the fire out
 
-Now the question of ending. This is a group that bows to the boss man. And if he dies or goes down and is chained up, they may stop and give up too. Only Pierce in this group will battle to the end or kill the hostages and try to escape. If Ramson is tackled first, current enemies will give up and it becomes a fight to end Pierce before hostages all die. Let players get inventive here. This tension remains high but puts the power in their hands.
+#### Morale and Battle End
 
-When Ramson and Pierce are down or give up, this battle concludes.
+Now the question of ending. This is a group that bows to the boss man. And if he dies or goes down and is chained up, they may stop and give up too. 
+
+Only Pierce in this group will battle to the end or kill the hostages and try to escape. If Ramson is tackled first, current enemies will give up and it becomes a fight to end Pierce before hostages all die. 
+
+Let players get inventive here. This tension remains high but puts the power in their hands. When Ramson and Pierce are down, captured, or give up, this battle concludes.
 
 </div>
 
 ## Ending the Battle
 
-As the battles conclude, players can now enjoy the fruits of their labors! Having additional small actions is not a bad option at this point in the event. This could include healing, moving back to a base camp, giving reports, investigating what remains, and so on.
+As the battles conclude, players can now enjoy the fruits of their labors! Having additional small actions is not a bad option at this point in the event. 
 
-Having an enemy get away or flee at this point might be infuriating. You could instead provide information and hidden evidence that someone else worked with the enemies. More threats may loom. More places to investigate may arise for continued campaigns. 
+* **Rest and Healing:** You may have players deeply wounded, near death, or overwhelmed by the event. Give players a chance to heal, move from the battle, seek base camp. 
+* **Reporting In:** This battle is a major conflict and finale piece. Leaders may need to return and give a report regarding what happened, return lost and reclaimed items, bring prisoners, and provide resolution. 
+* **Further Investigation:** Having an enemy get away or flee at this point might be infuriating. You could instead provide information and hidden evidence that someone else worked with the enemies. More threats may loom. More places to investigate may arise for continued campaigns. They could find documents, relics, maps and plans, correspondance, and much more.
+* **What Really Happened:** Answer questions that may rise and give an option of skill checks for players wanting to understand the action, what the bosses were doing, why this happened. I recommend having a couple ideas in mind for these, or additional actions investigating wreckage and remaining items, interactions with saved NPCS and new allies, even interactions if the enemies were captured alive, and add to the experience for players.
+* **Loot:** Story-based loot can be thrilling for players. They could earn titles, receive the boss weapon, locate rare items, unlock clothing and gear looks. For these, you could write information for them to add and store in their RP profile, provide actual BOE items, or give crafted items such as toys, pets, and consumables.
 
-Answer questions, have thoughts and options for investigating wreckage and remaining items, interactions with saved NPCS and new allies, even interactions if the enemies were captured alive, and add to the experience for players.
-
-And finally write a nice summary for those in different areas of the fights or unable to join.
+And finally write a nice summary for those in different areas of the fights or unable to join. Review notes of mighty player actions for rewards. 
 
 :::sonceri Congratulations Masterminds!
 You have created a dynamic battle! Test it out with friends and see what new experiences you can bring with warfare and story.
