@@ -8,7 +8,7 @@ description: Learn how to plan and run massive boss battles for roleplay and rol
 
 *For days, perhaps months, the heroes of your story have unearthed secrets of a nefarious cult capturing nobles in the capital city. Investigating crime scenes, questioning witnesses, digging into hostage backgrounds, and careful stealth operations, they have some answers. And all of the evidence points to another noble seeking to undermine the current king. He is hiding in the ruins of a village lost to a previous plague. It's time to confront him, save any hostages, and bring him to the king. Dead or alive.*
 
-The core of all adventures be it a tabletop module, game setting, MMORPG expansion, or good book hinge on an adversary for the heroes to face. Sometimes this is the world itself, someone from their past, a growing and dangerous power, or themselves. Whatever the enemy, after a series of quests and investigations, the final battles nears. But this battle needs to be epic! A stellar confrontation that stirs the story and brings an astounding conclusion to a mighty tale.
+The core of all adventures be it a tabletop module, game setting, MMORPG expansion, or good book hinge on an adversary for the heroes to face. Sometimes this is the world itself, someone from their past, a growing and dangerous power, or themselves. Whatever the enemy, after a series of quests and investigations, the final battle nears. But this battle needs to be epic! A stellar confrontation that stirs the story and brings an astounding conclusion to a mighty tale.
 
 This guide provides information on how to build not only a cool fight but develop your boss(es), determine their powers, set the stage, and define the epic final battle flow to end the threat. You will learn how to refine your boss, tactics, and prep to keep the action moving and players guessing.
 
@@ -26,7 +26,7 @@ To develop the battle, use the boss as a launching of creative ideas for additio
 * What they have done to incur this epic fight?
 * How the field is laid out?
 * What minions aid the boss?
-* Do heroes need to complete vital tasks to complete while battling?
+* Do heroes need to complete vital tasks while battling?
 * When they face the boss either immediately or after a series of obstacles?
 
 Building your boss, their cohorts, the location, and key motivations can push your battle from a simple smash and grab to a legendary experience. This information also includes ideas around powers, rules for abilities, and difficulty classes (DC) for actions. Let's get started!
