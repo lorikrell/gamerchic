@@ -118,11 +118,42 @@ Deciding the following key elements can help you shape the battle:
 * **Minor Enemies**: Be these minions, beasts, traps, or guards, will the players need to battle through lesser powered enemies to find the major villain(s)? Can they bypass the minions? Are they fought from entrance to boss, or summoned during the fight?
 * **Special Allies**: The battle may have potential allies to gain through rescue or sent as NPCs with the players. They could provide key information, a buff, or items for the battle.
 * **Moving or Stationary Battles**: Will players move through to find and fight the boss, begin in the location and not move, fight and move in phases? Or will the players battle the villain and follow them through a series of places in a chase? This can help determine timing, breathing room, and options to keep players motivated.
-* **Special Attacks**: You may want to consider buffs the players may have, debuffs applied by the villain, or special attacks that function like environmental effects, debuffs, or a task to complete. This gives your battle diversity while staying within the bounds of the rules. 
+* **Special Attacks**: You may want to consider buffs the players may have, debuffs applied by the villain, or special attacks that function like environmental effects, debuffs, or a task to complete. This gives your battle diversity while staying within the bounds of the rules. These attacks could also be [Legendary Actions].
 * **Environmental Attacks**: These attacks can be unleashed spells and area of effect (AOE) from the location or boss, affects from the location like storms, fly by attacks from minions, or sprung traps. Environmental rolls can get interesting if you handle them with key elements, such as melee takes an environmental attack while ranged get to attack and vice versa.
 * **Battle Tasks**: Can players affect your villain and their plans by tackling tasks during a fight? If there is a ritual, magical folks could use their combat actions to instead use skills for undoing the ritual. If there is a magical barrier protecting the villain and minions attacking, some members could attempt taking down the barrier. Healers need to heal and save fallen comrades and hostages as warriors hold the enemy at bay. Heavy fighters could bust through gates using loaded cannons while magical folks hold up a barrier protecting the fighters. So many options!
 
-Let's use these ideas to build the elements for these battles.
+:::gamerchic DM Resources
+If looking for more ideas, many guides and videos are available to leverage tabletop game ideas in any boss battle. Here are some favorites to check out:
+
+* [Action Oriented Monsters](https://youtu.be/y_zl8WWaSyI)
+* [Fixing my BORING D&D combat](https://youtu.be/8TDcYfZap1I)
+* [Concept and Conflict](https://youtu.be/AZI0-X6eGk0)
+* [Difficulty and Mechanics](https://youtu.be/k1PErWowBMU)
+* [Creating Environments](https://youtu.be/YXrKxzs5N0E)
+:::
+
+### Legendary Actions
+
+Unlike a normal battle of players attacking enemies as obstacles towards the event end goal, these bosses ARE the end goal. As such, a normal hack and slash, attack and environmental roll, general combat damage may not feel epic. To push your event and bosses into something unique, you can consider Legendary Actions. In Dungeons and Dragons, this is a special ability the boss or lair (location) has available. Like player perks and abilities, they only get so many of these per event. For Warcraft Conquest, these are also considered NPC perks.
+
+In this guide, Legendary Actions develops simple perks or special ability into something with teeth. These actions could occur at any time, in the middle of a combat action or back-to-back without giving players a chance to act. 
+
+When building this action, consider the boss and who they are, what they do, where they come from. Do they focus on magic, have a breath weapon, have powerful attacks, have intelligent flying swords? As a boss, do they summon minions or call a mount and gain a mounted advantage? Consider melee, ranged, and spells. Can they heal themselves? You get the idea! 
+
+Here's a list of potential custom Legendary Actions to consider, giving examples of some you could create for your bosses. These can be used as limited Perks or abilities, buffs, and debuffs. This simplifies the usage and tracking while running the event.
+
+| Action | Options |
+| -- | -- |
+| Reaction | Give the boss an extra attack or affect in response to a perk used by a player. This could be overcharge or rally. For overcharge, the armor could shimmer in response reducing the damage. For a rally, it could focus on rallied character with a morale roll or flee.<br/><br/>This could also be based on class or abilities. Consider the Neltharion battle with class calls in Blackwing Lair. Before starting the fight, make a list of your players and determine what they may be. Call those players out for these attacks. For example, all magical attackers are overwhelmed with power, suddenly blinded and seeing only the magic around them. Their attacks are wild and could hit a player. Melee fighters feel suddenly light and thrown up into the air, unable to move as they float, any major movement sends them into random directions. Ranged may attack only to have their spells fizzle in hands, missiles fail and fall once released, without momentum. Healers may be burned and hurt by their healing spells as the power turns against them.<br/><br/>You could also have them react to magic and attack types. Holy may do more damage, void may heal them, and so on. |
+| Multiple Attacks | They attack, use abilities, use actions, heal themselves, etc multiple times. Players only get to act after these multiple actions end. They occur together, giving your players a sense of dread and danger. |
+| Teleport | The enemy can literally disappear and reappear somewhere else in the area. This keeps the melee moving. |
+| Crowd Control | A failed Environmental roll to a polymorph spell, ice trap, fear, or other crowd control could cause no damage. Instead it freezes the player in place and they loose a turn or need to be broken out of the control. Another option could be a knock back feature, causing everyone around them to be tossed back and away.  |
+| Stealth | Be it roguelike stealth, invisibility through spell or potion, a magic cloak of displacement, the boss can disappear and sneak around the area. This keeps players from attacking for a round, or give them a chance to roll perception. |
+| Sneak Attack | If they are hiding prior to the battle beginning, or hidden through stealth, they could do double damage when attacking a group. |
+| Damage Type | When they use an ability or attack, it could be a particular type that does something extra. Acid could burn through armor, a chain lightning of fire, a freezing burst with slicing wind, a shadowbolt writhing with void and mind controlling whispers... All of these could affect different players to greater or lesser degree. A holy attack may cause pain to the undead, and barely hit the holy. And so on! |
+| Healing | Players can heal, why not bosses? They could be standing in a rune of healing that provides a return of health. They could have damage reduction to specific types of damage. They may regenerate health points if a specific type of damage is not applied (like no holy or fire is used on an undead boss, they could just regenerate after successful damage). Or they may have a healing minion or group just dedicated to keeping them on their feet. |
+
+Another option is creating *Legendary Actions for players*! This could be using weapons or items found in the environment, calling in allies for a single attack or healing wave, empowering all magical attacks or enchanting all attacks with a damage type. These options could be found and used in the boss battle, or collected from lead up events to employ in this finale, similar to the abilities above.
 
 ### Ancient Prison
 
@@ -263,7 +294,7 @@ The following are the main characters I determine for this battle, using these g
 | **Mr. Fellows** | Just a hired hand that handles the guns and riflemen. |
 | **Wrenn** | A woman so broad and strong to be mistaken for a man. Just a hired hand for the bully boys. |\
 | **Hyenas** | Beloved pets that eat anything and everyone. Belong to Ramson. |
-| **Hostages** | The three hostages and a dracthyr are held against their will. Marigold Brighthorn a thin tauren druid in soiled leathers, Shandrisen a kaldorei magi holding an arm close, and Bobbin Brightcog an eldering goblin bookkeeper wearing the bloodied whites of a Silver Legacy member. The Dracthyr is Skentha a translator from the Crumbling Life Archway deeply wounded and breathing shallow. While all of the hostages look in poor shape, the darcthyr is near death. |
+| **Hostages** | The three hostages and a dracthyr are held against their will. Marigold Brighthorn a thin tauren druid in soiled leathers, Shandrisen a kaldorei magi holding an arm close, and Bobbin Brightcog an eldering goblin bookkeeper wearing the bloodied whites of a Silver Legacy member. The Dracthyr is Skentha a translator from the Crumbling Life Archway deeply wounded and breathing shallow. While all of the hostages look in poor shape, the dracthyr is near death. |
 
 </div>
 
