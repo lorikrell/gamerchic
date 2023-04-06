@@ -36,6 +36,7 @@ module.exports = {
           label: 'Event Guides',
           link: {type: 'doc', id: 'events-campaigns'},
           items: [
+            'boss',
             'investigations',
             'stealth',
             'horror',

@@ -75,6 +75,10 @@ module.exports = {
                   to: 'docs/events-campaigns',
                 },
                 {
+                  label: 'Guide to Boss Battles',
+                  to: 'docs/boss',
+                },
+                {
                   label: 'Guide to Investigations',
                   to: 'docs/investigations',
                 },
