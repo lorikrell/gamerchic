@@ -17,6 +17,7 @@ module.exports = {
     imageZoom: {
       // CSS selector to apply the plugin to, defaults to '.markdown img'
       selector: '.markdown img',
+      selector: '.markdown :not(em) > img',
       // Optional medium-zoom options
       // see: https://www.npmjs.com/package/medium-zoom#options
       /*options: {
@@ -67,7 +68,7 @@ module.exports = {
           label: 'Dungeon Masters',
           items: [
               {
-                  label: 'Graphic Resources',
+                  label: 'Graphics and Guides',
                   to: 'docs/intro',
                 },
                 {
@@ -96,7 +97,7 @@ module.exports = {
                 },
                 {
                   label: 'Warcraft Resources',
-                  to: 'docs/wow-conquest/intro',
+                  to: 'docs/warcraft/intro',
                 },
                 {
                   label: 'WoW Emojis',
@@ -116,15 +117,15 @@ module.exports = {
                 },
                 {
                   label: 'Vehicle Battle Tokens',
-                  to: 'docs/wow-conquest/token',
+                  to: 'docs/warcraft/token',
                 },
                 {
                   label: 'Event Cards',
-                  to: 'docs/wow-conquest/event-cards',
+                  to: 'docs/warcraft/event-cards',
                 },
                 {
                   label: 'Loot Cards',
-                  to: 'docs/wow-conquest/boss-item-cards',
+                  to: 'docs/warcraft/boss-item-cards',
                 },
                 {
                   label: 'Exalted',
@@ -181,36 +182,28 @@ module.exports = {
         },
         {
           type: 'dropdown',
-          label: 'Warcraft Conquest',
+          label: 'Warcraft',
           items: [
+            {
+              label: 'Warcraft Resources',
+              to: 'docs/warcraft/intro',
+            },
+            {
+              label: 'WoW Logos',
+              to: 'docs/photoshop/wow-logo',
+            },
+            {
+              label: 'WoW Emojis',
+              to: 'docs/photoshop/wow-emoji',
+            },
+            {
+              label: 'Event Cards',
+              to: 'docs/warcraft/event-cards',
+            },
             {
               label: 'Warcraft Conquest',
               to: 'Conquest',
-            },
-            {
-              label: 'WC Resources',
-              to: 'docs/wow-conquest/intro',
-            },
-            {
-                  label: 'Lichfall',
-                  to: 'lichfall',
-                },
-                {
-                  label: 'Everfrost',
-                  to: 'everfrost',
-                },
-                {
-                  label: 'Thornwake',
-                  to: 'thornwake',
-                },
-                {
-                  label: 'Tropic Sunder',
-                  to: 'TropicSunder',
-                },
-                {
-                  label: 'In Death\'s Shadow',
-                  to: 'DeathShadow',
-                },
+            }
               ],
             },
         {to: '/blog', label: 'Game Blog', position: 'right'},
@@ -240,17 +233,17 @@ module.exports = {
           title: 'Projects',
           items: [
             {
+              label: 'Coalition of the Horde',
+              href: 'https://discord.gg/hkXmPPb6BB',
+            },
+            {
               label: 'Warcraft Conquest Discord',
               href: 'https://tinyurl.com/warcraftconquestdiscord',
             },
             {
               label: 'Conquest Campaigns',
               href: 'https://soncert.art/warcraft-conquest/warcraft-conquest.html',
-            },
-            {
-              label: 'Coalition of the Horde',
-              href: 'https://discord.gg/hkXmPPb6BB',
-            },
+            }
           ],
         },
         {

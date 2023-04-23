@@ -66,7 +66,7 @@ const features2 = [
     imageUrl: 'img/icons/ship.png',
     description: (
       <>
-        We use the <a href="https://docs.google.com/document/d/1Q9vnQ6pLNIQgCSIcxVzJzsQnPSz3nXffgqEjI0nqUsE/edit#heading=h.c9xwudtolrcj" target="_blank">Conquest Warmachine</a> system for vehicle battles in Discord, including naval, land, and air. See these <a href="docs/wow-conquest/intro">resources</a>!
+        We use the <a href="https://docs.google.com/document/d/1Q9vnQ6pLNIQgCSIcxVzJzsQnPSz3nXffgqEjI0nqUsE/edit#heading=h.c9xwudtolrcj" target="_blank">Conquest Warmachine</a> system for vehicle battles in Discord, including naval, land, and air. See these <a href="docs/warcraft/intro">resources</a>!
       </>
     ),
   },

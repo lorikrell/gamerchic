@@ -18,7 +18,7 @@ module.exports = {
   games: [
     {
       type: 'category',
-      label: 'Graphic Resources',
+      label: 'Graphics and Guides',
       link: {type: 'doc', id: 'intro'},
       items: [
         'photoshop/fonts-brushes',
@@ -68,16 +68,16 @@ module.exports = {
     {
       type: 'category',
       label: 'Warcraft Resources',
-      link: {type: 'doc', id: 'wow-conquest/intro'},
+      link: {type: 'doc', id: 'warcraft/intro'},
       items: [
         'photoshop/wow-emoji',
-        'wow-conquest/token',
-        'wow-conquest/capture-assets',
-        'wow-conquest/simple-token',
-        'wow-conquest/create-ship',
-        'wow-conquest/squad-token',
-        'wow-conquest/event-cards',
-        'wow-conquest/boss-item-cards'
+        'warcraft/token',
+        'warcraft/capture-assets',
+        'warcraft/simple-token',
+        'warcraft/create-ship',
+        'warcraft/squad-token',
+        'warcraft/event-cards',
+        'warcraft/boss-item-cards'
       ],
     },
     {

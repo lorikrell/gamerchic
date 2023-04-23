@@ -74,7 +74,7 @@ Where to find a symbol?
 You can add one or many different icons to make up your seal!
 
 :::sonceri Clean Up Icons
-If you are new to cleaning up art, see [Cut out Assets](../wow-conquest/capture-assets.md#cut-out-models) for ideas and tools.
+If you are new to cleaning up art, see [Cut out Assets](../warcraft/capture-assets.md#cut-out-models) for ideas and tools.
 :::
 
 ## Create a Seal

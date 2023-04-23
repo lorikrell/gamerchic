@@ -1,5 +1,5 @@
 ---
-title: Gamer Resources
+title: Graphics and Guides
 id: intro
 hide_table_of_contents: true
 ---
@@ -21,7 +21,7 @@ A fantastic yet typical scenario played out so many times in games. How do you t
 | [**Avatars**](/docs/photoshop/avatars) | Create avatars for characters to use in Discord, VTTs like Roll20, tabletop games, and more. |
 | [**DM Event Guides**](/docs/events-campaigns) | Learn more about running events and specialized encounters for tabletop and MMO-RPGs. |
 | [**Character Journals**](/docs/photoshop/adventure-journal) | Craft your character or NPC journey, custom books, or incriminating letters with these Google Slides journals and scrollcases. |
-| [**Warcraft Resources**](/docs/wow-conquest/intro) | Find resources for World of Warcraft and the [Warcraft Conquest](/Conquest) project, including graphic templates, vehicle battle setup, and more. |
+| [**Warcraft Resources**](/docs/warcraft/intro) | Find resources for World of Warcraft and the [Warcraft Conquest](/Conquest) project, including graphic templates, vehicle battle setup, and more. |
 | [**Exalted**](/docs/exalted/resources) | Find resources and campaign information for games including Solars, Lunars, Abyssals, and locations in Creation. |
 | [**World of Darkness**](/docs/w-o-d/intro) | Find resources and campaign information for games including Vampire, Werewolf, and more.|
 

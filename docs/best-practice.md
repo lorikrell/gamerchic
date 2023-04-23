@@ -9,10 +9,10 @@ Welcome to Sonceri's guides on running events and campaigns! This is a collectio
 ## Event Guides
 Guides are also available for running the following:
 
-* [Guide to Boss Battles](boss.md) for boss encounters
-* [Guide to Mysteries](investigation.md) for investigations
-* [Guide to the Hidden](stealth.md) for stealth, scouting, and spy events
-* [Guide to Dark Tales](horror.md) for dark and terrifying adventures
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
 
 ## Prep for Games
 
@@ -159,7 +159,7 @@ Some incredible examples!
 
 If you enjoy working in Photoshop or other graphic apps, event cards and posters give you fantastic tools to stir up creativity in your table-top game, advertise for new players in VTT online communities, and lure players in MMO-RPGs. You don't need to be a Photoshop wizard to create these posters. Tools like GIMP for graphics and Google apps like Docs, Drawing, and Slides can be enough to get your adventure started.
 
-I also provide a series of templates to use as you like. See [Event Map Cards](photoshop/event-cards.md), [Event Cards](wow-conquest/event-cards.md), and [Boss and Item Cards](wow-conquest/loot-cards.md) to find templates and examples. All you need is the Photoshop file, an art image, and some text.
+I also provide a series of templates to use as you like. See [Event Map Cards](photoshop/event-cards.md), [Event Cards](warcraft/event-cards.md), and [Boss and Item Cards](warcraft/loot-cards.md) to find templates and examples. All you need is the Photoshop file, an art image, and some text.
 
 Some quick examples:
 

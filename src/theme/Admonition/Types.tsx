@@ -10,6 +10,7 @@ import AdmonitionTypeNote from '@theme/Admonition/Type/Note';
 import AdmonitionTypeTip from '@theme/Admonition/Type/Tip';
 import AdmonitionTypeGamerchic from './Type/Gamerchic';
 import AdmonitionTypeHomebrew from './Type/Homebrew';
+import AdmonitionTypeDungeon from './Type/Dungeon';
 import AdmonitionTypeSonceri from './Type/Sonceri';
 import AdmonitionTypeInfo from '@theme/Admonition/Type/Info';
 import AdmonitionTypeCaution from '@theme/Admonition/Type/Caution';
@@ -21,6 +22,7 @@ const admonitionTypes: typeof AdmonitionTypes = {
   tip: AdmonitionTypeTip,
   gamerchic: AdmonitionTypeGamerchic,
   homebrew: AdmonitionTypeHomebrew,
+  dungeon: AdmonitionTypeDungeon,
   sonceri: AdmonitionTypeSonceri,
   info: AdmonitionTypeInfo,
   caution: AdmonitionTypeCaution,

@@ -16,7 +16,7 @@ const features = [
         Find resources and guides for your Warcraft adventures and Conquest conflicts. These include events, campaigns, and vehicle battles.
       </>
     ),
-    link: 'docs/wow-conquest/intro',
+    link: 'docs/warcraft/intro',
   },
   {
     title: 'Dungeon Master Guides',
@@ -29,7 +29,7 @@ const features = [
     link:'docs/events-campaigns',
   },
   {
-    title: 'Graphic Resources',
+    title: 'Graphics and Guides',
     imageUrl: 'img/icons/graphic.png',
     description: (
       <>
