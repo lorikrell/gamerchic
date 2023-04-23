@@ -32,7 +32,7 @@ The Coalition uses the following resources for campaigns and events:
 :::dungeon Join the Coalition
 Coalition of the Horde is community driven, written and forged by numerous moderators, dungeon masters, creators, writers, and players. The community is vast and ever-growing, open to all Horde and Neutral faction players on Moon Guard-US and other servers.
 
-Interested? Join the ![discord](/img/icons/icon-discord-sm.png) [Discord](https://discord.gg/PYfrDW73Pp) and Warcraft Community.
+Interested? Join the ![discord](/img/icons/icon-discord-sm.png) [Discord](https://discord.gg/PYfrDW73Pp) and [Warcraft Community](https://tinyurl.com/CoalitionoftheHordeCommunity).
 :::
 
 ![banner](/img/landing/banner-conquest.png)
