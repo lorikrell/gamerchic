@@ -21,15 +21,18 @@ These cards let you add art files and info for bosses players battle or meet or 
 
 [![PSD](/img/psd.png) Sonceri Discord Banner](https://drive.google.com/file/d/1MpaFzK5fjYRQObMqFP3SZLek0oBlbEGi/view?usp=share_link) - click to download.
 
-1. Add text to the banner including title and a subtitle.
+![Discord Banner](/img/resources/sonceri-discord-event.png)
+
+1. Add text to the banner including title and a subtitle. You can edit the settings, colors, effects, and fonts as you need.
 1. Add art for the event in the right side area.
 1. Select or add an image for the background. The base is a parchment card if you hide all of the options. 
 1. Save as a *.png* file to keep the transparency. 
+1. When creating your Discord Event for a Community, on the Event Info tab select **Upload Cover Image**. Add your new banner!
 
-![Discord Banner](/img/resources/sonceri-discord-event.png)
+![Discord Banner](/img/resources/discord-event.png)
 
 Here's a couple examples used by communities!
 
 ![CAE Banner](/img/resources/cae-lets-draw.png)
 
-![CAE Banner](/img/resources/CotH-Horde-Night.png)
+![CotH Banner](/img/resources/CotH-Horde-Night.png)
