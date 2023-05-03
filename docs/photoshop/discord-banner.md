@@ -31,7 +31,11 @@ These cards let you add art files and info for bosses players battle or meet or 
 
 ![Discord Banner](/img/resources/discord-event.png)
 
-Here's a couple examples used by communities!
+And some examples!
+
+![Example 1](/img/resources/discord1.png)
+
+![Example 2](/img/resources/discord2.png)
 
 ![CAE Banner](/img/resources/cae-lets-draw.png)
 
