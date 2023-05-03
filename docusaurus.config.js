@@ -128,6 +128,10 @@ module.exports = {
                   to: 'docs/warcraft/boss-item-cards',
                 },
                 {
+                  label: 'Discord Event Banner',
+                  to: 'docs/photoshop/discord-banner',
+                },
+                {
                   label: 'Exalted',
                   to: 'docs/exalted/resources',
                 },
@@ -199,6 +203,10 @@ module.exports = {
             {
               label: 'Event Cards',
               to: 'docs/warcraft/event-cards',
+            },
+            {
+              label: 'Discord Event Banner',
+              to: 'docs/photoshop/discord-banner',
             },
             {
               label: 'Warcraft Conquest',

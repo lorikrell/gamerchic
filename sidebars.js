@@ -27,6 +27,7 @@ module.exports = {
         'photoshop/crest',
         'photoshop/banners',
         'photoshop/wow-logo',
+        'photoshop/discord-banner',
         'photoshop/avatars',
         'photoshop/event-maps',
       ]

@@ -5,7 +5,9 @@ id: boss-item-cards
 
 Boss and item cards can be used for NPCs, cosmetic items, reclaimed items, quest items, and more for a tabletop game, guild event, short or long campaign, and other crazy ideas you can come up with!
 
-:::sonceri Fonts and Brushes
+:::homebrew Image Editors and Resources
+This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can open this in Gimp and Clip Studio, but the layer effects will be lost.
+
 You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
 :::
 
@@ -25,6 +27,30 @@ These cards let you add art files and info for bosses players battle or meet or 
 :::sonceri Lots of Items, One File!
 To make life easier and keep the file size down, write content in a separate file like a Google Doc. Add the art to the file, giving the layer a name matching the card type. You can just save the art in this PSD, using copy/paste from the Google Doc if you ever need to tweak something.
 :::
+
+## Dragonflight Theme
+
+Design created for all Dragonflight expansion campaigns and events.
+
+[![PSD](/img/psd.png) Sonceri Card - Dragonflight](https://drive.google.com/file/d/1sfb1tCH9N7YyQbleUSVaU5TF7g32q4xG/view?usp=share_link) - click to download.
+
+![Dragonflight Card](/img/resources/sonceri-dragonflight-loot.png)
+
+## Lichfall Theme
+
+Originally these cards were used in the [Lichfall campaign](/lichfall) with a Scourge theme.
+
+[![PSD](/img/psd.png) Sonceri Card - Lichfall](https://drive.google.com/file/d/1QyQXGSvRrPe_3wDv0EsX6LF_le2Gxyu8/view?usp=share_link) - click to download.
+
+![Lichfall Card](/img/resources/sonceri-scourge-loot.png)
+
+## Alterac Theme
+
+Originally these cards were used in the [Everfrost campaign](/everfrost) with a snowy Alterac theme.
+
+[![PSD](/img/psd.png) Sonceri Card - Everfrost](https://drive.google.com/file/d/1SnK03TRLAh-axmE6i_VojQSTo9P0IIcJ/view?usp=share_link) - click to download.
+
+![Everfrost Card](/img/resources/sonceri-alterac-loot.png)
 
 ## Barrens Theme
 

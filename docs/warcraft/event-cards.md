@@ -5,7 +5,9 @@ id: event-cards
 
 Event cards can be used for events for a tabletop campaign, guild, short or long campaign, and other crazy ideas you can come up with!
 
-:::sonceri Fonts and Brushes
+:::homebrew Image Editors and Resources
+This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can open this in Gimp and Clip Studio, but the layer effects will be lost.
+
 You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
 :::
 
@@ -27,7 +29,15 @@ These cards let you add art files and info for bosses players battle or meet or 
 To make life easier and keep the file size down, write content in a separate file like a Google Doc. Add the art to the file, giving the layer a name matching the card type. You can just save the art in this PSD, using copy/paste from the Google Doc if you ever need to tweak something.
 :::
 
-## The Scourge Theme
+## Dragonflight Theme
+
+Design created for all Dragonflight expansion campaigns and events.
+
+[![PSD](/img/psd.png) Sonceri Card - Dragonflight](https://drive.google.com/file/d/1KYrIaxXMJXwy2oZKAyEw-P4Tm1WXrA4f/view?usp=share_link) - click to download.
+
+![Dragonflight Card](/img/resources/sonceri-dragonflight-event.png)
+
+## Lichfall Theme
 
 Originally these cards were used in the [Lichfall campaign](/lichfall) with a scourge invasion feel.
 
@@ -35,7 +45,7 @@ Originally these cards were used in the [Lichfall campaign](/lichfall) with a sc
 
 ![Lichfall Card](/img/resources/sonceri-lichfall-event.png)
 
-## The Alterac Theme
+## Alterac Theme
 
 Originally these cards were used in the [Everfrost campaign](/everfrost) with a frozen elemental feel.
 
@@ -43,7 +53,7 @@ Originally these cards were used in the [Everfrost campaign](/everfrost) with a 
 
 ![Everfrost Card](/img/resources/sonceri-alterac-event.png)
 
-## The Barrens Theme
+## Barrens Theme
 
 Originally these cards were used in the [Thornwake campaign](/thornwake) with a Barrens plains and major city feel.
 
