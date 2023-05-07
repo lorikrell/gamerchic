@@ -132,7 +132,7 @@ function Conquest() {
         <img src="img/coth/coth-logo.png" className='responsive'/></div>
        </div>
        <div className='row'>
-       <div className="col col-md-6">
+       <div className="col col-md-6 center">
         <img src="img/icons/icon-horde.png"/><img src="img/icons/icon-argent.png"/><img src="img/icons/icon-cenarion.png"/><img src="img/icons/icon-earthenring.png"/><img src="img/icons/icon-ebonblade.png"/><img src="img/icons/icon-kirin-tor.png"/><img src="img/icons/icon-valdrakken-accord.png"/><img src="img/icons/icon-cartel.png"/><img src="img/icons/icon-independent.png"/><img src="img/icons/icon-alliance-neutral.png"/>
         </div>
        </div>
