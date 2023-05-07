@@ -209,6 +209,10 @@ module.exports = {
               to: 'docs/photoshop/discord-banner',
             },
             {
+              label: 'Coalition of the Horde',
+              to: 'Coalition',
+            },
+            {
               label: 'Warcraft Conquest',
               to: 'Conquest',
             }

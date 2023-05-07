@@ -1,0 +1,597 @@
+// VIDEO 
+.react-player {
+    object-fit: cover;
+    position: absolute;
+    z-index: -1;
+}
+
+//HERO for video
+.coalition-hero {
+  background-image: url("../../static/img/coth/coth-top.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    height: calc((100vw*9) /16);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    //box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
+    object-fit: contain;
+    position: relative;
+    z-index: 10;
+  }
+
+.coalition-header {
+    display: block;
+}
+
+.credits {
+    position: absolute;
+    bottom: 0;
+    align-items: center;
+    opacity: 0.2;
+}
+
+.creditsdiv {
+  position: absolute;
+  bottom: 0;
+  align-content: center;
+  opacity: 0.4;
+  font-size: .8rem;
+}
+
+// Features
+.alt-features-item {
+    position: relative;
+    padding-left: 55px;
+    margin: 65px 0 0 0;
+    font-size: .85rem;
+}
+
+.alt-features-icon {
+    line-height: 1.2;
+    font-size: 42px;
+  }
+
+.alt-features-icon {
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    text-align: center;
+    line-height: 40px;
+    font-size: 28px;
+}
+
+// Positioning CSS
+.coalition-flex-col {
+    flex-direction: column;
+}
+
+.coalition-flex-row {
+    flex-direction: row;
+}
+
+.coalition-title {
+    font-size: 5rem !important;
+    color: #fff;
+}
+
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.center-align {
+  align-content: center;
+}
+
+.middle {
+    vertical-align: middle;
+}
+
+.grid-center {
+    align-self: center;
+}
+
+.imgwide {
+    max-width: 100%;
+    height: auto;
+    }
+
+.img-responsive {
+    object-fit: contain;
+}
+
+.responsive {
+  width: 90%;
+  max-width: 350px;
+  height: auto;
+}
+
+.thin {
+    padding: 0px;
+}
+
+@media screen and (max-width: 1080px) {
+
+    .imgwide {
+        max-width: 75%;
+    }
+}
+
+// tropic sunder
+#tropic {
+
+    h1, h2, h3, h4, h5, h6, .text-break {
+        word-wrap: break-word;
+        word-break: break-word;
+        font-family: 'Graduate', sans-serif; 
+      }
+    
+    h3 {
+          font-size: 1.2rem;
+      }
+
+    .hero {
+        padding: 4rem 2rem !important;
+    }
+
+    .hero-banner {
+        text-align: left !important;
+    }
+}
+
+.tropic--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/tropic-bottom.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+  }
+
+.coalition--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.4),
+      rgba(0,0,0,0.7)),
+      url("../../static/img/coth/coalition-bottom.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+  }
+
+.coalition-banner {
+  height: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  object-fit: contain;
+  position: relative;
+  z-index: 10;
+}
+
+  // Coalition Specific
+#coalition {
+
+  h1, h2, h3, h4, h5, h6, .text-break {
+      word-wrap: break-word;
+      word-break: break-word;
+      font-family: 'Marcellus SC', sans-serif; 
+    }
+  
+  h3 {
+        font-size: 1.5rem;
+    }
+
+  .hero {
+      padding: 4rem 2rem !important;
+  }
+
+  .hero-banner {
+      text-align: left !important;
+  }
+}
+
+.death--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/death-bottom.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+  }
+
+// Thornwake Specific
+#barrens {
+
+    h1, h2, h3, h4, h5, h6, .text-break {
+        word-wrap: break-word;
+        word-break: break-word;
+        font-family: 'Jockey One', sans-serif; 
+      }
+    
+    h3 {
+          font-size: 1.2rem;
+      }
+
+    .hero {
+        padding: 4rem 2rem !important;
+    }
+
+    .hero-banner {
+        text-align: left !important;
+    }
+
+    .alt-features-item {
+        margin: 35px 0 0 0;
+    }
+}
+
+// Lichfall
+html[data-theme='dark'] .lichfall-events--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-pvp-dark.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .lichfall-events--primary {
+    --ifm-hero-text-color: rgb(3, 3, 3) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-pvp.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    //text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='dark'] .lichfall-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-allies-dark.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .lichfall-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-allies.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    color: #000;
+}
+
+.everfrost--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/lichfall-slide.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+html[data-theme='dark'] .lichfall-events--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-pvp-dark.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .lichfall-events--primary {
+    --ifm-hero-text-color: rgb(3, 3, 3) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-pvp.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    //text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='dark'] .lichfall-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-allies-dark.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .lichfall-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-allies.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    color: #000;
+}
+
+.lichfall--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/lichfall-slide.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+
+// everfrost
+
+html[data-theme='dark'] .everfrost-events--primary {
+  --ifm-hero-text-color: rgb(255, 255, 255) !important;
+  background-image: 
+    url("../../static/img/landing/everfrost-pvp-dark.png") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: transparent;
+  text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .everfrost-events--primary {
+  --ifm-hero-text-color: rgb(3, 3, 3) !important;
+  background-image: 
+    url("../../static/img/landing/everfrost-pvp.png") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: transparent;
+  //text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='dark'] .everfrost-finale--primary {
+  --ifm-hero-text-color: rgb(255, 255, 255) !important;
+  background-image: 
+    url("../../static/img/landing/everfrost-allies-dark.png") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: transparent;
+  text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .everfrost-finale--primary {
+  --ifm-hero-text-color: rgb(255, 255, 255) !important;
+  background-image: 
+    url("../../static/img/landing/everfrost-allies.png") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: transparent;
+  color: #000;
+}
+
+.everfrost--primary {
+  --ifm-hero-text-color: rgb(255, 255, 255) !important;
+  background-image: 
+    linear-gradient(rgba(0,0,0,0.1),
+    rgba(0,0,0,0.65)),
+    url("../../static/img/landing/everfrost-slide.png") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+// thornwake
+.barrens--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.1),
+      rgba(0,0,0,0.65)),
+      url("../../static/img/landing/barrens-bottom.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+
+html[data-theme='dark'] .barrens-events--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/barrens-events.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .barrens-events--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/barrens-events-light.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    color: #000;
+}
+
+html[data-theme='dark'] .barrens-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/barrens-finale.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .barrens-finale--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/barrens-finale-light.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    color: #000;
+}
+
+  // death's shadow & everfrost Specific
+#death {
+
+    h1, h2, h3, h4, h5, h6, .text-break {
+        word-wrap: break-word;
+        word-break: break-word;
+        font-family: 'Cormorant SC', sans-serif; 
+      }
+    
+    h3 {
+          font-size: 1.2rem;
+      }
+    
+    .hero {
+        padding: 4rem 2rem !important;
+    }
+
+    .hero-banner {
+        text-align: left !important;
+    }
+
+}
+
+// Gamerchic
+
+html[data-theme='dark'] .gamerchic-special--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/landing-specials.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+html[data-theme='light'] .gamerchic-special--primary {
+    --ifm-hero-text-color: rgb(3, 3, 3) !important;
+    background-image: 
+      url("../../static/img/landing/landing-specials.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    //text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+
+
+// Google Slides
+
+.responsive-google-slides iframe {
+    border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.responsive-google-slides {
+    position: relative;
+    padding-bottom: calc(1200 / 2000 * 100%);
+    height: 0;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.responsive-tall-google-slides iframe {
+    border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.responsive-tall-google-slides {
+    position: relative;
+    padding-bottom: calc(2000 / 1200 * 100%);
+    height: 0;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 500px) {
+    .coalition-title {
+        font-size: 2rem !important;
+        color: #fff;
+    }
+    #tropic, #death {
+        .blog-title {
+            font-size: 1.5rem !important;
+          }
+    }
+    grid-item:nth-child(1) { order: 1; grid-column: 1 / 3;}
+    grid-item:nth-child(2) { order: 3; grid-column: 1 / 3; }
+    grid-item:nth-child(3) { order: 2; }
+}
+
+@media screen and (max-width: 996px) {
+    .coalition-title {
+        font-size: 3rem !important;
+        color: #fff;
+    }
+    #tropic, #death {
+        .blog-title {
+            font-size: 1.5rem !important;
+          }
+    }
+}
+
+@media screen and (max-width: 800px) {
+    grid-item:nth-child(1) { order: 1; }
+    grid-item:nth-child(2) { order: 3; grid-column: 1 / 3; }
+    grid-item:nth-child(3) { order: 2; }
+}
+
+.gallery {
+    display: 'grid';
+    grid-template-columns: '240px 171px 171px';
+    grid-template-rows: '114px 114px';
+    grid-gap: 12px;
+}
