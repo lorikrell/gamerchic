@@ -21,6 +21,9 @@
     object-fit: contain;
     position: relative;
     z-index: 10;
+    -webkit-mask-image: url("../../static/img/landing/landing-mask.png");
+    mask-image: url("../../static/img/landing/landing-mask.png");
+    mask-position: center bottom;
   }
 
 .coalition-header {
