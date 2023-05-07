@@ -22,6 +22,8 @@ I am also in progress on a Warcraft setting called The Magisterium, coming soon.
 
 The Coalition of the Horde Discord Server is a Horde role-playing community on the Moon Guard server of World of Warcraft. The project is Horde and Neutral faction friendly, open to all members and guilds with the sole intention of defending Horde interests and rebuilding after the disastrous Fourth War. The project hopes to capture the feel of the New Horde through representing the many tribes, military, national and numerous factions within the Horde. Every month we meet to discuss current events and organize cooperation between the member guilds. We also host campaigns open to new and veteran Dungeon Masters, players, and friends to attend across all lands of Azeroth and beyond.
 
+[**Learn more about the Coalition!**](/Coalition)
+
 The Coalition uses the following resources for campaigns and events:
 
 * [Conquest D20 System Simplified 2.0](https://docs.google.com/document/d/1nlRtaicINUoWWn35ny1MoXp1-zMDL1YMTIW69sHd0v0/edit?usp=sharing) with [PVP](https://docs.google.com/document/d/1IzRHu0DmhWuENVZb25ewkAYBijkvQDDLW7KMTNUzekA/edit?usp=sharing) and [PVE](https://docs.google.com/document/d/1tcAMfIREPK7kBJHV3NRu9c735FvwPFFFTrJMAAX7Iqo/edit?usp=sharing) Templates
