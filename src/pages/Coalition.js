@@ -186,7 +186,7 @@ function Conquest() {
 
         <div className="col col--6">
           <h1 className="blog-title right">Horde Nights</h1>
-          <p className="blog-subtitle right">Seeking walk-up roleplay for the Horde? Monday nights 7:30p central the Coalition holds social nights for hosted on Moon Guard! Join us for a relaxing wind-down night starting in the Valley of Honor in Orgrimmar. Find more events in our calendar.</p>
+          <p className="blog-subtitle right">Seeking walk-up roleplay for the Horde? Monday nights 7:30p central the Coalition holds social nights hosted on Moon Guard! Join us for a relaxing wind-down night starting in the Valley of Honor in Orgrimmar. Find more events in our calendar.</p>
           <div className="buttons-right">
             <Link
               className={clsx(
