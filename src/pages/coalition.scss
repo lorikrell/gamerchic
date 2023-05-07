@@ -122,6 +122,11 @@
   height: auto;
 }
 
+.responsivecard {
+  max-width: 250px;
+  height: auto;
+}
+
 .thin {
     padding: 0px;
 }
@@ -211,6 +216,18 @@
   }
 }
 
+.genesis-events {
+  --ifm-hero-text-color: rgb(255, 255, 255) !important;
+  background-image: 
+    url("../../static/img/coth/genesis-events.png") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: transparent;
+  text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
+
+// conquest to remove 
 .death--primary {
     --ifm-hero-text-color: rgb(255, 255, 255) !important;
     background-image: 
@@ -564,7 +581,7 @@ html[data-theme='light'] .gamerchic-special--primary {
         font-size: 2rem !important;
         color: #fff;
     }
-    #tropic, #death {
+    #tropic, #death, #coalition {
         .blog-title {
             font-size: 1.5rem !important;
           }
@@ -579,7 +596,7 @@ html[data-theme='light'] .gamerchic-special--primary {
         font-size: 3rem !important;
         color: #fff;
     }
-    #tropic, #death {
+    #tropic, #death, #coalition {
         .blog-title {
             font-size: 1.5rem !important;
           }

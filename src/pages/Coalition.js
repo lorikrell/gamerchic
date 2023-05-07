@@ -239,7 +239,26 @@ function Conquest() {
         <img src="img/coth/twilight-genesis-card.png" className='responsive'/></div>
        </div>
        </div></section>
-      
+
+       <section className='spacer'>
+        <div className="hero genesis-events hero-banner" >
+      <div className="container">
+      <div className="row">
+        
+        <div className="col col--6">
+          <h2 className="blog-title">Allies Seeking Aid!</h2>
+          <p><img src="img/coth/card-red-dragonflight.png" className='responsivecard'/> <img src="img/coth/card-earthen.png" className='responsivecard'/></p>
+        </div>
+
+        <div className="col col--6">
+          <h1 className="blog-title right">Regional Forces</h1>
+          <p className='right'><img src="img/coth/card-wildhammer.png" className='responsivecard'/> <img src="img/coth/card-dragonmaw.png" className='responsivecard'/></p>
+        </div>
+      </div>
+      </div>
+      </div>
+
+       </section>
 
       </main>
       
