@@ -3,7 +3,7 @@ title: Event Map Cards
 id: event-maps
 ---
 
-A great way to mix event information and locations is to add maps with your locations and plans. The Event Map card template gives you the best of both worlds! There are tons of ways to use these. Here are a couple great examples.
+A great way to mix event information and locations is to add maps with your locations and plans. The Event Map card template gives you the best of both worlds! There are tons of ways to use these. Here are a couple great examples. These cards use edited WoW models, custom drawing and edited textures, personal use free fonts, and have Hearthstone card art as temporary content. You can add your own images, group art, screenshots, fonts, icons, and more!
 
 :::sonceri UPDATES COMING!
 A new event card is in progress. Expect a new design coming soon.

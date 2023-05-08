@@ -6,7 +6,7 @@ description: Free avatar template for RPGs, VTTs, Warcraft, and more.
 
 You enter the domain of the lich through twisting passages. As you traverse, you wander the in game halls of a raid building like Karazhan or a beautiful map in a VTT like Roll20. Then the mastermind of months of roleplay and events appears... a floating X. Kind of anti-climatic. What if you could have a piece of art in a nice round frame to post in Discord or reveal in Roll20?!
 
-This avatar template (.PSD) gives you the power to add art, select a ring border, and select all sorts of effects to make it look incredible: metal embossed laurels and skulls, glowing rune rings, shadows and flames, simple thin rings.
+This avatar template (.PSD) gives you the power to add art, select a ring border, and select all sorts of effects to make it look incredible: metal embossed laurels and skulls, glowing rune rings, shadows and flames, simple thin rings. The file uses edited WoW models, custom drawing and edited textures, personal use free fonts, and have Hearthstone card art as temporary content. You can add your own images, group art, screenshots, more!
 
 :::homebrew Image Editors
 This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can open this in Gimp and Clip Studio, but the layer effects will be lost.
