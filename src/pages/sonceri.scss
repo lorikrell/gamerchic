@@ -6,28 +6,28 @@
 }
 
 //HERO for video
-.coalition-hero {
-  background-image: url("../../static/img/coth/coth-top.jpg") !important;
+.sonceri-hero {
+  background-image: url("../../static/img/magesterium/magesterium.jpg") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
     background-color: transparent !important;
     height: calc((100vw*9) /16);
     width: 100%;
-    //display: flex;
-    //flex-direction: column;
-    //justify-content: center;
-   // align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+   //align-items: center;
     //box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
-   // object-fit: contain;
-    //position: relative;
+    object-fit: contain;
+    position: relative;
     //z-index: 10;
     -webkit-mask-image: url("../../static/img/coth/landing-mask.png");
     mask-image: url("../../static/img/coth/landing-mask.png");
     mask-position: center bottom;
   }
 
-.coalition-header {
+.sonceri-header {
     display: block;
 }
 
@@ -70,18 +70,56 @@
     font-size: 28px;
 }
 
+// spires
+.mage-features-item {
+  position: relative;
+  //padding-left: 55px;
+  margin: 10px 0 0 0;
+  font-size: .85rem;
+  max-width: 350px;
+  h3 {
+    text-align: center;
+  }
+}
+
+.mage-features-icon {
+  line-height: 1.2;
+  font-size: 42px;
+}
+
+.mage-features-icon {
+  //position: absolute;
+  height: auto;
+  width: auto;
+  left: 0;
+  top: 0;
+  text-align: center;
+  line-height: 40px;
+  font-size: 28px;
+}
+
+.mage-flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  width: 100%;
+  gap: 20px;
+}
+
 // Positioning CSS
-.coalition-flex-col {
+.sonceri-flex-col {
     flex-direction: column;
 }
 
-.coalition-flex-row {
+.sonceri-flex-row {
     flex-direction: row;
 }
 
-.coalition-title {
-    font-size: 5rem !important;
+.sonceri-title {
+    font-size: 4rem !important;
     color: #fff;
+    text-align: center;
+    text-shadow: 2px 2px 2px #000000;  
 }
 
 .right {
@@ -133,25 +171,46 @@
 }
 
 @media screen and (max-width: 1080px) {
-
     .imgwide {
         max-width: 75%;
     }
 }
 
+// tropic sunder
+#tropic {
 
-.coalition--primary {
+    h1, h2, h3, h4, h5, h6, .text-break {
+        word-wrap: break-word;
+        word-break: break-word;
+        font-family: 'Graduate', sans-serif; 
+      }
+    
+    h3 {
+          font-size: 1.2rem;
+      }
+
+    .hero {
+        padding: 4rem 2rem !important;
+    }
+
+    .hero-banner {
+        text-align: left !important;
+    }
+}
+
+
+.sonceri--primary {
     --ifm-hero-text-color: rgb(255, 255, 255) !important;
     background-image: 
       linear-gradient(rgba(0,0,0,0.4),
       rgba(0,0,0,0.7)),
-      url("../../static/img/coth/coalition-bottom.jpg") !important;
+      url("../../static/img/magesterium/mage-bottom.jpg") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
   }
 
-.coalition-banner {
+.sonceri-banner {
   height: auto;
   width: 100%;
   display: flex;
@@ -164,12 +223,12 @@
 }
 
   // Coalition Specific
-#coalition {
+#sonceri {
 
   h1, h2, h3, h4, h5, h6, .text-break {
       word-wrap: break-word;
       word-break: break-word;
-      font-family: 'Marcellus SC', sans-serif; 
+      font-family: 'Cinzel Decorative', sans-serif; 
     }
   
   h3 {
@@ -196,7 +255,28 @@
   text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
 }
 
+// Lichfall
+html[data-theme='dark'] .lichfall-events--primary {
+    --ifm-hero-text-color: rgb(255, 255, 255) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-pvp-dark.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
 
+html[data-theme='light'] .lichfall-events--primary {
+    --ifm-hero-text-color: rgb(3, 3, 3) !important;
+    background-image: 
+      url("../../static/img/landing/lichfall-pvp.png") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: transparent;
+    //text-shadow: 2px 3px 3px rgb(0 0 0 / 50%)
+}
 
 // Google Slides
 
@@ -235,7 +315,7 @@
 }
 
 @media screen and (max-width: 500px) {
-    .coalition-title {
+    .sonceri-title {
         font-size: 2rem !important;
         color: #fff;
     }
@@ -247,10 +327,15 @@
     grid-item:nth-child(1) { order: 1; grid-column: 1 / 3;}
     grid-item:nth-child(2) { order: 3; grid-column: 1 / 3; }
     grid-item:nth-child(3) { order: 2; }
+    
+    .sonceri-hero {
+      background-image: url("../../static/img/magesterium/mage-sm.jpg") !important;
+      //height: 8rem;
+    }
 }
 
 @media screen and (max-width: 996px) {
-    .coalition-title {
+    .sonceri-title {
         font-size: 3rem !important;
         color: #fff;
     }
@@ -258,6 +343,10 @@
         .blog-title {
             font-size: 1.5rem !important;
           }
+    }
+    .sonceri-hero {
+      background-image: url("../../static/img/magesterium/mage-med.jpg") !important;
+      //height: 8rem;
     }
 }
 

@@ -218,6 +218,20 @@ module.exports = {
             }
               ],
             },
+            {
+              type: 'dropdown',
+              label: 'Settings',
+              items: [
+                {
+                  label: 'The Magesterium',
+                  to: 'magisterium',
+                },
+                {
+                  label: 'Silver Legacy',
+                  to: 'docs/setting/silver-legacy',
+                },
+                  ],
+                },
         {to: '/blog', label: 'Game Blog', position: 'right'},
       ],
     },

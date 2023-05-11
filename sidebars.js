@@ -122,5 +122,12 @@ module.exports = {
       }
     ]
     },
+    {
+      type: 'category',
+      label: 'Magisterium',
+      items: [
+      'setting/silver-legacy',
+    ]
+    },
   ],
 };
