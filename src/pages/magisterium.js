@@ -221,15 +221,16 @@ function Conquest() {
           </div></div></div>
         <div className='row'>
         <div className="col col-md-6">          
-        <p>As the Silver Legacy investigate the ruins of the Ruby Life Vaults, they have continued discoveries with the crystal libraries and bandits. Felorin leads research into hidden records, training materials, and notes of powerful caches of weapons, armors, and artifacts. Dracthyr come to support their work, avidly intrigued by these ancient recordings. During their work, Guard Master Munera Cloudwalker sets off into the wilderness with a few dracthyr and guards from the Dragonscale Expedition to track down the Red Curios Bandits. She finds new leads and old trails using information gained from the captured bandit interrogation, updating maps, and preparing battle plans. In a recent meeting, the Legacy determine it's time to seek their allies!</p>
-        <p>Messages arrive to various offices across Azeroth calling for aid! Join the Silver Legacy at the Ruby Life Vault to seek and end the bandits, safeguard lost relics and hostages, and investigate these caches of power. Through battle, magic, and scholarship, they hope to end the threats and continue seeking these crystal libraries. But where will the trail lead? It begins with bandits and the records of the ruins, and leads to a final showdown and a new adventure. Expect twists, turns, scouting, battle, and magic!</p>
+        <p>Since the battle against bandits and the strange Betrayer, the Silver Legacy continued their investigations of the Ruby Life Vaults and crystal libraries.  They have found hidden records, training materials, and notes of powerful caches of weapons, armors, and artifacts...including more libraries! Throughout the Dracthyr have extended their support, avidly intrigued by these ancient recordings. Yet Guard Master Munera Cloudwalker took another route, seeking into the wilderness with a few dracthyr and guards from the Dragonscale Expedition to track down the Red Curios Bandits. She returned with new leads and old trails using information gained from the captured bandit interrogation, updating maps, and preparing battle plans. In a recent meeting, the Legacy determined it's time to seek their allies!</p>
+        <p>Messages have been sent to various offices across Azeroth calling for aid! </p>
+        <p>Join the Silver Legacy at the Ruby Life Vault to seek and end the bandits, safeguard lost relics and hostages, and investigate these caches of power. Through battle, magic, and scholarship, they hope to end the threats and continue seeking these crystal libraries. But where will the trail lead? It begins with bandits and the records of the ruins, and leads to a final showdown and a new adventure. And throughout, shadows fall from wings, and draconic eyes follow progress. Expect twists, turns, scouting, battle, and magic!</p>
         
-        <p>This was the second part to the Starfall campaign, Awakened Flame!</p>
+        <p>This is the second part to the Starfall campaign, Awakened Flame!</p>
 
         <ul>
-          <li><strong>When:</strong> May 22-26</li>
+          <li><strong>When:</strong> May 22-26 (Mon-Fri) with Wednesday as a Free Day of open rp</li>
         <li><strong>Where:</strong> Waking Shores to Azure Span</li>
-        <li><strong>Lead Storyteller:</strong> Sonceri</li>
+        <li><strong>Lead Storytellers:</strong> Sonceri & Shin</li>
         </ul>
         <img src="img/coth/hardmode.png" />
         <p>We will be testing a new option for campaigns! Players will be able to choose to opt-into a more challenging system to add more interesting elements to their play and recovery. There are three facets to this system, and players can pick any number of them to add to their play if they choose.</p>
