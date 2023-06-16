@@ -24,9 +24,9 @@ The first is the watchers keeping vigil over all magisters – the **Order of th
 
 ## Visions of the Founder
 
-The founder Allondir rose among the ranks of magisters through sheer will and demand. His rule and work began harsh, unyielding, the unbending steel the spire needed to rally. Forged through the pain of others, members aided without regard to their own suffering. He was as lord of the oblivious to his own consdition after such lifetimes of sacrifice. Over the years and countless battles of the mind in healing and aiding others, his views of the world shifted. 
+The founder Allondir rose among the ranks of magisters through sheer will and demand. His rule and work began harsh, unyielding, the unbending steel the spire needed to rally. Forged through the pain of others, members aided without regard to their own suffering. As such, the narcissist was oblivious to his own condition after such lifetimes of sacrifice. Over the years and countless battles of the mind in healing and aiding others, his views of the world and himself shifted. 
 
-The spire changes with his revelations, seeking to aid their own as much as others, finding a legacy of terror and hardship writ in the bodies and souls of the healers. He began to reform their procedures, to heal his hurting members as much as himself. Something broken finally healed. Until their was a pain he could not heal...of a dear friend.
+The spire changed with his revelations, seeking to aid their own as much as others, finding a legacy of terror and hardship writ in the bodies and souls of the healers. He began to reform their procedures, to heal his hurting members as much as himself. Something broken finally healed. Until their was a pain he could not heal...of a dear friend.
 
 Far more a recluse in his later years, some whisper he aided Ya’sieri in final rituals, his death in ash mixing with the Elemental Scales. Others speculate he died of a broken heart when news of his friend’s death reached him.
 
