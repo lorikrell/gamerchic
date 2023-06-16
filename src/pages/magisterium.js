@@ -162,8 +162,8 @@ function Conquest() {
         </div>
         <div className="col col-md-6">
         <h2>Aegis Arcanum</h2>
-        <p>The Aegis Arcanum formed to control and judge all aspects of the towers from entering students, rank advancement, funding, materials, external support, and projects. Each tower sends leaders to the inner circle of the Aegis to speak for the many. The positions differ between the spires, some are voted others are just told. </p>
-        <p>All Magisterium members can vote on resolutions. Major decisions, judgments, and drafting of laws is handled by the inner council. Each tower has 1 vote in these matters, no abstentions allowed.</p>
+        <p>The Aegis Arcanum formed to control and judge all aspects of the spires from entering students, rank advancement, funding, materials, external support, and projects. Each spire sends leaders to the inner circle of the Aegis to speak for the many. The positions differ between the spires, some are voted others are just told. The current speaker for the Aegis is Dumath Evencrown of the Veiled Eye.</p>
+        <p>All Magisterium members can vote on resolutions. Major decisions, judgments, and drafting of laws is handled by the inner council. Each spire has 1 vote in these matters, no abstentions allowed.</p>
         <p></p>
         </div>
         </div>
