@@ -1,6 +1,7 @@
 ---
 title: Discord Event Banners
 id: discord-banner
+hide_table_of_contents: true
 ---
 
 Discord includes an amazing option to add events with locations, descriptions, and more. But why not make it look fabulous? You can use any of the [Warcraft Event Cards](../warcraft/event-cards.md) for a banner, or this Discord Event Banner! These banners use edited WoW models, custom drawing and edited textures, personal use free fonts, and have Hearthstone card art as temporary content. You can add your own images, group art, screenshots, fonts, and more!

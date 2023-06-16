@@ -1,6 +1,7 @@
 ---
 title: Warcraft Emojis
 id: wow-emoji
+hide_table_of_contents: true
 description: Free Warcraft emojis and stickers for Discord.
 ---
 

@@ -89,12 +89,16 @@ Stranger Things Season 4 finale battle vs Vecna (spoilers) shows multiple battle
         allowFullScreen
         />
 
+## Advanced Boss Mechanics
+
+Not every boss needs additional or special touches, but incorporating some or all of these may give your players a memorable experience or give you something to lean on when the fight shifts in a way you least expected. For extensive examples, see [Legendary Actions](#legendary-actions). More mechanics and examples coming soon!
+
 ## Sample Battles
 
 This guide will create 2 villain battles using the options and examples to give you ideas for your epic fights. We will create battle elements, the environment, develop the flow, and end the battle. 
 
 :::sonceri Symbols and D20
-For ease of understanding, Warcraft raid symbols are used and the [Warcraft Conquest](https://docs.google.com/document/d/1nlRtaicINUoWWn35ny1MoXp1-zMDL1YMTIW69sHd0v0/edit) and [Expanded Expertise](https://docs.google.com/document/d/1SPOAiBTRjKQKwgwTdK8vjfSWJ7jzHvZAC_pL-FyDim4/edit) system for D20 rules. Any system can be used in place of these or simply open roleplay. These examples just help highlight different methods for running the battles with DCs.
+For ease of understanding, Warcraft raid symbols are used and the [Warcraft Conquest](https://docs.google.com/document/d/1nlRtaicINUoWWn35ny1MoXp1-zMDL1YMTIW69sHd0v0/edit) and [Expanded Expertise](https://docs.google.com/document/d/1SPOAiBTRjKQKwgwTdK8vjfSWJ7jzHvZAC_pL-FyDim4/edit) system for D20 rules created by the [Warcraft Conquest](/Conquest) community. This guide also includes [Opt-In Hard Mode](https://docs.google.com/document/d/13HN_sAkSXgIAYJayb3sNRWDko6pB9usLXKxc-qYaM7o) options created by the [Coalition of the Horde](/Coalition). Any system can be used in place of these or simply open roleplay. These examples just help highlight different methods for running the battles with DCs.
 :::
 
 <div class="info-rows">
@@ -120,7 +124,17 @@ Deciding the following key elements can help you shape the battle:
 * **Moving or Stationary Battles**: Will players move through to find and fight the boss, begin in the location and not move, fight and move in phases? Or will the players battle the villain and follow them through a series of places in a chase? This can help determine timing, breathing room, and options to keep players motivated.
 * **Special Attacks**: You may want to consider buffs the players may have, debuffs applied by the villain, or special attacks that function like environmental effects, debuffs, or a task to complete. This gives your battle diversity while staying within the bounds of the rules. These attacks could also be [Legendary Actions].
 * **Environmental Attacks**: These attacks can be unleashed spells and area of effect (AOE) from the location or boss, affects from the location like storms, fly by attacks from minions, or sprung traps. Environmental rolls can get interesting if you handle them with key elements, such as melee takes an environmental attack while ranged get to attack and vice versa.
-* **Battle Tasks**: Can players affect your villain and their plans by tackling tasks during a fight? If there is a ritual, magical folks could use their combat actions to instead use skills for undoing the ritual. If there is a magical barrier protecting the villain and minions attacking, some members could attempt taking down the barrier. Healers need to heal and save fallen comrades and hostages as warriors hold the enemy at bay. Heavy fighters could bust through gates using loaded cannons while magical folks hold up a barrier protecting the fighters. So many options!
+* **Battle Tasks**: Can players affect your villain and their plans by tackling tasks during a fight? If there is a ritual, magical folks could use their combat actions to instead use skills for undoing the ritual. If there is a magical barrier protecting the villain and minions attacking, some members could attempt taking down the barrier. Healers need to heal and save fallen comrades and hostages as warriors hold the enemy at bay. Heavy fighters could bust through gates using loaded cannons while magical folks hold up a barrier protecting the fighters. So many options! For an easy method to create and manage these, use the Opt-In Hard Mode Combat Expertise options.
+* **Heroic Tactics**: These are Opt-In Hard Mode options to enrich an encounter, in and out of combat. Combat expertise checks for special abilties such as a stat roll check against a higher DC to pass or fail and take a flat amount of damage or affect, higher extended perks and debuffs, and boss execute attempting to wipe out small to large groups of players. For example, a boss could slam the ground causing earthquakes requiring a Body roll to withstand or a they may cast a ritual over the area affecting all lands to affect magic rolls by -1.
+
+:::homebrew Opt-In Hard Mode
+[Opt-In Hard Mode](https://docs.google.com/document/d/13HN_sAkSXgIAYJayb3sNRWDko6pB9usLXKxc-qYaM7o) is a d20 supplement of rules for WoW events, specifically to use with Warcraft Conquest Simplified system with Expanded Expertise. These rules provide:
+
+* Players with harder, more realistic options for health, healing, and long campaigns
+* Dungeon Masters with heroic event options including NPC abilities, negative health, DC thresholds, and combat expertise
+
+It was developed by thoughtful Dungeon Masters in the [Coalition of the Horde](/Coalition) World of Warcraft and the specific players Bramblestar and Gennick on the Moon Guard US server.
+:::
 
 :::gamerchic DM Resources
 If looking for more ideas, many guides and videos are available to leverage tabletop game ideas in any boss battle. Here are some favorites to check out:
@@ -136,24 +150,34 @@ If looking for more ideas, many guides and videos are available to leverage tabl
 
 Unlike a normal battle of players attacking enemies as obstacles towards the event end goal, these bosses ARE the end goal. As such, a normal hack and slash, attack and environmental roll, general combat damage may not feel epic. To push your event and bosses into something unique, you can consider Legendary Actions. In Dungeons and Dragons, this is a special ability the boss or lair (location) has available. Like player perks and abilities, they only get so many of these per event. For Warcraft Conquest, these are also considered NPC perks.
 
-In this guide, Legendary Actions develops simple perks or special ability into something with teeth. These actions could occur at any time, in the middle of a combat action or back-to-back without giving players a chance to act. 
+In this guide, Legendary Actions develops simple perks or special abilities into something with teeth. These actions could occur at any time: in the middle of a combat action or back-to-back without giving players a chance to act. 
 
 When building this action, consider the boss and who they are, what they do, where they come from. Do they focus on magic, have a breath weapon, have powerful attacks, have intelligent flying swords? As a boss, do they summon minions or call a mount and gain a mounted advantage? Consider melee, ranged, and spells. Can they heal themselves? You get the idea! 
+
+### Boss Legendaries
 
 Here's a list of potential custom Legendary Actions to consider, giving examples of some you could create for your bosses. These can be used as limited Perks or abilities, buffs, and debuffs. This simplifies the usage and tracking while running the event.
 
 | Action | Options |
 | -- | -- |
-| Reaction | Give the boss an extra attack or affect in response to a perk used by a player. This could be overcharge or rally. For overcharge, the armor could shimmer in response reducing the damage. For a rally, it could focus on rallied character with a morale roll or flee.<br/><br/>This could also be based on class or abilities. Consider the Neltharion battle with class calls in Blackwing Lair. Before starting the fight, make a list of your players and determine what they may be. Call those players out for these attacks. For example, all magical attackers are overwhelmed with power, suddenly blinded and seeing only the magic around them. Their attacks are wild and could hit a player. Melee fighters feel suddenly light and thrown up into the air, unable to move as they float, any major movement sends them into random directions. Ranged may attack only to have their spells fizzle in hands, missiles fail and fall once released, without momentum. Healers may be burned and hurt by their healing spells as the power turns against them.<br/><br/>You could also have them react to magic and attack types. Holy may do more damage, void may heal them, and so on. |
-| Multiple Attacks | They attack, use abilities, use actions, heal themselves, etc multiple times. Players only get to act after these multiple actions end. They occur together, giving your players a sense of dread and danger. |
-| Teleport | The enemy can literally disappear and reappear somewhere else in the area. This keeps the melee moving. |
-| Crowd Control | A failed Environmental roll to a polymorph spell, ice trap, fear, or other crowd control could cause no damage. Instead it freezes the player in place and they loose a turn or need to be broken out of the control. Another option could be a knock back feature, causing everyone around them to be tossed back and away.  |
-| Stealth | Be it roguelike stealth, invisibility through spell or potion, a magic cloak of displacement, the boss can disappear and sneak around the area. This keeps players from attacking for a round, or give them a chance to roll perception. |
-| Sneak Attack | If they are hiding prior to the battle beginning, or hidden through stealth, they could do double damage when attacking a group. |
-| Damage Type | When they use an ability or attack, it could be a particular type that does something extra. Acid could burn through armor, a chain lightning of fire, a freezing burst with slicing wind, a shadowbolt writhing with void and mind controlling whispers... All of these could affect different players to greater or lesser degree. A holy attack may cause pain to the undead, and barely hit the holy. And so on! |
-| Healing | Players can heal, why not bosses? They could be standing in a rune of healing that provides a return of health. They could have damage reduction to specific types of damage. They may regenerate health points if a specific type of damage is not applied (like no holy or fire is used on an undead boss, they could just regenerate after successful damage). Or they may have a healing minion or group just dedicated to keeping them on their feet. |
+| **Reaction** | Give the boss an extra attack or affect in response to a perk used by a player. This could be overcharge or rally. For overcharge, the armor could shimmer in response reducing the damage. For a rally, it could focus on rallied character with a morale roll or flee.<br/><br/>This could also be based on class or abilities. Consider the Neltharion battle with class calls in Blackwing Lair. Before starting the fight, make a list of your players and determine what they may be. Call those players out for these attacks. For example, all magical attackers are overwhelmed with power, suddenly blinded and seeing only the magic around them. Their attacks are wild and could hit a player. Melee fighters feel suddenly light and thrown up into the air, unable to move as they float, any major movement sends them into random directions. Ranged may attack only to have their spells fizzle in hands, missiles fail and fall once released, without momentum. Healers may be burned and hurt by their healing spells as the power turns against them.<br/><br/>You could also have them react to magic and attack types. Holy may do more damage, void may heal them, and so on. |
+| **Multiple Attacks** | They attack, use abilities, use actions, heal themselves, etc multiple times. Players only get to act after these multiple actions end. They occur together, giving your players a sense of dread and danger. |
+| **Teleport** | The enemy can literally disappear and reappear somewhere else in the area. This keeps the melee moving. |
+| **Crowd Control** | A failed Environmental roll to a polymorph spell, ice trap, fear, or other crowd control could cause no damage. Instead it freezes the player in place and they loose a turn or need to be broken out of the control. Another option could be a knock back feature, causing everyone around them to be tossed back and away.  |
+| **Stealth** | Be it roguelike stealth, invisibility through spell or potion, a magic cloak of displacement, the boss can disappear and sneak around the area. This keeps players from attacking for a round, or give them a chance to roll perception. |
+| **Sneak Attack** | If they are hiding prior to the battle beginning, or hidden through stealth, they could do double damage when attacking a group. |
+| **Damage Type** | When they use an ability or attack, it could be a particular type that does something extra. Acid could burn through armor, a chain lightning of fire, a freezing burst with slicing wind, a shadowbolt writhing with void and mind controlling whispers... All of these could affect different players to greater or lesser degree. A holy attack may cause pain to the undead, and barely hit the holy. And so on! |
+| **Healing** | Players can heal, why not bosses? They could be standing in a rune of healing that provides a return of health. They could have damage reduction to specific types of damage. They may regenerate health points if a specific type of damage is not applied (like no holy or fire is used on an undead boss, they could just regenerate after successful damage). Or they may have a healing minion or group just dedicated to keeping them on their feet. |
+
+### Player Legendaries
 
 Another option is creating *Legendary Actions for players*! This could be using weapons or items found in the environment, calling in allies for a single attack or healing wave, empowering all magical attacks or enchanting all attacks with a damage type. These options could be found and used in the boss battle, or collected from lead up events to employ in this finale, similar to the abilities above.
+
+| Action | Options |
+| -- | -- |
+| **Heroic Attacks** | The battle has raged for quite some time, either as a prolonged single battle or the finale battle in a series. As players are hurt and falling, the boss seems impossible to end, give the players one final attack with power! Allow players to add Body to a physical attack or Intelligence to a magical attack. This can replace a roll for killing blow as well, giving everyone the killing blow. |
+| **Combined Attacks or Abilities** | Give players the option to work together on an attack, magical ritual, diplomacy or intimidation action to pool their rolls for something greater. You have a couple of options for running these:<br/><br/><ul><li>Ask for a combat roll without damage. Every point of damage is a success.</li><li>Ask for an expertise roll with a DC in mind. If more people succeed than fail, it succeeds. If someone rolls critical 1 or 20+, those count as 2 failures or successes.</li></ul>  |
+
 
 ### Ancient Prison
 

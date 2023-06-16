@@ -1,6 +1,7 @@
 ---
 title: Jungle Adventure Journal
 id: jungle-journal
+hide_table_of_contents: true
 description: Find yourself a journal to weather adventures in golden ruins and pirate isles. Google Slides journal series.
 ---
 

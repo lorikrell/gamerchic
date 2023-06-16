@@ -1,6 +1,7 @@
 ---
 title: Posters & Notices
 id: posters
+hide_table_of_contents: true
 description: Create custom posters for wanted notices, lost items, royal decrees! Great resource for quest and notice boards.
 ---
 

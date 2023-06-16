@@ -1,5 +1,6 @@
 ---
 title: Fonts and Brushes
+hide_table_of_contents: true
 id: fonts-brushes
 ---
 

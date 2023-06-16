@@ -2,6 +2,7 @@
 title: Avatars
 id: avatars
 description: Free avatar template for RPGs, VTTs, Warcraft, and more.
+hide_table_of_contents: true
 ---
 
 You enter the domain of the lich through twisting passages. As you traverse, you wander the in game halls of a raid building like Karazhan or a beautiful map in a VTT like Roll20. Then the mastermind of months of roleplay and events appears... a floating X. Kind of anti-climatic. What if you could have a piece of art in a nice round frame to post in Discord or reveal in Roll20?!
@@ -37,11 +38,9 @@ Some examples!
 
 <div class="info-plainer">
 
-|  |  |
-| -- | -- |
-| ![flame](/img/resources/avatars/flame.png)  | ![gold](/img/resources/avatars/gold.png) |
-| ![green](/img/resources/avatars/gold2.png) | ![green](/img/resources/avatars/Green.png) |
-| ![sonc](/img/resources/avatars/sonc.png) | ![staff](/img/resources/avatars/staff.png) |
-| ![void](/img/resources/avatars/void.png) | ![void](/img/resources/avatars/void2.png) |
+|  |  |  |  |
+| -- | -- | -- | -- |
+| ![flame](/img/resources/avatars/flame.png)  | ![gold](/img/resources/avatars/gold.png) | ![green](/img/resources/avatars/gold2.png) | ![green](/img/resources/avatars/Green.png) |
+| ![sonc](/img/resources/avatars/sonc.png) | ![staff](/img/resources/avatars/staff.png) | ![void](/img/resources/avatars/void.png) | ![void](/img/resources/avatars/void2.png) |
 
 </div>

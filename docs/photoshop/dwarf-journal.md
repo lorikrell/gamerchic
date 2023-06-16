@@ -1,6 +1,7 @@
 ---
 title: Dwarven Journal
 id: dwarf-journal
+hide_table_of_contents: true
 description: Find yourself a journal of metal and parchment pages inspired by dwarves. Google Slides journal series.
 ---
 

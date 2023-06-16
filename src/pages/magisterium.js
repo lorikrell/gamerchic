@@ -18,6 +18,7 @@ const features = [
         Chronomancers with the power of fate, prophecy, and time. Those of the Astral Star seek divergent paths of learning, mystical to mathematical, in the spire halls. And yet the orders come to similar conclusions regardless of the journey.
       </>
     ),
+    link: 'docs/setting/astral-star',
   },
   {
     title: 'Elemental Scales',
@@ -27,6 +28,7 @@ const features = [
         Practitioners of the elements, forces of natural powwer. Every member of the Elemental Scales has walked through the fire of their calling, be it the realms of nature, fire, earth, water, air, and the very gravity of the world.
       </>
     ),
+    link: 'docs/setting/elemental-scales',
   },
   {
     title: 'Endless Scrolls',
@@ -36,6 +38,7 @@ const features = [
         Keepers of arcane and the craft of enchantment, the prime of power. The greatest group of scholarship welcomes all from the spires at some point in their life. Beyond magic crafts, they herald exploration into the world bringing back new magics.
       </>
     ),
+    link: 'docs/setting/endless-scrolls',
   },
   {
     title: 'Infinite Obelisk',
@@ -45,6 +48,7 @@ const features = [
         Agents of chaos and order, shadow and light, fel and holy. The Infinite Obelisk is a fractured tower of halves, ever watchful of each other and the power they wield. The only path of balance being the war between them, they walk a hard path. 
       </>
     ),
+    link: 'docs/setting/infinite-obelisk',
   },
   {
     title: 'Veiled Eye',
@@ -54,6 +58,7 @@ const features = [
         Wanderers of the mind, soul, spirit, and the emotional self. The Veiled Eye understands the body and magics are nothing without the soul and mind to weild them. They are the heart of the spires, ever offering support to the others and themselves. 
       </>
     ),
+    link: 'docs/setting/veiled-eye',
   },
   
 ];
@@ -89,14 +94,14 @@ const features2 = [
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({imageUrl, title, description, link}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className="land-box">
       {imgUrl && (
         <div className="mage-features-item ">
           <img className="mage-features-icon" src={imgUrl} alt={title} />
-          <h3>{title}</h3>
+          <a href={link} className="land-link"><h3>{title}</h3></a>
           <p>{description}</p>
         </div>
       )}
@@ -128,7 +133,7 @@ function Conquest() {
       <header className='sonceri-header'>
       <div className='sonceri-hero' id='sonceri'>
       
-      <h1 className='sonceri-title'>The Magesterium</h1>
+      <h1 className='sonceri-title'>The Magisterium</h1>
       </div>
       </header>
 
@@ -220,7 +225,8 @@ function Conquest() {
         <img src="img/magesterium/logo-awakened-flame.png" />
           </div></div></div>
         <div className='row'>
-        <div className="col col-md-6">          
+        <div className="col col-md-6">
+
         <p>Since the battle against bandits and the strange Betrayer, the Silver Legacy continued their investigations of the Ruby Life Vaults and crystal libraries.  They have found hidden records, training materials, and notes of powerful caches of weapons, armors, and artifacts...including more libraries! Throughout the Dracthyr have extended their support, avidly intrigued by these ancient recordings. Yet Guard Master Munera Cloudwalker took another route, seeking into the wilderness with a few dracthyr and guards from the Dragonscale Expedition to track down the Red Curios Bandits. She returned with new leads and old trails using information gained from the captured bandit interrogation, updating maps, and preparing battle plans. In a recent meeting, the Legacy determined it's time to seek their allies!</p>
         <p>Messages have been sent to various offices across Azeroth calling for aid! </p>
         <p>Join the Silver Legacy at the Ruby Life Vault to seek and end the bandits, safeguard lost relics and hostages, and investigate these caches of power. Through battle, magic, and scholarship, they hope to end the threats and continue seeking these crystal libraries. But where will the trail lead? It begins with bandits and the records of the ruins, and leads to a final showdown and a new adventure. And throughout, shadows fall from wings, and draconic eyes follow progress. Expect twists, turns, scouting, battle, and magic!</p>
@@ -241,7 +247,10 @@ function Conquest() {
           </li>
         </ul>
         </div>
+        <div className="center">
+        <img src="img/magesterium/starfall2.jpg" /></div>
        </div>
+
        </div></section>
 
 
@@ -252,13 +261,24 @@ function Conquest() {
         <img src="img/magesterium/logo-silvered-legacy.png" />
           </div></div></div>
         <div className='row'>
-        <div className="col col-md-6">          
+        <div className="col col-md-6">
+
         <p>The Dragonscale Expedition has run into a bit of a problem...they lost of one their groups! The Silver Legacy, a group of magical scholars and disaster experts, sought a ruin one of the Explorers kind of...exploded. But the treacherous wildlife and wayward forces have cut off communications. Will you aid? A Silvered Legacy was the first expedition of the Starfall Campaign. Your missions brought together new alliances between friends and guilds with the potential to expand that kinship with the Silver Legacy! Tales of magic, lore of the Dracthyr, battles against foes and elements, and opportunities abounded!</p>
+
+        <p>The group learned of bandits plundering the countryside of the Dragon Isles, thieving relics, artifacts, and scholars. A few Dracthyr ended up in their hands, only one still alive but terribly wounded. The bandits went by a cover name of the Red Fox Curios, working for an unknown group. They prepared to smuggle their finds, just waiting for a ship! Adventurers caught up with the Red Fox when they stole from the wrong caravan, the Silver Legacy.</p>
+
+        <p>Freeing the prisoners, bandits on the run, the group sought out the still missing Silver Legacy...finding them held in a ruin they couldn't escape from! By freeing them, they found a strange crystal library crafted of the Blue Flight with a construct called Saccageur embedded within it. The vision of a starlit dragon were the imprinted memories of an old dragon long past, holding records of numerous historical texts, lessons for whelplings, and odd entries regarding the Dracthyr and other experimental works. </p>
+
+        <p>As they repaired the ruins to open the door though, power flared up through a series of linked spells to a prison in a tower. Light and magic gleamed high into the sky, charging the tower and the spellwork locked in a time incantation. A prison of a corrupted dragon called the Betrayer and a Dracthyr named Brightmorn. As they battled to break the prison, end that battle held in stasis for untold years, and heal the Dracthyr, the many realized this was just one part in a larger mystery!</p>
+
+        <p><i>And so have stars begun to fall, it begins with the final rise of dawn, and ends in the depths where stars die.</i></p>
         
         <p>This was the first campaign for Starfall, March 2023!</p>
-
         </div>
+        <div className="center">
+        <img src="img/magesterium/starfall1.jpg" /></div>
        </div>
+
        </div></section>
 
 

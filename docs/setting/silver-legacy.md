@@ -1,17 +1,29 @@
 ---
 title: Silver Legacy
 id: silver-legacy
+hide_table_of_contents: true
 ---
+
+<div class="imgright">
+
+![seal](/img/magesterium/seal-silver-legacy.png)
+
+</div>
 
 Magic has touched all of our lives. Ancestors reveled in power, calling to spirit and building empires. Some cultures turned from magic and damned it from use, only for it to be embraced by future generations. Spirits and gods touched the devoted, divine of paths lit by sun, moon, and the everdark. Elementals bend to the demands of those that summon. By researching these creations of the past, we can glean lessons for the future. 
 
 The Silver Legacy collects magical knowledge, restores artifacts, and helps deal with dangerous magics. They have a growing history aiding with archeological sites, translating ancient runes and languages, and identifying magics lost and found.
 
-![seal](/img/magesterium/seal-silver-legacy.png)
+In the past few years, the Legacy has worked alongside the Explorer's League and Reliquary in digsites and archeological research, providing needed tools and advice for recovering artifacts, relics, and libraries. Fast becoming allies, they joined their comrades into the Dragonscale Expedition, continuing their work and expanding their offerings to adventurers seeking the isles. Now they welcome new members, inducting Seekers among the many folk and Dracthyr of Azeroth.
 
 :::sonceri The Magisterium
-The Silver Legacy is a public-facing group in the [Magisterium](/magisterium) setting for Warcraft created by Sonceri. 
+The Silver Legacy is a public-facing group of the [Endless Scrolls](endless-scrolls.md) in the [Magisterium](/magisterium) setting for Warcraft created by Sonceri. 
 :::
+
+## Campaign Messages from the Legacy
+
+![founder](/img/magesterium/starfall1.jpg)
+![founder](/img/magesterium/starfall2.jpg)
 
 ## Purpose
 The Silver Legacy is a Research group that focuses on magic items, spells, and sites found and researched in ruins. They are deeply focused on all forms of magic (but not Titan). Gaining reputation with the group earns perks and consumables to aid in magical research and managing dangerous sites.

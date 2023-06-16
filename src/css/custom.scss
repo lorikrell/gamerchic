@@ -1294,6 +1294,12 @@ html[data-theme="light"] td:nth-child(1) {
   }
 }
 
+.imgright {
+  img {
+    float: right;
+  }
+}
+
 .info-rows {
   img {
     max-width: 100px !important;

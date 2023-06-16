@@ -1,6 +1,7 @@
 ---
 title: Venthyr Journal
 id: vampire-journal
+hide_table_of_contents: true
 description: Find yourself a journal of blood, nightmare, and the wrath of the Venthyr. Google Slides journal series.
 ---
 

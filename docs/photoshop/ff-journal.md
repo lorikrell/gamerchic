@@ -1,6 +1,7 @@
 ---
 title: Final Fantasy Journal
 id: final-journal
+hide_table_of_contents: true
 description: Find yourself a journal of sights beheld in the lands of Eorzea and beyond. Google Slides journal series.
 ---
 

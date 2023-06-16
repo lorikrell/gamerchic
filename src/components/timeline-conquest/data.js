@@ -1,5 +1,18 @@
 const items = [
     {
+      title: "44 L.C. / April 2023",
+      cardTitle: "Tempest's Fury",
+      cardSubtitle: `None can withstand the storm!`,
+      cardDetailedText: `Replaced`,
+        media: {
+          name: "tempest",
+          source: {
+            url: "img/landing/tempest-fury.png"
+          },
+          type: "IMAGE"
+        }
+    },
+    {
       title: "41 L.C. / November 2022",
       cardTitle: "Lichfall",
       cardSubtitle: `Pitiful wretches, fall and join my army...forever.`,

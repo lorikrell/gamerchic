@@ -1,6 +1,7 @@
 ---
 title: WoW Guild Crests
 id: crest
+hide_table_of_contents: true
 ---
 
 Remember the amazing Warcraft guild crests from the WoW site, and the incredible crest creator? Alas, the creator is no longer available. Using the symbols and ideas, here is a custom Photoshop file to select options, colors, and save guild crests! This uses a mix of edited WoW discs, custom discs, WoW models, WoW Guild icons, and additional options.

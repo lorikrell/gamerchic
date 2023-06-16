@@ -1,6 +1,7 @@
 ---
 title: Elven Journals
 id: elven-journal
+hide_table_of_contents: true
 description: Find yourself a journal of fine parchment, seals, and magic inspired by elves. Google Slides journal series.
 ---
 

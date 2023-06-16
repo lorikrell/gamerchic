@@ -1,6 +1,7 @@
 ---
 title: Tech Journals
 id: tech-journals
+hide_table_of_contents: true
 description: Book options for your tech journals and notes. Google Slides journal series.
 ---
 

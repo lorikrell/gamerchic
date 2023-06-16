@@ -124,9 +124,19 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Magisterium',
+      label: 'Magisterium WoW Setting',
       items: [
+      'setting/astral-star',
+      'setting/elemental-scales',
+      'setting/endless-scrolls',
       'setting/silver-legacy',
+      'setting/infinite-obelisk',
+      'setting/veiled-eye',
+      {
+        type: 'link',
+        label: 'Magisterium',
+        href: '/Magisterium',
+      },
     ]
     },
   ],

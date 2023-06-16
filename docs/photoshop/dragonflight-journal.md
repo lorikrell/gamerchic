@@ -1,6 +1,7 @@
 ---
 title: Dragonflight Journal
 id: dragonflight-journal
+hide_table_of_contents: true
 description: Find yourself a journal of dreams and magic of the flights. Google Slides journal series.
 ---
 

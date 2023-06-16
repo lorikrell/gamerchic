@@ -1,6 +1,7 @@
 ---
 title: Custom Coins
 id: coins
+hide_table_of_contents: true
 ---
 
 Create custom coins for your world, characters, guilds, and more with this Photoshop file. It includes multiple shapes, metals, colors, and text layout options.

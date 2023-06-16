@@ -1,6 +1,7 @@
 ---
 title: Scrollcase
 id: scrollcase
+hide_table_of_contents: true
 description: Send letters to fine friends, declare war, or prepare a grocery list. The scrollcase is ready for your missives. Google Slides journal series.
 ---
 
