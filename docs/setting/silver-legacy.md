@@ -2,6 +2,7 @@
 title: Silver Legacy
 id: silver-legacy
 hide_table_of_contents: true
+description: The Silver Legacy is a public facing group of scholars, magi, and seekers aiding in archeological research and more. Part of the Magisterium Setting.
 ---
 
 <div class="imgright">
