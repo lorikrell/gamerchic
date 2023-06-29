@@ -157,7 +157,7 @@ function Conquest() {
         <div className="col col-md-6">
         <h2>The Isle of Spires</h2>
         <p>The spires rise from a small set of isles off the coasts of Sunstrider Isle and Quel'danas. For ages, the protective wards and social methods of influence have kept the academy and secretive mages from scrutiny from the Quel'thalas Magisterium, the Sun Spire (after Kael'thas' departure), and further forces seeking any forms of magic. With the fall of the Sunwell and invasion of the Lich King, the isle was lost to time and history, disappearing with the dead.</p>
-        <p>Yet time decays all things, and the heavy losses in the marsh of the Lich King have left the isle woefully understaffed. It may be possible to peirce the remaining magics, or perceive the spires through the mists.</p>
+        <p>Yet time decays all things, and the heavy losses in the march of the Lich King have left the isle woefully understaffed. It may be possible to pierce the remaining magics, or perceive the spires through the mists.</p>
         <p></p>
         </div>
         <div className="col col-md-6">
