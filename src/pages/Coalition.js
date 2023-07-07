@@ -24,7 +24,7 @@ const features = [
     imageUrl: 'img/icons/discord2.png',
     description: (
       <>
-        Schedules, plans, discussions, narration updates, RP prompts, and more are tracked in the <a href="https://discord.gg/PYfrDW73Pp">Coalition of the Horde Discord</a>.
+        Schedules, plans, discussions, narration updates, RP prompts, and more are tracked in the <a href="https://tinyurl.com/TheCoalitionoftheHorde">Coalition of the Horde Discord</a>.
       </>
     ),
   },
@@ -126,7 +126,7 @@ function Conquest() {
         
         <p>The <strong>Coalition of the Horde</strong> is a community project that focuses on storytelling and coordination between the many races and creeds in the Horde, neutral factions, and independents. This community provides a home to share stories, build histories, and experience plot lines set in the Warcraft universe. The group meets socially and holds small to large campaigns using freeform roleplay and dungeon mastered events using d20 rules. All players are welcome across US servers, with events currently hosted on Moon Guard (Central time zone).</p>
 
-        <p>We welcome players of diverse backstories and themes to our events, including the Horde, independents, and all neutral factions such as the Argent Crusade, Earthen Ring, Cenarion Circle, Ebon Blade, Kirin Tor, Dracthyr of the Dark Talons and Healing Wings, and others. Campaigns include a diverse range of options and conflicts, PVE and PVP, battles to story circles, roleplayed medical and security, vehicle battles, and camp life. Join our <a href="https://discord.gg/PYfrDW73Pp">Discord</a> and see our <a href="https://docs.google.com/document/d/18lFup8tGF8ynTv_tuHVJIOmi5HLvuFwSaNwB4H-2htE/edit?usp=sharing">Charter.</a></p>
+        <p>We welcome players of diverse backstories and themes to our events, including the Horde, independents, and all neutral factions such as the Argent Crusade, Earthen Ring, Cenarion Circle, Ebon Blade, Kirin Tor, Dracthyr of the Dark Talons and Healing Wings, and others. Campaigns include a diverse range of options and conflicts, PVE and PVP, battles to story circles, roleplayed medical and security, vehicle battles, and camp life. Join our <a href="https://tinyurl.com/TheCoalitionoftheHorde">Discord</a> and see our <a href="https://docs.google.com/document/d/18lFup8tGF8ynTv_tuHVJIOmi5HLvuFwSaNwB4H-2htE/edit?usp=sharing">Charter.</a></p>
         </div>
         <div className="center">
         <img src="img/coth/coth-logo.png" className='responsive'/></div>
@@ -225,7 +225,7 @@ function Conquest() {
         <li><strong>Who:</strong> Horde and Neutral Factions</li>
         <li><strong>Phasing:</strong>Please complete all Twilight Highlands quests</li>
         </ul>
-        <p>Join our <a href="https://discord.gg/PYfrDW73Pp">Discord</a> and see our <a href="https://us.forums.blizzard.com/en/wow/t/hn-rp-campaign-twilight-genesis-july-15th-22nd">forum post</a> for details!</p>
+        <p>Join our <a href="https://tinyurl.com/TheCoalitionoftheHorde">Discord</a> and see our <a href="https://us.forums.blizzard.com/en/wow/t/hn-rp-campaign-twilight-genesis-july-15th-22nd">forum post</a> for details!</p>
         <img src="img/coth/hardmode.png" />
         <p>For Twilight Genesis, players will be able to choose to opt-into a more challenging system to add more interesting elements to their play and recovery. There are three facets to this system, and players can pick any number of them to add to their play if they choose.</p>
         <ul>
