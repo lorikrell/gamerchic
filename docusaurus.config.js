@@ -232,6 +232,7 @@ module.exports = {
                 },
                   ],
                 },
+        { label: 'About Sonceri', to: 'about' },
         {to: '/blog', label: 'Game Blog', position: 'right'},
       ],
     },

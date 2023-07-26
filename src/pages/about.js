@@ -30,9 +30,29 @@ function SoncGallery() {
         <div className='container'>
         <div className='row'>
         <div className="col col-md-6">
-    <p>A growing collection of art for fun, games, and more. I'll add more as I can between projects. You can find more <a href="https://lorikrell.myportfolio.com/work">here</a> until they are all moved and updated. Do not reuse unless that art is so noted. An open source gallery will be provided at a later time.</p>
 
-    <h2>Cartography</h2>
+        <h1>About Sonceri</h1>
+          
+        <p>I am Lori Krell, also known as Sonceri my World of Warcraft character. I have crafted artworks and designs for many years in RPGs, novels, and online communities. I love to create images and resources in pencil and digital to help people tell their stories be it characters, maps, logos, journals, tokens, and more. You can find a full gallery in my <a href="https://lorikrell.myportfolio.com/work">Online Portfolio</a>.</p>
+
+        <p>I may take commissions. I often donate work to charities. Ko-fi will include open commission slots over time.</p>
+        
+        <p><a href="https://ko-fi.com/sonceriart" target="_blank"><img src="img/kofi.png"/> Sonceri on Ko-fi</a><br/>
+        <a href="https://lorikrell.myportfolio.com/work" target="_blank"><img src="img/portfolio.png"/> Full Online Portfolio</a><br/>
+        <a href="https://sonceri-mg.tumblr.com/" target="_blank"><img src="img/tumblr.png"/> Sonceri on Tumblr</a><br/>
+        <a href="https://twitter.com/lorioliodraws" target="_blank"><img src="img/twitter.png"/> Loriolio on Twitter/X</a><br/>
+        <img src="img/discord.png"/> loriolio on Discord</p>
+        </div>
+        <div className="center">
+        <img src="img/soncavatar.png" className='responsive'/></div>
+       </div>
+       </div></section>
+
+      <section className='spacer'>
+        <div className='container'>
+        <div className='row'>
+        <div className="col col-md-6">
+
     <Gallery>
   
     <div style={{
@@ -40,6 +60,55 @@ function SoncGallery() {
     gridTemplateColumns: 'repeat(auto-fill, minmax(min(400px, 100%), 1fr))',
     gridGap: 10,
     }}>
+
+    <Item
+      original="/img/gallery/shin.jpg"
+      thumbnail="/img/gallery/shin-thumb.jpg"
+      width="450"
+      height="1125"
+      title="Shin in Glass"
+    >
+      {({ ref, open }) => (
+        <img ref={ref} onClick={open} src="/img/gallery/shin-thumb.jpg" />
+      )}
+    </Item>
+
+    <Item
+      original="/img/gallery/mirchea.jpg"
+      thumbnail="/img/gallery/mirchea-thumb.jpg"
+      width="570"
+      height="810"
+      title="Mirchea in Glass"
+    >
+      {({ ref, open }) => (
+        <img ref={ref} onClick={open} src="/img/gallery/mirchea-thumb.jpg" />
+      )}
+    </Item>
+
+    <Item
+      original="/img/gallery/rillian.jpg"
+      thumbnail="/img/gallery/rillian-thumb.jpg"
+      width="570"
+      height="810"
+      title="Rillian in Glass"
+    >
+      {({ ref, open }) => (
+        <img ref={ref} onClick={open} src="/img/gallery/rillian-thumb.jpg" />
+      )}
+    </Item>
+
+    <Item
+      original="/img/gallery/maxen.jpg"
+      thumbnail="/img/gallery/maxen-thumb.jpg"
+      width="960"
+      height="960"
+      title="Maxen in Glass"
+    >
+      {({ ref, open }) => (
+        <img ref={ref} onClick={open} src="/img/gallery/maxen-thumb.jpg" />
+      )}
+    </Item>
+
     <Item
       original="/img/gallery/carda.jpg"
       thumbnail="/img/gallery/carda-thumb.jpg"
@@ -51,28 +120,7 @@ function SoncGallery() {
         <img ref={ref} onClick={open} src="/img/gallery/carda-thumb.jpg" />
       )}
     </Item>
-    <Item
-      original="/img/gallery/audalis.jpg"
-      thumbnail="/img/gallery/audalis-thumb.jpg"
-      width="1200"
-      height="870"
-      title="Audalis for Red Dragon Inn"
-    >
-      {({ ref, open }) => (
-        <img ref={ref} onClick={open} src="/img/gallery/audalis-thumb.jpg" />
-      )}
-    </Item>
-    <Item
-      original="/img/gallery/siova.jpg"
-      thumbnail="/img/gallery/siova-thumb.jpg"
-      width="1000"
-      height="598"
-      title="Siova in Obraes"
-    >
-      {({ ref, open }) => (
-        <img ref={ref} onClick={open} src="/img/gallery/siova-thumb.jpg" />
-      )}
-    </Item>
+
     <Item
       original="/img/gallery/westgate1.jpg"
       thumbnail="/img/gallery/westgate1-thumb.jpg"
@@ -107,31 +155,6 @@ function SoncGallery() {
       )}
     </Item>
     
-    </div>
-  </Gallery>
-
-<h2>Pencil Works</h2>
-
-  <Gallery>
-  
-    <div style={{
-    display: 'grid',
-    gridTemplateColumns: 'repeat(auto-fill, minmax(min(400px, 100%), 1fr))',
-    gridGap: 10,
-    }}>
-    
-    <Item
-      original="/img/gallery/candle1.jpg"
-      thumbnail="/img/gallery/candle1-thumb.jpg"
-      width="576"
-      height="1000"
-      title="Candlekeep Secret Agents"
-    >
-      {({ ref, open }) => (
-        <img ref={ref} onClick={open} src="/img/gallery/candle1-thumb.jpg" />
-      )}
-    </Item>
-
     <Item
       original="/img/gallery/candle2.jpg"
       thumbnail="/img/gallery/candle2-thumb.jpg"
@@ -153,18 +176,6 @@ function SoncGallery() {
     >
       {({ ref, open }) => (
         <img ref={ref} onClick={open} src="/img/gallery/candle3-thumb.jpg" />
-      )}
-    </Item>
-
-    <Item
-      original="/img/gallery/candle4.jpg"
-      thumbnail="/img/gallery/candle4-thumb.jpg"
-      width="764"
-      height="1000"
-      title="Candlekeep Secret Agents"
-    >
-      {({ ref, open }) => (
-        <img ref={ref} onClick={open} src="/img/gallery/candle4-thumb.jpg" />
       )}
     </Item>
 
