@@ -15,26 +15,13 @@ MMOs give dungeon masters and players more opportunities to write their own tale
 :::sonceri Sonceri Projects
 There are numerous server projects, campaigns, recurring events, and roleplay gatherings across the servers. To find a full list, check the Warcraft forums and event announcements on various Discord servers. The following are two projects I've worked with over the years.
 
-I am also in progress on a Warcraft setting called The Magisterium, coming soon.
-:::
-
-![banner](/img/landing/banner-coth.png)
-
-The Coalition of the Horde Discord Server is a Horde role-playing community on the Moon Guard server of World of Warcraft. The project is Horde and Neutral faction friendly, open to all members and guilds with the sole intention of defending Horde interests and rebuilding after the disastrous Fourth War. The project hopes to capture the feel of the New Horde through representing the many tribes, military, national and numerous factions within the Horde. Every month we meet to discuss current events and organize cooperation between the member guilds. We also host campaigns open to new and veteran Dungeon Masters, players, and friends to attend across all lands of Azeroth and beyond.
-
-[**Learn more about the Coalition!**](/Coalition)
-
-The Coalition uses the following resources for campaigns and events:
+I am also in progress on a Warcraft setting called [The Magisterium](/magisterium). This setting uses:
 
 * [Conquest D20 System Simplified 2.0](https://docs.google.com/document/d/1nlRtaicINUoWWn35ny1MoXp1-zMDL1YMTIW69sHd0v0/edit?usp=sharing) with [PVP](https://docs.google.com/document/d/1IzRHu0DmhWuENVZb25ewkAYBijkvQDDLW7KMTNUzekA/edit?usp=sharing) and [PVE](https://docs.google.com/document/d/1tcAMfIREPK7kBJHV3NRu9c735FvwPFFFTrJMAAX7Iqo/edit?usp=sharing) Templates
 * [Expanded Expertise](https://docs.google.com/document/d/1SPOAiBTRjKQKwgwTdK8vjfSWJ7jzHvZAC_pL-FyDim4/edit)
 * [Opt-in Hardmode](https://docs.google.com/document/d/13HN_sAkSXgIAYJayb3sNRWDko6pB9usLXKxc-qYaM7o/edit)
 * [Conquest War Machine System 3.3](https://docs.google.com/document/d/1Q9vnQ6pLNIQgCSIcxVzJzsQnPSz3nXffgqEjI0nqUsE/edit#) and [templates](https://docs.google.com/document/d/1CME3uHmDtg2p0YH22hP23-TZ-Z8wUBixcC-drxPyAG4/edit)
 
-:::dungeon Join the Coalition
-Coalition of the Horde is community driven, written and forged by numerous moderators, dungeon masters, creators, writers, and players. The community is vast and ever-growing, open to all Horde and Neutral faction players on Moon Guard-US and other servers.
-
-Interested? Join the ![discord](/img/icons/icon-discord-sm.png) [Discord](https://discord.gg/PYfrDW73Pp) and [Warcraft Community](https://tinyurl.com/CoalitionoftheHordeCommunity).
 :::
 
 ![banner](/img/landing/banner-conquest.png)

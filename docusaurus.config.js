@@ -209,10 +209,6 @@ module.exports = {
               to: 'docs/photoshop/discord-banner',
             },
             {
-              label: 'Coalition of the Horde',
-              to: 'Coalition',
-            },
-            {
               label: 'Warcraft Conquest',
               to: 'Conquest',
             }
@@ -259,10 +255,6 @@ module.exports = {
         {
           title: 'Projects',
           items: [
-            {
-              label: 'Coalition of the Horde',
-              href: 'https://discord.gg/hkXmPPb6BB',
-            },
             {
               label: 'Warcraft Conquest Discord',
               href: 'https://tinyurl.com/warcraftconquestdiscord',

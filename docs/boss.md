@@ -98,7 +98,7 @@ Not every boss needs additional or special touches, but incorporating some or al
 This guide will create 2 villain battles using the options and examples to give you ideas for your epic fights. We will create battle elements, the environment, develop the flow, and end the battle. 
 
 :::sonceri Symbols and D20
-For ease of understanding, Warcraft raid symbols are used and the [Warcraft Conquest](https://docs.google.com/document/d/1nlRtaicINUoWWn35ny1MoXp1-zMDL1YMTIW69sHd0v0/edit) and [Expanded Expertise](https://docs.google.com/document/d/1SPOAiBTRjKQKwgwTdK8vjfSWJ7jzHvZAC_pL-FyDim4/edit) system for D20 rules created by the [Warcraft Conquest](/Conquest) community. This guide also includes [Opt-In Hard Mode](https://docs.google.com/document/d/13HN_sAkSXgIAYJayb3sNRWDko6pB9usLXKxc-qYaM7o) options created by the [Coalition of the Horde](/Coalition). Any system can be used in place of these or simply open roleplay. These examples just help highlight different methods for running the battles with DCs.
+For ease of understanding, Warcraft raid symbols are used and the [Warcraft Conquest](https://docs.google.com/document/d/1nlRtaicINUoWWn35ny1MoXp1-zMDL1YMTIW69sHd0v0/edit) and [Expanded Expertise](https://docs.google.com/document/d/1SPOAiBTRjKQKwgwTdK8vjfSWJ7jzHvZAC_pL-FyDim4/edit) system for D20 rules created by the [Warcraft Conquest](/Conquest) community. This guide also includes [Opt-In Hard Mode](https://docs.google.com/document/d/13HN_sAkSXgIAYJayb3sNRWDko6pB9usLXKxc-qYaM7o) options. Any system can be used in place of these or simply open roleplay. These examples just help highlight different methods for running the battles with DCs.
 :::
 
 <div class="info-rows">
@@ -132,8 +132,6 @@ Deciding the following key elements can help you shape the battle:
 
 * Players with harder, more realistic options for health, healing, and long campaigns
 * Dungeon Masters with heroic event options including NPC abilities, negative health, DC thresholds, and combat expertise
-
-It was developed by thoughtful Dungeon Masters in the [Coalition of the Horde](/Coalition) World of Warcraft and the specific players Bramblestar and Gennick on the Moon Guard US server.
 :::
 
 :::gamerchic DM Resources
