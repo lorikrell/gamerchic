@@ -26,6 +26,7 @@ Here are the available emoji packs with many more to come!
 
 |  |  |
 | -- | -- |
+| [Argent Starro](/files/argent-starro.zip) <br/>![Argent Lineup](/img/resources/emoji/argent-lineup.png)  |  |
 | [Sindorei/Blood Elf](/files/belf-emojis.zip) and [Magical Set](/files/belf-magic.zip)<br/>![Belf Lineup](/img/resources/emoji/belf-lineup.png)  | [Worgen](/files/worgen-emojis.zip)<br/>![Worgen Lineup](/img/resources/emoji/worgen-lineup.png) |
 | [Troll](/files/troll-emojis.zip)<br/>![Troll Lineup](/img/resources/emoji/troll-lineup.png) | [Night Elf](/files/nelf-emojis.zip)<br/>![Night Elf Lineup](/img/resources/emoji/nelf-lineup.png) |
 | [Orcs](/files/orc-emojis.zip)<br/>![Orc Elf Lineup](/img/resources/emoji/orc-lineup.png) | [Dwarves](/files/dwarf-emojis.zip)<br/>![Dwarf Elf Lineup](/img/resources/emoji/dwarf-lineup.png) |
