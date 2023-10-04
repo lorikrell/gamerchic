@@ -223,28 +223,6 @@ function Conquest() {
       </div>
       </div>
 
-      <section className='spacer'>
-      <header className='conquest-header'>
-      <div className='conquest-hero' id='tropic'>
-      <ReactPlayer 
-      className='react-player'
-      url='https://www.youtube.com/v/on9FIFoYFX8?version=3&vq=hd1080&t=5&playlist=on9FIFoYFX8'
-      width='100%'
-      height='100%'
-      config={{
-        youtube: {
-          playerVars: { controls:1 , modestbranding:1 }
-        }
-      }}
-      
-      />
-          <div className='credits'>
-          <p>Video by <a href="https://www.youtube.com/channel/UCHA3JlOT46KxNtHrgVEtT4A">Gavinrad the Bookish</a></p>
-          </div>
-      </div>
-      </header>
-
-      </section>
 
 
         <section className='spacer'>
