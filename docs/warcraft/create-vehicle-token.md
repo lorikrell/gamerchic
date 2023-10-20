@@ -27,58 +27,6 @@ If you have a vehicle you want to create, but don't have a base vehicle, time to
 1. Continue adding effects and shift colors until you have a great new begining.
 1. Save these files in a group or two. You can create duplicates as new bases for variations and more.
 
-Here are a list of files to consider grabbing textures from for .wmo files:
-
-* 12989 - Crypt, above and undergound
-* 12999 - Building, no interior
-* 12993 - Building, inn-like
-* 13251 - Chapel or townhall
-* 13257 - Townhall
-* 12994 - Wall, generic
-* 12995 - Wall, gate
-* 12996 - Wall-post
-* 12997, 13053 - Wall-Tower
-* 13009, 13010, 13038 - Generic half-chunk of wall
-* 13147 - hole in the wall
-* 13739 - Chain
-* 13044 - Floating upper arch/walkway/bridge
-* 13045 - Small arch
-* 13162 - Arch-bridge
-* 13046 - Right-angle straight arch
-* 13135 - Right angle straight arch, large
-* 13023 - Small gate
-* 13030, 13033, 13144  - Square tower
-* 13031, 13145, 13742 - Big hex tower 
-* 13034, 13035 - stairs
-* 13136 - Big tower +  top
-* 13131 - Big bridge
-* 13146 - Elevator
-* 13149, 13659 - Broken big tower
-* 13171, 13167, 13172 - broken tree
-* 13264 - Gazebo
-* 13255, 13495 - Big ass Maldraxxus Fort
-* 13339, 13272, 13275 - Torgast interior, undead?
-* 13285 - Torgast Props
-* 13415, 13733 - Ziggaraut
-* 13096 - Oribus
-* 8du_13489.wmo - Mechagon dungeon tons of metal and buildings
-* 8du_mechagon_platforms01_2829591.wmo - Mechagon outdoor great textures
-* door - .m2 files, beautiful options from the Wardens, Suramar
-* 13738 - Sylvannas ship of evil
-* 13008 - Spooky towers
-* 13047 - Castley chunk, exterior
-* 13018 - Big castle gate, portculus, towers
-* 13027, 13744 - More big Nathria castle chunks
-* 13549 - Crypts
-* 13568 - Castle/Chapel interior
-* 13575 - Nathria arches
-* 13613 - Main hall for big city faction
-* 13653 - Player Faction Area
-* 13725 - Alliance ship
-* garrison - Buildings from Horde and Alliance garrisons
-* suramar - .m2 and wmo files have a ton of incredible options
-* vampire / venthyr, fae / ardenweald, aspirant / bastion, necro / maldraxxus - Covenants have files under different names
-
 ## Change Color
 
 To change the shade of materials such as wood or metal, use Hue & Saturation, Color Replacement, 

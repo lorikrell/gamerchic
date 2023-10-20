@@ -90,7 +90,6 @@ If you see glow effects, parts of the model selected, or funky edges, you can fu
     This is extremely helpful when using **Color Range...** with WoWHead captures due to the background being shades of gray with black logos.
     :::
 
-
 ### Select with Channels
 
 :::sonceri Advanced but amazing!

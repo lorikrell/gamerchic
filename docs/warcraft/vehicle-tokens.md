@@ -16,9 +16,8 @@ You can install tools locally and use online websites to collect models for vehi
 * [WoW Model Viewer](https://wowmodelviewer.net/new/) is an application you can install on your computer. It accesses WoW files with the game closed. This lets you build character looks and more. You can import characters. Be advised, .wmo files tend to crash the application rarely ever opening.
 * [Dressing Room](https://www.wowhead.com/dressing-room) on WoWHead. Double click to see a full screen for a screenshot. You can import characters with a server and in-game name.
 * WoWHead [Outfits](https://www.wowhead.com/outfits) great for creating squads of character models. Search by look to find great transmog and view in Dressing Room to take screenshots.
-* [Conquest Google Drive](https://drive.google.com/drive/u/0/folders/1i6ZMOfk5-e1dkkgNTMaM-VBEN-BinOJf) of large and small vehicle files
-* [Conquest War Machine D20 System](https://docs.google.com/document/d/1Q9vnQ6pLNIQgCSIcxVzJzsQnPSz3nXffgqEjI0nqUsE/edit#) by Warcraft Conquest
-* [InBoard App](https://inboardapp.com/) for creating mood boards with screen captures and concept art
+* [Sonceri Token Library](https://drive.google.com/drive/u/1/folders/1Trn2hg7KyClWY3FemK_43al4TEEMGZLa) includes tokens, grids of many sizes, and more!
+* [Conquest/Maxen Token Library](https://drive.google.com/drive/u/2/folders/1JTp-cFxT3RAdBbJVrUp4ss8XwRe0-J2d) 
 
 :::note Learning 3D
 Want to learn how to export and work on models in 3D? Blender is a great tool to get started. You may need a graphics program to edit texture skins like Photoshop. And some guides!
