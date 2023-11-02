@@ -34,7 +34,7 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 <DocCardList items={useCurrentSidebarCategory().items}/>
 
 ## War Machine Rules
-These events use the War Machine system created and maintained by the [Warcraft Conquest](https://tinyurl.com/warcraftconquestdiscord) community.
+Vehicle Battles use the War Machine system created and maintained by the [Warcraft Conquest](https://tinyurl.com/warcraftconquestdiscord) community.
 
 * [Conquest War Machine System 3.3](https://docs.google.com/document/d/1Q9vnQ6pLNIQgCSIcxVzJzsQnPSz3nXffgqEjI0nqUsE/edit#)
 * [Unit Templates](https://docs.google.com/document/d/1CME3uHmDtg2p0YH22hP23-TZ-Z8wUBixcC-drxPyAG4/edit)
