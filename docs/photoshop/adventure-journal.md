@@ -7,7 +7,7 @@ description: A simple book to track your journeys through the world, pages inclu
 A life spent in adventure, take this book to save thoughts and histories. Pages include a technical hex for maps and planning, blueprints, and the like. Many others are open with coins, bookmarks, a quill, and more. A simple book, but helpful in your adventures!
 
 :::sonceri Helpful Request for the Artist
-All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates. You can link to this page. Thank you so very much! 
+All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 
 1. Visit the [adventurer journal Google Slides](https://docs.google.com/presentation/d/1nTJV2sc2YLMonKEKn_Wa-PZW7XQeMSgvRe7rDQTcdhk).

@@ -10,12 +10,12 @@ Good question! Would this warlord wave an umbrella plucked from your favorite ba
 
 Create custom banners for your world, characters, guilds, armies, adventuring parties, enemies, and more with this Photoshop file. It includes 8 banner styles with variations, colors, top and back decorations, and icons! These icons are for World of Warcraft, but you can drop any transparent icon or symbol in the file to automatically style. These are created using WoW models and resources, custom effects, and drawn pieces. Click to show and hide options. For the hologram, you can change all of the colors of glows to match the banner color. 
 
-:::sonceri Image Editors
-This file can be opened and edited in any art application that opens PSD. I highly recommend Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can use any application that opens a PSD file, but you may be missing shadows and color options for Hologram Banner that use layer styles. But there are ways around that! 
+:::gamerchic Resources & Editors
+Need fonts, brushes, or info on best applications to use these files? See [Graphic Basics](/docs/photoshop/basics).
 :::
 
 :::sonceri Helpful Request for the Artist
-All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates. You can link to this page. Thank you so very much! 
+All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 
 ## Download 

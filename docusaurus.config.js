@@ -65,156 +65,28 @@ module.exports = {
       items: [
         {
           type: 'dropdown',
-          label: 'Dungeon Masters',
+          label: 'Game Resources',
           items: [
               {
                   label: 'Graphics and Guides',
                   to: 'docs/intro',
                 },
                 {
+                  label: 'Player Journals',
+                  to: 'docs/photoshop/journals',
+                },
+                {
                   label: 'Running Events',
                   to: 'docs/events-campaigns',
                 },
                 {
-                  label: 'Guide to Boss Battles',
-                  to: 'docs/boss',
-                },
-                {
-                  label: 'Guide to Investigations',
-                  to: 'docs/investigations',
-                },
-                {
-                  label: 'Guide to Stealth and Spies',
-                  to: 'docs/stealth',
-                },
-                {
-                  label: 'Guide to Horror',
-                  to: 'docs/horror',
-                },
-                {
-                  label: 'One Page Adventures',
-                  to: 'docs/onepage',
-                },
-                {
-                  label: 'Warcraft Resources',
+                  label: 'Vehicle Battles',
                   to: 'docs/warcraft/intro',
                 },
-                {
-                  label: 'WoW Emojis',
-                  to: 'docs/photoshop/wow-emoji',
-                },
-                {
-                  label: 'Avatars',
-                  to: 'docs/photoshop/avatars',
-                },
-                {
-                  label: 'Banners',
-                  to: 'docs/photoshop/banners',
-                },
-                {
-                  label: 'WoW Logos',
-                  to: 'docs/photoshop/wow-logo',
-                },
-                {
-                  label: 'Vehicle Battle Tokens',
-                  to: 'docs/warcraft/token',
-                },
-                {
-                  label: 'Event Cards',
-                  to: 'docs/warcraft/event-cards',
-                },
-                {
-                  label: 'Loot Cards',
-                  to: 'docs/warcraft/boss-item-cards',
-                },
-                {
-                  label: 'Discord Event Banner',
-                  to: 'docs/photoshop/discord-banner',
-                },
-                {
-                  label: 'Exalted',
-                  to: 'docs/exalted/resources',
-                },
-                {
-                  label: 'World of Darkness',
-                  to: 'docs/w-o-d/intro',
-                }, 
+                
               ],
         },
         {
-          type: 'dropdown',
-          label: 'Players',
-          items: [
-            {
-              label: 'Player Journals',
-              to: 'docs/photoshop/journals',
-            },
-            {
-              label: 'Wax Seals',
-              to: 'docs/photoshop/wax-seals',
-            },
-            {
-              label: 'Coins',
-              to: 'docs/photoshop/coins',
-            },
-            {
-              label: 'Crests',
-              to: 'docs/photoshop/crest',
-            },
-            {
-              label: 'Banners',
-              to: 'docs/photoshop/banners',
-            },
-            {
-              label: 'Avatars',
-              to: 'docs/photoshop/avatars',
-            },
-            {
-              label: 'Scrollcase',
-              sublabel: 'Scrolls and letters',
-              to: 'docs/photoshop/scrollcase',
-            },
-            {
-              label: 'Posters & Notices',
-              to: 'docs/photoshop/posters',
-            },
-            {
-              label: 'WoW Emojis',
-              to: 'docs/photoshop/wow-emoji',
-            },
-          ]
-        },
-        {
-          type: 'dropdown',
-          label: 'Warcraft',
-          items: [
-            {
-              label: 'Warcraft Resources',
-              to: 'docs/warcraft/intro',
-            },
-            {
-              label: 'WoW Logos',
-              to: 'docs/photoshop/wow-logo',
-            },
-            {
-              label: 'WoW Emojis',
-              to: 'docs/photoshop/wow-emoji',
-            },
-            {
-              label: 'Event Cards',
-              to: 'docs/warcraft/event-cards',
-            },
-            {
-              label: 'Discord Event Banner',
-              to: 'docs/photoshop/discord-banner',
-            },
-            {
-              label: 'Warcraft Conquest',
-              to: 'Conquest',
-            }
-              ],
-            },
-            {
               type: 'dropdown',
               label: 'Settings',
               items: [
@@ -225,6 +97,14 @@ module.exports = {
                 {
                   label: 'Silver Legacy',
                   to: 'docs/setting/silver-legacy',
+                },
+                {
+                  label: 'Exalted',
+                  to: 'docs/exalted/resources',
+                },
+                {
+                  label: 'World of Darkness',
+                  to: 'docs/w-o-d/intro',
                 },
                   ],
                 },
@@ -301,8 +181,8 @@ module.exports = {
           //  'https://github.com/facebook/docusaurus/edit/master/website/',
         
         admonitions: {
-            tag: ':::',
             keywords: ['note', 'tip', 'info', 'caution', 'danger', 'conquest', 'dungeon', 'exalted', 'gamerchic', 'homebrew', 'shadowrun', 'sonceri', 'wod'],
+            extendDefaults: true,
         },
       },
         blog: {
@@ -314,8 +194,8 @@ module.exports = {
           //editUrl:
           //  'https://github.com/facebook/docusaurus/edit/master/website/blog/',
           admonitions: {
-            tag: ':::',
             keywords: ['note', 'tip', 'info', 'caution', 'danger', 'conquest', 'dungeon', 'exalted', 'gamerchic', 'homebrew', 'shadowrun', 'sonceri', 'wod'],
+            extendDefaults: true,
           },
         },
         theme: {

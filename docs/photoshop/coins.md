@@ -10,14 +10,12 @@ You can create these for fantasy and sci fi, World of Darkness, World of Warcraf
 
 Some of the new coins have looks, colors, and names based on Warcraft ores, nations, and locations! More to come!
 
-:::sonceri Fonts, Brushes, and Editors
-You may need fonts used by these PSD files. Download and install fonts used in many of these PSD files. You can download and install the fonts from this zip file: [wow-fonts.zip](https://drive.google.com/file/d/1-NhzLG83iGJ0gdTmmPVSGjt9X8lTrZDw/view?usp=sharing).
-
-This file can be opened and edited in any art application that opens PSD. I highly recommend Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can use any application that opens a PSD file, but you will lose embossing and shadows that are achieved with layer effects.
+:::gamerchic Resources & Editors
+Need fonts, brushes, or info on best applications to use these files? See [Graphic Basics](/docs/photoshop/basics).
 :::
 
 :::sonceri Helpful Request for the Artist
-All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates. You can link to this page. Thank you so very much! 
+All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 
 ## Download and Build

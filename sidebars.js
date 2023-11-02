@@ -15,34 +15,40 @@ module.exports = {
 
   // But you can create a sidebar manually
   
-  games: [
-    {
-      type: 'category',
-      label: 'Graphics and Guides',
-      link: {type: 'doc', id: 'intro'},
-      items: [
-        'photoshop/fonts-brushes',
+  graphics: [
+
+    'intro',
+    'photoshop/basics',
         'photoshop/coins',
         'photoshop/wax-seals',
-        'photoshop/crest',
-        'photoshop/banners',
-        'photoshop/wow-logo',
-        'photoshop/discord-banner',
         'photoshop/avatars',
-        'photoshop/event-maps',
+        'photoshop/wow-emoji',
+    {
+      type: 'category',
+      label: 'Banners and Crests',
+      link: {
+        type: 'doc',
+        id: 'photoshop/banner-intro',
+      },
+      items: [
+        'photoshop/banners',
+        'photoshop/discord-banner',
+        'photoshop/wow-logo',
+        'photoshop/crest'
       ]
     },
     {
-          type: 'category',
-          label: 'Event Guides',
-          link: {type: 'doc', id: 'events-campaigns'},
-          items: [
-            'boss',
-            'investigations',
-            'stealth',
-            'horror',
-            'onepage'
-          ]
+      type: 'category',
+      label: 'Event and Loot Cards',
+      link: {
+        type: 'doc',
+        id: 'photoshop/cards-intro',
+      },
+      items: [
+        'photoshop/event-maps',
+        'warcraft/event-cards',
+        'warcraft/boss-item-cards'
+      ]
     },
     {
       type: 'category',
@@ -68,19 +74,52 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Warcraft Resources',
+      label: 'Vehicle Battles',
       link: {type: 'doc', id: 'warcraft/intro'},
       items: [
-        'photoshop/wow-emoji',
         'warcraft/token',
         'warcraft/capture-assets',
         'warcraft/simple-token',
         'warcraft/create-ship',
         'warcraft/squad-token',
-        'warcraft/event-cards',
-        'warcraft/boss-item-cards'
+        
       ],
     },
+    
+    
+  ],
+  warcraft: [
+    {
+      type: 'category',
+      label: 'DM Guides',
+      link: {type: 'doc', id: 'events-campaigns'},
+      items: [
+        'boss',
+        'investigations',
+        'stealth',
+        'horror',
+        'onepage'
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Magisterium WoW Setting',
+      items: [
+      'setting/astral-star',
+      'setting/elemental-scales',
+      'setting/endless-scrolls',
+      'setting/silver-legacy',
+      'setting/infinite-obelisk',
+      'setting/veiled-eye',
+      {
+        type: 'link',
+        label: 'Magisterium',
+        href: '/Magisterium',
+      },
+    ]
+    },
+  ],
+  settings: [
     {
       type: 'category',
       label: 'Exalted',
@@ -120,23 +159,6 @@ module.exports = {
         label: 'Vampire Domains',
         items: ['w-o-d/domains', 'w-o-d/create-domain', 'w-o-d/merits-flaws', 'w-o-d/domain-rules', 'w-o-d/example-domain'],
       }
-    ]
-    },
-    {
-      type: 'category',
-      label: 'Magisterium WoW Setting',
-      items: [
-      'setting/astral-star',
-      'setting/elemental-scales',
-      'setting/endless-scrolls',
-      'setting/silver-legacy',
-      'setting/infinite-obelisk',
-      'setting/veiled-eye',
-      {
-        type: 'link',
-        label: 'Magisterium',
-        href: '/Magisterium',
-      },
     ]
     },
   ],

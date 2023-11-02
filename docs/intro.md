@@ -26,3 +26,4 @@ A fantastic yet typical scenario played out so many times in games. How do you t
 | [**World of Darkness**](/docs/w-o-d/intro) | Find resources and campaign information for games including Vampire, Werewolf, and more.|
 
 </div>
+

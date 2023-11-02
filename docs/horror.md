@@ -26,7 +26,8 @@ This guide can be used for MMO-RPG in-game events, tabletop games, LARPs, and mo
 If a bit of information or example scene may be too dark, it will be hidden in an option to click and expand.
 
 <details closed>
-<summary>Deeper Horror
+<summary>
+Deeper Horror
 </summary>
 This is an example of hidden content to watch for.
 </details>
@@ -97,7 +98,8 @@ You can find a ton of incredible sources for inspiration. Here are just a few:
 * Other ideas: Myths and legends, historic events (real or in-game), Cthulhu video games, Sunless Sea
 
 <details closed>
-<summary>Some Dark Videos
+<summary>
+Some Dark Videos
 </summary>
 
 Convert or die... Chronicles of Riddick
@@ -337,7 +339,8 @@ In this example, using this video of ambience and movie still from Crimson Peak 
 * **Aspect of horror**: Corruption and madness, the sacrifices for saving a child have pushed the lady of the house into dark magics and madness
 
 <details closed>
-<summary>Expand to read the story.
+<summary>
+Expand to read the story.
 </summary>
 
 The letter arrived in the passing of days to each of the company. Crisp night-inked script itched across fine bone-white parchment with hints of pressed flower, a scent of orchid and sea-- it spoke of refinement, greed, and a woman. When the call to war lead us to distant shores, we aided the Lord of Ravenhill Manor to safeguard the populace and deal with constant incursions of a witchly sort. Never once did we meet his beloved wife and child, only hearing of them from his fond memories.
@@ -378,7 +381,8 @@ In this example, using this video of darkness sinister mix as inspiration. The [
 * **Aspect of horror**: Bloodbath of death, alien presence
 
 <details closed>
-<summary>Expand to read the story.
+<summary>
+Expand to read the story.
 </summary>
 
 *Athul nak'vach'thurl... Mua'tollvex... Heralds fall upon the mark... Accept our gift...*

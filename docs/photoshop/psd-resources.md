@@ -1,10 +1,17 @@
 ---
-title: Fonts and Brushes
+title: Graphic Basics
 hide_table_of_contents: true
-id: fonts-brushes
+id: basics
 ---
 
-Sometimes dungeon masters and campaign groups need some graphics to help promote, plan, and liven up their events. These resources are Photoshop files ![PSD](/img/psd.png) to download, edit, and use!
+Graphics can bring life to a table top game, VTT run virtual game, Warcraft campaign, and other types of events. These resources include the following file types to quickly craft unique graphics:
+
+* Photoshop files ![PSD](/img/psd.png) for coins, wax seals, event cards, Discord banners, and more
+* Google Slides for journals, scrolls, letters, and maps
+
+## Image Editors
+
+Photoshop .PSD files can be opened and edited in any art application that opens .PSD. Some of the most popular and recommended are Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). The files may include layer effects for text, drop shadows, bevel and embossing that will break with applications like GIMP, PaintToolSai, and Clip Studio Paint.
 
 ## Fonts
 

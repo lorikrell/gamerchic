@@ -12,11 +12,11 @@ This file can be opened and edited in any art application that opens PSD. I high
 :::
 
 :::sonceri Fonts and Brushes
-If you want to add special effects, add text, or grunge up the seals, download and install fonts and brushes. See [Fonts and Brushes](psd-resources.md).
+If you want to add special effects, add text, or grunge up the seals, download and install fonts and brushes. See [Graphic Basics](psd-resources.md).
 :::
 
 :::sonceri Helpful Request for the Artist
-All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates. You can link to this page. Thank you so very much! 
+All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 
 ## Download PSD Files
