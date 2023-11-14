@@ -57,6 +57,10 @@ Download Photoshop files!
 
 ![Square](/img/resources/square-seals.png)
 
+*Shield Seals*
+
+![Shield](/img/resources/shield-seals.png)
+
 ## Get an Icon
 
 Before creating a seal, you will need an icon, clipart, or symbol. This should have a transparent background.
