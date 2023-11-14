@@ -90,9 +90,7 @@ It's time to create your wax seal. These instructions will use the new round sea
 
     ![Wax Seals](/img/resources/wow-seal2.jpg)
 
-    :::sonceri About Foils
     Metal effects can really highlight your icon. But if you don't want one, that's ok! You can hide all of those layers. Just make sure the icon you paste in is fully black in color.
-    :::
 
 1. Show 1 seal folder. Hide the others. This is the seal you will make. Then expand the PICK COLORS folder. You can browse through the folders and options, showing and hiding patterns and colors. These layers are like stacking transparencies, so they will show through to the next. For best results, only have 1 showing. But you can try many! 
 
@@ -100,9 +98,7 @@ It's time to create your wax seal. These instructions will use the new round sea
 
     ![Wax Seals](/img/resources/wow-seal3.jpg)
 
-    :::sonceri Add new patterns!
-    You can also add your own! Find a pattern you like, copy and paste it into those layer groups. Change the layer style from Normal to options like Multiply, Screen, Lighten, and so on till you find a look you like. It will automatically mask to fill just the wax seal.
-    :::
+    You can also add your own patterns! Find a pattern you like, copy and paste it into those layer groups. Change the layer style from Normal to options like Multiply, Screen, Lighten, and so on till you find a look you like. It will automatically mask to fill just the wax seal.
 
 1. For **ROUND** seals, you have options for additional rings for the wax art and designs to show under the seal including golden leaves and filigree and magic circles. Show and hide the under options in UNDER DESIGNS and RUNE CIRCLES.
 
@@ -113,6 +109,8 @@ It's time to create your wax seal. These instructions will use the new round sea
 ## Seals
 
 Click to zoom in. These seals are much larger than viewed below. Feel free to save and use these images!
+
+### General Seals
 
 <div class="info-plain">
 
