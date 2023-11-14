@@ -40,6 +40,7 @@ Download Photoshop files!
 | [Round Wax Seals zip](https://drive.google.com/file/d/1iU0o4BgMJzsvD7EcVkfKULD_Gw79uO-u/view?usp=sharing) | 3 round options, arched, and hex |
 | [Oval Wax Seals zip](https://drive.google.com/file/d/1tx-h6VR3hmY2gQVMB0d2uBViwf7qHiUv/view?usp=sharing) | 3 ovals, heart |
 | [Square Wax Seals zip](https://drive.google.com/file/d/1VEBra-1lcR9hVh3UmmEgLKOlsKX8lL4-/view?usp=sharing) | square, diamond, and rectangle |
+| [Shield Wax Seals zip](https://drive.google.com/file/d/1V2QEq-M8WPe8JnDZf0_3elgzuoNUTxL3) | new shield with full, left, right, and top triangle sections |
 | [Original Sonceri Seals](https://drive.google.com/file/d/1wpRWY5fYhMen82PUA114-Zll8WM_qBVo/view?usp=sharing) | A few shapes, colors, and wax options with a bunch of icon examples to choose from. You can add your own. This set requires additional steps to use and not as many options as the new ones. |
 
 </div>
@@ -101,6 +102,8 @@ It's time to create your wax seal. These instructions will use the new round sea
 
 1. For **ROUND** seals, you have options for additional rings for the wax art and designs to show under the seal including golden leaves and filigree and magic circles. Show and hide the under options in UNDER DESIGNS and RUNE CIRCLES.
 
+1. For **SHIELD** seals, you have sections for the full shield, top triangle, left, and right. The template includes some patterns to help see where each section is!
+
 1. Save as a *.png*. Click File > Export > Quick Export as a PNG. You can upload the image to Discord, Google docs, art galleries like Imgur, and much more!
 
 ## Seals
@@ -111,6 +114,7 @@ Click to zoom in. These seals are much larger than viewed below. Feel free to sa
 
 | | | | |
 |--|--|--|--|
+| ![Seal](/img/resources/seals/shield1.png) |![Seal](/img/resources/seals/shield2.png) |![Seal](/img/resources/seals/shield3.png) |![Seal](/img/resources/seals/shield4.png) |
 |![Seal](/img/resources/seals/ebon.png) |![Seal](/img/resources/seals/sanlayn2.png) |![Seal](/img/resources/seals/scarlet.png) |![Seal](/img/resources/seals/troll.png) |
 |![Seal](/img/resources/seals/design1.png) |![Seal](/img/resources/seals/night-fae.png) |![Seal](/img/resources/seals/ninja.png) |![Seal](/img/resources/seals/ff-scion.png) |
 |![Seal](/img/resources/seals/ff-scion2.png) |![Seal](/img/resources/seals/star-moon.png) |![Seal](/img/resources/seals/flair.png) |![Seal](/img/resources/seals/belf.png) |
