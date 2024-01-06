@@ -47,7 +47,8 @@ module.exports = {
       items: [
         'photoshop/event-maps',
         'warcraft/event-cards',
-        'warcraft/boss-item-cards'
+        'warcraft/boss-item-cards',
+        'photoshop/announcements',
       ]
     },
     {
