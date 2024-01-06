@@ -7,7 +7,7 @@ description: Book options for your tech journals and notes. Google Slides journa
 
 Engineers, designers, and the like need special pages to document plans, schematics, blueprints, and more. Pages include a technical hex for maps and planning, blueprints, and the like. Many others are open with coins, bookmarks, a quill, and more.
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 

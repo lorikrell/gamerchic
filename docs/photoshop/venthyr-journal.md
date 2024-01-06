@@ -7,7 +7,7 @@ description: Find yourself a journal of blood, nightmare, and the wrath of the V
 
 The darkness of the soul is a tithe, laid before altars of the dead and beheld of the damned. Enjoy these parchments of shade to collect your thoughts and dreams. Or perhaps to chart the destinies of those you shall tear from the moorings of their life. 
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 

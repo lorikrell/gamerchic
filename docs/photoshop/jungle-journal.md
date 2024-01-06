@@ -7,7 +7,7 @@ description: Find yourself a journal to weather adventures in golden ruins and p
 
 To sail the seas wide and deep, ye need little else than a blade and hunger fer adventure. Seek ye to ship and crew, pirate ta merchant. They be needin' all sorts to seek fame and fortune. But be wary what ye find in the jungles. Ruins hold more traps than wonders. But the prizes won, who can turn away? So keep careful note in these here pages.
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 

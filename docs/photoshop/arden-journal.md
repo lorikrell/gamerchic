@@ -6,7 +6,7 @@ description: Find yourself a journal of captured stars and dreams inspired by Ar
 
 Harken unto the glimmering forests, breath caught betwixt the last and the first! The ageless fallen that tend the groves... The newly slumbered awaiting their time to rise... Numerous paths wander through the glades, dappled in star light and remembrance. Wander these far places, or recall them in freams of old.
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 

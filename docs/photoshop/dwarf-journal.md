@@ -7,7 +7,7 @@ description: Find yourself a journal of metal and parchment pages inspired by dw
 
 From the mountains, hills, and wide world, the dwarven folk hold true to a craftsman's spirit and will of mithril. To chart the life and times of our stone heralded brethren, this journal provides a series of metal and parchment pages sparked by their ancient ways. Runes, coins, seals, and more highlight the captured histories you document.
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 

@@ -9,7 +9,7 @@ A great way to mix event information and locations is to add maps with your loca
 Need fonts, brushes, or info on best applications to use these files? See [Graphic Basics](/docs/photoshop/basics).
 :::
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free of charge to download and open for anyone to use. Creating art and resources takes a great deal of time, effort, artistic work, and more. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art).
 :::
 

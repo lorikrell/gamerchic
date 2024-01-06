@@ -7,7 +7,7 @@ description: Find yourself a journal of dreams and magic of the flights. Google 
 
 Welcome to the Dragon Isles! Mysteries abound for those new to the shores, and dragons returning at last to their home. Enjoy these pages capturing scenes from the isles and magic of the flights. Collect your thoughts and dreams, adventures and studies, and archeology finds.
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 

@@ -7,7 +7,7 @@ description: Free Warcraft emojis and stickers for Discord.
 
 Brighten your Discord with custom Warcraft emojis and stickers, all from one pack! This series is drawn by me, Sonceri of Moon Guard US server/[lorioliodraws](https://twitter.com/lorioliodraws) on Twitter. Each file is a square 400x400px, capable of being added as a sticker or emoji to your Discord server. These are all 100% hand drawn by me, Sonceri.
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 

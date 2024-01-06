@@ -13,7 +13,7 @@ Journal images are 1920 x 1080, a popular wallpaper size. Click images to zoom i
 To save, right-click any image and select **Save image as...**
 :::
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 

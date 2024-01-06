@@ -13,7 +13,7 @@ This avatar template (.PSD) gives you the power to add art, select a ring border
 This file can be opened and edited in Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free). You can open this in Gimp and Clip Studio, but the layer effects will be lost.
 :::
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 

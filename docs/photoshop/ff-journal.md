@@ -7,7 +7,7 @@ description: Find yourself a journal of sights beheld in the lands of Eorzea and
 
 The call of crystal sings in our minds, hearts blazing in promise, and war ever dodged by the deft. Many stories walk the lands, rise and fall in the halls of adventures and lords. By the will of magic and arms, hymn and steps, the chill of stars and heat of earth, do we make this stand.
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 

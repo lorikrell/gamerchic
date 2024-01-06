@@ -14,7 +14,7 @@ Create custom banners for your world, characters, guilds, armies, adventuring pa
 Need fonts, brushes, or info on best applications to use these files? See [Graphic Basics](/docs/photoshop/basics).
 :::
 
-:::sonceri Helpful Request for the Artist
+:::sonceri Helpful Request from the Artist
 All of these resources are free! Creating art and resources takes a great deal of time and effort. As a helpful gesture, feel free to note you used Sonceri Resources and Templates at [sonceri.art](https://sonceri.art/). Thanks!
 :::
 
