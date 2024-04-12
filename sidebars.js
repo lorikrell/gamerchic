@@ -70,6 +70,7 @@ module.exports = {
         'photoshop/jungle-journal',
         'photoshop/alterac-journal',
         'photoshop/scrollcase',
+        'photoshop/parchments',
         'photoshop/posters',
       ]
     },

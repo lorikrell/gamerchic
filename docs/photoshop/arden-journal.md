@@ -1,6 +1,7 @@
 ---
 title: Ardenweald Journal
 id: arden-journal
+hide_table_of_contents: true
 description: Find yourself a journal of captured stars and dreams inspired by Ardenweald. Google Slides journal series.
 ---
 

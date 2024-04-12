@@ -1,6 +1,7 @@
 ---
 title: Adventurer Journal
 id: adventure-journal
+hide_table_of_contents: true
 description: A simple book to track your journeys through the world, pages include coins and fine additions. Google Slides journal series.
 ---
 
