@@ -20,7 +20,7 @@ Click and save these images to add to your documents!
 |--|--|--|--|
 |![parchment](/img/parchment/Edged-Brown.png) |![parchment](/img/parchment/Edged-Dwarven.png) |![parchment](/img/parchment/Edged-Enchanted.png) |![parchment](/img/parchment/Edged-FlowerGold.png) |
 |![parchment](/img/parchment/Edged-FlowerSilver.png) |![parchment](/img/parchment/Parchment-Bloody.jpg) |![parchment](/img/parchment/Parchment-Dragonflight.jpg) |![parchment](/img/parchment/Parchment-Ghostly.jpg) |
-|![parchment](/img/parchment/Parchment-Gray.jpg) |![parchment](/img/parchment/Parchment-Magics.jpg) |![parchment](/img/parchment/Parchment-Nightfall.jpg) |![parchment](/img/parchment/Parchment-Plain.jpg) |
+|![parchment](/img/parchment/Parchment-Gray.jpg) |![parchment](/img/parchment/Parchment-Magics.jpg) |![parchment](/img/parchment/Parchment-NightFall.jpg) |![parchment](/img/parchment/Parchment-Plain.jpg) |
 |![parchment](/img/parchment/Parchment-Stars.jpg) |![parchment](/img/parchment/Parchment-Storms.jpg) |![parchment](/img/parchment/Parchment-Bloodelf.jpg) |![parchment](/img/parchment/Parchment-Highelf.jpg) |
 |![parchment](/img/parchment/Parchment-Voidelf.jpg) |![parchment](/img/parchment/Parchment-Nightborne.jpg) | | |
 
