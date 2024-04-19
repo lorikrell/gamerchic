@@ -222,6 +222,36 @@ function Conquest() {
         <div className='container'>
         <div className='row '><div className="col col-md-12">
         <div className="center">
+        <img src="img/magesterium/logo-remnants-of-creation.png" />
+          </div></div></div>
+        <div className='row'>
+        <div className="col col-md-6">
+
+        <p>It has been some months since the gathering of forces now called the Fellowship of Azeroth sought the Azure Span. When last they heeded the call of the Silver Legacy and Dragonscale Expedition, they uncovered new relics and artifacts to collect throughout the lands, claimed new knowledge of a forgotten era, and compiled everything for investigation at the Three Falls camp. However, the hunger and need of the Sundered Flame also knew of the collection, stealing away with key items to aid in their battles for Neltharion's deeply hidden labs.</p>
+        <p>Battled back, the Sundered Flame left the battles for the skies, taking their injured and aching leader Eternak away to the Forbidden Reach and beyond. Despite the turn of events, the many reclaimed these powerful artifacts and settled with the Silver Legacy to continue the investigation efforts. For months, they in league with the Dragonscale Expedition have sought the secrets of these items and the respect of Valdrakken. It seems they have been quite successful!</p>
+        <p>Now a new age of exploration and learning has come! While the explorers and archeologists have high hopes and bright eyes for the future, those of the Fellowship know where great success comes, the hunger of other forces stirs. Will the unknown pirate lords make themselves known again? Have bandits laid in wait, plotting revenge? Will scholars find themselves in unfortunate situations in the wilds of the Span?</p>
+        <p>The Silver Legacy on behalf of the new Azerothian Archives welcome you to a new journey into learning and adventure! <strong>STARFALL: Remnants of Creation</strong> is the third campaign in the exploration adventures of the Fellowship of Azeroth in Dragonflight! We welcome everyone to a slightly different experience and schedule with hopes of expanding over time.</p>
+        
+        <p>This is part 3 to the Starfall campaign, Remnants of Creation!</p>
+
+        <ul>
+          <li><strong>When:</strong> Arc 1 Feb 11-13 AND Arc 2 Feb 18-20</li>
+        <li><strong>Where:</strong> Azure Span, Zaralak Caverns, and other new places</li>
+        <li><strong>Lead Storytellers:</strong> Sonceri, Arathyr, Amasira, Gredlick</li>
+        </ul>
+        <img src="img/coth/hardmode.png" />
+        <p>We support the <a href="https://docs.google.com/document/d/1dv7NzMgNHK95Qmop8ffAVjhR-458DbYALqcqk-J0JOE/edit#heading=h.nt3aaztb7jx2" target="_blank">Opt In Hardmore</a> and will be using the new <a href="https://docs.google.com/document/d/1dv7NzMgNHK95Qmop8ffAVjhR-458DbYALqcqk-J0JOE/edit" target="_blank">FOA D20 Rules</a> with Expertise. The events will also include a vehicle battle using the squad adventure system.</p>
+        </div>
+        <div className="center">
+        <img src="img/magesterium/starfall3.jpg" /></div>
+       </div>
+
+       </div></section>
+
+      <section className='spacer'>
+        <div className='container'>
+        <div className='row '><div className="col col-md-12">
+        <div className="center">
         <img src="img/magesterium/logo-awakened-flame.png" />
           </div></div></div>
         <div className='row'>
