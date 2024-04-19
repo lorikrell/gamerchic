@@ -83,6 +83,10 @@ module.exports = {
                   label: 'Vehicle Battles',
                   to: 'docs/warcraft/intro',
                 },
+                {
+                  label: 'Spiritboard',
+                  to: 'spiritboard',
+                },
                 
               ],
         },
@@ -101,6 +105,30 @@ module.exports = {
                 {
                   label: 'Exalted',
                   to: 'docs/exalted/resources',
+                },
+                {
+                  label: 'Warcraft Conquest',
+                  to: 'Conquest',
+                },
+                {
+                  label: 'WC In Deaths Shadow',
+                  to: 'DeathShadow',
+                },
+                {
+                  label: 'WC Tropic Sunder',
+                  to: 'TropicSunder',
+                },
+                {
+                  label: 'WC Thornwake',
+                  to: 'thornwake',
+                },
+                {
+                  label: 'WC Everfrost',
+                  to: 'everfrost',
+                },
+                {
+                  label: 'WC Lichfall',
+                  to: 'lichfall',
                 },
                 {
                   label: 'World of Darkness',
