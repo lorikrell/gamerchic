@@ -239,7 +239,6 @@ function Conquest() {
         <li><strong>Where:</strong> Azure Span, Zaralak Caverns, and other new places</li>
         <li><strong>Lead Storytellers:</strong> Sonceri, Arathyr, Amasira, Gredlick</li>
         </ul>
-        <img src="img/coth/hardmode.png" />
         <p>We support the <a href="https://docs.google.com/document/d/1dv7NzMgNHK95Qmop8ffAVjhR-458DbYALqcqk-J0JOE/edit#heading=h.nt3aaztb7jx2" target="_blank">Opt In Hardmore</a> and will be using the new <a href="https://docs.google.com/document/d/1dv7NzMgNHK95Qmop8ffAVjhR-458DbYALqcqk-J0JOE/edit" target="_blank">FOA D20 Rules</a> with Expertise. The events will also include a vehicle battle using the squad adventure system.</p>
         </div>
         <div className="center">
