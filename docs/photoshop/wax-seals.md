@@ -202,12 +202,14 @@ Click to zoom in. These seals are much larger than viewed below. Feel free to sa
 
 </div>
 
-### Valdrakken Seals
+### Dragonflight Seals
 
 <div class="info-plain">
 
 | | | | |
 |--|--|--|--|
+|![Seal](/img/resources/seals/dragonscale-expedition.png) |![Seal](/img/resources/seals/explorers-league.png) |![Seal](/img/resources/seals/reliquary.png) |![Seal](/img/resources/seals/black-flight.png) |
+|![Seal](/img/resources/seals/blue-flight.png) |![Seal](/img/resources/seals/green-flight.png) |![Seal](/img/resources/seals/red-flight.png) |![Seal](/img/resources/seals/bronze-flight.png) |
 |![Seal](/img/resources/seals/valdrakken-super1.png) |![Seal](/img/resources/seals/valdrakken-super2.png) |![Seal](/img/resources/seals/valdrakken-super3.png) |![Seal](/img/resources/seals/valdrakken-super4.png) |
 |![Seal](/img/resources/seals/valdrakken-super5.png) |![Seal](/img/resources/seals/valdrakken-super6.png) | | |
 

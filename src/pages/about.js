@@ -38,7 +38,7 @@ function SoncGallery() {
         <p><a href="https://ko-fi.com/sonceriart" target="_blank"><img src="img/kofi.png"/> Sonceri on Ko-fi</a><br/>
         <a href="https://lorikrell.myportfolio.com/work" target="_blank"><img src="img/portfolio.png"/> Full Online Portfolio</a><br/>
         <a href="https://sonceri-mg.tumblr.com/" target="_blank"><img src="img/tumblr.png"/> Sonceri on Tumblr</a><br/>
-        <a href="https://twitter.com/lorioliodraws" target="_blank"><img src="img/twitter.png"/> Loriolio on Twitter/X</a><br/>
+        <a href="https://twitter.com/lorioliodraws" target="_blank"><img src="img/twitter.png"/> Lorioliodraws on Twitter/X</a><br/>
         <img src="img/discord.png"/> loriolio on Discord</p>
         </div>
         <div className="center">
