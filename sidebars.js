@@ -19,10 +19,10 @@ module.exports = {
 
     'intro',
     'photoshop/basics',
-        'photoshop/coins',
-        'photoshop/wax-seals',
-        'photoshop/avatars',
-        'photoshop/wow-emoji',
+    'photoshop/coins',
+    'photoshop/wax-seals',
+    'photoshop/avatars',
+    'photoshop/wow-emoji',
     {
       type: 'category',
       label: 'Banners and Crests',
@@ -76,7 +76,18 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Vehicle Battles',
+      label: 'War of Legends',
+      link: {type: 'doc', id: 'warcraft/war-of-legends'},
+      items: [
+        'warcraft/create-units',
+        'warcraft/select-perks',
+        'warcraft/war-rules',
+        'warcraft/war-dm',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Vehicle Battle Tokens',
       link: {type: 'doc', id: 'warcraft/intro'},
       items: [
         'warcraft/token',

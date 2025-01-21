@@ -68,6 +68,10 @@ module.exports = {
           label: 'Game Resources',
           items: [
               {
+                label: 'War of Legends',
+                to: 'docs/warcraft/war-of-legends',
+              },
+              {
                   label: 'Graphics and Guides',
                   to: 'docs/intro',
                 },
