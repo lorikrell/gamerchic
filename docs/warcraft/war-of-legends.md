@@ -19,19 +19,25 @@ Sonceri wrote and play tested these rules. If you have questions, have suggestio
 
 ## What are vehicle battles?
 
-Typically you may have heard of these events as Vehicle Battles through Warcraft Conquest. The original event allowed players to create different "vehicles" with stats and a graphic token, including tanks, planes, ships, large beasts, and squads like knights or cavalry. These events help players engage in mass combat battles like wars on sea, in air, and over land:
+Typically you may have heard of these events as Vehicle Battles through Warcraft Conquest. The original event allowed players to create different "vehicles" with stats and a graphic token, including tanks, planes, ships, large beasts, and squads like knights or cavalry. These events help players engage in mass combat battles like wars on sea, in air, and over land.
+
+**War of Legends** expands the concept to mass combat and storytelling offering perks and abilities for different kinds of missions, wars, infiltration, and big boss battles. Perks and abilities include options for damage, healing, protection, and support. Each ability have charges and can be used in different ways, on your turn or in response to attacks. 
+
+You can run anything in War of Legends!
 
 * Big battles with many enemies, mini bosses, and main bosses.
-* Missions seeking specific goals on the map, may include skills and attacks.
+* Missions seeking specific goals on the map, using skills and the environment to spy on enemies, claim artifacts, investigate crash sites, create and protect teleportation portals, cleansing rituals, and more!
 * Derbies for comedic battles, last man standing wins, chariot races, and so on.
 * Tournaments for exhibitions of battle and general PVP.
 
-War of Legends expands the concept to mass combat and storytelling offering perks and abilities for different kinds of missions, wars, infiltration, and big boss battles. Perks and abilities include options for damage, healing, protection, and support. Each ability have charges and can be used in different ways, on your turn or in response to attacks. 
-
 ## Where do you use these rules?
-Typically you can run these events through Discord for posting in a channel, like writing an interactive rp thread or novel. You can also use these rules directly in game using mounts and locations in game like a ship or defensive wall. 
+Typically you can run these events through Discord for posting in a channel, like writing an interactive rp thread or novel. You can also use these rules directly in-game using mounts and locations like a ship or defensive wall. 
 
 A Dungeon Master (DM) lead uses graphic apps like Photoshop, Affinity Designer, and [Photopea](https://www.photopea.com/) online editor (Free) to layout the location, move tokens, and track health. You can also use virtual tabletops like Roll20, which can also be streamed through Discord! Additional DMs help run the enemy units, reacting to attacks and battling players.
+
+:::gamerchic It's easy!
+Just in case you think you need to be a graphic mastermind or artist, you don't! You can just take a screenshot from in-game, make a couple screenshot tokens for players, and have fun with Roll20 (free) or even Google Drawing! I'll be adding sections on Roll20, making simple tokens, and more soon!
+:::
 
 ## Creating Units
 A unit includes a Health Pool (HP), an Action Roll for attacks and healing, perks and abilities, damage types, damage weaknesses, and damage resistances. This creates an easy way for a player to know what they can do, options during the battles, and strengths and weakness for intense strategizing and storytelling. The system supports heavy min maxer players and creative storybuilders.
